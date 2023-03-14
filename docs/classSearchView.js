@@ -1,0 +1,26 @@
+var classSearchView =
+[
+    [ "SearchView", "classSearchView.html#a268fddf1f8f49d5d9b4ec732ce5f2a9f", null ],
+    [ "~SearchView", "classSearchView.html#a4cf20aa6d09ca06247e86087176a1952", null ],
+    [ "addToLayout", "classSearchView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
+    [ "create", "classSearchView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
+    [ "createAndAddToLayout", "classSearchView.html#a93a9174f4de6b909706465a61949bf83", null ],
+    [ "createWidgetWrapper", "classSearchView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
+    [ "findFulltext", "classSearchView.html#a7d7f41d9b48e90751904c81ce8942943", null ],
+    [ "getController", "classSearchView.html#a817eb8464f68f0d89ce721cc4cdfe3a0", null ],
+    [ "getName", "classSearchView.html#aba5e28d13ed35ec5b833ecb0fa251267", null ],
+    [ "getQuery", "classSearchView.html#a522c06ffe5e32a8e600bf7fbb360256c", null ],
+    [ "getViewLayout", "classSearchView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
+    [ "getWidgetWrapper", "classSearchView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
+    [ "refreshView", "classSearchView.html#a47d8e2f48a7e71a9a481df791826b0e6", null ],
+    [ "setAutocompletionList", "classSearchView.html#a90810cc703fdaaa968a6a72be324525c", null ],
+    [ "setComponent", "classSearchView.html#a4148a46723f9be0dfdf36034d1b02cb4", null ],
+    [ "setEnabled", "classSearchView.html#a9e9a72267df76d7a0206fbe4f2328e7d", null ],
+    [ "setFocus", "classSearchView.html#aca565e164a7690a53bd8780b282e1600", null ],
+    [ "setMatches", "classSearchView.html#ac575fce67ac4889b06d05fb557d946f6", null ],
+    [ "setWidgetWrapper", "classSearchView.html#a6400c84b3738fee7a3066698171547fe", null ],
+    [ "showDockWidget", "classSearchView.html#abce42d26620a80d229ed28f70b2dcd08", null ],
+    [ "m_component", "classSearchView.html#aea146311bfc8ade50aea47dce4795bb6", null ],
+    [ "m_viewLayout", "classSearchView.html#ab1a24bac93610fe8c726b14ce7f96e12", null ],
+    [ "m_widgetWrapper", "classSearchView.html#a8fab697987cb82172050bc8e20f8c541", null ]
+];

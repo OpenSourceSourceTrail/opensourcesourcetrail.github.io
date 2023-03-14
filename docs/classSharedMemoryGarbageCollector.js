@@ -1,0 +1,26 @@
+var classSharedMemoryGarbageCollector =
+[
+    [ "SharedMemoryGarbageCollector", "classSharedMemoryGarbageCollector.html#aa97d3c69407bcbb59892caea870b7dc1", null ],
+    [ "~SharedMemoryGarbageCollector", "classSharedMemoryGarbageCollector.html#a7dd0a17dc5a83de7a52fd4bb744717df", null ],
+    [ "createInstance", "classSharedMemoryGarbageCollector.html#abf670cec2e25f10f8b35a398e072da7a", null ],
+    [ "getInstance", "classSharedMemoryGarbageCollector.html#a587ec8dfb10d3a6638993083fe7146b5", null ],
+    [ "getMemoryName", "classSharedMemoryGarbageCollector.html#aa26ec85107ce8faa9a56a90313a1fdc6", null ],
+    [ "registerSharedMemory", "classSharedMemoryGarbageCollector.html#a12c023b9c7cd160ece8d76203e7192ee", null ],
+    [ "run", "classSharedMemoryGarbageCollector.html#a79d36cf48247c3f1e6e0c188c77006ea", null ],
+    [ "stop", "classSharedMemoryGarbageCollector.html#a34258f0bf5f0dd57e3987c1b6ffc441b", null ],
+    [ "unregisterSharedMemory", "classSharedMemoryGarbageCollector.html#a8c0f7ca199f6bdbdf92bf80e52a6b1b3", null ],
+    [ "update", "classSharedMemoryGarbageCollector.html#ad930a9a576894c0290079616cb1554e7", null ],
+    [ "m_loopIsRunning", "classSharedMemoryGarbageCollector.html#ac318fd3c951ec8999f07bec9041970a9", null ],
+    [ "m_memory", "classSharedMemoryGarbageCollector.html#a76fe90e81ce8512bbb20f9a22c70f3df", null ],
+    [ "m_removedSharedMemoryNames", "classSharedMemoryGarbageCollector.html#ac730b9fd80af6afaf1536c481b67ed7a", null ],
+    [ "m_sharedMemoryNames", "classSharedMemoryGarbageCollector.html#ae7fd58ff9c68ac6dd043f98052975c11", null ],
+    [ "m_sharedMemoryNamesMutex", "classSharedMemoryGarbageCollector.html#a89544c84320d2deb2f89366777b0581d", null ],
+    [ "m_thread", "classSharedMemoryGarbageCollector.html#a9865aa8cac34d6f59b1b324087e185b5", null ],
+    [ "m_uuid", "classSharedMemoryGarbageCollector.html#af0d449cbf286cf9fa8ab8b8c93642155", null ],
+    [ "s_deleteThresholdSeconds", "classSharedMemoryGarbageCollector.html#a8998c2c3a6c9feb03b4ba9ca6b6915db", null ],
+    [ "s_instance", "classSharedMemoryGarbageCollector.html#ab9ed3ac9d625c6ca4673e8397131a4a3", null ],
+    [ "s_instancesKeyName", "classSharedMemoryGarbageCollector.html#a1edf958186310d7cba512f7d46b4aaee", null ],
+    [ "s_memoryNamePrefix", "classSharedMemoryGarbageCollector.html#a843b8785dc63791e4097cec235005c9b", null ],
+    [ "s_timeStampsKeyName", "classSharedMemoryGarbageCollector.html#ad40749dad84041c847ade58f91e43bdb", null ],
+    [ "s_updateIntervalSeconds", "classSharedMemoryGarbageCollector.html#adfa056c3c77f9fdcbceafad605230bc5", null ]
+];

@@ -1,0 +1,45 @@
+var structSearchMatch =
+[
+    [ "CommandType", "structSearchMatch.html#a915da5d851abf3ab26c2e99f9a92859e", [
+      [ "COMMAND_ALL", "structSearchMatch.html#a915da5d851abf3ab26c2e99f9a92859ea492a4e145532bd7a89d73a25a80d0e90", null ],
+      [ "COMMAND_ERROR", "structSearchMatch.html#a915da5d851abf3ab26c2e99f9a92859ea5eaf548b8254d1d7e9c3d7b4fb651662", null ],
+      [ "COMMAND_NODE_FILTER", "structSearchMatch.html#a915da5d851abf3ab26c2e99f9a92859ea09a0fb37495fdc19985873bdc83b8409", null ],
+      [ "COMMAND_LEGEND", "structSearchMatch.html#a915da5d851abf3ab26c2e99f9a92859ea0f99a2c1c0263ef81663738014d496c5", null ]
+    ] ],
+    [ "SearchType", "structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bb", [
+      [ "SEARCH_NONE", "structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bba09f48c9a972b464d3c9af8459c6d77b1", null ],
+      [ "SEARCH_TOKEN", "structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bba6654d025ed45fb40ebc4b2cc59cb8b1e", null ],
+      [ "SEARCH_COMMAND", "structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bba25b7d25ed00522adc50e3c7fcb7161f6", null ],
+      [ "SEARCH_OPERATOR", "structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bbaa7ea5b1e74ead21639b6ce6c3afd9050", null ],
+      [ "SEARCH_FULLTEXT", "structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bbaa151de660c6015bb5ac67588500ae219", null ]
+    ] ],
+    [ "SearchMatch", "structSearchMatch.html#aa4f4102e85e6d9ca30b03dc0f6c46781", null ],
+    [ "SearchMatch", "structSearchMatch.html#ae22694d87c2d46d41be8c8160e40a49e", null ],
+    [ "createCommand", "structSearchMatch.html#ad967179074ac77a66d6d0996d72d9531", null ],
+    [ "createCommandsForNodeTypes", "structSearchMatch.html#a0ab419bfb5e06b5f6c1583654f3a13d2", null ],
+    [ "getCommandName", "structSearchMatch.html#a2ba82380b2fdc39c3f9a178adae3209e", null ],
+    [ "getCommandType", "structSearchMatch.html#a14ac4f0edc4254efc01eaf594c724c55", null ],
+    [ "getFullName", "structSearchMatch.html#aab72381055e608a5fc69d20c867f731a", null ],
+    [ "getSearchTypeName", "structSearchMatch.html#acc920f9716f68b60ee46d79e2fbf91f6", null ],
+    [ "getSearchTypeName", "structSearchMatch.html#a7635e8dd62912d3c7eb790950c8b64e6", null ],
+    [ "getTextSizeForSorting", "structSearchMatch.html#ac394bbb1b85f3c698deab04670b2eab2", null ],
+    [ "isFilterCommand", "structSearchMatch.html#a8e2ec84170f25a3a31e0a465a56da3bf", null ],
+    [ "isValid", "structSearchMatch.html#a16c39f4c2f78ed06ec68463916990ba4", null ],
+    [ "log", "structSearchMatch.html#a88af240fe5daf01b094a7d424c8ed5df", null ],
+    [ "operator<", "structSearchMatch.html#a77669d88dc87936abff0aa866c8fa184", null ],
+    [ "operator==", "structSearchMatch.html#aadab515be4881dc8b1525baa91b22974", null ],
+    [ "print", "structSearchMatch.html#a5d72f3b3383263e66fad716cf8518a08", null ],
+    [ "searchMatchesToString", "structSearchMatch.html#abce89a5a3f6a99a91b9d8c8287374e14", null ],
+    [ "FULLTEXT_SEARCH_CHARACTER", "structSearchMatch.html#a42601b15aa1c847c23fcfb8dc517e494", null ],
+    [ "hasChildren", "structSearchMatch.html#a5662faba637d02676184cbc217141e2e", null ],
+    [ "indices", "structSearchMatch.html#abbce8d6ff02950fe3ee9322eb337d780", null ],
+    [ "name", "structSearchMatch.html#a6e7977210de412eb1a378bfb452c9dfb", null ],
+    [ "nodeType", "structSearchMatch.html#a990d012a813f38ba5dbe5bda4b77c851", null ],
+    [ "score", "structSearchMatch.html#a11780c6040aeab6c810514036f8f2848", null ],
+    [ "searchType", "structSearchMatch.html#a317ba69b9320cb6786ba1b60e90ecd1d", null ],
+    [ "subtext", "structSearchMatch.html#a112a8b554976dbf0125417edf5fee738", null ],
+    [ "text", "structSearchMatch.html#acca1e14c4aad1836188cf4b23b452c98", null ],
+    [ "tokenIds", "structSearchMatch.html#a437d7fcee48e26ecaf08f75c20b72a09", null ],
+    [ "tokenNames", "structSearchMatch.html#acfe422f33bd9e3a32a15c6bbb237639d", null ],
+    [ "typeName", "structSearchMatch.html#a26ccf95f91ebd2907fa204d97f3bd8b0", null ]
+];

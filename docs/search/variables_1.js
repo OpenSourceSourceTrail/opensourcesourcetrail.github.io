@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['b_0',['b',['../classColor.html#aa19877ce718fce553d2c978437c1fa0c',1,'Color']]],
+  ['back_5fcol_1',['BACK_COL',['../classQtProjectWizardWindow.html#a0e531dc0395b7621d6c974e8a4302710',1,'QtProjectWizardWindow']]],
+  ['bezieredges_2',['bezierEdges',['../structGraphView_1_1GraphParams.html#a3f268e27c845378e84591a40a011ca5a',1,'GraphView::GraphParams']]],
+  ['bookmark_3',['bookmark',['../classMessageBookmarkActivate.html#a7fe6309b41a62d593359cdd567313ac9',1,'MessageBookmarkActivate']]],
+  ['bookmark_5fdb_5ffile_5fextension_4',['BOOKMARK_DB_FILE_EXTENSION',['../classProjectSettings.html#a03be45b195cd6a4e2152aba7aa7aeb76',1,'ProjectSettings']]],
+  ['bookmarkid_5',['bookmarkId',['../structStorageBookmarkedEdgeData.html#a986f3f2eeb8d55d3ece2bf47936c5007',1,'StorageBookmarkedEdgeData::bookmarkId()'],['../structStorageBookmarkedNodeData.html#a6b3cc5154350842852c43afc420032c1',1,'StorageBookmarkedNodeData::bookmarkId()']]],
+  ['bool_6',['bool',['../StorageAccessProxy_8cpp.html#ab6598b40e1879e6f02328b1990014104',1,'StorageAccessProxy.cpp']]],
+  ['border_7',['border',['../structQtCodeField_1_1AnnotationColor.html#a6ed8eb3b24c9739f8902d9058d4b1769',1,'QtCodeField::AnnotationColor::border()'],['../structGraphViewStyle_1_1NodeColor.html#a224ca764d485fa18e5bdc3318c1f08f2',1,'GraphViewStyle::NodeColor::border()']]],
+  ['borderdashed_8',['borderDashed',['../structGraphViewStyle_1_1NodeStyle.html#a6b908ce367484b8f8c952201e6065c27',1,'GraphViewStyle::NodeStyle']]],
+  ['borderwidth_9',['borderWidth',['../structGraphViewStyle_1_1NodeStyle.html#a7de7fd82e2f7412c6538023b2910f2ab',1,'GraphViewStyle::NodeStyle']]],
+  ['bottom_10',['bottom',['../structGraphViewStyle_1_1NodeMargins.html#a1bc04726f8d6c8bfb1204dda9be9ffac',1,'GraphViewStyle::NodeMargins']]],
+  ['bundlededgesids_11',['bundledEdgesIds',['../classMessageActivateEdge.html#a83c97030e5a7ae698a937192cd003e77',1,'MessageActivateEdge']]],
+  ['bundlednodecount_12',['bundledNodeCount',['../structDummyNode.html#a1cc281034510ca8ec91a15dc154c0949',1,'DummyNode']]],
+  ['bundlednodes_13',['bundledNodes',['../structDummyNode.html#ac4f1439e7fcb8541fc9c45dd7fbb0e89',1,'DummyNode']]],
+  ['bundlednodetype_14',['bundledNodeType',['../structDummyNode.html#a8edc2339146765c99ac79dce32c79117',1,'DummyNode']]],
+  ['bundleid_15',['bundleId',['../structDummyNode.html#a707cb4a976f0bb43e57251d402110d53',1,'DummyNode::bundleId()'],['../classMessageGraphNodeBundleSplit.html#a17bf0e069e5f6c4e3da6d7057f854745',1,'MessageGraphNodeBundleSplit::bundleId()']]],
+  ['bundleinfo_16',['bundleInfo',['../structDummyNode.html#ac9ddb665dadcd34ea06d1aa5d0055f25',1,'DummyNode']]],
+  ['bundlename_17',['bundleName',['../structNodeType_1_1BundleInfo.html#af548405b03095d69b55b71092e44f4ca',1,'NodeType::BundleInfo']]]
+];

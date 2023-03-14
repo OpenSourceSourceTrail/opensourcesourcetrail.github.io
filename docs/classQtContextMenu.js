@@ -1,0 +1,25 @@
+var classQtContextMenu =
+[
+    [ "QtContextMenu", "classQtContextMenu.html#a1c3acff8d9afbed11f430d5a36f6b4ae", null ],
+    [ "QtContextMenu", "classQtContextMenu.html#a128fdee90c24eb8f5692fa95c51f2655", null ],
+    [ "addAction", "classQtContextMenu.html#a4526ac278b3303ea79bd647ebc1d6477", null ],
+    [ "addFileActions", "classQtContextMenu.html#a34803c665af2c4a5ba8bda72d162bc20", null ],
+    [ "addSeparator", "classQtContextMenu.html#a70e2e44c0d80eb970a3e84e408f5d08d", null ],
+    [ "addUndoActions", "classQtContextMenu.html#a1d7f55ce218bdb48b5919a0da1e32170", null ],
+    [ "copyFullPathActionTriggered", "classQtContextMenu.html#a555f437fee1a2c9a0ebd8195a0b966ab", null ],
+    [ "enableRedo", "classQtContextMenu.html#a13b8ab5c39a16e0ba2302cd3e3e6cf26", null ],
+    [ "enableUndo", "classQtContextMenu.html#a59d0cc282b5ab8e2869f84ff69f0bed5", null ],
+    [ "getInstance", "classQtContextMenu.html#a0701df3762ef161c6d8ea829bfcd0a87", null ],
+    [ "openContainingFolderActionTriggered", "classQtContextMenu.html#a75fe7b8300ab23182d513e99eecbf332", null ],
+    [ "redoActionTriggered", "classQtContextMenu.html#af3509cf0833a4829469b060fa40f8828", null ],
+    [ "show", "classQtContextMenu.html#a5f6f9b17e905d9eb18560799336c41fa", null ],
+    [ "undoActionTriggered", "classQtContextMenu.html#a5f5b017fb842d60d3d67587a6ccfedea", null ],
+    [ "m_menu", "classQtContextMenu.html#a3f74b394f213c0a3d18e747721744ffc", null ],
+    [ "m_point", "classQtContextMenu.html#ade058926ef02fc61bb56c3ee222ce618", null ],
+    [ "s_copyFullPathAction", "classQtContextMenu.html#a6d6e781f74536cb27a468db648c19247", null ],
+    [ "s_filePath", "classQtContextMenu.html#adc3f13996073a75d3e5121c3e87a19c2", null ],
+    [ "s_instance", "classQtContextMenu.html#a542f7f9c3f99ae52cc61c173a831c9bb", null ],
+    [ "s_openContainingFolderAction", "classQtContextMenu.html#ac8c999eebe6c00f06c35f7cbbcd1beb9", null ],
+    [ "s_redoAction", "classQtContextMenu.html#a03986d15ad0ba5a0b2517e6f33e5ac98", null ],
+    [ "s_undoAction", "classQtContextMenu.html#aa39493904c93861049dadb99f0ab55a3", null ]
+];

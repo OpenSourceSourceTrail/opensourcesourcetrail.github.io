@@ -1,0 +1,36 @@
+var classTaskInjectStorage =
+[
+    [ "TaskState", "classTaskInjectStorage.html#a3b44991ecab5a0a70c4edcd3acc25c66", [
+      [ "STATE_RUNNING", "classTaskInjectStorage.html#a3b44991ecab5a0a70c4edcd3acc25c66a63fdf281c050c03aa32c680ac3f98ed8", null ],
+      [ "STATE_HOLD", "classTaskInjectStorage.html#a3b44991ecab5a0a70c4edcd3acc25c66a594668c3170fc08d59bb619f5db85331", null ],
+      [ "STATE_SUCCESS", "classTaskInjectStorage.html#a3b44991ecab5a0a70c4edcd3acc25c66ad96042a3e170d42fdae75f396d41aa93", null ],
+      [ "STATE_FAILURE", "classTaskInjectStorage.html#a3b44991ecab5a0a70c4edcd3acc25c66a2582cd51157c78d7337c37d956e75f4f", null ]
+    ] ],
+    [ "TaskInjectStorage", "classTaskInjectStorage.html#a0a81de264cd2bb4bfda6a91897d1f996", null ],
+    [ "dispatch", "classTaskInjectStorage.html#afbf3e5b7febfad5362973e6c605e0c91", null ],
+    [ "dispatchNext", "classTaskInjectStorage.html#a6a603906fe29685e8deb374e8cb82ea3", null ],
+    [ "doEnter", "classTaskInjectStorage.html#a10623ffc0d9e9a873cb31625fe8af165", null ],
+    [ "doExit", "classTaskInjectStorage.html#ad673e4dba5438a4e5780910910cc1b5c", null ],
+    [ "doGetType", "classTaskInjectStorage.html#a1a4d39e39fd264d59cdd5057d1a2b2fe", null ],
+    [ "doHandleMessageBase", "classTaskInjectStorage.html#a7e3587c18b84dbdc9c348f0608933291", null ],
+    [ "doReset", "classTaskInjectStorage.html#afee03005e679f4bfaf503f22316d60ed", null ],
+    [ "doUpdate", "classTaskInjectStorage.html#ad4704e8890477bc4e42175a66fb6c6f3", null ],
+    [ "getId", "classTaskInjectStorage.html#a1f5abff89f576e074f402488c4ec547f", null ],
+    [ "getSchedulerId", "classTaskInjectStorage.html#ad9e91e15bb148a9ee7e6a9c4f68164bd", null ],
+    [ "getType", "classTaskInjectStorage.html#a90287ef7db6b2360a5e12074df5dd74d", null ],
+    [ "handleMessage", "classTaskInjectStorage.html#a7b6444f03be2f3611244e94dc2ee90b0", null ],
+    [ "handleMessageBase", "classTaskInjectStorage.html#ae5b036f322a7a9371c3d3aba1407c94c", null ],
+    [ "removedListener", "classTaskInjectStorage.html#a054dc52e232756e3be7daa8247aae2a0", null ],
+    [ "reset", "classTaskInjectStorage.html#aacf29c96cd252f56381c5f1b7b1d8fdb", null ],
+    [ "setIsBackgroundTask", "classTaskInjectStorage.html#a3b4113ba1a8bed9ef9d48ffa60ec6441", null ],
+    [ "terminate", "classTaskInjectStorage.html#a4401622acef8826077250b6b9e24e477", null ],
+    [ "update", "classTaskInjectStorage.html#af6981c97e06c83dc615f53b4753a99eb", null ],
+    [ "m_alive", "classTaskInjectStorage.html#a91d8c4e18fe9904be3d57e639e3955fd", null ],
+    [ "m_enterCalled", "classTaskInjectStorage.html#a3bbf459de8c01845afa7e0fff875e37f", null ],
+    [ "m_exitCalled", "classTaskInjectStorage.html#aae1d107286bd1efa1bf8bebada11d65b", null ],
+    [ "m_id", "classTaskInjectStorage.html#ac0e9b0c137e40fa1feb85731683c2b0c", null ],
+    [ "m_isBackgroundTask", "classTaskInjectStorage.html#a9f26a27662511444ca05a30c9b188e9b", null ],
+    [ "m_storageProvider", "classTaskInjectStorage.html#a248ccdc99dd8cbfb834deaf59107ea07", null ],
+    [ "m_target", "classTaskInjectStorage.html#a408e62971c3aaa2f0b6f84c88d9a28c2", null ],
+    [ "s_nextId", "classTaskInjectStorage.html#a4e1262499d62571408d588868e41aab6", null ]
+];

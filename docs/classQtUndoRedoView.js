@@ -1,0 +1,26 @@
+var classQtUndoRedoView =
+[
+    [ "QtUndoRedoView", "classQtUndoRedoView.html#a520c6499decf7fd3f10718265655f532", null ],
+    [ "~QtUndoRedoView", "classQtUndoRedoView.html#a5eb681238a5fa2d6f68b46f76795e587", null ],
+    [ "addToLayout", "classQtUndoRedoView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
+    [ "create", "classQtUndoRedoView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
+    [ "createAndAddToLayout", "classQtUndoRedoView.html#a93a9174f4de6b909706465a61949bf83", null ],
+    [ "createWidgetWrapper", "classQtUndoRedoView.html#a9118f1aad0eac844b9bff4db7116e89f", null ],
+    [ "getController", "classQtUndoRedoView.html#a68ba9601f3980fd7f43fe8b5f58a1235", null ],
+    [ "getName", "classQtUndoRedoView.html#a3f39cae90059d5c8d31b922bc6aed8ea", null ],
+    [ "getViewLayout", "classQtUndoRedoView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
+    [ "getWidgetWrapper", "classQtUndoRedoView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
+    [ "refreshView", "classQtUndoRedoView.html#ada311a5856aa1d5a737090bee9b021e0", null ],
+    [ "setComponent", "classQtUndoRedoView.html#a4148a46723f9be0dfdf36034d1b02cb4", null ],
+    [ "setEnabled", "classQtUndoRedoView.html#a9e9a72267df76d7a0206fbe4f2328e7d", null ],
+    [ "setRedoButtonEnabled", "classQtUndoRedoView.html#a2b7a711f13eaf97f2031d4db1e290e94", null ],
+    [ "setUndoButtonEnabled", "classQtUndoRedoView.html#ab6735c8215ed4605f715c1ae556387fe", null ],
+    [ "setWidgetWrapper", "classQtUndoRedoView.html#a6400c84b3738fee7a3066698171547fe", null ],
+    [ "showDockWidget", "classQtUndoRedoView.html#abce42d26620a80d229ed28f70b2dcd08", null ],
+    [ "updateHistory", "classQtUndoRedoView.html#a9ae9d67f8ab611aa4f97555365279c8b", null ],
+    [ "m_component", "classQtUndoRedoView.html#aea146311bfc8ade50aea47dce4795bb6", null ],
+    [ "m_onQtThread", "classQtUndoRedoView.html#acbbeed439c43368997015cd7344d8f87", null ],
+    [ "m_viewLayout", "classQtUndoRedoView.html#ab1a24bac93610fe8c726b14ce7f96e12", null ],
+    [ "m_widget", "classQtUndoRedoView.html#afd9ba846f22bd685fd6b21b2fc3bc6c9", null ],
+    [ "m_widgetWrapper", "classQtUndoRedoView.html#a8fab697987cb82172050bc8e20f8c541", null ]
+];

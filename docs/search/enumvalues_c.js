@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['open_5fonly_0',['OPEN_ONLY',['../classSharedMemory.html#a8830851f5d220d31b2f79241d22ca4feadc9c232ff95739040ae44cb21f213c3b',1,'SharedMemory']]],
+  ['open_5for_5fcreate_1',['OPEN_OR_CREATE',['../classSharedMemory.html#a8830851f5d220d31b2f79241d22ca4fea0fa56e22ec4752fe50205ceff03f6cdd',1,'SharedMemory']]],
+  ['order_5factivate_2',['ORDER_ACTIVATE',['../structUndoRedoController_1_1Command.html#a4e99464c49666614a33f27f6563d9602ac8ba116313ab196a775d09d864ba30ab',1,'UndoRedoController::Command']]],
+  ['order_5fadapt_3',['ORDER_ADAPT',['../structUndoRedoController_1_1Command.html#a4e99464c49666614a33f27f6563d9602aa25590146b10645d3b48446b8dd1fa2a',1,'UndoRedoController::Command']]],
+  ['order_5fdate_5fascending_4',['ORDER_DATE_ASCENDING',['../classBookmark.html#a64788d519cef2df50a838d945ee6dd76a3d885bd4b6290ea7fa794b3836219049',1,'Bookmark']]],
+  ['order_5fdate_5fdescending_5',['ORDER_DATE_DESCENDING',['../classBookmark.html#a64788d519cef2df50a838d945ee6dd76a72db522d5bcafe34d5c69e83210d5b22',1,'Bookmark']]],
+  ['order_5fname_5fascending_6',['ORDER_NAME_ASCENDING',['../classBookmark.html#a64788d519cef2df50a838d945ee6dd76a8ed530561d41aab2b571a8faec3f66c7',1,'Bookmark']]],
+  ['order_5fname_5fdescending_7',['ORDER_NAME_DESCENDING',['../classBookmark.html#a64788d519cef2df50a838d945ee6dd76a5f4afc04f7f3a2ab6bff0b2f4ac490e0',1,'Bookmark']]],
+  ['order_5fnone_8',['ORDER_NONE',['../classBookmark.html#a64788d519cef2df50a838d945ee6dd76a01a5280ad192a1f49b50edea3f4dc0b1',1,'Bookmark']]],
+  ['order_5fview_9',['ORDER_VIEW',['../structUndoRedoController_1_1Command.html#a4e99464c49666614a33f27f6563d9602afe22845d59f22658d1ee57e6cd1ab78b',1,'UndoRedoController::Command']]],
+  ['os_5flinux_10',['OS_LINUX',['../OsType_8h.html#ad01b63a115c529ad6a3439db497835b3ac3724e0358f391346c785d3450532797',1,'OsType.h']]],
+  ['os_5fmac_11',['OS_MAC',['../OsType_8h.html#ad01b63a115c529ad6a3439db497835b3a974f159b5f45aba0df9eae26f9cec3d3',1,'OsType.h']]],
+  ['os_5funknown_12',['OS_UNKNOWN',['../OsType_8h.html#ad01b63a115c529ad6a3439db497835b3a4373651fe30f908a136602495f63f9d0',1,'OsType.h']]],
+  ['os_5fwindows_13',['OS_WINDOWS',['../OsType_8h.html#ad01b63a115c529ad6a3439db497835b3a8780f81c6157f670aaa1d4a0f7c15467',1,'OsType.h']]]
+];

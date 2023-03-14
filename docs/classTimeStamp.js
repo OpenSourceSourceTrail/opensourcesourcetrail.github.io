@@ -1,0 +1,26 @@
+var classTimeStamp =
+[
+    [ "TimeStamp", "classTimeStamp.html#a130d6c5230be88ae97c3db1ca9362b97", null ],
+    [ "TimeStamp", "classTimeStamp.html#a921a0775f335dbd00156c8bf4c3eb160", null ],
+    [ "TimeStamp", "classTimeStamp.html#ae99c7da7ebb1f208729cd03c2d54da9f", null ],
+    [ "dayOfWeek", "classTimeStamp.html#a94b326908aac0f89ffcad197c0f169e7", null ],
+    [ "dayOfWeekShort", "classTimeStamp.html#ac1bf4d4e0e946b26db265e1ce10bf0dc", null ],
+    [ "deltaDays", "classTimeStamp.html#ac888b5f486e5a5808bb3bf81a6cfc2b4", null ],
+    [ "deltaHours", "classTimeStamp.html#acfdaea862fb408113396c96fd0457ed4", null ],
+    [ "deltaMS", "classTimeStamp.html#a11406b69b6631aa746594d8005d544cb", null ],
+    [ "deltaS", "classTimeStamp.html#a2717bd6f332b1b0e3c42b5836c805cdd", null ],
+    [ "durationSeconds", "classTimeStamp.html#a0d68b39c8f1694f2e4a131e0c2f421ee", null ],
+    [ "getDDMMYYYYString", "classTimeStamp.html#a397d25082b5c3015eecafc6ae0e85ae0", null ],
+    [ "isSameDay", "classTimeStamp.html#a6a4790bdb1fdadfdf039951537792d15", null ],
+    [ "isValid", "classTimeStamp.html#a9ff803c5f4401d5bed2dda3f76e01469", null ],
+    [ "now", "classTimeStamp.html#a740f4a4774218d0a6186dc89cce16a82", null ],
+    [ "operator!=", "classTimeStamp.html#adf410560608d37beb553f91bc2623982", null ],
+    [ "operator<", "classTimeStamp.html#aef9061f043e60b3556586eb1ba1f2470", null ],
+    [ "operator<=", "classTimeStamp.html#aaa6cee1654aa791a2fde5bdc75b50420", null ],
+    [ "operator==", "classTimeStamp.html#a80c6cdc00997fa1d5b41c2f80d25491d", null ],
+    [ "operator>", "classTimeStamp.html#a909ae746c5e516102b861a0fcab2db83", null ],
+    [ "operator>=", "classTimeStamp.html#ac0a5ea1748bf4ef28e935bb5fd0edff3", null ],
+    [ "secondsToString", "classTimeStamp.html#a084a05b52534c97e25739532ab108294", null ],
+    [ "toString", "classTimeStamp.html#aacbc25009aa6fbd88e8d91ceacdb9d4b", null ],
+    [ "m_time", "classTimeStamp.html#a20fbc6319ec58168b0e44b7ebd668471", null ]
+];

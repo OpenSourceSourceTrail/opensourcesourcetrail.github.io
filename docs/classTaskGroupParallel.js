@@ -1,0 +1,36 @@
+var classTaskGroupParallel =
+[
+    [ "TaskInfo", "structTaskGroupParallel_1_1TaskInfo.html", "structTaskGroupParallel_1_1TaskInfo" ],
+    [ "TaskState", "classTaskGroupParallel.html#a3b44991ecab5a0a70c4edcd3acc25c66", [
+      [ "STATE_RUNNING", "classTaskGroupParallel.html#a3b44991ecab5a0a70c4edcd3acc25c66a63fdf281c050c03aa32c680ac3f98ed8", null ],
+      [ "STATE_HOLD", "classTaskGroupParallel.html#a3b44991ecab5a0a70c4edcd3acc25c66a594668c3170fc08d59bb619f5db85331", null ],
+      [ "STATE_SUCCESS", "classTaskGroupParallel.html#a3b44991ecab5a0a70c4edcd3acc25c66ad96042a3e170d42fdae75f396d41aa93", null ],
+      [ "STATE_FAILURE", "classTaskGroupParallel.html#a3b44991ecab5a0a70c4edcd3acc25c66a2582cd51157c78d7337c37d956e75f4f", null ]
+    ] ],
+    [ "TaskGroupParallel", "classTaskGroupParallel.html#a729935f9e0bf0e0cc45df60083e527ea", null ],
+    [ "addChildTasks", "classTaskGroupParallel.html#ac399f5ec9ef8a96ade9bfe648b5c7a12", null ],
+    [ "addChildTasks", "classTaskGroupParallel.html#a3f75f0dc91807cc2c6eb749b058f0794", null ],
+    [ "addChildTasks", "classTaskGroupParallel.html#a22472bac2ee256e462fa7b0da6227d0d", null ],
+    [ "addTask", "classTaskGroupParallel.html#a696dc56a8efb8e9bb45e12fcbe05e5f9", null ],
+    [ "dispatch", "classTaskGroupParallel.html#afbf3e5b7febfad5362973e6c605e0c91", null ],
+    [ "dispatchNext", "classTaskGroupParallel.html#a6a603906fe29685e8deb374e8cb82ea3", null ],
+    [ "doEnter", "classTaskGroupParallel.html#ad147bc83b91c49a431475364af30ada2", null ],
+    [ "doExit", "classTaskGroupParallel.html#a9aa57629b6a9c9f4543169aaf333b0bf", null ],
+    [ "doReset", "classTaskGroupParallel.html#a1745e6f74718eb331b35e7e7f7025ee2", null ],
+    [ "doTerminate", "classTaskGroupParallel.html#ac4b377747cda0364f66958b1ddff5e2a", null ],
+    [ "doUpdate", "classTaskGroupParallel.html#a3157d7adb8a742df2b4e367c81c83130", null ],
+    [ "getActiveTaskCount", "classTaskGroupParallel.html#a5dcb9bc16c647febbd5b8162ad6832ab", null ],
+    [ "processTaskThreaded", "classTaskGroupParallel.html#aaaa7683d867e194c32439e08e64ca70a", null ],
+    [ "reset", "classTaskGroupParallel.html#aacf29c96cd252f56381c5f1b7b1d8fdb", null ],
+    [ "setIsBackgroundTask", "classTaskGroupParallel.html#a3b4113ba1a8bed9ef9d48ffa60ec6441", null ],
+    [ "terminate", "classTaskGroupParallel.html#a56eecb9beb04ede980e603565980bead", null ],
+    [ "update", "classTaskGroupParallel.html#af6981c97e06c83dc615f53b4753a99eb", null ],
+    [ "m_activeTaskCount", "classTaskGroupParallel.html#a4a8a89d4c2c707b53a230d38dbfca7b5", null ],
+    [ "m_activeTaskCountMutex", "classTaskGroupParallel.html#ad182479783948dabb330a3e8b82f57d2", null ],
+    [ "m_enterCalled", "classTaskGroupParallel.html#a3bbf459de8c01845afa7e0fff875e37f", null ],
+    [ "m_exitCalled", "classTaskGroupParallel.html#aae1d107286bd1efa1bf8bebada11d65b", null ],
+    [ "m_isBackgroundTask", "classTaskGroupParallel.html#a9f26a27662511444ca05a30c9b188e9b", null ],
+    [ "m_needsToStartThreads", "classTaskGroupParallel.html#a3fa08f59bc0df074eb0497aabe57d21d", null ],
+    [ "m_taskFailed", "classTaskGroupParallel.html#a7f46296d86692db922909a85daefa65c", null ],
+    [ "m_tasks", "classTaskGroupParallel.html#a8461a58a1e0b73c4ea10cc2e69b07149", null ]
+];

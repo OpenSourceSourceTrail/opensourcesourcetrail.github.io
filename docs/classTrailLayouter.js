@@ -1,0 +1,36 @@
+var classTrailLayouter =
+[
+    [ "TrailEdge", "structTrailLayouter_1_1TrailEdge.html", "structTrailLayouter_1_1TrailEdge" ],
+    [ "TrailNode", "structTrailLayouter_1_1TrailNode.html", "structTrailLayouter_1_1TrailNode" ],
+    [ "LayoutDirection", "classTrailLayouter.html#a456e0d9a7c4d4cb510348b0ea0c11e3e", [
+      [ "LAYOUT_LEFT_RIGHT", "classTrailLayouter.html#a456e0d9a7c4d4cb510348b0ea0c11e3ea09986bb0f4a0e6df26c1cd60a5e0025b", null ],
+      [ "LAYOUT_RIGHT_LEFT", "classTrailLayouter.html#a456e0d9a7c4d4cb510348b0ea0c11e3eaca1913fc6c097d62f45520238b8a8743", null ],
+      [ "LAYOUT_TOP_BOTTOM", "classTrailLayouter.html#a456e0d9a7c4d4cb510348b0ea0c11e3ea85b9662b86cb0b15bdb49c14e5fd43d2", null ],
+      [ "LAYOUT_BOTTOM_TOP", "classTrailLayouter.html#a456e0d9a7c4d4cb510348b0ea0c11e3ea9caac68a55a91e6d7af2bb4646ec00be", null ]
+    ] ],
+    [ "TrailLayouter", "classTrailLayouter.html#adab5ef6910429e5320f83feabde38ca4", null ],
+    [ "addEdge", "classTrailLayouter.html#a61d13ca521c3ff327f2d9c86bfba0504", null ],
+    [ "addNode", "classTrailLayouter.html#afcbeaf36824a1ba9d156fa0b7bd48df7", null ],
+    [ "addVirtualNodes", "classTrailLayouter.html#a5f621f3f51c0f6caa1eda5fcd74e2c34", null ],
+    [ "assignLongestPathLevels", "classTrailLayouter.html#ab9c9dc402431a5c057806b35afe40d38", null ],
+    [ "assignRemainingLevels", "classTrailLayouter.html#ac6811f6e2862f354c8a820216758efe6", null ],
+    [ "buildColumns", "classTrailLayouter.html#a3152e9ab0c23659f69bac02986ccc5f7", null ],
+    [ "buildGraph", "classTrailLayouter.html#a255a5bb8a22ca19e01ff11f9ccc65986", null ],
+    [ "horizontalLayout", "classTrailLayouter.html#a5e2207af51a2a28645270acfb8a1516f", null ],
+    [ "invertedLayout", "classTrailLayouter.html#ab91f490ea57074a80d82048373728b45", null ],
+    [ "layout", "classTrailLayouter.html#ae6e78d7077740336c9a5bc68ddaffc9c", null ],
+    [ "layoutGraph", "classTrailLayouter.html#aa57b2b3ebc408ec8d1eb0e8b279f3c3d", null ],
+    [ "makeAcyclicRecursive", "classTrailLayouter.html#a3df9c47a9c699a4ef785136835ba0782", null ],
+    [ "moveNodesToAveragePosition", "classTrailLayouter.html#a09bb1d46fef94e0d5eda294150192664", null ],
+    [ "print", "classTrailLayouter.html#ab48c6c282bdb4e6bdbc4049e1aa3d34e", null ],
+    [ "reduceEdgeCrossings", "classTrailLayouter.html#a0caee89ea1b5f0e7375c705164992918", null ],
+    [ "removeDeadEnds", "classTrailLayouter.html#a71789fab1535e875af2aa01b9667022c", null ],
+    [ "retrievePositions", "classTrailLayouter.html#aa337d32cbdd09261753ab25dfc798983", null ],
+    [ "switchEdge", "classTrailLayouter.html#a8f8327363f82b9da4edbb2c487194ac3", null ],
+    [ "m_allEdges", "classTrailLayouter.html#affb0de063cf25831e1ea21c9d4e08c2b", null ],
+    [ "m_allNodes", "classTrailLayouter.html#a8e8a1c5bfcddde60f3f168b4a9ee0e48", null ],
+    [ "m_direction", "classTrailLayouter.html#af14c51e803256cfb5ce6556332eb89b9", null ],
+    [ "m_nodesById", "classTrailLayouter.html#ab95fad8973b4d37091e4c0eac156e629", null ],
+    [ "m_nodesPerCol", "classTrailLayouter.html#ac8a7e15443fd6ab707ffba2f035058dd", null ],
+    [ "m_rootNode", "classTrailLayouter.html#a7d363b50d7d04d98e072d4cf142ae459", null ]
+];
