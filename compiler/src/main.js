@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  const JSON_URL = "http://localhost:8888/compiler/sourcetrail_warnings.json";
+  const JSON_URL = "https://raw.githubusercontent.com/OpenSourceSourceTrail/opensourcesourcetrail.github.io/main/compiler/sourcetrail_warnings.json";
   $.getJSON(JSON_URL, function(data) {
     const warnings = data.warnings;
     const tbody = document.getElementById("table_id").getElementsByTagName('tbody')[0];
