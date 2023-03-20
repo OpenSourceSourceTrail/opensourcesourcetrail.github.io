@@ -33,4 +33,5 @@ $(document).ready(function() {
         covr_id.removeClass("active");
         frame_id.attr('src', "docs/index.html");
     });
+    $('#warning_id').click();
 });
