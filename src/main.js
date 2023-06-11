@@ -21,7 +21,7 @@ $(document).ready(function() {
         warning_id.removeClass("active");
         covr_id.addClass("active");
         doc_id.removeClass("active");
-        frame_id.attr('src', "coverage/coverage.html");
+        frame_id.attr('src', "coverage/index.html");
     });
 
     $('#doc_id').click(function(){

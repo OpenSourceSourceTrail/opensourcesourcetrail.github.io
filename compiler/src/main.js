@@ -22,8 +22,16 @@ function insertNewRow(tbody, i, warnings) {
   var row = tbody.insertRow(-1);
   row.insertCell(0).innerHTML = i;
   row.insertCell(1).innerHTML = item.commit;
-  row.insertCell(2).innerHTML = item.GNU;
-  row.insertCell(3).innerHTML = item.CLang;
+
+  var gnu_div = document.createElement('div');
+  gnu_div.innerHTML = item.GNU;
+  gnu_div.onclick = function(event) { alert("GNU"); };
+  row.insertCell(2).appendChild(gnu_div);
+
+  var clang_div = document.createElement('div');
+  clang_div.innerHTML = item.CLang;
+  clang_div.onclick = function(event) { alert("Clang"); };
+  row.insertCell(3).appendChild(clang_div);
 }
 
 function insertGraph(commits, warnings_GNU, warnings_CLang){
