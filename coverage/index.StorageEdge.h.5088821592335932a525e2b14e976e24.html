@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <th scope="row">Date:</th>
-      <td>2023-06-11 23:38:54</td>
+      <td>2023-10-07 00:05:17</td>
     </tr>
   </table>
 </div>
@@ -41,21 +41,21 @@
     </tr>
     <tr>
       <th scope="row">Lines:</th>
-      <td>0</td>
+      <td>11</td>
       <td>13</td>
-      <td class="coverage-none">0.0%</td>
+      <td class="coverage-medium">84.6%</td>
     </tr>
     <tr>
       <th scope="row">Functions:</th>
-      <td>0</td>
+      <td>4</td>
       <td>6</td>
-      <td class="coverage-none">0.0%</td>
+      <td class="coverage-low">66.7%</td>
     </tr>
     <tr>
       <th scope="row">Branches:</th>
-      <td>0</td>
       <td>4</td>
-      <td class="coverage-none">0.0%</td>
+      <td>4</td>
+      <td class="coverage-high">100.0%</td>
     </tr>
   </table>
 </div>
@@ -92,7 +92,7 @@
         <a href="#l29">29</a>
       </td>
       <td>
-        <a href="#l29"> not called</a>
+        <a href="#l29"> called 1130 times</a>
       </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
         <a href="#l31">31</a>
       </td>
       <td>
-        <a href="#l31"> not called</a>
+        <a href="#l31"> called 37 times</a>
       </td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@
         <a href="#l8">8</a>
       </td>
       <td>
-        <a href="#l8"> not called</a>
+        <a href="#l8"> called 1272 times</a>
       </td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@
         <a href="#l11">11</a>
       </td>
       <td>
-        <a href="#l11"> not called</a>
+        <a href="#l11"> called 7860 times</a>
       </td>
     </tr>
   </table>
@@ -206,15 +206,15 @@
       <td class="lineno"><a id="l8" href="#l8">8</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">StorageEdgeData</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">type_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">sourceNodeId_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">targetNodeId_</span><span class="p">)</span></td>
+      <td class="linecount coveredLine">1272</td>
+      <td class="src coveredLine"><span class="w">  </span><span class="n">StorageEdgeData</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">type_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">sourceNodeId_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">targetNodeId_</span><span class="p">)</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l9" href="#l9">9</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="o">:</span><span class="w"> </span><span class="n">type</span><span class="p">(</span><span class="n">type_</span><span class="p">),</span><span class="w"> </span><span class="n">sourceNodeId</span><span class="p">(</span><span class="n">sourceNodeId_</span><span class="p">),</span><span class="w"> </span><span class="n">targetNodeId</span><span class="p">(</span><span class="n">targetNodeId_</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
+      <td class="linecount coveredLine">1272</td>
+      <td class="src coveredLine"><span class="w">      </span><span class="o">:</span><span class="w"> </span><span class="n">type</span><span class="p">(</span><span class="n">type_</span><span class="p">),</span><span class="w"> </span><span class="n">sourceNodeId</span><span class="p">(</span><span class="n">sourceNodeId_</span><span class="p">),</span><span class="w"> </span><span class="n">targetNodeId</span><span class="p">(</span><span class="n">targetNodeId_</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l10" href="#l10">10</a></td>
@@ -227,36 +227,50 @@
       <td class="lineno"><a id="l11" href="#l11">11</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="n">operator</span><span class="o">&lt;</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="o">&amp;</span><span class="w"> </span><span class="n">other</span><span class="p">)</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="p">{</span></td>
+      <td class="linecount coveredLine">7860</td>
+      <td class="src coveredLine"><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="n">operator</span><span class="o">&lt;</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="o">&amp;</span><span class="w"> </span><span class="n">other</span><span class="p">)</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l12" href="#l12">12</a></td>
       <td class="linebranch">
+        <details class="linebranchDetails">
+        <summary class="linebranchSummary">2/2</summary>
+        <div class="linebranchContents">
+          <div class="takenBranch">&check; Branch 0 taken 4440 times.</div>
+          <div class="takenBranch">&check; Branch 1 taken 3420 times.</div>
+        </div>
+        </details>
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">type</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">type</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+      <td class="linecount coveredLine">7860</td>
+      <td class="src coveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">type</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">type</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l13" href="#l13">13</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="w"> </span><span class="n">type</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">type</span><span class="p">;</span></td>
+      <td class="linecount coveredLine">4440</td>
+      <td class="src coveredLine"><span class="w">      </span><span class="k">return</span><span class="w"> </span><span class="n">type</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">type</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l14" href="#l14">14</a></td>
       <td class="linebranch">
+        <details class="linebranchDetails">
+        <summary class="linebranchSummary">2/2</summary>
+        <div class="linebranchContents">
+          <div class="takenBranch">&check; Branch 0 taken 1704 times.</div>
+          <div class="takenBranch">&check; Branch 1 taken 1716 times.</div>
+        </div>
+        </details>
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="k">if</span><span class="p">(</span><span class="n">sourceNodeId</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">sourceNodeId</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+      <td class="linecount coveredLine">3420</td>
+      <td class="src coveredLine"><span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="k">if</span><span class="p">(</span><span class="n">sourceNodeId</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">sourceNodeId</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l15" href="#l15">15</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="w"> </span><span class="n">sourceNodeId</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">sourceNodeId</span><span class="p">;</span></td>
+      <td class="linecount coveredLine">1704</td>
+      <td class="src coveredLine"><span class="w">      </span><span class="k">return</span><span class="w"> </span><span class="n">sourceNodeId</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">sourceNodeId</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l16" href="#l16">16</a></td>
@@ -269,8 +283,8 @@
       <td class="lineno"><a id="l17" href="#l17">17</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="w"> </span><span class="n">targetNodeId</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">targetNodeId</span><span class="p">;</span></td>
+      <td class="linecount coveredLine">1716</td>
+      <td class="src coveredLine"><span class="w">      </span><span class="k">return</span><span class="w"> </span><span class="n">targetNodeId</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">other</span><span class="p">.</span><span class="n">targetNodeId</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l18" href="#l18">18</a></td>
@@ -353,8 +367,8 @@
       <td class="lineno"><a id="l29" href="#l29">29</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">StorageEdge</span><span class="p">(</span><span class="n">Id</span><span class="w"> </span><span class="n">id_</span><span class="p">,</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="o">&amp;</span><span class="w"> </span><span class="n">data</span><span class="p">)</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="p">(</span><span class="n">data</span><span class="p">),</span><span class="w"> </span><span class="n">id</span><span class="p">(</span><span class="n">id_</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
+      <td class="linecount coveredLine">1130</td>
+      <td class="src coveredLine"><span class="w">  </span><span class="n">StorageEdge</span><span class="p">(</span><span class="n">Id</span><span class="w"> </span><span class="n">id_</span><span class="p">,</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="o">&amp;</span><span class="w"> </span><span class="n">data</span><span class="p">)</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="p">(</span><span class="n">data</span><span class="p">),</span><span class="w"> </span><span class="n">id</span><span class="p">(</span><span class="n">id_</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l30" href="#l30">30</a></td>
@@ -367,15 +381,15 @@
       <td class="lineno"><a id="l31" href="#l31">31</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">StorageEdge</span><span class="p">(</span><span class="n">Id</span><span class="w"> </span><span class="n">id_</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">type_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">sourceNodeId_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">targetNodeId_</span><span class="p">)</span></td>
+      <td class="linecount coveredLine">37</td>
+      <td class="src coveredLine"><span class="w">  </span><span class="n">StorageEdge</span><span class="p">(</span><span class="n">Id</span><span class="w"> </span><span class="n">id_</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">type_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">sourceNodeId_</span><span class="p">,</span><span class="w"> </span><span class="n">Id</span><span class="w"> </span><span class="n">targetNodeId_</span><span class="p">)</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l32" href="#l32">32</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="o">:</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="p">(</span><span class="n">type_</span><span class="p">,</span><span class="w"> </span><span class="n">sourceNodeId_</span><span class="p">,</span><span class="w"> </span><span class="n">targetNodeId_</span><span class="p">),</span><span class="w"> </span><span class="n">id</span><span class="p">(</span><span class="n">id_</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
+      <td class="linecount coveredLine">37</td>
+      <td class="src coveredLine"><span class="w">      </span><span class="o">:</span><span class="w"> </span><span class="n">StorageEdgeData</span><span class="p">(</span><span class="n">type_</span><span class="p">,</span><span class="w"> </span><span class="n">sourceNodeId_</span><span class="p">,</span><span class="w"> </span><span class="n">targetNodeId_</span><span class="p">),</span><span class="w"> </span><span class="n">id</span><span class="p">(</span><span class="n">id_</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l33" href="#l33">33</a></td>

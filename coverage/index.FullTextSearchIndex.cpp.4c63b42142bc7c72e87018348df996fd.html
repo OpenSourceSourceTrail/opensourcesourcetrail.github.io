@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <th scope="row">Date:</th>
-      <td>2023-06-11 23:38:54</td>
+      <td>2023-10-07 00:05:17</td>
     </tr>
   </table>
 </div>
@@ -41,21 +41,21 @@
     </tr>
     <tr>
       <th scope="row">Lines:</th>
-      <td>0</td>
+      <td>4</td>
       <td>32</td>
-      <td class="coverage-none">0.0%</td>
+      <td class="coverage-low">12.5%</td>
     </tr>
     <tr>
       <th scope="row">Functions:</th>
-      <td>0</td>
+      <td>1</td>
       <td>4</td>
-      <td class="coverage-none">0.0%</td>
+      <td class="coverage-low">25.0%</td>
     </tr>
     <tr>
       <th scope="row">Branches:</th>
-      <td>0</td>
+      <td>1</td>
       <td>48</td>
-      <td class="coverage-none">0.0%</td>
+      <td class="coverage-low">2.1%</td>
     </tr>
   </table>
 </div>
@@ -92,7 +92,7 @@
         <a href="#l47">47</a>
       </td>
       <td>
-        <a href="#l47"> not called</a>
+        <a href="#l47"> called 38 times</a>
       </td>
     </tr>
     <tr>
@@ -457,29 +457,36 @@
       <td class="lineno"><a id="l47" href="#l47">47</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="n">FullTextSearchIndex</span><span class="o">::</span><span class="n">clear</span><span class="p">()</span><span class="w"> </span><span class="p">{</span></td>
+      <td class="linecount coveredLine">38</td>
+      <td class="src coveredLine"><span class="kt">void</span><span class="w"> </span><span class="n">FullTextSearchIndex</span><span class="o">::</span><span class="n">clear</span><span class="p">()</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l48" href="#l48">48</a></td>
       <td class="linebranch">
+        <details class="linebranchDetails">
+        <summary class="linebranchSummary">1/2</summary>
+        <div class="linebranchContents">
+          <div class="takenBranch">&check; Branch 1 taken 38 times.</div>
+          <div class="notTakenBranch">&cross; Branch 2 not taken.</div>
+        </div>
+        </details>
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">lock_guard</span><span class="o">&lt;</span><span class="n">std</span><span class="o">::</span><span class="n">mutex</span><span class="o">&gt;</span><span class="w"> </span><span class="n">lock</span><span class="p">(</span><span class="n">m_filesMutex</span><span class="p">);</span></td>
+      <td class="linecount coveredLine">38</td>
+      <td class="src coveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">lock_guard</span><span class="o">&lt;</span><span class="n">std</span><span class="o">::</span><span class="n">mutex</span><span class="o">&gt;</span><span class="w"> </span><span class="n">lock</span><span class="p">(</span><span class="n">m_filesMutex</span><span class="p">);</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l49" href="#l49">49</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_files</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span></td>
+      <td class="linecount coveredLine">38</td>
+      <td class="src coveredLine"><span class="w">  </span><span class="n">m_files</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l50" href="#l50">50</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
+      <td class="linecount coveredLine">38</td>
+      <td class="src coveredLine"><span class="p">}</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l51" href="#l51">51</a></td>

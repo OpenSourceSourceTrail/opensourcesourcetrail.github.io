@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <th scope="row">Date:</th>
-      <td>2023-06-11 23:38:54</td>
+      <td>2023-10-07 00:05:17</td>
     </tr>
   </table>
 </div>
@@ -48,14 +48,14 @@
     <tr>
       <th scope="row">Functions:</th>
       <td>5</td>
-      <td>6</td>
-      <td class="coverage-medium">83.3%</td>
+      <td>7</td>
+      <td class="coverage-low">71.4%</td>
     </tr>
     <tr>
       <th scope="row">Branches:</th>
       <td>5</td>
-      <td>8</td>
-      <td class="coverage-low">62.5%</td>
+      <td>10</td>
+      <td class="coverage-low">50.0%</td>
     </tr>
   </table>
 </div>
@@ -75,13 +75,24 @@
     </tr>
     <tr>
       <td>
+        <a href="#l78">FilePath ConfigManager::getValueOrDefault&lt;FilePath&gt;(std::__cxx11::basic_string&lt;char, std::char_traits&lt;char&gt;, std::allocator&lt;char&gt; &gt; const&amp;, FilePath) const</a>
+      </td>
+      <td>
+        <a href="#l78">78</a>
+      </td>
+      <td>
+        <a href="#l78"> not called</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="#l78">bool ConfigManager::getValueOrDefault&lt;bool&gt;(std::__cxx11::basic_string&lt;char, std::char_traits&lt;char&gt;, std::allocator&lt;char&gt; &gt; const&amp;, bool) const</a>
       </td>
       <td>
         <a href="#l78">78</a>
       </td>
       <td>
-        <a href="#l78"> called 29 times</a>
+        <a href="#l78"> called 1 time</a>
       </td>
     </tr>
     <tr>
@@ -92,7 +103,7 @@
         <a href="#l78">78</a>
       </td>
       <td>
-        <a href="#l78"> called 58 times</a>
+        <a href="#l78"> called 2 times</a>
       </td>
     </tr>
     <tr>
@@ -103,7 +114,7 @@
         <a href="#l78">78</a>
       </td>
       <td>
-        <a href="#l78"> called 29 times</a>
+        <a href="#l78"> called 1 time</a>
       </td>
     </tr>
     <tr>
@@ -114,7 +125,7 @@
         <a href="#l87">87</a>
       </td>
       <td>
-        <a href="#l87"> called 29 times</a>
+        <a href="#l87"> called 1 time</a>
       </td>
     </tr>
     <tr>
@@ -136,7 +147,7 @@
         <a href="#l87">87</a>
       </td>
       <td>
-        <a href="#l87"> called 58 times</a>
+        <a href="#l87"> called 2 times</a>
       </td>
     </tr>
   </table>
@@ -696,14 +707,21 @@
       <td class="lineno"><a id="l78" href="#l78">78</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">174</td>
+      <td class="linecount coveredLine">6</td>
       <td class="src coveredLine"><span class="n">T</span><span class="w"> </span><span class="n">ConfigManager</span><span class="o">::</span><span class="n">getValueOrDefault</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="o">&amp;</span><span class="w"> </span><span class="n">key</span><span class="p">,</span><span class="w"> </span><span class="n">T</span><span class="w"> </span><span class="n">defaultValue</span><span class="p">)</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l79" href="#l79">79</a></td>
       <td class="linebranch">
+        <details class="linebranchDetails">
+        <summary class="linebranchSummary">0/2</summary>
+        <div class="linebranchContents">
+          <div class="notTakenBranch">&cross; Branch 1 not taken.</div>
+          <div class="notTakenBranch">&cross; Branch 2 not taken.</div>
+        </div>
+        </details>
       </td>
-      <td class="linecount coveredLine">116</td>
+      <td class="linecount coveredLine">4</td>
       <td class="src coveredLine"><span class="w">  </span><span class="n">T</span><span class="w"> </span><span class="n">value</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
@@ -712,14 +730,14 @@
         <details class="linebranchDetails">
         <summary class="linebranchSummary">2/4</summary>
         <div class="linebranchContents">
-          <div class="takenBranch">&check; Branch 1 taken 116 times.</div>
+          <div class="takenBranch">&check; Branch 1 taken 4 times.</div>
           <div class="notTakenBranch">&cross; Branch 2 not taken.</div>
           <div class="notTakenBranch">&cross; Branch 3 not taken.</div>
-          <div class="takenBranch">&check; Branch 4 taken 116 times.</div>
+          <div class="takenBranch">&check; Branch 4 taken 4 times.</div>
         </div>
         </details>
       </td>
-      <td class="linecount coveredLine">174</td>
+      <td class="linecount coveredLine">6</td>
       <td class="src coveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">getValue</span><span class="p">(</span><span class="n">key</span><span class="p">,</span><span class="w"> </span><span class="n">value</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
@@ -740,14 +758,14 @@
       <td class="lineno"><a id="l83" href="#l83">83</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">174</td>
+      <td class="linecount coveredLine">6</td>
       <td class="src coveredLine"><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">defaultValue</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l84" href="#l84">84</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">116</td>
+      <td class="linecount coveredLine">4</td>
       <td class="src coveredLine"><span class="p">}</span></td>
     </tr>
     <tr class="source-line">
@@ -768,7 +786,7 @@
       <td class="lineno"><a id="l87" href="#l87">87</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">87</td>
+      <td class="linecount coveredLine">3</td>
       <td class="src coveredLine"><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">T</span><span class="o">&gt;</span><span class="w"> </span><span class="n">ConfigManager</span><span class="o">::</span><span class="n">getValuesOrDefaults</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="o">&amp;</span><span class="w"> </span><span class="n">key</span><span class="p">,</span></td>
     </tr>
     <tr class="source-line">
@@ -782,7 +800,7 @@
       <td class="lineno"><a id="l89" href="#l89">89</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">87</td>
+      <td class="linecount coveredLine">3</td>
       <td class="src coveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">T</span><span class="o">&gt;</span><span class="w"> </span><span class="n">values</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
@@ -791,21 +809,21 @@
         <details class="linebranchDetails">
         <summary class="linebranchSummary">3/4</summary>
         <div class="linebranchContents">
-          <div class="takenBranch">&check; Branch 1 taken 87 times.</div>
+          <div class="takenBranch">&check; Branch 1 taken 3 times.</div>
           <div class="notTakenBranch">&cross; Branch 2 not taken.</div>
-          <div class="takenBranch">&check; Branch 3 taken 29 times.</div>
-          <div class="takenBranch">&check; Branch 4 taken 58 times.</div>
+          <div class="takenBranch">&check; Branch 3 taken 1 times.</div>
+          <div class="takenBranch">&check; Branch 4 taken 2 times.</div>
         </div>
         </details>
       </td>
-      <td class="linecount coveredLine">87</td>
+      <td class="linecount coveredLine">3</td>
       <td class="src coveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">getValues</span><span class="p">(</span><span class="n">key</span><span class="p">,</span><span class="w"> </span><span class="n">values</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l91" href="#l91">91</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">29</td>
+      <td class="linecount coveredLine">1</td>
       <td class="src coveredLine"><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">values</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
@@ -819,14 +837,14 @@
       <td class="lineno"><a id="l93" href="#l93">93</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">58</td>
+      <td class="linecount coveredLine">2</td>
       <td class="src coveredLine"><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">defaultValues</span><span class="p">;</span></td>
     </tr>
     <tr class="source-line">
       <td class="lineno"><a id="l94" href="#l94">94</a></td>
       <td class="linebranch">
       </td>
-      <td class="linecount coveredLine">87</td>
+      <td class="linecount coveredLine">3</td>
       <td class="src coveredLine"><span class="p">}</span></td>
     </tr>
     <tr class="source-line">
