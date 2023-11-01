@@ -1,21 +1,39 @@
 <map id="SharedMemory::ScopedAccess::logString" name="SharedMemory::ScopedAccess::logString">
-<area shape="rect" id="node1" title=" " alt="" coords="1129,121,1349,161"/>
-<area shape="rect" id="node2" href="$classInterprocessIntermediateStorageManager.html#a35bafe75258802c049264a539d114d21" title=" " alt="" coords="833,5,1078,60"/>
-<area shape="rect" id="node3" href="$classInterprocessIndexerCommandManager.html#a5ec0bb17b47ed34cda10af987c80a87a" title=" " alt="" coords="835,85,1076,125"/>
-<area shape="rect" id="node7" href="$classInterprocessIntermediateStorageManager.html#ad941563b0ce178ea164667590642e987" title=" " alt="" coords="829,149,1081,204"/>
-<area shape="rect" id="node11" href="$classSharedMemoryGarbageCollector.html#ad930a9a576894c0290079616cb1554e7" title=" " alt="" coords="838,275,1073,315"/>
-<area shape="rect" id="node4" href="$classTaskFillIndexerCommandsQueue.html#a04c4f74d679c9a6ab7e3a008c92c26ba" title=" " alt="" coords="533,85,767,125"/>
-<area shape="rect" id="node5" href="$classTaskFillIndexerCommandsQueue.html#a8bdfa6a70ed7af380a2092788ca0bb65" title=" " alt="" coords="234,25,469,65"/>
-<area shape="rect" id="node6" href="$classTaskFillIndexerCommandsQueue.html#a42dd79bddf168162c146c7e4235f115a" title=" " alt="" coords="234,89,469,129"/>
-<area shape="rect" id="node8" href="$classInterprocessIndexer.html#a7d656cc5a98cb25fbebf49e476b5f1b1" title=" " alt="" coords="575,154,725,194"/>
-<area shape="rect" id="node9" href="$classTaskBuildIndex.html#ac0a61792e1d6c508d027f82cdbb29836" title=" " alt="" coords="252,154,451,194"/>
-<area shape="rect" id="node10" href="$classTaskBuildIndex.html#ac137f77d85462e8c8a9ab8d2037f8183" title=" " alt="" coords="5,161,184,187"/>
-<area shape="rect" id="node12" href="$classSharedMemoryGarbageCollector.html#a12c023b9c7cd160ece8d76203e7192ee" title=" " alt="" coords="533,218,767,258"/>
-<area shape="rect" id="node14" href="$classSharedMemoryGarbageCollector.html#a79d36cf48247c3f1e6e0c188c77006ea" title=" " alt="" coords="519,283,781,308"/>
-<area shape="rect" id="node16" href="$classSharedMemoryGarbageCollector.html#a34258f0bf5f0dd57e3987c1b6ffc441b" title=" " alt="" coords="533,333,767,373"/>
-<area shape="rect" id="node18" href="$classSharedMemoryGarbageCollector.html#a8c0f7ca199f6bdbdf92bf80e52a6b1b3" title=" " alt="" coords="533,397,767,437"/>
-<area shape="rect" id="node13" href="$classSharedMemory.html#ac1f9d0ebb065b26fbd2aa80ce6089a70" title=" " alt="" coords="238,225,465,251"/>
-<area shape="rect" id="node15" href="$classApplication.html#a2f836822eef82bbe2629fab5051227c9" title=" " alt="" coords="252,283,451,308"/>
-<area shape="rect" id="node17" href="$classApplication.html#a748bca84fefb9c12661cfaa2f623748d" title=" " alt="" coords="258,340,445,365"/>
-<area shape="rect" id="node19" href="$classSharedMemory.html#adc56751ce1b30224689e71cd3b6c09be" title=" " alt="" coords="232,404,471,429"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1126,130,1345,175"/>
+<area shape="rect" id="Node000002" href="$classInterprocessIntermediateStorageManager.html#a35bafe75258802c049264a539d114d21" title=" " alt="" coords="830,5,1074,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1174,125,1077,81,1047,70,1049,65,1079,76,1176,120"/>
+<area shape="rect" id="Node000003" href="$classInterprocessIndexerCommandManager.html#a5ec0bb17b47ed34cda10af987c80a87a" title=" " alt="" coords="832,91,1072,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1110,138,1072,133,1073,127,1110,132"/>
+<area shape="rect" id="Node000007" href="$classInterprocessIntermediateStorageManager.html#ad941563b0ce178ea164667590642e987" title=" " alt="" coords="826,160,1078,222"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1111,172,1078,176,1078,171,1110,167"/>
+<area shape="rect" id="Node000011" href="$classSharedMemoryGarbageCollector.html#ad930a9a576894c0290079616cb1554e7" title=" " alt="" coords="835,295,1069,340"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1183,185,993,297,991,292,1181,180"/>
+<area shape="rect" id="Node000004" href="$classTaskFillIndexerCommandsQueue.html#a04c4f74d679c9a6ab7e3a008c92c26ba" title=" " alt="" coords="531,91,764,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="816,116,764,116,764,111,816,111"/>
+<area shape="rect" id="Node000005" href="$classTaskFillIndexerCommandsQueue.html#a8bdfa6a70ed7af380a2092788ca0bb65" title=" " alt="" coords="233,26,466,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="527,90,454,74,455,69,528,85"/>
+<area shape="rect" id="Node000006" href="$classTaskFillIndexerCommandsQueue.html#a42dd79bddf168162c146c7e4235f115a" title=" " alt="" coords="233,95,466,140"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="515,118,467,119,467,113,515,113"/>
+<area shape="rect" id="Node000008" href="$classInterprocessIndexer.html#a7d656cc5a98cb25fbebf49e476b5f1b1" title=" " alt="" coords="572,166,722,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="811,192,723,191,723,186,811,187"/>
+<area shape="rect" id="Node000009" href="$classTaskBuildIndex.html#ac0a61792e1d6c508d027f82cdbb29836" title=" " alt="" coords="251,166,448,211"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="556,191,449,191,449,186,556,186"/>
+<area shape="rect" id="Node000010" href="$classTaskBuildIndex.html#ac137f77d85462e8c8a9ab8d2037f8183" title=" " alt="" coords="5,174,183,202"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="235,191,183,191,183,186,235,186"/>
+<area shape="rect" id="Node000012" href="$classSharedMemoryGarbageCollector.html#a12c023b9c7cd160ece8d76203e7192ee" title=" " alt="" coords="531,235,764,280"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="820,294,763,283,764,278,821,289"/>
+<area shape="rect" id="Node000014" href="$classSharedMemoryGarbageCollector.html#a79d36cf48247c3f1e6e0c188c77006ea" title=" " alt="" coords="516,304,778,331"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="820,320,779,320,779,315,820,315"/>
+<area shape="rect" id="Node000016" href="$classSharedMemoryGarbageCollector.html#a34258f0bf5f0dd57e3987c1b6ffc441b" title=" " alt="" coords="531,355,764,400"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="821,346,764,357,763,352,820,341"/>
+<area shape="rect" id="Node000018" href="$classSharedMemoryGarbageCollector.html#a8c0f7ca199f6bdbdf92bf80e52a6b1b3" title=" " alt="" coords="531,425,764,469"/>
+<area shape="poly" id="edge17_Node000011_Node000018" title=" " alt="" coords="904,351,845,384,779,415,746,426,744,421,777,410,843,379,901,346"/>
+<area shape="rect" id="Node000013" href="$classSharedMemory.html#ac1f9d0ebb065b26fbd2aa80ce6089a70" title=" " alt="" coords="236,244,463,271"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="515,260,463,260,463,255,515,255"/>
+<area shape="rect" id="Node000015" href="$classApplication.html#a2f836822eef82bbe2629fab5051227c9" title=" " alt="" coords="250,304,449,331"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="500,320,449,320,449,315,500,315"/>
+<area shape="rect" id="Node000017" href="$classApplication.html#a444b0b6d9162b14d5262b81bd75586df" title=" " alt="" coords="256,364,443,391"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="515,380,443,380,443,375,515,375"/>
+<area shape="rect" id="Node000019" href="$classSharedMemory.html#adc56751ce1b30224689e71cd3b6c09be" title=" " alt="" coords="231,433,468,461"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="515,450,469,450,469,444,515,444"/>
 </map>

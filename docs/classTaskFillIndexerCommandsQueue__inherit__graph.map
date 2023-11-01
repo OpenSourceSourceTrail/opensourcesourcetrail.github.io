@@ -1,7 +1,12 @@
 <map id="TaskFillIndexerCommandsQueue" name="TaskFillIndexerCommandsQueue">
-<area shape="rect" id="node1" title=" " alt="" coords="5,272,240,297"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="52,190,103,215"/>
-<area shape="rect" id="node3" href="$classMessageListener.html" title=" " alt="" coords="127,183,332,223"/>
-<area shape="rect" id="node4" href="$classMessageListenerBase.html" title=" " alt="" coords="93,5,257,31"/>
-<area shape="rect" id="node5" href="$classMessageListener.html" title=" " alt="" coords="196,80,401,120"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,286,239,314"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="81,201,131,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,243,122,285,117,286,109,244"/>
+<area shape="rect" id="Node000003" href="$classMessageListener.html" title=" " alt="" coords="156,192,360,237"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,247,145,288,142,283,208,243"/>
+<area shape="rect" id="Node000004" href="$classMessageListenerBase.html" title=" " alt="" coords="146,5,309,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,48,239,127,254,191,249,192,234,127,226,49"/>
+<area shape="rect" id="Node000005" href="$classMessageListener.html" title=" " alt="" coords="249,82,454,127"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="261,40,321,80,318,84,258,44"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="325,141,279,193,275,190,321,137"/>
 </map>

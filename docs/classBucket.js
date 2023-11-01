@@ -1,7 +1,7 @@
 var classBucket =
 [
     [ "Bucket", "classBucket.html#ab67ef01545c21ed49a252927f27b5d06", null ],
-    [ "Bucket", "classBucket.html#aa06943b250650aba0ce653d3fec0217e", null ],
+    [ "Bucket", "classBucket.html#ab1a7b2358486a7d0908cff732781f0b6", null ],
     [ "addNode", "classBucket.html#a0eba74d6151bd9b961d9fd3f19f05368", null ],
     [ "getColWidths", "classBucket.html#a88081ee2e670933b163008c7360a2d6c", null ],
     [ "getHeight", "classBucket.html#ae1f55a008b9a1cac84f401596524db7e", null ],

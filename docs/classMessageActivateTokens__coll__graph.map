@@ -1,12 +1,23 @@
 <map id="MessageActivateTokens" name="MessageActivateTokens">
-<area shape="rect" id="node1" title=" " alt="" coords="1187,279,1365,304"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="829,125,1036,165"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="231,81,343,107"/>
-<area shape="rect" id="node7" href="$classMessage.html" title=" " alt="" coords="392,132,591,157"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,80,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="13,65,73,91"/>
-<area shape="rect" id="node6" title=" " alt="" coords="17,205,68,231"/>
-<area shape="rect" id="node8" href="$classMessageActivateBase.html" title=" " alt="" coords="849,279,1016,304"/>
-<area shape="rect" id="node9" title=" " alt="" coords="880,328,985,353"/>
-<area shape="rect" id="node10" title=" " alt="" coords="844,377,1021,403"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1181,299,1358,326"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="825,132,1031,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1012,179,1084,207,1158,241,1208,269,1249,296,1246,300,1205,273,1156,246,1082,212,1010,184"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="229,89,340,117"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,102,556,109,678,117,801,129,825,132,824,137,800,134,678,122,556,114,355,107"/>
+<area shape="rect" id="Node000007" href="$classMessage.html" title=" " alt="" coords="389,140,587,168"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="356,118,430,137,429,142,355,123"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,79,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,21,149,30,206,47,240,66,268,87,265,91,237,71,204,52,148,35,94,26"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="12,71,72,98"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="88,85,228,96,228,102,87,91"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="17,225,67,253"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="82,242,174,253,283,259,929,259,1005,263,1081,272,1209,295,1208,301,1080,277,1005,268,929,264,283,264,173,259,81,248"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="82,236,142,227,174,217,203,203,227,184,247,160,274,116,278,119,251,163,231,187,206,207,176,222,143,232,83,241"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="602,151,824,151,824,157,602,157"/>
+<area shape="rect" id="Node000008" href="$classMessageActivateBase.html" title=" " alt="" coords="845,299,1011,326"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1026,310,1181,310,1181,315,1026,315"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="876,351,980,378"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="995,354,1157,332,1200,324,1201,330,1157,337,996,360"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="840,403,1016,430"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1031,401,1093,388,1156,370,1204,348,1245,325,1248,329,1207,353,1158,375,1095,393,1032,406"/>
 </map>

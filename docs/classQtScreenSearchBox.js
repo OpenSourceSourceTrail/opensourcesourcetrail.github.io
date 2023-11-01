@@ -1,10 +1,16 @@
 var classQtScreenSearchBox =
 [
     [ "QtScreenSearchBox", "classQtScreenSearchBox.html#a8297d5a13f70e1ab57a751fd81bfabbb", null ],
-    [ "~QtScreenSearchBox", "classQtScreenSearchBox.html#aa9af65e0e039e06c9d3d8104ce1ca65d", null ],
+    [ "~QtScreenSearchBox", "classQtScreenSearchBox.html#a2d683b1100143cc3ee22662c00c7cad0", null ],
     [ "activateMatch", "classQtScreenSearchBox.html#a43f4558da3a7a8c9f28ea4b7cafa94b3", null ],
     [ "addResponder", "classQtScreenSearchBox.html#a6f7fc303a49dbd0f6e16b1e5e3c41d0c", null ],
     [ "closePressed", "classQtScreenSearchBox.html#ab899086c15ccb00d8e27321a79ed2f0b", null ],
+    [ "createCloseButton", "classQtScreenSearchBox.html#a6a16cbd852778038ac1bb8290df8c2e2", null ],
+    [ "createFilterLayout", "classQtScreenSearchBox.html#aa56b24509b9778eeb85733750e1261b4", null ],
+    [ "createMatchButton", "classQtScreenSearchBox.html#adfcd6762718322758020a3c99a717658", null ],
+    [ "createPrevNextButton", "classQtScreenSearchBox.html#a3aab0b8287504240884887872127ba18", null ],
+    [ "createSearchField", "classQtScreenSearchBox.html#a02237d5585e74f02c9aed8351742308a", null ],
+    [ "createTimer", "classQtScreenSearchBox.html#aa64514fbb203b4d90c1815105632faf5", null ],
     [ "findMatches", "classQtScreenSearchBox.html#a7a58d3670edad457024cc25c963faabe", null ],
     [ "nextPressed", "classQtScreenSearchBox.html#a5eb2bc13c44a9b57c29cc611f348d3af", null ],
     [ "previousPressed", "classQtScreenSearchBox.html#a6d407a0a87345fe75fa8e0bfe849192e", null ],

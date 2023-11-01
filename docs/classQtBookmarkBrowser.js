@@ -15,7 +15,7 @@ var classQtBookmarkBrowser =
     [ "handleClose", "classQtBookmarkBrowser.html#a7771a31f702ab4307c16226d9eaf66a1", null ],
     [ "handleClosePress", "classQtBookmarkBrowser.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtBookmarkBrowser.html#a9a00617a1e59e0cc66e5ae907075d04d", null ],
-    [ "handleNextPress", "classQtBookmarkBrowser.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtBookmarkBrowser.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtBookmarkBrowser.html#aa0e2b118a9cf753c4dacb35528beb5ff", null ],
     [ "handlePreviousPress", "classQtBookmarkBrowser.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtBookmarkBrowser.html#a932ab453a347b3d196e431ff9c2626eb", null ],

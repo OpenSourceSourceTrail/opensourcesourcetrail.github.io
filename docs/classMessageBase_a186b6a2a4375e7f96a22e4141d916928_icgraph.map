@@ -1,13 +1,27 @@
 <map id="MessageBase::setSendAsTask" name="MessageBase::setSendAsTask">
-<area shape="rect" id="node1" title=" " alt="" coords="281,301,499,326"/>
-<area shape="rect" id="node2" href="$classQtGraphNodeData.html#a6e42e0e293fe837eafbc1425675bdc3b" title=" " alt="" coords="9,5,229,45"/>
-<area shape="rect" id="node3" href="$classMessageErrorCountClear.html#a00851aededdc35da9dab1d9fb716c008" title=" " alt="" coords="24,69,215,109"/>
-<area shape="rect" id="node4" href="$classMessageErrorCountUpdate.html#a0e05f114d7b96577fa4040c1f7dc8995" title=" " alt="" coords="17,133,221,173"/>
-<area shape="rect" id="node5" href="$classMessageIndexingInterrupted.html#ad2cc204266ba2cbcfc86d921ffef5da5" title=" " alt="" coords="11,197,227,237"/>
-<area shape="rect" id="node6" href="$classMessageIndexingShowDialog.html#a61cd63876768e9db8384dc191dc7befa" title=" " alt="" coords="9,261,230,301"/>
-<area shape="rect" id="node7" href="$classMessageIndexingStatus.html#a7524bc15c02f4aad767dd201328a0eaf" title=" " alt="" coords="27,325,212,365"/>
-<area shape="rect" id="node8" href="$classMessageStatus.html#a91c98138fcdb0b65f9433be5637bd90c" title=" " alt="" coords="5,390,233,415"/>
-<area shape="rect" id="node9" href="$classMessageTooltipHide.html#a1b07f98d02767c8141e67ba84058e87b" title=" " alt="" coords="39,440,200,480"/>
-<area shape="rect" id="node10" href="$classMessageTooltipShow.html#a5eb076aa14fcdc564ff7fd2eb88e1908" title=" " alt="" coords="36,504,203,544"/>
-<area shape="rect" id="node11" href="$classMessageWindowClosed.html#a7006e3d7133e108ff43cb68186b8e497" title=" " alt="" coords="27,568,211,608"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,391,497,419"/>
+<area shape="rect" id="Node000002" href="$classQtGraphNodeData.html#a6e42e0e293fe837eafbc1425675bdc3b" title=" " alt="" coords="9,5,229,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="380,377,365,312,337,228,318,183,294,140,265,100,231,64,215,53,218,48,234,60,269,96,298,137,322,181,342,226,370,311,385,375"/>
+<area shape="rect" id="Node000003" href="$classMessageErrorCountClear.html#a00851aededdc35da9dab1d9fb716c008" title=" " alt="" coords="24,75,214,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,377,358,325,328,259,286,192,260,161,231,134,213,122,216,118,234,130,264,157,290,188,333,257,363,323,382,375"/>
+<area shape="rect" id="Node000004" href="$classMessageErrorCountUpdate.html#a8bce47bf6b5e5859ab29d919617a0731" title=" " alt="" coords="17,144,221,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,379,349,340,318,292,278,244,231,203,211,192,213,187,234,199,282,240,322,289,354,337,376,376"/>
+<area shape="rect" id="Node000005" href="$classMessageIndexingInterrupted.html#ad2cc204266ba2cbcfc86d921ffef5da5" title=" " alt="" coords="11,213,227,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="363,381,306,327,270,298,231,273,207,261,209,256,234,268,273,293,310,323,366,377"/>
+<area shape="rect" id="Node000006" href="$classMessageIndexingShowDialog.html#a61cd63876768e9db8384dc191dc7befa" title=" " alt="" coords="9,283,229,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="341,387,232,342,197,330,199,325,234,337,343,382"/>
+<area shape="rect" id="Node000007" href="$classMessageIndexingStatus.html#adbd5b1eb22a9c24193f850170dc1b029" title=" " alt="" coords="27,352,211,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="265,394,211,387,212,382,266,388"/>
+<area shape="rect" id="Node000008" href="$classMessageStatus.html#a5452a4ffcd8603347679c5d143c24488" title=" " alt="" coords="5,421,233,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="266,421,233,425,233,419,265,416"/>
+<area shape="rect" id="Node000009" href="$classMessageStatus.html#a150a89229ebf0f80322d046e288b7090" title=" " alt="" coords="5,473,233,500"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="337,427,233,462,187,474,186,469,232,457,335,422"/>
+<area shape="rect" id="Node000010" href="$classMessageTooltipHide.html#a1b07f98d02767c8141e67ba84058e87b" title=" " alt="" coords="39,524,199,569"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="360,431,304,473,234,514,200,528,198,523,231,509,301,468,357,427"/>
+<area shape="rect" id="Node000011" href="$classMessageTooltipShow.html#a8a81eaecb58db1497bfac12741e94624" title=" " alt="" coords="36,593,202,638"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="373,433,317,508,278,548,234,583,203,599,201,594,231,579,275,544,313,504,369,430"/>
+<area shape="rect" id="Node000012" href="$classMessageTooltipShow.html#ac23bad02deee27e4dfc9752a627e4542" title=" " alt="" coords="36,663,202,707"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="380,434,360,482,328,540,287,601,262,628,234,653,204,670,201,665,231,648,258,624,283,597,324,538,355,479,375,432"/>
+<area shape="rect" id="Node000013" href="$classMessageWindowClosed.html#a7006e3d7133e108ff43cb68186b8e497" title=" " alt="" coords="27,732,211,777"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="384,435,367,495,338,572,318,613,295,652,267,689,234,722,212,736,209,732,231,718,263,686,290,649,314,610,333,570,362,493,379,434"/>
 </map>

@@ -1,20 +1,40 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib_gui/qt/network/QtRequest.cpp" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib_gui/qt/network/QtRequest.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="269,5,471,75"/>
-<area shape="rect" id="node2" href="$QtRequest_8h.html" title=" " alt="" coords="57,123,160,148"/>
-<area shape="rect" id="node5" title=" " alt="" coords="185,123,374,148"/>
-<area shape="rect" id="node6" title=" " alt="" coords="399,123,523,148"/>
-<area shape="rect" id="node7" href="$logging_8h.html" title=" " alt="" coords="547,123,630,148"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,196,103,221"/>
-<area shape="rect" id="node4" title=" " alt="" coords="127,196,202,221"/>
-<area shape="rect" id="node8" title=" " alt="" coords="491,196,566,221"/>
-<area shape="rect" id="node9" href="$LogManager_8h.html" title=" " alt="" coords="590,196,705,221"/>
-<area shape="rect" id="node10" title=" " alt="" coords="609,343,686,368"/>
-<area shape="rect" id="node11" href="$LogManagerImplementation_8h.html" title=" " alt="" coords="391,269,610,295"/>
-<area shape="rect" id="node14" href="$Logger_8h.html" title=" " alt="" coords="685,269,764,295"/>
-<area shape="rect" id="node12" title=" " alt="" coords="433,343,497,368"/>
-<area shape="rect" id="node13" title=" " alt="" coords="521,343,584,368"/>
-<area shape="rect" id="node15" href="$LogMessage_8h.html" title=" " alt="" coords="710,343,825,368"/>
-<area shape="rect" id="node16" title=" " alt="" coords="647,416,714,441"/>
-<area shape="rect" id="node17" title=" " alt="" coords="738,416,797,441"/>
-<area shape="rect" id="node18" title=" " alt="" coords="821,416,885,441"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib_gui/qt/network/QtRequest.cpp" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib_gui/qt/network/QtRequest.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,5,508,84"/>
+<area shape="rect" id="Node000002" href="$QtRequest_8h.html" title=" " alt="" coords="58,132,159,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,87,157,129,156,124,264,82"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="183,132,372,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="334,86,301,122,297,118,330,83"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="396,132,519,160"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="404,83,437,118,433,122,400,86"/>
+<area shape="rect" id="Node000007" href="$logging_8h.html" title=" " alt="" coords="544,132,625,160"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="453,82,543,123,541,128,451,87"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,208,102,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,162,74,197,70,193,96,159"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="126,208,200,235"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="120,159,146,193,142,197,116,162"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="488,208,563,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="576,162,547,197,543,194,572,159"/>
+<area shape="rect" id="Node000009" href="$LogManager_8h.html" title=" " alt="" coords="586,208,700,235"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="597,159,625,194,621,197,593,162"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="485,359,561,387"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="590,238,553,256,537,269,524,285,518,298,516,314,518,344,512,344,510,313,513,297,519,282,533,265,550,252,587,233"/>
+<area shape="rect" id="Node000011" href="$LogManagerImplementation_8h.html" title=" " alt="" coords="534,283,752,311"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="646,236,646,268,640,268,640,236"/>
+<area shape="rect" id="Node000014" href="$Logger_8h.html" title=" " alt="" coords="776,283,854,311"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="675,233,771,274,769,279,673,238"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="623,314,558,353,555,349,620,309"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="611,359,675,387"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="646,312,646,343,640,343,640,312"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="706,359,769,387"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="661,309,710,347,707,351,658,314"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="803,313,764,350,760,346,799,310"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="784,435,843,462"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="817,311,816,419,811,419,812,311"/>
+<area shape="rect" id="Node000016" href="$LogMessage_8h.html" title=" " alt="" coords="847,359,961,387"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="832,309,878,347,875,351,829,314"/>
+<area shape="poly" id="edge19_Node000016_Node000015" title=" " alt="" coords="890,389,843,427,840,423,886,385"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="869,435,934,462"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="906,387,905,419,900,419,901,387"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="958,435,1021,462"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="921,385,964,422,961,426,918,389"/>
 </map>

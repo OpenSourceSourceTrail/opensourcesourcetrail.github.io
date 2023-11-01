@@ -1,6 +1,7 @@
 var classQtContextMenu =
 [
-    [ "QtContextMenu", "classQtContextMenu.html#a1c3acff8d9afbed11f430d5a36f6b4ae", null ],
+    [ "QtContextMenu", "classQtContextMenu.html#a9d91c22ececd4a212997007dd3e5ff5d", null ],
+    [ "~QtContextMenu", "classQtContextMenu.html#a4e554ce5d005b76398831b4fdf85c940", null ],
     [ "QtContextMenu", "classQtContextMenu.html#a128fdee90c24eb8f5692fa95c51f2655", null ],
     [ "addAction", "classQtContextMenu.html#a4526ac278b3303ea79bd647ebc1d6477", null ],
     [ "addFileActions", "classQtContextMenu.html#a34803c665af2c4a5ba8bda72d162bc20", null ],

@@ -1,21 +1,41 @@
 <map id="QtPathListBoxItem" name="QtPathListBoxItem">
-<area shape="rect" id="node1" title=" " alt="" coords="1216,295,1360,320"/>
-<area shape="rect" id="node2" href="$classQtListBoxItem.html" title=" " alt="" coords="618,100,733,125"/>
-<area shape="rect" id="node3" href="$classQWidget.html" title=" " alt="" coords="232,5,311,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="200,55,343,80"/>
-<area shape="rect" id="node5" href="$classQtLineEdit.html" title=" " alt="" coords="227,104,316,129"/>
-<area shape="rect" id="node6" href="$classQLineEdit.html" title=" " alt="" coords="14,104,98,129"/>
-<area shape="rect" id="node7" title=" " alt="" coords="246,188,297,213"/>
-<area shape="rect" id="node18" href="$classFilePath.html" title=" " alt="" coords="639,295,712,320"/>
-<area shape="rect" id="node8" href="$classQtPathListBox.html" title=" " alt="" coords="984,295,1099,320"/>
-<area shape="rect" id="node9" href="$classQtListBox.html" title=" " alt="" coords="633,444,718,469"/>
-<area shape="rect" id="node10" href="$classQFrame.html" title=" " alt="" coords="235,345,308,371"/>
-<area shape="rect" id="node11" href="$classQtListWidget.html" title=" " alt="" coords="218,395,325,420"/>
-<area shape="rect" id="node12" href="$classQListWidget.html" title=" " alt="" coords="5,395,107,420"/>
-<area shape="rect" id="node13" title=" " alt="" coords="210,444,333,469"/>
-<area shape="rect" id="node14" title=" " alt="" coords="213,617,330,643"/>
-<area shape="rect" id="node15" title=" " alt="" coords="236,493,307,519"/>
-<area shape="rect" id="node16" title=" " alt="" coords="156,543,387,568"/>
-<area shape="rect" id="node17" title=" " alt="" coords="580,245,771,271"/>
-<area shape="rect" id="node19" title=" " alt="" coords="196,281,347,321"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1208,317,1351,345"/>
+<area shape="rect" id="Node000002" href="$classQtListBoxItem.html" title=" " alt="" coords="614,105,728,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,136,1238,314,1236,319,727,141"/>
+<area shape="rect" id="Node000003" href="$classQWidget.html" title=" " alt="" coords="231,5,308,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,20,431,33,493,45,553,61,604,81,646,102,644,107,601,85,552,66,491,50,430,39,323,25"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="199,57,340,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,76,553,98,614,107,613,112,552,103,355,81"/>
+<area shape="rect" id="Node000005" href="$classQtLineEdit.html" title=" " alt="" coords="226,109,314,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="329,120,613,117,613,122,329,125"/>
+<area shape="rect" id="Node000006" href="$classQLineEdit.html" title=" " alt="" coords="14,109,97,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="113,121,225,121,225,126,113,126"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="245,201,294,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="309,203,613,130,614,135,310,209"/>
+<area shape="rect" id="Node000018" href="$classFilePath.html" title=" " alt="" coords="635,317,707,345"/>
+<area shape="poly" id="edge19_Node000018_Node000007" title=" " alt="" coords="310,230,409,270,533,302,635,323,634,328,532,307,408,275,308,235"/>
+<area shape="rect" id="Node000008" href="$classQtPathListBox.html" title=" " alt="" coords="978,317,1091,345"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1106,329,1208,329,1208,334,1106,334"/>
+<area shape="rect" id="Node000009" href="$classQtListBox.html" title=" " alt="" coords="629,473,713,501"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="718,464,999,343,1001,348,721,469"/>
+<area shape="rect" id="Node000010" href="$classQFrame.html" title=" " alt="" coords="234,369,306,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="322,384,429,396,492,408,553,425,605,447,648,470,646,475,603,451,551,430,491,413,429,402,321,389"/>
+<area shape="rect" id="Node000011" href="$classQtListWidget.html" title=" " alt="" coords="217,421,322,449"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="338,438,553,463,629,476,628,482,552,468,338,444"/>
+<area shape="rect" id="Node000012" href="$classQListWidget.html" title=" " alt="" coords="5,421,106,449"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="121,433,217,433,217,438,121,438"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="209,473,330,501"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="346,485,628,485,628,490,346,490"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="212,657,328,685"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="344,676,443,677,498,673,552,665,664,634,775,594,882,548,983,499,1151,407,1255,343,1258,348,1153,412,985,504,884,553,777,599,665,639,553,670,499,679,443,683,344,681"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="343,668,392,663,445,654,500,639,551,616,587,590,618,558,659,500,664,503,622,561,591,594,554,621,502,644,447,659,392,668,344,673"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="235,525,304,553"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="320,533,427,522,552,507,628,493,629,498,553,512,427,528,320,538"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="155,577,384,605"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="399,579,476,567,551,547,604,524,647,499,650,504,606,529,553,552,477,572,400,584"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="576,265,766,293"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="782,283,866,292,954,306,988,314,987,319,953,311,866,298,781,289"/>
+<area shape="poly" id="edge17_Node000008_Node000018" title=" " alt="" coords="723,329,977,329,977,334,723,334"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="195,301,344,346"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="360,325,408,327,635,329,635,334,408,332,360,330"/>
 </map>

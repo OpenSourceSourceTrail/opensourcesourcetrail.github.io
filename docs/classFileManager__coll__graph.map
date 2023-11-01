@@ -1,7 +1,11 @@
 <map id="FileManager" name="FileManager">
-<area shape="rect" id="node1" title=" " alt="" coords="309,93,411,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,149,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="173,5,349,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="374,5,543,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="568,5,691,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="308,98,409,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,149,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,38,190,71,251,89,308,100,307,105,249,94,188,77,112,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="173,5,349,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,43,315,72,343,95,340,99,312,76,282,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="373,5,541,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,49,430,76,394,100,391,95,426,72,444,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="565,5,688,33"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="614,48,601,63,585,76,553,88,507,97,409,109,408,104,506,92,551,83,582,72,597,59,610,44"/>
 </map>

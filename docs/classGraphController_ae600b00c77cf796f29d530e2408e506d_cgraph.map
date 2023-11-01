@@ -1,6 +1,9 @@
 <map id="GraphController::getExpandedNodeIds" name="GraphController::getExpandedNodeIds">
-<area shape="rect" id="node1" title=" " alt="" coords="5,23,224,63"/>
-<area shape="rect" id="node2" href="$structDummyNode.html#aa3924d8b494b3cc9534db013d76746c0" title=" " alt="" coords="272,5,472,31"/>
-<area shape="rect" id="node3" href="$classNode.html#aa148d87d220426bc199b7d72f3b80127" title=" " alt="" coords="319,55,425,80"/>
-<area shape="rect" id="node4" href="$classNodeType.html#af90334d7e6d5ecd651904fedfaf4b3b9" title=" " alt="" coords="520,55,664,80"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,223,50"/>
+<area shape="rect" id="Node000002" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="271,14,456,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,25,255,25,255,30,223,30"/>
+<area shape="rect" id="Node000003" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="504,14,650,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,25,488,25,488,30,456,30"/>
+<area shape="rect" id="Node000004" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="698,14,856,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="651,25,683,25,683,30,651,30"/>
 </map>

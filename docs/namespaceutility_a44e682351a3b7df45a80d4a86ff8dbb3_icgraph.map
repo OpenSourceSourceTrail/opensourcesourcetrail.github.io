@@ -1,18 +1,34 @@
 <map id="utility::setWidgetBackgroundColor" name="utility::setWidgetBackgroundColor">
-<area shape="rect" id="node1" title=" " alt="" coords="857,200,1068,240"/>
-<area shape="rect" id="node2" href="$classQtCodeArea.html#ae7d6811b15eeff76bfd95a7439d183f8" title=" " alt="" coords="593,5,807,45"/>
-<area shape="rect" id="node4" href="$classQtCompositeView.html#a8a9c62052696d89c0f25dc8cb3addb38" title=" " alt="" coords="317,103,543,129"/>
-<area shape="rect" id="node6" href="$classQtStatusView.html#acceaeceef6429443b269ef6c86ccb668" title=" " alt="" coords="602,121,798,146"/>
-<area shape="rect" id="node7" href="$classQtTabbedView.html#a288f847a0798a80a2fd4f9079c221c9f" title=" " alt="" coords="593,235,807,261"/>
-<area shape="rect" id="node10" href="$classQtTabsView.html#aabbb3d658c3ccf45da8b5806fd3d3f6e" title=" " alt="" coords="602,285,798,310"/>
-<area shape="rect" id="node12" href="$classQtCodeView.html#accbc8c3a231efc9131e0a78d3507b808" title=" " alt="" coords="600,334,800,359"/>
-<area shape="rect" id="node14" href="$classQtErrorView.html#a66c5bc4a991df31c1c59765350909f98" title=" " alt="" coords="601,383,799,409"/>
-<area shape="rect" id="node16" href="$classQtCompositeView.html#a3492c0c4de471c71745f6758c19d2b37" title=" " alt="" coords="591,171,809,211"/>
-<area shape="rect" id="node3" href="$classQtLineNumberArea.html#a856132f7a1d9748775168f5c22e147d4" title=" " alt="" coords="318,13,542,38"/>
-<area shape="rect" id="node5" href="$classQtCompositeView.html#ad4467d75a24c89b33640089da74bf3ca" title=" " alt="" coords="5,103,269,129"/>
-<area shape="rect" id="node8" href="$classQtTabbedView.html#ac31522e47925948cc0003c2750c34f08" title=" " alt="" coords="317,186,543,211"/>
-<area shape="rect" id="node9" href="$classQtTabbedView.html#aa6cf1116e36db48e16a5a966b5e940cb" title=" " alt="" coords="329,235,531,261"/>
-<area shape="rect" id="node11" href="$classQtTabsView.html#abda747e0f0dd5a11e00e6efbb832317d" title=" " alt="" coords="338,285,522,310"/>
-<area shape="rect" id="node13" href="$classQtCodeView.html#a2422f2f7a3cfbf0807e297079215269e" title=" " alt="" coords="336,334,524,359"/>
-<area shape="rect" id="node15" href="$classQtErrorView.html#a7f68ffccbea19232907549a76ba76648" title=" " alt="" coords="337,383,523,409"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="854,207,1064,251"/>
+<area shape="rect" id="Node000002" href="$classQtCodeArea.html#ae7d6811b15eeff76bfd95a7439d183f8" title=" " alt="" coords="591,5,804,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,196,876,133,842,100,805,71,770,53,773,48,808,67,846,96,880,129,934,192"/>
+<area shape="rect" id="Node000004" href="$classQtCompositeView.html#a8a9c62052696d89c0f25dc8cb3addb38" title=" " alt="" coords="317,107,541,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="925,197,872,152,840,131,805,116,766,105,724,98,640,94,562,99,495,109,495,104,561,94,640,88,725,92,767,99,807,110,843,126,875,147,928,193"/>
+<area shape="rect" id="Node000006" href="$classQtStatusView.html#acceaeceef6429443b269ef6c86ccb668" title=" " alt="" coords="600,125,795,152"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="896,202,805,166,767,155,769,150,807,161,898,197"/>
+<area shape="rect" id="Node000007" href="$classQtTabbedView.html#a288f847a0798a80a2fd4f9079c221c9f" title=" " alt="" coords="592,245,804,272"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="839,245,805,249,804,244,839,240"/>
+<area shape="rect" id="Node000010" href="$classQtTabsView.html#aabbb3d658c3ccf45da8b5806fd3d3f6e" title=" " alt="" coords="600,297,795,324"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="885,260,807,286,762,298,761,293,806,281,884,255"/>
+<area shape="rect" id="Node000012" href="$classQtCodeView.html#accbc8c3a231efc9131e0a78d3507b808" title=" " alt="" coords="598,349,797,376"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="922,264,869,303,807,338,773,350,772,345,805,333,866,298,918,259"/>
+<area shape="rect" id="Node000014" href="$classQtErrorView.html#a66c5bc4a991df31c1c59765350909f98" title=" " alt="" coords="599,401,796,428"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="936,266,882,329,847,362,808,390,780,402,778,397,805,385,844,358,878,326,932,262"/>
+<area shape="rect" id="Node000016" href="$classQtCompositeView.html#a3492c0c4de471c71745f6758c19d2b37" title=" " alt="" coords="589,176,806,221"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="839,218,807,214,807,208,839,212"/>
+<area shape="rect" id="Node000003" href="$classQtLineNumberArea.html#a856132f7a1d9748775168f5c22e147d4" title=" " alt="" coords="317,14,541,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="575,30,541,30,541,25,575,25"/>
+<area shape="rect" id="Node000005" href="$classQtCompositeView.html#ad4467d75a24c89b33640089da74bf3ca" title=" " alt="" coords="5,107,269,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,124,269,124,269,118,301,118"/>
+<area shape="rect" id="Node000008" href="$classQtTabbedView.html#ac31522e47925948cc0003c2750c34f08" title=" " alt="" coords="317,193,541,220"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="607,244,504,223,505,218,608,238"/>
+<area shape="rect" id="Node000009" href="$classQtTabbedView.html#aa6cf1116e36db48e16a5a966b5e940cb" title=" " alt="" coords="329,245,529,272"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="576,261,529,261,529,256,576,256"/>
+<area shape="rect" id="Node000011" href="$classQtTabsView.html#abda747e0f0dd5a11e00e6efbb832317d" title=" " alt="" coords="337,297,521,324"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="584,313,521,313,521,308,584,308"/>
+<area shape="rect" id="Node000013" href="$classQtCodeView.html#a2422f2f7a3cfbf0807e297079215269e" title=" " alt="" coords="335,349,523,376"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="583,365,523,365,523,360,583,360"/>
+<area shape="rect" id="Node000015" href="$classQtErrorView.html#a7f68ffccbea19232907549a76ba76648" title=" " alt="" coords="336,401,522,428"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="584,417,522,417,522,412,584,412"/>
+<area shape="poly" id="edge16_Node000016_Node000004" title=" " alt="" coords="602,174,479,138,480,133,604,169"/>
 </map>

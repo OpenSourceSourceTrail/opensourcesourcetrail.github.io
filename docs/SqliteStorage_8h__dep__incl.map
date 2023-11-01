@@ -1,24 +1,47 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/storage/sqlite/SqliteStorage.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/storage/sqlite/SqliteStorage.h">
-<area shape="rect" id="node1" title=" " alt="" coords="1353,5,1555,75"/>
-<area shape="rect" id="node2" href="$SqliteStorageMigration_8h.html" title=" " alt="" coords="347,123,601,192"/>
-<area shape="rect" id="node7" href="$SqliteBookmarkStorage_8h.html" title=" " alt="" coords="1218,123,1450,192"/>
-<area shape="rect" id="node16" href="$SqliteIndexStorage_8h.html" title=" " alt="" coords="1591,123,1794,192"/>
-<area shape="rect" id="node22" href="$SqliteStorage_8cpp.html" title=" " alt="" coords="1818,123,2021,192"/>
-<area shape="rect" id="node3" href="$SqliteStorageMigration_8cpp.html" title=" " alt="" coords="27,247,297,317"/>
-<area shape="rect" id="node4" href="$SqliteStorageMigrationLambda_8h.html" title=" " alt="" coords="321,247,627,317"/>
-<area shape="rect" id="node5" href="$SqliteStorageMigrationLambda_8cpp.html" title=" " alt="" coords="5,372,327,441"/>
-<area shape="rect" id="node6" href="$SqliteBookmarkStorage_8cpp.html" title=" " alt="" coords="351,372,597,441"/>
-<area shape="rect" id="node8" href="$PersistentStorage_8h.html" title=" " alt="" coords="1233,247,1435,317"/>
-<area shape="rect" id="node9" href="$TaskCleanStorage_8cpp.html" title=" " alt="" coords="621,379,889,434"/>
-<area shape="rect" id="node10" href="$TaskFinishParsing_8cpp.html" title=" " alt="" coords="914,379,1181,434"/>
-<area shape="rect" id="node11" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="1205,372,1463,441"/>
-<area shape="rect" id="node12" href="$TaskParseWrapper_8cpp.html" title=" " alt="" coords="1487,372,1690,441"/>
-<area shape="rect" id="node13" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="1714,372,1917,441"/>
-<area shape="rect" id="node14" href="$Project_8cpp.html" title=" " alt="" coords="1941,379,2154,434"/>
-<area shape="rect" id="node15" href="$RefreshInfoGenerator_8cpp.html" title=" " alt="" coords="2178,372,2394,441"/>
-<area shape="rect" id="node17" href="$SqliteIndexStorage_8cpp.html" title=" " alt="" coords="1459,247,1675,317"/>
-<area shape="rect" id="node18" href="$SourceGroupCustomCommand_8cpp.html" title=" " alt="" coords="1699,247,1923,317"/>
-<area shape="rect" id="node19" href="$QtProjectWizardContentCustomCommand_8cpp.html" title=" " alt="" coords="1947,240,2233,324"/>
-<area shape="rect" id="node20" href="$QtProjectWizardContentSelect_8cpp.html" title=" " alt="" coords="2257,240,2542,324"/>
-<area shape="rect" id="node21" href="$QtAbout_8cpp.html" title=" " alt="" coords="2566,247,2769,317"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/storage/sqlite/SqliteStorage.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/storage/sqlite/SqliteStorage.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1490,5,1772,84"/>
+<area shape="rect" id="Node000002" href="$SqliteStorageMigration_8h.html" title=" " alt="" coords="350,132,632,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1475,66,633,157,632,152,1474,60"/>
+<area shape="rect" id="Node000007" href="$SqliteBookmarkStorage_8h.html" title=" " alt="" coords="1336,132,1619,211"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1573,96,1527,134,1523,129,1570,92"/>
+<area shape="rect" id="Node000016" href="$SqliteIndexStorage_8h.html" title=" " alt="" coords="1806,132,2088,211"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1744,88,1850,129,1848,134,1742,93"/>
+<area shape="rect" id="Node000022" href="$SqliteStorage_8cpp.html" title=" " alt="" coords="2112,132,2395,211"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="1788,70,2101,129,2113,132,2111,137,2100,135,1787,75"/>
+<area shape="rect" id="Node000003" href="$SqliteStorageMigration_8cpp.html" title=" " alt="" coords="32,259,315,337"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,219,273,261,271,256,377,214"/>
+<area shape="rect" id="Node000004" href="$SqliteStorageMigrationLambda_8h.html" title=" " alt="" coords="338,259,644,337"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="494,226,494,258,488,258,488,226"/>
+<area shape="rect" id="Node000005" href="$SqliteStorageMigrationLambda_8cpp.html" title=" " alt="" coords="5,385,326,464"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="377,346,268,387,266,382,375,341"/>
+<area shape="rect" id="Node000006" href="$SqliteBookmarkStorage_8cpp.html" title=" " alt="" coords="350,385,632,464"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="494,353,494,385,488,385,488,353"/>
+<area shape="poly" id="edge15_Node000007_Node000006" title=" " alt="" coords="1322,215,633,390,632,385,1321,210"/>
+<area shape="rect" id="Node000008" href="$PersistentStorage_8h.html" title=" " alt="" coords="1336,259,1619,337"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1480,226,1480,258,1475,258,1475,226"/>
+<area shape="rect" id="Node000009" href="$TaskCleanStorage_8cpp.html" title=" " alt="" coords="657,394,973,456"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1322,327,986,388,948,396,947,391,985,383,1321,322"/>
+<area shape="rect" id="Node000010" href="$TaskFinishParsing_8cpp.html" title=" " alt="" coords="998,394,1312,456"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1364,346,1234,396,1232,391,1362,341"/>
+<area shape="rect" id="Node000011" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="1336,385,1619,464"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1480,353,1480,385,1475,385,1475,353"/>
+<area shape="rect" id="Node000012" href="$TaskParseWrapper_8cpp.html" title=" " alt="" coords="1643,385,1925,464"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="1588,341,1690,382,1688,387,1586,346"/>
+<area shape="rect" id="Node000013" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="1950,385,2232,464"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="1634,335,1720,350,1788,359,1854,368,1938,383,1950,385,1949,390,1937,388,1853,373,1787,364,1719,355,1633,340"/>
+<area shape="rect" id="Node000014" href="$Project_8cpp.html" title=" " alt="" coords="2256,394,2539,456"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="1634,335,1727,347,1806,354,1941,358,2075,363,2153,370,2245,383,2285,391,2284,396,2244,388,2153,375,2075,368,1941,364,1806,359,1726,353,1634,340"/>
+<area shape="rect" id="Node000015" href="$RefreshInfoGenerator_8cpp.html" title=" " alt="" coords="2563,394,2920,456"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="1635,335,1774,352,1892,360,2094,362,2295,362,2413,369,2551,383,2603,391,2602,396,2550,388,2413,374,2295,368,2094,367,1892,365,1773,357,1634,340"/>
+<area shape="poly" id="edge17_Node000016_Node000008" title=" " alt="" coords="1791,216,1620,262,1618,257,1790,211"/>
+<area shape="rect" id="Node000017" href="$SqliteIndexStorage_8cpp.html" title=" " alt="" coords="1643,259,1925,337"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1886,222,1836,260,1833,256,1883,218"/>
+<area shape="rect" id="Node000018" href="$SourceGroupCustomCommand_8cpp.html" title=" " alt="" coords="1950,259,2272,337"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="2011,218,2061,256,2058,260,2008,222"/>
+<area shape="rect" id="Node000019" href="$QtProjectWizardContentCustomCommand_8cpp.html" title=" " alt="" coords="2297,259,2725,337"/>
+<area shape="poly" id="edge20_Node000016_Node000019" title=" " alt="" coords="2104,209,2320,255,2319,261,2102,214"/>
+<area shape="rect" id="Node000020" href="$QtProjectWizardContentSelect_8cpp.html" title=" " alt="" coords="2749,259,3100,337"/>
+<area shape="poly" id="edge21_Node000016_Node000020" title=" " alt="" coords="2103,208,2200,221,2282,229,2422,234,2561,238,2643,245,2738,256,2748,258,2748,263,2737,261,2642,250,2561,244,2422,239,2281,234,2199,227,2103,214"/>
+<area shape="rect" id="Node000021" href="$QtAbout_8cpp.html" title=" " alt="" coords="3124,259,3407,337"/>
+<area shape="poly" id="edge22_Node000016_Node000021" title=" " alt="" coords="2104,208,2257,226,2387,233,2502,234,2609,232,2717,229,2831,230,2961,238,3113,256,3124,258,3123,263,3112,261,2960,243,2831,236,2717,235,2609,237,2502,239,2387,239,2256,231,2103,214"/>
 </map>

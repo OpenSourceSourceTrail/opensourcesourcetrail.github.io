@@ -12,8 +12,8 @@ var structCodeScrollParams =
       [ "TO_LINE", "structCodeScrollParams.html#ae6965c64ba25ff8cffaf07ebbee81e81a79edc38b07bb0e7ec9c2068991dd9f2c", null ],
       [ "TO_VALUE", "structCodeScrollParams.html#ae6965c64ba25ff8cffaf07ebbee81e81af8434fbda4c7782ca1e6113ada39a4dc", null ]
     ] ],
-    [ "CodeScrollParams", "structCodeScrollParams.html#a4e6b6dfa3e1d116dfcb312cb12ecebf5", null ],
-    [ "CodeScrollParams", "structCodeScrollParams.html#a81306e63fc903009522b84aa62ce1bcf", null ],
+    [ "CodeScrollParams", "structCodeScrollParams.html#af4ada575d1d3e0e275b4f413cb8cf9c1", null ],
+    [ "CodeScrollParams", "structCodeScrollParams.html#a8c72d070589c62c003807b372b287c0c", null ],
     [ "toFile", "structCodeScrollParams.html#af9f8aad3cbad07fee11ba8931ba365dd", null ],
     [ "toLine", "structCodeScrollParams.html#a6ff87237d484100131ec72880b578708", null ],
     [ "toReference", "structCodeScrollParams.html#a429e03699961c71795e2c5ad23938f9c", null ],

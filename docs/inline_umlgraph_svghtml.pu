@@ -1,0 +1,5 @@
+@startuml inline_umlgraph_1.svg
+!include https://raw.githubusercontent.com/patrik-csak/one-dark-plantuml-theme/v1.0.1/theme.puml
+
+Settings <|-- ProjectSettings
+@enduml

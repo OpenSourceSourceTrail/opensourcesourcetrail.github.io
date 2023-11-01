@@ -1,14 +1,43 @@
 <map id="QtDialogView::createWindow" name="QtDialogView::createWindow">
-<area shape="rect" id="node1" title=" " alt="" coords="5,92,217,117"/>
-<area shape="rect" id="node2" href="$classQtWindowStack.html#a948bb635d552fd7ce31c9cea2acac5c3" title=" " alt="" coords="265,5,489,31"/>
-<area shape="rect" id="node3" href="$classQtDialogView.html#abd34bfa1adaf32d334302c921d4b120e" title=" " alt="" coords="269,55,485,95"/>
-<area shape="rect" id="node10" href="$classQtWindowStack.html#a2d8ea8a7320960a1ba43437bc9ba23fb" title=" " alt="" coords="273,120,482,145"/>
-<area shape="rect" id="node11" href="$classQtWindowStack.html#acbc1ac4ac28de3b89aa999e0f95b1cb8" title=" " alt="" coords="269,169,485,195"/>
-<area shape="rect" id="node4" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="568,11,711,36"/>
-<area shape="rect" id="node7" href="$classQtWindowStack.html#aba8ce007561b8af932a823bb39695814" title=" " alt="" coords="789,61,1017,87"/>
-<area shape="rect" id="node8" href="$classQtDialogView.html#a716e10cccdf6e53e737d5a0bb7301974" title=" " alt="" coords="537,112,741,137"/>
-<area shape="rect" id="node5" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="800,11,1007,36"/>
-<area shape="rect" id="node6" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="1065,11,1296,36"/>
-<area shape="rect" id="node9" href="$classQtMainWindow.html#a02d31749a04a20c70232089137db02d1" title=" " alt="" coords="803,111,1003,151"/>
-<area shape="rect" id="node12" href="$classQtWindowStackElement.html#acbdd593623a3d4c8cc62b60d94226cbc" title=" " alt="" coords="550,162,729,202"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,208,217,236"/>
+<area shape="rect" id="Node000002" href="$classQtIndexingDialog.html#afdb1dc894520209457ef91cd24d1caf1" title=" " alt="" coords="276,5,477,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,206,139,172,171,128,213,81,263,42,273,37,275,42,266,47,217,85,175,131,143,175,122,209"/>
+<area shape="rect" id="Node000003" href="$classQtWindowStack.html#a948bb635d552fd7ce31c9cea2acac5c3" title=" " alt="" coords="265,125,488,153"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,205,264,163,295,155,296,160,265,168,149,210"/>
+<area shape="rect" id="Node000005" href="$classQtDialogView.html#abd34bfa1adaf32d334302c921d4b120e" title=" " alt="" coords="269,57,484,102"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="127,206,185,160,223,134,263,111,277,105,279,110,266,116,226,139,188,164,130,210"/>
+<area shape="rect" id="Node000012" href="$classQtIndexingDialog.html#a1ae6f0b51142a21063e0f4f31219557d" title=" " alt="" coords="279,177,474,205"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="217,207,263,202,264,207,218,212"/>
+<area shape="rect" id="Node000013" href="$classQtMainWindow.html#adec0725ba96412d739c5e433846a785e" title=" " alt="" coords="270,229,483,274"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="218,231,255,235,254,240,217,236"/>
+<area shape="rect" id="Node000014" href="$classQtWindowStack.html#a2d8ea8a7320960a1ba43437bc9ba23fb" title=" " alt="" coords="272,297,481,325"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="143,234,199,259,266,283,290,291,289,296,264,288,197,263,141,239"/>
+<area shape="rect" id="Node000016" href="$classQtWindowStack.html#acbc1ac4ac28de3b89aa999e0f95b1cb8" title=" " alt="" coords="269,349,484,377"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="129,234,186,283,224,311,266,334,284,342,282,347,264,339,222,315,183,288,125,238"/>
+<area shape="rect" id="Node000020" href="$classQtIndexingDialog.html#a557bc846837b9d79b3d4989d6a74330f" title=" " alt="" coords="284,401,469,446"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="124,235,178,307,219,349,266,386,275,391,272,396,263,391,216,353,174,310,119,238"/>
+<area shape="rect" id="Node000004" href="$classQtWindowStack.html#a5d98c0f7db3561e2421925b6ccc19b1b" title=" " alt="" coords="551,181,725,209"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,151,555,175,554,180,444,156"/>
+<area shape="rect" id="Node000006" href="$classMessage.html#a4556438d5bb073d6f19ea777fe3faf10" title=" " alt="" coords="567,121,709,149"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="484,99,556,115,554,120,483,105"/>
+<area shape="rect" id="Node000009" href="$classQtWindowStack.html#aba8ce007561b8af932a823bb39695814" title=" " alt="" coords="787,8,1015,36"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="484,58,536,51,772,28,772,34,536,56,485,64"/>
+<area shape="rect" id="Node000010" href="$classQtDialogView.html#a716e10cccdf6e53e737d5a0bb7301974" title=" " alt="" coords="536,65,739,93"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="484,77,521,77,521,82,484,82"/>
+<area shape="rect" id="Node000007" href="$classMessageQueue.html#a085ebbc4ba9c58eeeaad64e77efc8e07" title=" " alt="" coords="798,128,1004,156"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="709,134,783,136,783,142,709,140"/>
+<area shape="rect" id="Node000008" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="1063,128,1292,156"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1004,139,1047,139,1047,145,1004,145"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="704,62,819,37,820,42,705,67"/>
+<area shape="rect" id="Node000011" href="$classQtMainWindow.html#a02d31749a04a20c70232089137db02d1" title=" " alt="" coords="801,60,1001,104"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="740,78,786,78,786,83,740,83"/>
+<area shape="poly" id="edge15_Node000014_Node000004" title=" " alt="" coords="455,294,487,283,511,270,535,253,598,215,600,219,537,257,514,274,489,288,457,299"/>
+<area shape="rect" id="Node000015" href="$classQtWindowStack.html#a156c0d200f8d68dd30223a22edf79916" title=" " alt="" coords="560,267,716,294"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="481,296,544,289,545,294,481,302"/>
+<area shape="rect" id="Node000017" href="$classQtWindowStackElement.html#a938b87290bc42f5d8e428b41ae52053d" title=" " alt="" coords="549,440,727,484"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="461,375,489,386,504,396,514,405,537,425,548,430,546,435,535,429,510,409,501,400,487,391,459,380"/>
+<area shape="rect" id="Node000018" href="$classQtWindowStack.html#ab4b12fa8d8f07f4583914b94c108817d" title=" " alt="" coords="556,319,719,346"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="484,348,540,341,541,347,485,353"/>
+<area shape="rect" id="Node000019" href="$classQtWindowStackElement.html#acbdd593623a3d4c8cc62b60d94226cbc" title=" " alt="" coords="549,370,727,415"/>
+<area shape="poly" id="edge20_Node000016_Node000019" title=" " alt="" coords="485,373,533,378,533,383,484,378"/>
 </map>

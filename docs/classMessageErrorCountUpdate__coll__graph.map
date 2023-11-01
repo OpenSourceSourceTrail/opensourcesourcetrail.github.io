@@ -1,11 +1,21 @@
 <map id="MessageErrorCountUpdate" name="MessageErrorCountUpdate">
-<area shape="rect" id="node1" title=" " alt="" coords="295,456,491,481"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="42,353,265,393"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="77,167,189,192"/>
-<area shape="rect" id="node7" href="$classMessage.html" title=" " alt="" coords="117,265,315,291"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,80,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="299,5,359,31"/>
-<area shape="rect" id="node8" href="$structErrorCountInfo.html" title=" " alt="" coords="335,216,451,241"/>
-<area shape="rect" id="node6" title=" " alt="" coords="108,5,159,31"/>
-<area shape="rect" id="node9" title=" " alt="" coords="431,361,580,386"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,489,488,516"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="41,379,262,424"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,428,359,486,357,491,216,432"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="76,183,187,211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,226,105,267,102,290,105,313,119,348,137,377,132,380,114,350,99,315,97,290,100,266,114,224"/>
+<area shape="rect" id="Node000007" href="$classMessage.html" title=" " alt="" coords="114,286,311,314"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="154,222,204,284,200,288,149,225"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,79,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="43,48,47,102,55,131,69,157,82,170,97,180,94,185,78,174,65,161,51,133,42,103,38,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="298,5,357,33"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="286,42,268,59,260,72,256,84,254,109,252,134,247,148,237,161,215,178,189,189,187,184,212,173,233,157,242,145,247,133,249,109,251,83,255,70,264,55,283,38"/>
+<area shape="rect" id="Node000008" href="$structErrorCountInfo.html" title=" " alt="" coords="332,235,448,262"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="355,43,363,56,380,106,390,157,393,234,388,235,384,157,375,107,358,58,351,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="107,5,156,33"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="134,49,134,183,129,183,129,49"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="168,325,155,339,149,358,150,379,144,379,144,358,150,337,164,321"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="393,278,393,488,387,488,387,278"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="428,388,576,415"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="478,427,406,490,403,486,474,423"/>
 </map>

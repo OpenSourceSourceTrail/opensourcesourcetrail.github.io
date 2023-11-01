@@ -1,8 +1,8 @@
 var classQtViewWidgetWrapper =
 [
-    [ "QtViewWidgetWrapper", "classQtViewWidgetWrapper.html#a404545d822d462fe7ec75cc8c8786432", null ],
-    [ "~QtViewWidgetWrapper", "classQtViewWidgetWrapper.html#a5965986dfaee65d53ef93c9adfafef19", null ],
-    [ "getWidget", "classQtViewWidgetWrapper.html#a71c7ef42ca3c100256d5feacc5c706fe", null ],
-    [ "getWidgetOfView", "classQtViewWidgetWrapper.html#aa659b4c3a0fec8e22a1710675fda6c53", null ],
-    [ "m_widget", "classQtViewWidgetWrapper.html#a8919f6be471ecc4e65b8909b9da34648", null ]
+    [ "QtViewWidgetWrapper", "classQtViewWidgetWrapper.html#ab1ffafeb3440f3eddd7061b08c9321ca", null ],
+    [ "~QtViewWidgetWrapper", "classQtViewWidgetWrapper.html#a29dfa123935e8a33f16933264d34bf6c", null ],
+    [ "getWidget", "classQtViewWidgetWrapper.html#ab6383fe1552a7655a1b22b3915ce2d7b", null ],
+    [ "getWidgetOfView", "classQtViewWidgetWrapper.html#a45cce65886c2fe0b4bd351f36ae47c79", null ],
+    [ "m_pWidget", "classQtViewWidgetWrapper.html#aa4c434e6754b64c3c8a79b7b11e3119f", null ]
 ];

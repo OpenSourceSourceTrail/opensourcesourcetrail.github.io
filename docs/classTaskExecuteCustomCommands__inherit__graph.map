@@ -1,7 +1,12 @@
 <map id="TaskExecuteCustomCommands" name="TaskExecuteCustomCommands">
-<area shape="rect" id="node1" title=" " alt="" coords="5,272,232,297"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="48,190,99,215"/>
-<area shape="rect" id="node3" href="$classMessageListener.html" title=" " alt="" coords="123,183,328,223"/>
-<area shape="rect" id="node4" href="$classMessageListenerBase.html" title=" " alt="" coords="89,5,253,31"/>
-<area shape="rect" id="node5" href="$classMessageListener.html" title=" " alt="" coords="192,80,397,120"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,286,232,314"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="77,201,128,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,243,119,285,113,286,105,244"/>
+<area shape="rect" id="Node000003" href="$classMessageListener.html" title=" " alt="" coords="152,192,357,237"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,247,141,288,139,283,205,243"/>
+<area shape="rect" id="Node000004" href="$classMessageListenerBase.html" title=" " alt="" coords="142,5,306,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,48,236,127,251,191,246,192,231,127,222,49"/>
+<area shape="rect" id="Node000005" href="$classMessageListener.html" title=" " alt="" coords="246,82,450,127"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="257,40,317,80,314,84,254,44"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="321,141,275,193,271,190,317,137"/>
 </map>

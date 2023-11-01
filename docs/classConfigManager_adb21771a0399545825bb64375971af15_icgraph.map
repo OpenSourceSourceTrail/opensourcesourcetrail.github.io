@@ -1,13 +1,24 @@
 <map id="ConfigManager::getValueOrDefault" name="ConfigManager::getValueOrDefault">
-<area shape="rect" id="node1" title=" " alt="" coords="627,255,829,295"/>
-<area shape="rect" id="node2" href="$classSourceGroupSettings.html#ae761128d57c0a57239ad8c9e3de392ae" title=" " alt="" coords="372,12,531,52"/>
-<area shape="rect" id="node4" href="$classSourceGroupSettingsUnloadable.html#abd3333ff9802c72db9e08cd6bb418a44" title=" " alt="" coords="25,69,257,109"/>
-<area shape="rect" id="node5" href="$classSourceGroupSettingsWithCppStandard.html#a8fdb7d1c82b791c79da154d3e0e9233a" title=" " alt="" coords="345,127,558,167"/>
-<area shape="rect" id="node6" href="$classSourceGroupSettingsWithCStandard.html#ae746cee5b4f181388d0d4a279b846ce4" title=" " alt="" coords="324,191,579,231"/>
-<area shape="rect" id="node7" href="$classSourceGroupSettingsWithCxxCdbPath.html#a1c529a4d045dce443d6467354f053290" title=" " alt="" coords="345,255,558,295"/>
-<area shape="rect" id="node8" href="$classSourceGroupSettingsWithCxxCodeblocksPath.html#a7504800a95ef537f1a84f970e8613cdc" title=" " alt="" coords="345,319,558,359"/>
-<area shape="rect" id="node9" href="$classSourceGroupSettingsWithCxxCrossCompilationOptions.html#a15fdbf18384e453f023fe3f22067c823" title=" " alt="" coords="340,383,563,423"/>
-<area shape="rect" id="node10" href="$classSourceGroupSettingsWithCxxPchOptions.html#a128859de7a84c3907b78ec1a04869ad3" title=" " alt="" coords="345,447,558,487"/>
-<area shape="rect" id="node11" href="$classSourceGroupSettingsWithCustomCommand.html#a15513a0e7e1afaabad901b47980a1076" title=" " alt="" coords="332,511,571,551"/>
-<area shape="rect" id="node3" href="$classSourceGroupSettingsWithComponents.html#ab4be293053cf455c0ee955d1ca0f8d28" title=" " alt="" coords="5,5,276,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="625,273,826,318"/>
+<area shape="rect" id="Node000002" href="$classSourceGroupSettings.html#ae761128d57c0a57239ad8c9e3de392ae" title=" " alt="" coords="371,15,529,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="706,260,686,219,656,170,619,122,575,80,553,67,528,56,530,51,555,62,579,76,623,118,661,167,690,216,711,258"/>
+<area shape="rect" id="Node000004" href="$classSourceGroupSettingsUnloadable.html#abd3333ff9802c72db9e08cd6bb418a44" title=" " alt="" coords="24,75,256,119"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="704,262,682,227,653,189,617,153,576,125,537,108,497,96,413,82,331,79,256,83,256,77,331,73,414,77,498,91,539,103,578,120,621,149,657,185,686,224,708,259"/>
+<area shape="rect" id="Node000005" href="$classSourceGroupSettingsWithCppStandard.html#a8fdb7d1c82b791c79da154d3e0e9233a" title=" " alt="" coords="344,135,556,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="684,265,634,228,576,194,547,182,549,177,578,189,637,224,688,261"/>
+<area shape="rect" id="Node000006" href="$classSourceGroupSettingsWithCStandard.html#ae746cee5b4f181388d0d4a279b846ce4" title=" " alt="" coords="323,204,577,249"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="618,271,541,252,542,247,620,266"/>
+<area shape="rect" id="Node000007" href="$classSourceGroupSettingsWithCxxCdbPath.html#a1c529a4d045dce443d6467354f053290" title=" " alt="" coords="344,273,556,318"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="609,298,557,298,557,293,609,293"/>
+<area shape="rect" id="Node000008" href="$classSourceGroupSettingsWithCxxCodeblocksPath.html#a7504800a95ef537f1a84f970e8613cdc" title=" " alt="" coords="344,343,556,387"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="620,325,542,345,541,339,618,320"/>
+<area shape="rect" id="Node000009" href="$classSourceGroupSettingsWithCxxCrossCompilationOptions.html#a15fdbf18384e453f023fe3f22067c823" title=" " alt="" coords="339,412,561,457"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="688,330,637,368,578,402,549,414,547,409,576,397,634,363,684,326"/>
+<area shape="rect" id="Node000010" href="$classSourceGroupSettingsWithCxxPchOptions.html#a128859de7a84c3907b78ec1a04869ad3" title=" " alt="" coords="344,481,556,526"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="705,333,653,404,618,440,578,471,556,483,553,478,576,467,615,436,649,400,701,330"/>
+<area shape="rect" id="Node000011" href="$classSourceGroupSettingsWithCustomCommand.html#a15513a0e7e1afaabad901b47980a1076" title=" " alt="" coords="331,551,569,595"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="714,333,695,381,666,437,627,493,604,518,579,540,559,552,556,548,575,536,601,514,623,489,661,434,690,379,710,331"/>
+<area shape="rect" id="Node000003" href="$classSourceGroupSettingsWithComponents.html#ab4be293053cf455c0ee955d1ca0f8d28" title=" " alt="" coords="5,5,275,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,37,275,34,275,29,355,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,58,257,77,256,72,355,53"/>
 </map>

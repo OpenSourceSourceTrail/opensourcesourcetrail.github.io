@@ -1,12 +1,9 @@
 var searchData=
 [
-  ['searchtype_0',['SearchType',['../structSearchMatch.html#ae5adc582da0d6dc20a648fd1ea4547bb',1,'SearchMatch']]],
-  ['selectionpolicytype_1',['SelectionPolicyType',['../classQtPathListBox.html#a169801ee6da84d9782095be3369184d6',1,'QtPathListBox']]],
-  ['sourcegroupstatustype_2',['SourceGroupStatusType',['../SourceGroupStatusType_8h.html#a506e79de9e57998477404700fded0d52',1,'SourceGroupStatusType.h']]],
-  ['sourcegrouptype_3',['SourceGroupType',['../SourceGroupType_8h.html#a225baa57849709d1cd077cfbd27b5c76',1,'SourceGroupType.h']]],
-  ['statustype_4',['StatusType',['../Status_8h.html#a90549f45cfc442187c1d769596107d3e',1,'Status.h']]],
-  ['statusview_5fcolumn_5',['STATUSVIEW_COLUMN',['../classQtStatusView.html#a07af2af2006a5fe7e2f54ad8c841d97e',1,'QtStatusView']]],
-  ['storagemodetype_6',['StorageModeType',['../classSqliteIndexStorage.html#a3062aadcf64704b2db6c0ffbc2c08159',1,'SqliteIndexStorage']]],
-  ['styletype_7',['StyleType',['../classNodeType.html#a6da662ff891eddadaf6189cb93453a6d',1,'NodeType']]],
-  ['symbolkind_8',['SymbolKind',['../SymbolKind_8h.html#a05812818de02fb4b202d7513ce50745d',1,'SymbolKind.h']]]
+  ['referencekind_0',['ReferenceKind',['../ReferenceKind_8h.html#ab67ef02b75c3226cfe0b2791e2b48b06',1,'ReferenceKind.h']]],
+  ['referencetype_1',['ReferenceType',['../classMessageCodeReference.html#aba3acc6542247e65d00434574cb03bf5',1,'MessageCodeReference']]],
+  ['refreshmode_2',['RefreshMode',['../RefreshInfo_8h.html#a637fdb8cb4e3b3e277c8da853b0d27c2',1,'RefreshInfo.h']]],
+  ['refreshstagetype_3',['RefreshStageType',['../classProject.html#a06c4c0078a3d6881e79435a17ecc8942',1,'Project']]],
+  ['returnstatus_4',['ReturnStatus',['../classcommandline_1_1CommandlineCommand.html#a489fa8f22dbd0a0051bea9b4f86201f7',1,'commandline::CommandlineCommand']]],
+  ['route_5',['Route',['../classQtLineItemBase.html#ab5eca33270986c812a2c83e1e83ce092',1,'QtLineItemBase']]]
 ];

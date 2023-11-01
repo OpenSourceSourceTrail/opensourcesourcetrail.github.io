@@ -1,6 +1,7 @@
 var classSettings =
 [
     [ "Settings", "classSettings.html#a25c7a2bfe39a74788f3ea0ad41876afb", null ],
+    [ "Settings", "classSettings.html#a1eceeed43f58753d526ce539b557d1cc", null ],
     [ "~Settings", "classSettings.html#a4a65be5921dfc9fddc476e5320541d89", null ],
     [ "Settings", "classSettings.html#ab7169a6eefce79566dd07db3b1e5e967", null ],
     [ "clear", "classSettings.html#add67480066decc8d2f7c27a091a7e4ea", null ],
@@ -15,6 +16,7 @@ var classSettings =
     [ "load", "classSettings.html#ab51634b5184bf9db90848c5f20aeb50a", null ],
     [ "loadFromString", "classSettings.html#a9b137c22f21186e2b04db5bb7a92458c", null ],
     [ "operator=", "classSettings.html#abb7fc598cba219fbfb7fbcf75d327331", null ],
+    [ "operator=", "classSettings.html#a2fe1728af06ec3c7bc8caaf878d86128", null ],
     [ "removeValues", "classSettings.html#ac8f0852eb1c5da57b132952098e08d9d", null ],
     [ "save", "classSettings.html#a29ce634c9b4756dd6bdcec46a83698fb", null ],
     [ "save", "classSettings.html#aca06d468e1ec0a99dc140f6a15445b9c", null ],

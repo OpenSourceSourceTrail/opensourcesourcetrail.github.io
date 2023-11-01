@@ -1,6 +1,9 @@
 <map id="TrailLayouter::buildGraph" name="TrailLayouter::buildGraph">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,192,56"/>
-<area shape="rect" id="node2" href="$classTrailLayouter.html#a61d13ca521c3ff327f2d9c86bfba0504" title=" " alt="" coords="241,5,412,31"/>
-<area shape="rect" id="node4" href="$classTrailLayouter.html#afcbeaf36824a1ba9d156fa0b7bd48df7" title=" " alt="" coords="240,55,413,80"/>
-<area shape="rect" id="node3" href="$classTrailLayouter.html#ab91f490ea57074a80d82048373728b45" title=" " alt="" coords="461,5,675,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,191,60"/>
+<area shape="rect" id="Node000002" href="$classTrailLayouter.html#a61d13ca521c3ff327f2d9c86bfba0504" title=" " alt="" coords="240,5,410,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,32,223,28,224,34,191,38"/>
+<area shape="rect" id="Node000004" href="$classTrailLayouter.html#afcbeaf36824a1ba9d156fa0b7bd48df7" title=" " alt="" coords="239,57,411,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,54,224,57,223,62,191,59"/>
+<area shape="rect" id="Node000003" href="$classTrailLayouter.html#ab91f490ea57074a80d82048373728b45" title=" " alt="" coords="459,5,671,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,17,443,17,443,22,411,22"/>
 </map>

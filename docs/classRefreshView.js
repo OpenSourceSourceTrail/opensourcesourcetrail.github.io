@@ -1,13 +1,13 @@
 var classRefreshView =
 [
     [ "RefreshView", "classRefreshView.html#a7d92ca6aeb35b26399001b31cda88373", null ],
-    [ "~RefreshView", "classRefreshView.html#ae9850eb94b87d2cc50b599f015513dcd", null ],
+    [ "~RefreshView", "classRefreshView.html#a21426dd3ab4a91c2255ab0a5789787a3", null ],
     [ "addToLayout", "classRefreshView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "create", "classRefreshView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
     [ "createAndAddToLayout", "classRefreshView.html#a93a9174f4de6b909706465a61949bf83", null ],
     [ "createWidgetWrapper", "classRefreshView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
     [ "getController", "classRefreshView.html#ac751ee30d4da8a349059d54b53f75e85", null ],
-    [ "getName", "classRefreshView.html#a44c842f82bd2aaa44385e515df8f712f", null ],
+    [ "getName", "classRefreshView.html#a98cbf56de4a5b3cd133cb4b8512eaf63", null ],
     [ "getViewLayout", "classRefreshView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classRefreshView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "refreshView", "classRefreshView.html#a47d8e2f48a7e71a9a481df791826b0e6", null ],

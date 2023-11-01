@@ -10,7 +10,7 @@ var GroupType_8h =
       [ "NONE", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918ab50339a10e1de285ac99d4c3990b8693", null ],
       [ "DEFAULT", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918a5b39c8b553c821e7cddc6da64b5bd2ee", null ],
       [ "FRAMELESS", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918ae2ff01770f826eaa2886938932ff9e62", null ],
-      [ "FILE", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918a9fc5887c030f7a3e19821ebec457e719", null ],
+      [ "FILE_TYPE", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918a6c9f76752ebcb735dbf06039162193fd", null ],
       [ "NAMESPACE", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918a7347fe5a0f184f79ef064e92e3beb297", null ],
       [ "INHERITANCE", "GroupType_8h.html#a3de1267c3b87dda21863fd739439d918a653fbb8df0aa0f21d864a5b66a4f6849", null ]
     ] ],

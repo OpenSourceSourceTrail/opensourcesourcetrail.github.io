@@ -1,16 +1,31 @@
 <map id="RefreshInfoGenerator::getRefreshInfoForUpdatedFiles" name="RefreshInfoGenerator::getRefreshInfoForUpdatedFiles">
-<area shape="rect" id="node1" title=" " alt="" coords="5,129,236,169"/>
-<area shape="rect" id="node2" href="$namespaceutility.html#a20e313ed6af8386f5e95f86b77027904" title=" " alt="" coords="312,47,427,72"/>
-<area shape="rect" id="node3" href="$classRefreshInfoGenerator.html#ae00b551cb50060c2ada3847d75ec2432" title=" " alt="" coords="288,97,451,137"/>
-<area shape="rect" id="node13" href="$classRefreshInfoGenerator.html#ad5a57182385dda4f8c1bf1658cbffbd4" title=" " alt="" coords="284,161,455,201"/>
-<area shape="rect" id="node14" href="$namespaceutility.html#ad747507e0dfee17bc656ac5a3da3efd6" title=" " alt="" coords="319,225,420,251"/>
-<area shape="rect" id="node4" href="$classTextAccess.html#a5155a7b9df2dcfd960d50f4961fb4936" title=" " alt="" coords="513,79,711,104"/>
-<area shape="rect" id="node9" href="$classFileSystem.html#aa08fc0bad8c900f692c7a90fb6d61214" title=" " alt="" coords="503,129,721,155"/>
-<area shape="rect" id="node5" href="$classTextAccess.html#a3024169774f0b035fb68057243388c9e" title=" " alt="" coords="801,29,954,55"/>
-<area shape="rect" id="node8" href="$classTextAccess.html#a17086d2cc3eee9bbef8352489382f721" title=" " alt="" coords="790,79,965,104"/>
-<area shape="rect" id="node6" href="$classFilePath.html#ae43df68f4d64aa712319fcebebf5236b" title=" " alt="" coords="1044,5,1143,31"/>
-<area shape="rect" id="node7" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="1039,55,1148,80"/>
-<area shape="rect" id="node10" href="$classFilePath.html#a59fa57dcd7d19d74aaee62f072f14b3d" title=" " alt="" coords="1033,129,1153,155"/>
-<area shape="rect" id="node12" href="$classFileSystem.html#a060e5472f248e8a1936e605a7cfe7fbb" title=" " alt="" coords="769,180,985,205"/>
-<area shape="rect" id="node11" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="1201,155,1332,180"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,136,235,180"/>
+<area shape="rect" id="Node000002" href="$namespaceutility.html#a20e313ed6af8386f5e95f86b77027904" title=" " alt="" coords="310,49,425,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,132,282,86,300,80,302,85,284,91,172,137"/>
+<area shape="rect" id="Node000003" href="$classRefreshInfoGenerator.html#ae00b551cb50060c2ada3847d75ec2432" title=" " alt="" coords="287,101,448,146"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,139,270,134,271,139,235,144"/>
+<area shape="rect" id="Node000013" href="$classRefreshInfoGenerator.html#ad5a57182385dda4f8c1bf1658cbffbd4" title=" " alt="" coords="283,170,452,215"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="235,171,267,176,267,181,235,177"/>
+<area shape="rect" id="Node000014" href="$namespaceutility.html#ad747507e0dfee17bc656ac5a3da3efd6" title=" " alt="" coords="317,239,418,266"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="172,178,284,225,303,231,301,236,282,230,170,183"/>
+<area shape="rect" id="Node000004" href="$classTextAccess.html#a5155a7b9df2dcfd960d50f4961fb4936" title=" " alt="" coords="510,84,707,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="448,112,494,107,495,112,448,117"/>
+<area shape="rect" id="Node000009" href="$classFileSystem.html#aa08fc0bad8c900f692c7a90fb6d61214" title=" " alt="" coords="500,136,717,164"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="448,129,485,133,484,139,448,135"/>
+<area shape="rect" id="Node000005" href="$classTextAccess.html#a3024169774f0b035fb68057243388c9e" title=" " alt="" coords="797,32,949,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="682,81,783,61,784,66,683,86"/>
+<area shape="rect" id="Node000008" href="$classTextAccess.html#a17086d2cc3eee9bbef8352489382f721" title=" " alt="" coords="786,84,960,112"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="708,95,771,95,771,101,708,101"/>
+<area shape="rect" id="Node000006" href="$classFilePath.html#ae43df68f4d64aa712319fcebebf5236b" title=" " alt="" coords="1040,5,1137,33"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="949,34,1024,24,1025,30,950,39"/>
+<area shape="rect" id="Node000007" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="1034,57,1143,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="950,52,1019,60,1019,66,949,57"/>
+<area shape="rect" id="Node000010" href="$classFilePath.html#a59fa57dcd7d19d74aaee62f072f14b3d" title=" " alt="" coords="1029,135,1148,162"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="718,147,1013,146,1013,151,718,152"/>
+<area shape="rect" id="Node000012" href="$classFileSystem.html#a060e5472f248e8a1936e605a7cfe7fbb" title=" " alt="" coords="765,185,981,213"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="687,162,781,179,780,185,686,167"/>
+<area shape="rect" id="Node000011" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="1196,160,1326,188"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1149,155,1181,159,1180,165,1148,160"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="934,182,1013,163,1014,169,935,187"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="981,189,1180,176,1181,182,981,195"/>
 </map>

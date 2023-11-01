@@ -1,5 +1,7 @@
 <map id="GraphView::GraphParams" name="GraphView::GraphParams">
-<area shape="rect" id="node1" title=" " alt="" coords="16,167,205,192"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,56,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="162,5,222,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,183,204,211"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,55,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,48,19,102,23,131,34,158,46,171,62,180,60,185,43,175,30,160,18,133,14,102,20,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="162,5,221,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,49,187,103,178,133,164,161,152,174,138,185,134,180,148,170,160,157,173,131,182,102,189,48"/>
 </map>

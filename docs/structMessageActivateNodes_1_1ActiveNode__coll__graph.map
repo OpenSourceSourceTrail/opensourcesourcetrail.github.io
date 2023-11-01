@@ -1,7 +1,11 @@
 <map id="MessageActivateNodes::ActiveNode" name="MessageActivateNodes::ActiveNode">
-<area shape="rect" id="node1" title=" " alt="" coords="11,181,186,221"/>
-<area shape="rect" id="node2" title=" " alt="" coords="29,93,89,119"/>
-<area shape="rect" id="node3" href="$classNameHierarchy.html" title=" " alt="" coords="113,93,237,119"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,192,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="217,5,287,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,191,184,235"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="28,98,88,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,139,80,166,90,189,85,191,76,168,65,141"/>
+<area shape="rect" id="Node000003" href="$classNameHierarchy.html" title=" " alt="" coords="112,98,236,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,139,116,192,111,188,153,136"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,191,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,44,138,72,161,96,157,99,134,76,112,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="215,5,285,33"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="241,48,223,76,196,100,192,96,219,72,236,45"/>
 </map>

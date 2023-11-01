@@ -1,6 +1,10 @@
 <map id="MessageHistoryToPosition" name="MessageHistoryToPosition">
-<area shape="rect" id="node1" title=" " alt="" coords="16,257,209,283"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,168,220,208"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="51,5,163,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="129,80,328,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,269,208,297"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,175,219,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,235,115,269,109,269,109,235"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="51,5,162,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,48,114,174,109,175,105,48"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="128,82,325,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="142,39,207,80,204,84,139,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,122,139,176,135,172,199,118"/>
 </map>

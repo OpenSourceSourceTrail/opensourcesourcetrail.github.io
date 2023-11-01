@@ -1,14 +1,29 @@
 <map id="QtCodeFile::toggleCollapsed" name="QtCodeFile::toggleCollapsed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,123,211,148"/>
-<area shape="rect" id="node2" href="$classQtCodeFile.html#a5ab301c2ac920ca936355871e8e4149b" title=" " alt="" coords="259,115,464,155"/>
-<area shape="rect" id="node10" href="$classQtCodeFile.html#a88698fd6c23ecb5c752fe4217ec08039" title=" " alt="" coords="264,51,459,91"/>
-<area shape="rect" id="node11" href="$classQtCodeFile.html#af7d97f4fe69d1a593ea5879dc6a6312d" title=" " alt="" coords="274,197,449,223"/>
-<area shape="rect" id="node3" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="560,9,703,35"/>
-<area shape="rect" id="node6" href="$classQtCodeNavigator.html#a1656afa59c32d9e5c97fab8e1b37f8fe" title=" " alt="" coords="512,108,751,133"/>
-<area shape="rect" id="node7" href="$classMessageBase.html#a78b74840a194c335f7ce17712e97e136" title=" " alt="" coords="523,157,739,183"/>
-<area shape="rect" id="node8" href="$structCodeScrollParams.html#af9f8aad3cbad07fee11ba8931ba365dd" title=" " alt="" coords="540,59,723,84"/>
-<area shape="rect" id="node4" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="804,5,1011,31"/>
-<area shape="rect" id="node5" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="1064,5,1295,31"/>
-<area shape="rect" id="node9" href="$structCodeScrollParams.html#a81306e63fc903009522b84aa62ce1bcf" title=" " alt="" coords="799,55,1016,95"/>
-<area shape="rect" id="node12" href="$classQtCodeFileTitleBar.html#a0e3bcd851f63f38592943b3b8a4f620d" title=" " alt="" coords="560,207,703,247"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,210,158"/>
+<area shape="rect" id="Node000002" href="$classQtCodeFile.html#a5ab301c2ac920ca936355871e8e4149b" title=" " alt="" coords="258,122,462,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,142,242,142,242,147,210,147"/>
+<area shape="rect" id="Node000010" href="$classQtCodeFile.html#a88698fd6c23ecb5c752fe4217ec08039" title=" " alt="" coords="263,53,457,98"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="160,128,261,100,262,105,161,133"/>
+<area shape="rect" id="Node000011" href="$classQtCodeFile.html#af7d97f4fe69d1a593ea5879dc6a6312d" title=" " alt="" coords="273,208,447,236"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="156,156,298,200,297,206,154,161"/>
+<area shape="rect" id="Node000003" href="$classMessage.html#a4556438d5bb073d6f19ea777fe3faf10" title=" " alt="" coords="558,9,700,37"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,119,460,108,475,93,483,78,492,62,509,48,542,33,544,38,511,52,496,66,488,81,479,96,464,112,443,124"/>
+<area shape="rect" id="Node000006" href="$classQtCodeNavigator.html#a1656afa59c32d9e5c97fab8e1b37f8fe" title=" " alt="" coords="510,113,748,141"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="462,135,494,133,495,138,463,141"/>
+<area shape="rect" id="Node000007" href="$classMessageBase.html#a78b74840a194c335f7ce17712e97e136" title=" " alt="" coords="522,165,737,193"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="463,155,506,161,506,166,462,160"/>
+<area shape="rect" id="Node000008" href="$structCodeScrollParams.html#af9f8aad3cbad07fee11ba8931ba365dd" title=" " alt="" coords="538,61,720,89"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="437,119,509,99,546,90,547,96,511,104,439,124"/>
+<area shape="rect" id="Node000004" href="$classMessageQueue.html#a085ebbc4ba9c58eeeaad64e77efc8e07" title=" " alt="" coords="802,5,1007,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="701,19,786,18,786,24,701,25"/>
+<area shape="rect" id="Node000005" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="1061,5,1290,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1008,17,1045,17,1045,22,1008,22"/>
+<area shape="rect" id="Node000009" href="$structCodeScrollParams.html#a8c72d070589c62c003807b372b287c0c" title=" " alt="" coords="796,57,1013,102"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="721,74,781,75,781,80,721,79"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="457,54,542,37,543,42,458,59"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="458,91,539,107,538,112,457,96"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="439,96,463,108,478,119,488,130,497,140,511,150,528,157,526,162,509,155,493,144,484,133,474,123,461,112,437,100"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="457,73,523,73,523,78,457,78"/>
+<area shape="rect" id="Node000012" href="$classQtCodeFileTitleBar.html#a0e3bcd851f63f38592943b3b8a4f620d" title=" " alt="" coords="559,217,700,262"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="448,225,543,231,543,236,447,230"/>
 </map>

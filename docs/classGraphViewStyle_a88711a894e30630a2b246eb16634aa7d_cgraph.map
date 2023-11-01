@@ -1,7 +1,13 @@
 <map id="GraphViewStyle::getMarginsOfGroupNode" name="GraphViewStyle::getMarginsOfGroupNode">
-<area shape="rect" id="node1" title=" " alt="" coords="5,51,212,91"/>
-<area shape="rect" id="node2" href="$classGraphViewStyle.html#a0b729567f81f6c66d42fd229c00e137a" title=" " alt="" coords="260,29,483,55"/>
-<area shape="rect" id="node5" href="$classGraphViewStyle.html#a214d6af72cbce6ee2866d9315a791988" title=" " alt="" coords="266,79,477,119"/>
-<area shape="rect" id="node3" href="$classGraphViewStyle.html#a0911dbbf61bdfd307f8a42d8ab085ff9" title=" " alt="" coords="531,15,753,55"/>
-<area shape="rect" id="node4" href="$classGraphViewStyle.html#a74a5b33896cabd85c658d0e5485108ee" title=" " alt="" coords="537,79,747,119"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,52,212,96"/>
+<area shape="rect" id="Node000002" href="$classGraphViewStyle.html#a0b729567f81f6c66d42fd229c00e137a" title=" " alt="" coords="260,29,482,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,59,244,55,244,61,212,64"/>
+<area shape="rect" id="Node000005" href="$classGraphViewStyle.html#a214d6af72cbce6ee2866d9315a791988" title=" " alt="" coords="266,81,476,126"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="212,83,251,87,250,92,212,88"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="326,30,319,20,325,11,342,5,371,3,401,5,418,12,416,17,400,10,371,8,343,10,328,15,324,20,331,27"/>
+<area shape="rect" id="Node000003" href="$classGraphViewStyle.html#a0911dbbf61bdfd307f8a42d8ab085ff9" title=" " alt="" coords="530,12,751,56"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="482,37,514,36,514,41,482,42"/>
+<area shape="rect" id="Node000004" href="$classGraphViewStyle.html#a74a5b33896cabd85c658d0e5485108ee" title=" " alt="" coords="536,81,745,126"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="437,55,523,74,522,79,436,60"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="476,101,520,101,520,106,476,106"/>
 </map>

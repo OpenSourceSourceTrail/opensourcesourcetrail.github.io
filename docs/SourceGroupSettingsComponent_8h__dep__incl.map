@@ -1,52 +1,128 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/settings/source_group/component/SourceGroupSettingsComponent.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/settings/source_group/component/SourceGroupSettingsComponent.h">
-<area shape="rect" id="node1" title=" " alt="" coords="3899,5,4181,89"/>
-<area shape="rect" id="node2" href="$SourceGroupSettingsWithCustomCommand_8h.html" title=" " alt="" coords="576,137,859,221"/>
-<area shape="rect" id="node11" href="$SourceGroupSettingsWithExcludeFilters_8h.html" title=" " alt="" coords="2064,269,2347,353"/>
-<area shape="rect" id="node20" href="$SourceGroupSettingsWithSourceExtensions_8h.html" title=" " alt="" coords="1795,137,2077,221"/>
-<area shape="rect" id="node27" href="$SourceGroupSettingsWithSourcePaths_8h.html" title=" " alt="" coords="91,269,373,353"/>
-<area shape="rect" id="node29" href="$SourceGroupSettingsWithCStandard_8h.html" title=" " alt="" coords="2706,269,3017,353"/>
-<area shape="rect" id="node32" href="$SourceGroupSettingsWithCppStandard_8h.html" title=" " alt="" coords="3718,137,4029,221"/>
-<area shape="rect" id="node35" href="$SourceGroupSettingsWithCxxCdbPath_8h.html" title=" " alt="" coords="5823,269,6134,353"/>
-<area shape="rect" id="node37" href="$SourceGroupSettingsWithCxxCodeblocksPath_8h.html" title=" " alt="" coords="4071,137,4382,221"/>
-<area shape="rect" id="node39" href="$SourceGroupSettingsWithCxxCrossCompilationOptions_8h.html" title=" " alt="" coords="4711,137,5022,221"/>
-<area shape="rect" id="node42" href="$SourceGroupSettingsWithCxxPathsAndFlags_8h.html" title=" " alt="" coords="4509,269,4819,353"/>
-<area shape="rect" id="node46" href="$SourceGroupSettingsWithCxxPchOptions_8h.html" title=" " alt="" coords="6158,269,6469,353"/>
-<area shape="rect" id="node49" href="$SourceGroupSettingsWithIndexedHeaderPaths_8h.html" title=" " alt="" coords="5489,269,5799,353"/>
-<area shape="rect" id="node3" href="$SourceGroupSettingsWithCustomCommand_8cpp.html" title=" " alt="" coords="397,269,680,353"/>
-<area shape="rect" id="node4" href="$SourceGroupSettingsCustomCommand_8h.html" title=" " alt="" coords="683,401,973,485"/>
-<area shape="rect" id="node5" href="$SourceGroupCustomCommand_8cpp.html" title=" " alt="" coords="304,541,528,610"/>
-<area shape="rect" id="node6" href="$SourceGroupFactoryModuleCustom_8cpp.html" title=" " alt="" coords="552,541,776,610"/>
-<area shape="rect" id="node7" href="$ProjectSettings_8cpp.html" title=" " alt="" coords="801,548,1074,603"/>
-<area shape="rect" id="node8" href="$QtProjectWizard_8cpp.html" title=" " alt="" coords="1099,541,1307,610"/>
-<area shape="rect" id="node9" href="$QtProjectWizardContentCustomCommand_8cpp.html" title=" " alt="" coords="1331,533,1616,617"/>
-<area shape="rect" id="node10" href="$QtProjectWizardContentPathsSource_8cpp.html" title=" " alt="" coords="5,533,280,617"/>
-<area shape="rect" id="node12" href="$SourceGroupSettingsWithExcludeFilters_8cpp.html" title=" " alt="" coords="2367,401,2649,485"/>
-<area shape="rect" id="node13" href="$SourceGroupSettingsCEmpty_8h.html" title=" " alt="" coords="2983,409,3283,478"/>
-<area shape="rect" id="node14" href="$SourceGroupSettingsCxxCdb_8h.html" title=" " alt="" coords="5495,409,5796,478"/>
-<area shape="rect" id="node17" href="$SourceGroupSettingsCxxCodeblocks_8h.html" title=" " alt="" coords="3825,409,4175,478"/>
-<area shape="rect" id="node18" href="$QtProjectWizardContentPathsExclude_8cpp.html" title=" " alt="" coords="2068,401,2343,485"/>
-<area shape="rect" id="node19" href="$QtProjectWizardContentPathsHeaderSearch_8cpp.html" title=" " alt="" coords="1769,401,2044,485"/>
-<area shape="rect" id="node15" href="$QtProjectWizardContentPathCDB_8cpp.html" title=" " alt="" coords="5512,533,5779,617"/>
-<area shape="rect" id="node16" href="$QtProjectWizardContentPathCxxPch_8cpp.html" title=" " alt="" coords="6073,533,6340,617"/>
-<area shape="rect" id="node21" href="$SourceGroupSettingsWithSourceExtensions_8cpp.html" title=" " alt="" coords="755,269,1037,353"/>
-<area shape="rect" id="node22" href="$SourceGroupSettingsWithSourceExtensionsEmpty_8h.html" title=" " alt="" coords="1397,269,1680,353"/>
-<area shape="rect" id="node23" href="$SourceGroupSettingsWithSourceExtensionsC_8h.html" title=" " alt="" coords="2371,269,2682,353"/>
-<area shape="rect" id="node24" href="$SourceGroupSettingsWithSourceExtensionsCpp_8h.html" title=" " alt="" coords="1062,269,1373,353"/>
-<area shape="rect" id="node25" href="$SourceGroupSettingsWithSourceExtensionsCxx_8h.html" title=" " alt="" coords="3041,269,3351,353"/>
-<area shape="rect" id="node26" href="$QtProjectWizardContentExtensions_8cpp.html" title=" " alt="" coords="1704,269,1989,353"/>
-<area shape="rect" id="node28" href="$SourceGroupSettingsWithSourcePaths_8cpp.html" title=" " alt="" coords="180,401,463,485"/>
-<area shape="rect" id="node30" href="$SourceGroupSettingsWithCStandard_8cpp.html" title=" " alt="" coords="3307,401,3618,485"/>
-<area shape="rect" id="node31" href="$QtProjectWizardContentCStandard_8cpp.html" title=" " alt="" coords="2673,401,2959,485"/>
-<area shape="rect" id="node33" href="$SourceGroupSettingsWithCppStandard_8cpp.html" title=" " alt="" coords="3375,269,3686,353"/>
-<area shape="rect" id="node34" href="$QtProjectWizardContentCppStandard_8cpp.html" title=" " alt="" coords="3711,269,3996,353"/>
-<area shape="rect" id="node36" href="$SourceGroupSettingsWithCxxCdbPath_8cpp.html" title=" " alt="" coords="5821,401,6131,485"/>
-<area shape="rect" id="node38" href="$SourceGroupSettingsWithCxxCodeblocksPath_8cpp.html" title=" " alt="" coords="4071,269,4382,353"/>
-<area shape="rect" id="node40" href="$SourceGroupSettingsWithCxxCrossCompilationOptions_8cpp.html" title=" " alt="" coords="4843,269,5154,353"/>
-<area shape="rect" id="node41" href="$QtProjectWizardContentCrossCompilationOptions_8cpp.html" title=" " alt="" coords="5179,269,5464,353"/>
-<area shape="rect" id="node43" href="$SourceGroupSettingsWithCxxPathsAndFlags_8cpp.html" title=" " alt="" coords="4199,401,4510,485"/>
-<area shape="rect" id="node44" href="$QtProjectWizardContentFlags_8cpp.html" title=" " alt="" coords="4535,401,4820,485"/>
-<area shape="rect" id="node45" href="$QtProjectWizardContentPathsFrameworkSearch_8cpp.html" title=" " alt="" coords="4844,401,5119,485"/>
-<area shape="rect" id="node47" href="$SourceGroupSettingsWithCxxPchOptions_8cpp.html" title=" " alt="" coords="6517,401,6827,485"/>
-<area shape="rect" id="node48" href="$QtProjectWizardContentCxxPchFlags_8cpp.html" title=" " alt="" coords="6156,401,6441,485"/>
-<area shape="rect" id="node50" href="$SourceGroupSettingsWithIndexedHeaderPaths_8cpp.html" title=" " alt="" coords="5159,401,5470,485"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/settings/source_group/component/SourceGroupSettingsComponent.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/settings/source_group/component/SourceGroupSettingsComponent.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="4593,5,4962,84"/>
+<area shape="rect" id="Node000002" href="$SourceGroupSettingsWithCustomCommand_8h.html" title=" " alt="" coords="278,141,720,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4577,54,3378,86,1740,135,720,172,720,167,1740,129,3377,80,4577,48"/>
+<area shape="rect" id="Node000011" href="$SourceGroupSettingsWithExcludeFilters_8h.html" title=" " alt="" coords="1040,276,1403,371"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="4577,51,4035,59,3326,74,2629,99,2339,115,2119,135,1925,163,1730,200,1550,240,1397,278,1396,272,1549,235,1729,195,1924,158,2119,129,2339,110,2628,94,3326,69,4035,53,4577,45"/>
+<area shape="rect" id="Node000028" href="$SourceGroupSettingsWithSourceExtensions_8h.html" title=" " alt="" coords="2131,141,2571,219"/>
+<area shape="poly" id="edge19_Node000001_Node000028" title=" " alt="" coords="4578,60,2571,169,2571,164,4577,54"/>
+<area shape="rect" id="Node000035" href="$SourceGroupSettingsWithSourcePaths_8h.html" title=" " alt="" coords="2770,284,3174,363"/>
+<area shape="poly" id="edge30_Node000001_Node000035" title=" " alt="" coords="4578,72,3955,155,3571,213,3186,278,3145,286,3144,281,3185,273,3570,207,3954,150,4577,67"/>
+<area shape="rect" id="Node000037" href="$SourceGroupSettingsWithCStandard_8h.html" title=" " alt="" coords="3656,284,4075,363"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="4609,91,4450,135,4196,214,3978,286,3977,281,4194,209,4449,129,4608,86"/>
+<area shape="rect" id="Node000040" href="$SourceGroupSettingsWithCppStandard_8h.html" title=" " alt="" coords="4099,276,4464,371"/>
+<area shape="poly" id="edge42_Node000001_Node000040" title=" " alt="" coords="4697,94,4367,277,4365,273,4694,89"/>
+<area shape="rect" id="Node000043" href="$SourceGroupSettingsWithCxxCdbPath_8h.html" title=" " alt="" coords="7413,276,7777,371"/>
+<area shape="poly" id="edge47_Node000001_Node000043" title=" " alt="" coords="4978,44,5293,49,5701,62,6156,88,6387,106,6614,129,6830,159,7045,197,7245,238,7413,275,7412,281,7244,243,7044,203,6829,165,6613,135,6387,112,6156,93,5700,68,5293,54,4978,49"/>
+<area shape="rect" id="Node000045" href="$SourceGroupSettingsWithCxxCodeblocksPath_8h.html" title=" " alt="" coords="5705,132,6069,228"/>
+<area shape="poly" id="edge50_Node000001_Node000045" title=" " alt="" coords="4978,67,5704,154,5704,159,4977,73"/>
+<area shape="rect" id="Node000047" href="$SourceGroupSettingsWithCxxCrossCompilationOptions_8h.html" title=" " alt="" coords="4695,132,5060,228"/>
+<area shape="poly" id="edge53_Node000001_Node000047" title=" " alt="" coords="4818,95,4844,130,4840,133,4814,98"/>
+<area shape="rect" id="Node000050" href="$SourceGroupSettingsWithCxxPathsAndFlags_8h.html" title=" " alt="" coords="6145,276,6509,371"/>
+<area shape="poly" id="edge57_Node000001_Node000050" title=" " alt="" coords="4978,42,5255,46,5574,58,5729,69,5871,84,5991,104,6082,130,6142,159,6197,196,6246,236,6285,273,6282,277,6243,240,6194,200,6139,163,6081,134,5990,110,5870,90,5729,75,5574,64,5255,51,4978,48"/>
+<area shape="rect" id="Node000054" href="$SourceGroupSettingsWithCxxPchOptions_8h.html" title=" " alt="" coords="7025,276,7389,371"/>
+<area shape="poly" id="edge66_Node000001_Node000054" title=" " alt="" coords="4978,44,5250,49,5593,62,5972,88,6164,106,6351,129,6535,159,6718,196,7035,272,7034,278,6717,202,6534,165,6350,135,6163,112,5971,93,5593,68,5249,54,4977,49"/>
+<area shape="rect" id="Node000058" href="$SourceGroupSettingsWithIndexedHeaderPaths_8h.html" title=" " alt="" coords="6533,276,6924,371"/>
+<area shape="poly" id="edge73_Node000001_Node000058" title=" " alt="" coords="4977,49,5272,60,5616,77,5939,100,6072,114,6174,129,6296,159,6416,196,6527,236,6621,273,6619,278,6525,241,6414,201,6294,164,6173,135,6071,119,5939,105,5615,82,5272,65,4977,54"/>
+<area shape="rect" id="Node000003" href="$SourceGroupSettingsWithCustomCommand_8cpp.html" title=" " alt="" coords="5,284,462,363"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,229,307,286,305,281,412,224"/>
+<area shape="rect" id="Node000004" href="$SourceGroupSettingsCustomCommand_8h.html" title=" " alt="" coords="650,428,1017,507"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="494,235,494,268,498,304,508,339,526,370,552,395,582,415,615,431,650,443,648,448,613,436,580,420,549,399,522,373,503,341,492,305,488,269,489,235"/>
+<area shape="rect" id="Node000005" href="$SourceGroupCustomCommand_8cpp.html" title=" " alt="" coords="155,572,477,650"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="678,514,458,574,457,568,676,509"/>
+<area shape="rect" id="Node000006" href="$SourceGroupFactoryModuleCustom_8cpp.html" title=" " alt="" coords="501,572,822,650"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="776,519,710,573,707,569,773,515"/>
+<area shape="rect" id="Node000007" href="$ProjectSettings_8cpp.html" title=" " alt="" coords="846,580,1168,642"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="894,515,972,577,968,582,891,519"/>
+<area shape="rect" id="Node000008" href="$QtProjectWizard_8cpp.html" title=" " alt="" coords="1191,572,1473,650"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="994,509,1180,560,1207,568,1205,573,1178,566,992,514"/>
+<area shape="rect" id="Node000010" href="$QtProjectWizardContentPathsSource_8cpp.html" title=" " alt="" coords="1895,563,2255,659"/>
+<area shape="poly" id="edge8_Node000004_Node000010" title=" " alt="" coords="1002,507,1030,512,1389,549,1894,592,1894,597,1389,554,1029,518,1001,513"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="1079,380,941,430,939,425,1077,375"/>
+<area shape="rect" id="Node000012" href="$SourceGroupSettingsWithExcludeFilters_8cpp.html" title=" " alt="" coords="1425,419,1789,515"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="1365,375,1479,416,1477,421,1364,380"/>
+<area shape="rect" id="Node000013" href="$SourceGroupSettingsCEmpty_8h.html" title=" " alt="" coords="2871,428,3170,507"/>
+<area shape="poly" id="edge11_Node000011_Node000013" title=" " alt="" coords="1419,369,1637,391,1823,398,1987,395,2141,387,2294,380,2457,379,2642,390,2858,417,2897,425,2896,430,2857,422,2641,395,2457,385,2294,385,2141,392,1988,400,1823,403,1637,396,1418,374"/>
+<area shape="rect" id="Node000016" href="$SourceGroupSettingsCxxCdb_8h.html" title=" " alt="" coords="6946,428,7246,507"/>
+<area shape="poly" id="edge14_Node000011_Node000016" title=" " alt="" coords="1419,369,1585,380,1824,388,2480,394,3301,393,4203,387,5102,382,5914,382,6260,386,6553,392,6781,402,6935,417,6976,425,6975,430,6934,422,6781,408,6552,398,6260,391,5914,388,5102,387,4203,392,3301,398,2480,400,1824,393,1585,386,1419,374"/>
+<area shape="rect" id="Node000022" href="$SourceGroupSettingsCxxCodeblocks_8h.html" title=" " alt="" coords="4962,428,5313,507"/>
+<area shape="poly" id="edge16_Node000011_Node000022" title=" " alt="" coords="1419,369,1582,384,1769,394,1976,400,2200,402,2685,399,3195,391,3705,383,4185,380,4406,383,4610,390,4793,401,4951,417,4997,425,4997,430,4950,422,4792,406,4610,395,4406,388,4185,386,3705,388,3195,396,2685,405,2200,408,1976,405,1769,399,1582,389,1419,374"/>
+<area shape="rect" id="Node000026" href="$QtProjectWizardContentPathsExclude_8cpp.html" title=" " alt="" coords="1041,419,1402,515"/>
+<area shape="poly" id="edge17_Node000011_Node000026" title=" " alt="" coords="1224,387,1224,419,1219,419,1219,387"/>
+<area shape="rect" id="Node000027" href="$QtProjectWizardContentPathsHeaderSearch_8cpp.html" title=" " alt="" coords="1857,419,2218,515"/>
+<area shape="poly" id="edge18_Node000011_Node000027" title=" " alt="" coords="1419,369,1527,385,1611,394,1695,402,1801,417,1857,426,1857,432,1800,422,1694,408,1611,399,1526,391,1418,374"/>
+<area shape="rect" id="Node000014" href="$SourceGroupCxxEmpty_8cpp.html" title=" " alt="" coords="3951,572,4233,650"/>
+<area shape="poly" id="edge12_Node000013_Node000014" title=" " alt="" coords="3161,508,3182,512,3390,547,3600,572,3793,589,3951,600,3950,605,3792,594,3599,577,3390,552,3181,518,3160,513"/>
+<area shape="rect" id="Node000020" href="$QtProjectWizardContentPathCxxPch_8cpp.html" title=" " alt="" coords="7016,563,7363,659"/>
+<area shape="poly" id="edge15_Node000016_Node000020" title=" " alt="" coords="7132,518,7161,561,7156,564,7128,521"/>
+<area shape="poly" id="edge29_Node000028_Node000027" title=" " alt="" coords="2116,213,2061,225,2011,240,1971,257,1946,277,1933,300,1931,321,1936,344,1947,370,1961,395,1979,417,1975,421,1956,398,1942,372,1931,345,1926,321,1928,298,1942,274,1969,253,2009,235,2059,220,2115,208"/>
+<area shape="rect" id="Node000029" href="$SourceGroupSettingsWithSourceExtensions_8cpp.html" title=" " alt="" coords="1428,284,1882,363"/>
+<area shape="poly" id="edge20_Node000028_Node000029" title=" " alt="" coords="2146,225,1846,286,1845,281,2145,220"/>
+<area shape="rect" id="Node000030" href="$SourceGroupSettingsWithSourceExtensionsEmpty_8h.html" title=" " alt="" coords="537,284,1016,363"/>
+<area shape="poly" id="edge21_Node000028_Node000030" title=" " alt="" coords="2116,193,1887,204,1615,222,1321,246,1029,278,974,286,974,281,1028,273,1320,241,1614,217,1887,199,2115,187"/>
+<area shape="rect" id="Node000031" href="$SourceGroupSettingsWithSourceExtensionsC_8h.html" title=" " alt="" coords="3198,276,3581,371"/>
+<area shape="poly" id="edge23_Node000028_Node000031" title=" " alt="" coords="2586,198,2874,228,3032,249,3187,273,3198,275,3197,280,3186,278,3031,254,2874,234,2586,203"/>
+<area shape="rect" id="Node000032" href="$SourceGroupSettingsWithSourceExtensionsCpp_8h.html" title=" " alt="" coords="1957,276,2340,371"/>
+<area shape="poly" id="edge25_Node000028_Node000032" title=" " alt="" coords="2285,231,2217,277,2214,273,2281,226"/>
+<area shape="rect" id="Node000033" href="$SourceGroupSettingsWithSourceExtensionsCxx_8h.html" title=" " alt="" coords="4487,276,4871,371"/>
+<area shape="poly" id="edge26_Node000028_Node000033" title=" " alt="" coords="2586,184,3031,195,3575,214,4096,240,4312,256,4476,273,4487,275,4487,280,4476,278,4311,261,4096,245,3575,220,3031,201,2586,189"/>
+<area shape="rect" id="Node000034" href="$QtProjectWizardContentExtensions_8cpp.html" title=" " alt="" coords="2364,284,2746,363"/>
+<area shape="poly" id="edge28_Node000028_Node000034" title=" " alt="" coords="2421,226,2501,281,2498,286,2418,231"/>
+<area shape="poly" id="edge22_Node000030_Node000004" title=" " alt="" coords="800,376,820,426,815,428,795,378"/>
+<area shape="poly" id="edge24_Node000031_Node000013" title=" " alt="" coords="3253,380,3122,430,3120,425,3251,375"/>
+<area shape="poly" id="edge27_Node000033_Node000022" title=" " alt="" coords="4847,374,5013,425,5011,430,4846,379"/>
+<area shape="poly" id="edge33_Node000035_Node000004" title=" " alt="" coords="2795,369,2758,374,2496,398,2273,406,2076,403,1893,395,1710,387,1514,385,1291,395,1030,422,983,430,982,425,1029,417,1291,390,1514,380,1710,382,1893,390,2077,398,2273,401,2495,393,2757,369,2794,363"/>
+<area shape="poly" id="edge35_Node000035_Node000010" title=" " alt="" coords="2785,369,2758,374,2661,386,2584,390,2509,398,2466,407,2416,422,2364,445,2295,481,2153,565,2150,560,2293,476,2362,440,2414,417,2465,402,2508,392,2584,384,2660,381,2757,369,2784,364"/>
+<area shape="poly" id="edge32_Node000035_Node000013" title=" " alt="" coords="2993,377,3010,426,3005,428,2988,378"/>
+<area shape="poly" id="edge34_Node000035_Node000027" title=" " alt="" coords="2787,369,2758,374,2637,391,2542,400,2447,408,2326,422,2219,438,2218,433,2325,417,2447,403,2542,395,2636,386,2757,369,2786,364"/>
+<area shape="rect" id="Node000036" href="$SourceGroupSettingsWithSourcePaths_8cpp.html" title=" " alt="" coords="2427,428,2846,507"/>
+<area shape="poly" id="edge31_Node000035_Node000036" title=" " alt="" coords="2868,372,2729,430,2727,425,2866,367"/>
+<area shape="poly" id="edge38_Node000037_Node000013" title=" " alt="" coords="3669,369,3638,374,3510,389,3409,395,3309,402,3182,422,3147,430,3145,425,3181,417,3309,397,3409,390,3509,384,3637,369,3669,364"/>
+<area shape="poly" id="edge40_Node000037_Node000014" title=" " alt="" coords="3985,368,4016,390,4044,418,4066,455,4080,495,4089,535,4093,571,4088,571,4084,536,4075,497,4061,457,4039,421,4013,394,3982,373"/>
+<area shape="poly" id="edge39_Node000037_Node000022" title=" " alt="" coords="4052,363,4087,369,4218,383,4329,389,4519,390,4709,392,4820,400,4951,417,4994,425,4993,430,4950,422,4820,406,4709,397,4519,395,4329,395,4218,388,4086,374,4051,369"/>
+<area shape="rect" id="Node000038" href="$SourceGroupSettingsWithCStandard_8cpp.html" title=" " alt="" coords="3596,428,4029,507"/>
+<area shape="poly" id="edge37_Node000037_Node000038" title=" " alt="" coords="3848,378,3829,428,3824,426,3843,377"/>
+<area shape="rect" id="Node000039" href="$QtProjectWizardContentCStandard_8cpp.html" title=" " alt="" coords="3194,428,3572,507"/>
+<area shape="poly" id="edge41_Node000037_Node000039" title=" " alt="" coords="3720,370,3516,430,3514,425,3718,365"/>
+<area shape="poly" id="edge45_Node000040_Node000014" title=" " alt="" coords="4182,383,4162,401,4145,421,4125,458,4111,498,4097,572,4092,571,4106,496,4120,456,4141,418,4158,397,4178,379"/>
+<area shape="poly" id="edge44_Node000040_Node000022" title=" " alt="" coords="4479,369,4612,386,4716,392,4820,399,4951,417,4992,425,4991,430,4950,422,4820,404,4716,398,4611,391,4478,375"/>
+<area shape="rect" id="Node000041" href="$SourceGroupSettingsWithCppStandard_8cpp.html" title=" " alt="" coords="4155,419,4520,515"/>
+<area shape="poly" id="edge43_Node000040_Node000041" title=" " alt="" coords="4308,385,4321,418,4316,420,4303,387"/>
+<area shape="rect" id="Node000042" href="$QtProjectWizardContentCppStandard_8cpp.html" title=" " alt="" coords="4544,428,4939,507"/>
+<area shape="poly" id="edge46_Node000040_Node000042" title=" " alt="" coords="4451,374,4616,425,4615,430,4449,379"/>
+<area shape="poly" id="edge49_Node000043_Node000016" title=" " alt="" coords="7414,379,7234,430,7232,425,7413,374"/>
+<area shape="rect" id="Node000044" href="$SourceGroupSettingsWithCxxCdbPath_8cpp.html" title=" " alt="" coords="8437,419,8801,515"/>
+<area shape="poly" id="edge48_Node000043_Node000044" title=" " alt="" coords="7793,338,8091,369,8259,391,8425,417,8437,419,8436,424,8424,422,8258,396,8091,374,7792,343"/>
+<area shape="poly" id="edge52_Node000045_Node000022" title=" " alt="" coords="6047,235,6067,253,6084,274,6098,301,6104,325,6099,349,6083,373,6066,384,6037,393,5952,405,5841,413,5716,416,5475,418,5331,422,5287,430,5286,425,5331,417,5475,412,5716,411,5841,407,5951,400,6036,388,6063,379,6080,369,6094,347,6098,325,6093,302,6079,277,6063,256,6043,239"/>
+<area shape="rect" id="Node000046" href="$SourceGroupSettingsWithCxxCodeblocksPath_8cpp.html" title=" " alt="" coords="5705,276,6069,371"/>
+<area shape="poly" id="edge51_Node000045_Node000046" title=" " alt="" coords="5890,243,5890,275,5884,275,5884,243"/>
+<area shape="poly" id="edge55_Node000047_Node000013" title=" " alt="" coords="4680,189,4392,199,4071,216,3923,228,3796,242,3700,259,3667,268,3646,278,3634,288,3627,299,3621,324,3615,350,3607,362,3595,374,3559,390,3510,401,3393,411,3273,414,3182,422,3148,430,3146,425,3181,417,3273,409,3393,405,3509,396,3557,385,3592,369,3603,359,3610,348,3616,323,3622,297,3630,285,3643,273,3665,263,3699,254,3795,237,3923,223,4071,211,4392,193,4680,183"/>
+<area shape="rect" id="Node000048" href="$SourceGroupSettingsWithCxxCrossCompilationOptions_8cpp.html" title=" " alt="" coords="4894,276,5258,371"/>
+<area shape="poly" id="edge54_Node000047_Node000048" title=" " alt="" coords="4957,235,5012,273,5008,277,4954,239"/>
+<area shape="rect" id="Node000049" href="$QtProjectWizardContentCrossCompilationOptions_8cpp.html" title=" " alt="" coords="5282,276,5681,371"/>
+<area shape="poly" id="edge56_Node000047_Node000049" title=" " alt="" coords="5075,225,5282,273,5281,278,5074,230"/>
+<area shape="poly" id="edge59_Node000050_Node000013" title=" " alt="" coords="6130,368,6082,374,5950,384,5799,391,5448,396,5050,393,4630,387,4210,382,3813,383,3463,395,3312,406,3182,422,3142,430,3141,425,3181,417,3312,401,3463,390,3813,378,4210,377,4630,381,5050,388,5448,390,5799,386,5950,379,6081,369,6129,363"/>
+<area shape="poly" id="edge62_Node000050_Node000014" title=" " alt="" coords="6130,371,6110,374,5970,380,5738,386,5507,397,5423,408,5394,414,5376,422,5365,432,5358,443,5352,468,5346,494,5338,506,5326,517,5301,528,5265,538,5159,555,5020,570,4860,582,4520,600,4234,609,4234,604,4520,594,4859,577,5020,565,5159,550,5264,533,5300,523,5323,513,5334,503,5341,492,5347,466,5353,441,5361,428,5373,417,5393,409,5422,402,5507,392,5737,380,5970,375,6109,369,6129,366"/>
+<area shape="poly" id="edge60_Node000050_Node000016" title=" " alt="" coords="6525,369,6640,385,6731,391,6822,399,6935,417,6970,425,6969,430,6934,422,6821,404,6731,397,6640,390,6524,375"/>
+<area shape="poly" id="edge61_Node000050_Node000022" title=" " alt="" coords="6130,373,6126,374,6005,388,5903,396,5728,397,5554,400,5451,407,5331,422,5287,430,5286,425,5330,417,5451,402,5553,394,5728,392,5903,390,6005,383,6125,369,6129,368"/>
+<area shape="poly" id="edge65_Node000050_Node000027" title=" " alt="" coords="6130,368,6082,374,5916,387,5725,397,5281,408,4779,410,4249,408,3217,403,2773,407,2581,413,2415,422,2218,442,2218,437,2415,417,2581,408,2772,402,3217,397,4249,403,4779,405,5281,403,5724,392,5915,382,6081,369,6129,363"/>
+<area shape="rect" id="Node000051" href="$SourceGroupSettingsWithCxxPathsAndFlags_8cpp.html" title=" " alt="" coords="5387,419,5752,515"/>
+<area shape="poly" id="edge58_Node000050_Node000051" title=" " alt="" coords="6130,373,6126,374,6025,390,5945,398,5866,406,5765,422,5753,424,5752,419,5764,417,5865,401,5945,392,6024,384,6125,369,6129,368"/>
+<area shape="rect" id="Node000052" href="$QtProjectWizardContentFlags_8cpp.html" title=" " alt="" coords="5776,428,6123,507"/>
+<area shape="poly" id="edge63_Node000050_Node000052" title=" " alt="" coords="6187,380,6054,430,6052,425,6186,375"/>
+<area shape="rect" id="Node000053" href="$QtProjectWizardContentPathsFrameworkSearch_8cpp.html" title=" " alt="" coords="6147,419,6507,515"/>
+<area shape="poly" id="edge64_Node000050_Node000053" title=" " alt="" coords="6330,387,6330,419,6324,419,6324,387"/>
+<area shape="poly" id="edge68_Node000054_Node000013" title=" " alt="" coords="7010,365,6936,374,6830,380,6673,385,6232,389,5058,389,4441,390,3884,394,3444,404,3287,412,3182,422,3141,430,3140,425,3181,417,3287,407,3444,399,3884,389,4441,385,5058,384,6232,384,6672,379,6830,375,6936,369,7009,360"/>
+<area shape="poly" id="edge69_Node000054_Node000016" title=" " alt="" coords="7163,385,7128,429,7124,426,7159,382"/>
+<area shape="poly" id="edge72_Node000054_Node000020" title=" " alt="" coords="7248,384,7261,419,7270,467,7269,489,7261,516,7250,541,7235,564,7230,561,7245,539,7256,514,7263,488,7265,468,7256,420,7243,386"/>
+<area shape="rect" id="Node000055" href="$SourceGroupSettingsWithCxxPchOptions_8cpp.html" title=" " alt="" coords="7322,419,7686,515"/>
+<area shape="poly" id="edge67_Node000054_Node000055" title=" " alt="" coords="7321,376,7406,416,7404,421,7319,381"/>
+<area shape="rect" id="Node000056" href="$utilitySourceGroupCxx_8cpp.html" title=" " alt="" coords="7711,428,7993,507"/>
+<area shape="poly" id="edge70_Node000054_Node000056" title=" " alt="" coords="7405,369,7488,383,7553,392,7618,401,7699,417,7731,425,7730,430,7698,422,7617,406,7553,397,7487,389,7404,375"/>
+<area shape="rect" id="Node000057" href="$QtProjectWizardContentCxxPchFlags_8cpp.html" title=" " alt="" coords="8018,428,8412,507"/>
+<area shape="poly" id="edge71_Node000054_Node000057" title=" " alt="" coords="7405,369,7496,381,7573,388,7706,393,7838,398,8006,417,8052,425,8051,430,8005,422,7838,404,7706,399,7573,394,7495,387,7404,374"/>
+<area shape="poly" id="edge75_Node000058_Node000016" title=" " alt="" coords="6866,375,6996,425,6994,430,6864,380"/>
+<area shape="poly" id="edge76_Node000058_Node000022" title=" " alt="" coords="6517,374,6344,393,6197,401,6066,402,5945,400,5824,398,5694,399,5547,406,5375,422,5314,431,5313,426,5375,417,5547,400,5694,393,5824,393,5945,395,6066,397,6196,396,6344,387,6517,369"/>
+<area shape="rect" id="Node000059" href="$SourceGroupSettingsWithIndexedHeaderPaths_8cpp.html" title=" " alt="" coords="6531,419,6923,515"/>
+<area shape="poly" id="edge74_Node000058_Node000059" title=" " alt="" coords="6730,387,6730,419,6725,419,6725,387"/>
 </map>

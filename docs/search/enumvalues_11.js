@@ -14,6 +14,6 @@ var searchData=
   ['trail_5fhorizontal_11',['TRAIL_HORIZONTAL',['../classGraph.html#a2ded3841e0c787c00d1024a8250dbeffa07c1cf42333710ca6adb2d420ea910be',1,'Graph']]],
   ['trail_5fnone_12',['TRAIL_NONE',['../classGraph.html#a2ded3841e0c787c00d1024a8250dbeffa05c7b3d28493ed604346dbf7e073a881',1,'Graph']]],
   ['trail_5fvertical_13',['TRAIL_VERTICAL',['../classGraph.html#a2ded3841e0c787c00d1024a8250dbeffa49035d73f09f112c43f9db9c29931047',1,'Graph']]],
-  ['translation_5funit_14',['TRANSLATION_UNIT',['../classQtErrorView.html#a96aa7dd37c833ab64ec2a7ccc38e29b3a08d0d194f79b73b1f76e252acb1f877c',1,'QtErrorView']]],
-  ['type_15',['TYPE',['../classQtErrorView.html#a96aa7dd37c833ab64ec2a7ccc38e29b3ac06c788a187730ddca6ea32f1c10212c',1,'QtErrorView::TYPE()'],['../classQtStatusView.html#a07af2af2006a5fe7e2f54ad8c841d97ea7c00ec95ffff5033c401c83b2a58a16d',1,'QtStatusView::TYPE()'],['../classQtHighlighter.html#a7ec0d53be90cc8af120f70155df885eba948495146facadfe8859789036313d79',1,'QtHighlighter::TYPE()']]]
+  ['translation_5funit_14',['TRANSLATION_UNIT',['../classQtErrorView.html#a21076d149aa14eb5ce35eb39c3e1d7aaae15bf39dcd936f5388b2ac90028ef1b1',1,'QtErrorView']]],
+  ['type_15',['type',['../classQtStatusView.html#a07af2af2006a5fe7e2f54ad8c841d97ea7c00ec95ffff5033c401c83b2a58a16d',1,'QtStatusView::TYPE'],['../classQtHighlighter.html#a7ec0d53be90cc8af120f70155df885eba948495146facadfe8859789036313d79',1,'QtHighlighter::TYPE'],['../classQtErrorView.html#a21076d149aa14eb5ce35eb39c3e1d7aaa948495146facadfe8859789036313d79',1,'QtErrorView::TYPE']]]
 ];

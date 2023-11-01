@@ -1,6 +1,9 @@
 <map id="StorageStats" name="StorageStats">
-<area shape="rect" id="node1" title=" " alt="" coords="64,240,169,265"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,93,65,119"/>
-<area shape="rect" id="node3" href="$classTimeStamp.html" title=" " alt="" coords="151,93,247,119"/>
-<area shape="rect" id="node4" title=" " alt="" coords="169,5,229,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,259,169,286"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,65,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,141,26,187,29,211,39,233,51,246,67,256,64,260,48,250,34,236,24,213,21,187,25,141"/>
+<area shape="rect" id="Node000003" href="$classTimeStamp.html" title=" " alt="" coords="151,98,247,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,142,193,188,184,213,172,236,159,250,145,260,142,256,156,246,167,233,179,211,188,187,195,141"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="169,5,229,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,48,202,98,196,98,196,48"/>
 </map>

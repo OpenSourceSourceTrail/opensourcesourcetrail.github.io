@@ -5,9 +5,9 @@ var classColorScheme =
       [ "FOCUS", "classColorScheme.html#a3bd3ca50742167aa7fbca095727d0c2baaa0058c37cbb6529d90bd6d58ff5932c", null ],
       [ "ACTIVE", "classColorScheme.html#a3bd3ca50742167aa7fbca095727d0c2ba9ee79eeaf3be6c7e6d1b7bb0d6a955b5", null ]
     ] ],
-    [ "~ColorScheme", "classColorScheme.html#ad427e52b00c856170e2ae0c8b70582d0", null ],
-    [ "ColorScheme", "classColorScheme.html#ac359cbede591576e3cd630bba4ef2dd0", null ],
     [ "ColorScheme", "classColorScheme.html#a2c11c472dea8066db8d9797b4f99090f", null ],
+    [ "~ColorScheme", "classColorScheme.html#aa02c70e4f61a0cefc27e57549f94845f", null ],
+    [ "ColorScheme", "classColorScheme.html#ac359cbede591576e3cd630bba4ef2dd0", null ],
     [ "clear", "classColorScheme.html#add67480066decc8d2f7c27a091a7e4ea", null ],
     [ "disableWarnings", "classColorScheme.html#a5463d89e1bb51ffe0e88ec3e31414072", null ],
     [ "enableWarnings", "classColorScheme.html#a7f21c0d2792bffd61d2942ffe1646761", null ],

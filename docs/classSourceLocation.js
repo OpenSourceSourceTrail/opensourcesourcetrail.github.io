@@ -1,10 +1,13 @@
 var classSourceLocation =
 [
-    [ "SourceLocation", "classSourceLocation.html#a737bb87e62a7a5b652f4fd0b70ed5d75", null ],
-    [ "SourceLocation", "classSourceLocation.html#af2b5666c33b50d9496d234d576c81f58", null ],
-    [ "SourceLocation", "classSourceLocation.html#a2e4b10691d7e83a45571123d4fa2833f", null ],
+    [ "Ptr", "classSourceLocation.html#a769bdb8febd0055a139ef7839ebb4b03", null ],
+    [ "SourceLocation", "classSourceLocation.html#afc4edd122550c8e015204ba8d1eb3241", null ],
+    [ "SourceLocation", "classSourceLocation.html#a084f770c1197cad2b9f49629544951d3", null ],
+    [ "SourceLocation", "classSourceLocation.html#a2c5ca0f1e04afd75a3c36d393a42fc00", null ],
     [ "~SourceLocation", "classSourceLocation.html#a0430666bd10f4c2b7759a2ab6a5301ce", null ],
     [ "contains", "classSourceLocation.html#a0447891031dba55b8fdc350ef72849c0", null ],
+    [ "createEndSourceLocation", "classSourceLocation.html#a4b347b095fdba7cf9506eb72291d732f", null ],
+    [ "createSourceLocationFromAnother", "classSourceLocation.html#ad41b1ad648fdd09dfe3b7c5eb368218f", null ],
     [ "getColumnNumber", "classSourceLocation.html#aeed8b94990bcea9119ac83ec49654b39", null ],
     [ "getEndLocation", "classSourceLocation.html#a40374d38f5964d6f8f2da4556172b916", null ],
     [ "getFilePath", "classSourceLocation.html#a8ee76a543c99fcd6ea9825561d18c966", null ],

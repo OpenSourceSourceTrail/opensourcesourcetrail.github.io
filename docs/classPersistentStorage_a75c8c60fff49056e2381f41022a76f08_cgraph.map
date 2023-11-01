@@ -1,36 +1,74 @@
 <map id="PersistentStorage::getGraphForAll" name="PersistentStorage::getGraphForAll">
-<area shape="rect" id="node1" title=" " alt="" coords="5,673,151,713"/>
-<area shape="rect" id="node2" href="$classPersistentStorage.html#a1312d67f46768d8f61981b5152555602" title=" " alt="" coords="217,186,372,226"/>
-<area shape="rect" id="node21" href="$classPersistentStorage.html#a940875e007063518fc5a9d5a36abac0e" title=" " alt="" coords="222,527,367,567"/>
-<area shape="rect" id="node28" href="$classSqliteIndexStorage.html#a409f4badb073c0516d2df64a44a6ff65" title=" " alt="" coords="222,615,367,655"/>
-<area shape="rect" id="node29" href="$NodeKind_8cpp.html#a0d4b810fc5c357c1c5b1fa37e7a2271b" title=" " alt="" coords="237,680,353,705"/>
-<area shape="rect" id="node30" href="$classHierarchyCache.html#ae8d4272b24de515b9c441f03ff39cb7c" title=" " alt="" coords="199,730,391,770"/>
-<area shape="rect" id="node33" href="$classNodeType.html#a81656eb0721b620e931dd46669a8e4eb" title=" " alt="" coords="231,795,358,820"/>
-<area shape="rect" id="node34" href="$classNodeType.html#af95a7bb5a659fb7b97f33292f356f14d" title=" " alt="" coords="215,844,375,869"/>
-<area shape="rect" id="node3" href="$classToken.html#a203ac76302b27f82dc87e4f9b85995e6" title=" " alt="" coords="465,55,631,80"/>
-<area shape="rect" id="node4" href="$classGraph.html#a7f642b42a43e826780dc6b5a924dd9e5" title=" " alt="" coords="476,283,620,308"/>
-<area shape="rect" id="node6" href="$classNameHierarchy.html#aac9041eb78a248b2366f927bc7466b52" title=" " alt="" coords="447,332,649,357"/>
-<area shape="rect" id="node17" href="$classFilePath.html#a353c6c2dc5333ffc3f328f1daac2ea97" title=" " alt="" coords="477,104,619,129"/>
-<area shape="rect" id="node18" href="$classPersistentStorage.html#a78e140205e75d28bdf9eae3607774376" title=" " alt="" coords="467,154,629,194"/>
-<area shape="rect" id="node19" href="$classPersistentStorage.html#a9fe04129c76c269f6f8bf800fc1838a4" title=" " alt="" coords="473,218,623,258"/>
-<area shape="rect" id="node20" href="$classNameHierarchy.html#a7a2bb7136d6cbdda9e78f2e09d36b611" title=" " alt="" coords="439,5,657,31"/>
-<area shape="rect" id="node5" href="$classGraph.html#a6b9edd5c521d6564853a8bcf7913ebc7" title=" " alt="" coords="755,20,908,45"/>
-<area shape="rect" id="node7" href="$classNameHierarchy.html#a61507571abe641fc9b6694793f5c01bf" title=" " alt="" coords="750,381,913,407"/>
-<area shape="rect" id="node8" href="$classNameElement.html#a9ede148b2de95daf192c0cd4ad15daa8" title=" " alt="" coords="740,431,923,456"/>
-<area shape="rect" id="node9" href="$classNameElement_1_1Signature.html#a4bb81f51eb96fb5546311bd60d959dcb" title=" " alt="" coords="739,481,924,521"/>
-<area shape="rect" id="node10" href="$classNameElement_1_1Signature.html#a42b4dce71a17904b4063c7357a9e8394" title=" " alt="" coords="739,70,924,110"/>
-<area shape="rect" id="node11" href="$classNameElement.html#abfc0870ba3a5311e45a2bff6f57c1a43" title=" " alt="" coords="728,135,935,160"/>
-<area shape="rect" id="node12" href="$classNameElement.html#a4cfad678ac33d80fc5bfbfd0f7300f8b" title=" " alt="" coords="727,184,935,209"/>
-<area shape="rect" id="node14" href="$classNameHierarchy.html#acd30e121b7056fecafccd2fb8ed40310" title=" " alt="" coords="754,233,909,259"/>
-<area shape="rect" id="node15" href="$classNameHierarchy.html#ab3e5cdccabb7ceed36c3cd11d1141eff" title=" " alt="" coords="750,283,913,308"/>
-<area shape="rect" id="node16" href="$classNameHierarchy.html#a760966798a0edd110618a6179d646810" title=" " alt="" coords="753,332,910,357"/>
-<area shape="rect" id="node13" href="$classNameElement_1_1Signature.html#a305f9a7a1262c033dd59d7fd63742ad6" title=" " alt="" coords="1005,177,1191,217"/>
-<area shape="rect" id="node22" href="$classHierarchyCache.html#a298ba7348c2953bbbdfa2a72845fb7a1" title=" " alt="" coords="457,574,639,614"/>
-<area shape="rect" id="node27" href="$classNode.html#aacb61837e2047d9cd87cdc9694e36872" title=" " alt="" coords="471,639,625,664"/>
-<area shape="rect" id="node23" href="$classHierarchyCache_1_1HierarchyNode.html#ae49e8f8cb3fbba303ee989ab86b9254c" title=" " alt="" coords="733,545,929,585"/>
-<area shape="rect" id="node24" href="$classHierarchyCache.html#aefb70cc4f2fa9f98a488b9247907a9d2" title=" " alt="" coords="737,737,925,763"/>
-<area shape="rect" id="node25" href="$classHierarchyCache_1_1HierarchyNode.html#a456d30c7df80e34492cbe83a066f617b" title=" " alt="" coords="705,609,957,649"/>
-<area shape="rect" id="node26" href="$classHierarchyCache_1_1HierarchyNode.html#a55c39c703f8c7c6069f30d5b98195788" title=" " alt="" coords="733,673,929,713"/>
-<area shape="rect" id="node31" href="$classHierarchyCache_1_1HierarchyNode.html#affac470277a717ce7f890f39c3334220" title=" " alt="" coords="450,758,646,798"/>
-<area shape="rect" id="node32" href="$classHierarchyCache_1_1HierarchyNode.html#af2baf4626ffb655e7b1c2fd15a52006b" title=" " alt="" coords="450,822,646,862"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,728,150,772"/>
+<area shape="rect" id="Node000002" href="$classPersistentStorage.html#a1312d67f46768d8f61981b5152555602" title=" " alt="" coords="216,202,371,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,726,275,260,280,262,91,728"/>
+<area shape="rect" id="Node000021" href="$classPersistentStorage.html#a940875e007063518fc5a9d5a36abac0e" title=" " alt="" coords="221,574,366,619"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="94,725,138,677,166,652,196,629,206,623,208,628,199,633,169,656,141,681,98,729"/>
+<area shape="rect" id="Node000028" href="$classSqliteIndexStorage.html#a409f4badb073c0516d2df64a44a6ff65" title=" " alt="" coords="221,668,366,712"/>
+<area shape="poly" id="edge30_Node000001_Node000028" title=" " alt="" coords="149,727,205,712,207,717,151,732"/>
+<area shape="rect" id="Node000029" href="$NodeKind_8cpp.html#a0d4b810fc5c357c1c5b1fa37e7a2271b" title=" " alt="" coords="236,736,351,764"/>
+<area shape="poly" id="edge32_Node000001_Node000029" title=" " alt="" coords="150,747,220,747,220,753,150,753"/>
+<area shape="rect" id="Node000030" href="$classHierarchyCache.html#ae8d4272b24de515b9c441f03ff39cb7c" title=" " alt="" coords="198,788,389,832"/>
+<area shape="poly" id="edge33_Node000001_Node000030" title=" " alt="" coords="151,767,197,780,195,785,149,772"/>
+<area shape="rect" id="Node000033" href="$classNodeType.html#a81656eb0721b620e931dd46669a8e4eb" title=" " alt="" coords="230,856,357,884"/>
+<area shape="poly" id="edge37_Node000001_Node000033" title=" " alt="" coords="103,771,146,807,199,842,216,850,214,855,196,847,142,812,100,775"/>
+<area shape="rect" id="Node000034" href="$classNodeType.html#af95a7bb5a659fb7b97f33292f356f14d" title=" " alt="" coords="214,908,373,936"/>
+<area shape="poly" id="edge38_Node000001_Node000034" title=" " alt="" coords="94,771,135,832,165,865,199,893,210,899,207,904,196,897,161,869,131,836,89,774"/>
+<area shape="rect" id="Node000003" href="$classToken.html#a203ac76302b27f82dc87e4f9b85995e6" title=" " alt="" coords="464,64,629,92"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,200,365,150,399,124,436,102,452,95,455,100,438,107,402,129,369,154,317,204"/>
+<area shape="rect" id="Node000004" href="$classGraph.html#a7f642b42a43e826780dc6b5a924dd9e5" title=" " alt="" coords="475,305,618,333"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="337,245,384,269,438,291,460,298,459,303,436,296,382,274,334,250"/>
+<area shape="rect" id="Node000006" href="$classNameHierarchy.html#aac9041eb78a248b2366f927bc7466b52" title=" " alt="" coords="446,357,647,385"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="317,245,369,295,402,320,438,342,455,349,452,354,436,347,399,325,365,299,313,249"/>
+<area shape="rect" id="Node000017" href="$classFilePath.html#a353c6c2dc5333ffc3f328f1daac2ea97" title=" " alt="" coords="476,116,616,144"/>
+<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="334,199,382,175,436,153,460,145,462,150,438,158,384,180,337,204"/>
+<area shape="rect" id="Node000018" href="$classPersistentStorage.html#a78e140205e75d28bdf9eae3607774376" title=" " alt="" coords="466,168,627,212"/>
+<area shape="poly" id="edge18_Node000002_Node000018" title=" " alt="" coords="371,211,450,200,450,206,371,217"/>
+<area shape="rect" id="Node000019" href="$classPersistentStorage.html#a9fe04129c76c269f6f8bf800fc1838a4" title=" " alt="" coords="471,237,621,282"/>
+<area shape="poly" id="edge19_Node000002_Node000019" title=" " alt="" coords="371,232,456,244,455,249,371,238"/>
+<area shape="rect" id="Node000020" href="$classNameHierarchy.html#a7a2bb7136d6cbdda9e78f2e09d36b611" title=" " alt="" coords="437,12,655,40"/>
+<area shape="poly" id="edge20_Node000002_Node000020" title=" " alt="" coords="305,200,326,166,355,126,392,85,436,50,447,44,450,48,438,55,396,89,359,129,330,169,309,203"/>
+<area shape="rect" id="Node000005" href="$classGraph.html#a6b9edd5c521d6564853a8bcf7913ebc7" title=" " alt="" coords="753,5,905,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="617,312,637,304,653,292,674,262,682,232,681,201,676,169,671,137,671,106,679,74,701,43,718,30,737,22,739,27,721,35,705,46,684,76,676,106,677,137,682,168,687,200,687,232,679,264,657,296,639,309,619,317"/>
+<area shape="rect" id="Node000007" href="$classNameHierarchy.html#a61507571abe641fc9b6694793f5c01bf" title=" " alt="" coords="748,409,910,437"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="626,383,735,403,734,409,625,388"/>
+<area shape="rect" id="Node000008" href="$classNameElement.html#a9ede148b2de95daf192c0cd4ad15daa8" title=" " alt="" coords="738,461,920,489"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="573,383,632,415,704,446,732,454,730,459,702,451,629,419,570,388"/>
+<area shape="rect" id="Node000009" href="$classNameElement_1_1Signature.html#a4bb81f51eb96fb5546311bd60d959dcb" title=" " alt="" coords="737,513,921,558"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="562,384,621,439,661,471,705,498,723,507,721,512,702,503,658,475,617,443,559,387"/>
+<area shape="rect" id="Node000010" href="$classNameElement_1_1Signature.html#a42b4dce71a17904b4063c7357a9e8394" title=" " alt="" coords="737,57,921,102"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="638,355,653,343,673,315,681,287,681,259,677,230,673,201,673,171,681,141,701,112,721,96,725,101,705,116,686,144,679,172,679,200,682,229,686,258,686,288,678,317,657,346,641,359"/>
+<area shape="rect" id="Node000011" href="$classNameElement.html#abfc0870ba3a5311e45a2bff6f57c1a43" title=" " alt="" coords="726,125,932,153"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="637,355,653,343,669,321,677,300,678,278,676,255,675,232,676,209,684,186,701,164,711,156,714,160,705,168,689,189,682,210,680,232,682,255,683,278,682,301,674,324,657,346,640,359"/>
+<area shape="rect" id="Node000012" href="$classNameElement.html#a4cfad678ac33d80fc5bfbfd0f7300f8b" title=" " alt="" coords="725,177,933,205"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="635,355,654,342,666,328,673,313,676,281,680,248,688,231,702,216,710,209,714,213,705,220,692,234,685,249,682,281,678,314,671,331,657,347,638,359"/>
+<area shape="rect" id="Node000014" href="$classNameHierarchy.html#acd30e121b7056fecafccd2fb8ed40310" title=" " alt="" coords="752,229,906,257"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="631,354,654,342,670,325,677,306,684,286,702,268,736,251,738,256,705,272,689,289,682,308,674,328,657,347,634,359"/>
+<area shape="rect" id="Node000015" href="$classNameHierarchy.html#ab3e5cdccabb7ceed36c3cd11d1141eff" title=" " alt="" coords="748,281,910,309"/>
+<area shape="poly" id="edge14_Node000006_Node000015" title=" " alt="" coords="614,354,654,342,678,331,702,319,732,310,734,316,704,324,680,335,656,347,616,359"/>
+<area shape="rect" id="Node000016" href="$classNameHierarchy.html#a760966798a0edd110618a6179d646810" title=" " alt="" coords="751,357,907,385"/>
+<area shape="poly" id="edge15_Node000006_Node000016" title=" " alt="" coords="647,369,735,369,735,374,647,374"/>
+<area shape="rect" id="Node000013" href="$classNameElement_1_1Signature.html#a305f9a7a1262c033dd59d7fd63742ad6" title=" " alt="" coords="1003,169,1187,214"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="933,189,987,189,987,194,933,194"/>
+<area shape="poly" id="edge16_Node000016_Node000016" title=" " alt="" coords="784,358,777,348,782,339,800,333,829,331,860,333,877,340,875,345,859,338,829,336,801,338,786,343,782,348,788,355"/>
+<area shape="poly" id="edge22_Node000021_Node000004" title=" " alt="" coords="298,573,315,525,342,462,382,398,407,369,435,344,459,331,461,335,439,348,411,373,386,401,347,465,320,527,303,575"/>
+<area shape="poly" id="edge23_Node000021_Node000006" title=" " alt="" coords="318,572,516,394,520,398,322,576"/>
+<area shape="rect" id="Node000022" href="$classHierarchyCache.html#a298ba7348c2953bbbdfa2a72845fb7a1" title=" " alt="" coords="456,604,636,648"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="366,602,441,611,440,616,366,608"/>
+<area shape="rect" id="Node000027" href="$classNode.html#aacb61837e2047d9cd87cdc9694e36872" title=" " alt="" coords="469,672,623,700"/>
+<area shape="poly" id="edge29_Node000021_Node000027" title=" " alt="" coords="363,617,390,629,414,644,438,658,456,665,454,670,436,663,411,649,388,634,361,622"/>
+<area shape="rect" id="Node000023" href="$classHierarchyCache_1_1HierarchyNode.html#ae49e8f8cb3fbba303ee989ab86b9254c" title=" " alt="" coords="731,582,927,627"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="637,616,715,610,716,616,637,622"/>
+<area shape="rect" id="Node000024" href="$classHierarchyCache.html#aefb70cc4f2fa9f98a488b9247907a9d2" title=" " alt="" coords="735,789,923,817"/>
+<area shape="poly" id="edge26_Node000022_Node000024" title=" " alt="" coords="639,645,657,659,670,674,677,689,681,720,686,749,693,763,705,776,722,787,719,791,702,780,688,766,681,751,676,720,672,691,665,676,654,662,635,650"/>
+<area shape="rect" id="Node000025" href="$classHierarchyCache_1_1HierarchyNode.html#a456d30c7df80e34492cbe83a066f617b" title=" " alt="" coords="703,652,955,696"/>
+<area shape="poly" id="edge27_Node000022_Node000025" title=" " alt="" coords="637,639,689,647,688,653,636,644"/>
+<area shape="rect" id="Node000026" href="$classHierarchyCache_1_1HierarchyNode.html#a55c39c703f8c7c6069f30d5b98195788" title=" " alt="" coords="731,721,927,766"/>
+<area shape="poly" id="edge28_Node000022_Node000026" title=" " alt="" coords="633,646,657,658,672,671,681,683,690,695,705,706,719,713,716,718,702,711,687,699,677,686,668,674,654,663,631,651"/>
+<area shape="poly" id="edge31_Node000028_Node000028" title=" " alt="" coords="252,667,251,657,258,648,272,643,293,641,317,643,331,650,328,655,315,648,293,646,273,648,261,653,256,659,257,667"/>
+<area shape="poly" id="edge34_Node000030_Node000024" title=" " alt="" coords="390,804,437,803,720,801,720,806,437,808,390,810"/>
+<area shape="rect" id="Node000031" href="$classHierarchyCache_1_1HierarchyNode.html#affac470277a717ce7f890f39c3334220" title=" " alt="" coords="449,818,644,863"/>
+<area shape="poly" id="edge35_Node000030_Node000031" title=" " alt="" coords="390,819,433,824,433,829,389,824"/>
+<area shape="rect" id="Node000032" href="$classHierarchyCache_1_1HierarchyNode.html#af2baf4626ffb655e7b1c2fd15a52006b" title=" " alt="" coords="449,888,644,932"/>
+<area shape="poly" id="edge36_Node000030_Node000032" title=" " alt="" coords="363,830,390,842,414,858,438,873,453,879,450,884,436,878,411,862,388,847,361,835"/>
 </map>

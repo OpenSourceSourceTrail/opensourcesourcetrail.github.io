@@ -1,9 +1,15 @@
 <map id="Migrator::migrate" name="Migrator::migrate">
-<area shape="rect" id="node1" title=" " alt="" coords="700,70,836,95"/>
-<area shape="rect" id="node2" href="$classApplicationSettings.html#a4672f356690f3e5856aa0c5d96a165b7" title=" " alt="" coords="489,5,637,45"/>
-<area shape="rect" id="node4" href="$classProjectSettings.html#aa0bf68846372ec84ed502141e26a6b97" title=" " alt="" coords="473,70,652,95"/>
-<area shape="rect" id="node5" href="$classSqliteBookmarkStorage.html#a2f3bed78dd760007681776153c5199da" title=" " alt="" coords="475,120,651,160"/>
-<area shape="rect" id="node3" href="$includesLinux_8h.html#a12b6fe380831dd374fe41f6a3c11510f" title=" " alt="" coords="295,13,410,38"/>
-<area shape="rect" id="node6" href="$classPersistentStorage.html#abc1fd27ad170e28d1d8c750c4f7b6503" title=" " alt="" coords="280,120,425,160"/>
-<area shape="rect" id="node7" href="$classTaskExecuteCustomCommands.html#af4a74f479f27dcd0117a6f8750eba3ea" title=" " alt="" coords="5,120,232,160"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="698,74,834,102"/>
+<area shape="rect" id="Node000002" href="$classApplicationSettings.html#a4672f356690f3e5856aa0c5d96a165b7" title=" " alt="" coords="488,5,635,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="701,72,635,52,636,47,703,67"/>
+<area shape="rect" id="Node000004" href="$classProjectSettings.html#aa0bf68846372ec84ed502141e26a6b97" title=" " alt="" coords="472,74,650,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="683,90,651,90,651,85,683,85"/>
+<area shape="rect" id="Node000005" href="$classSqliteBookmarkStorage.html#a2f3bed78dd760007681776153c5199da" title=" " alt="" coords="474,125,649,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="702,109,640,127,639,122,701,104"/>
+<area shape="rect" id="Node000003" href="$includesLinux_8h.html#ad40015079b3c84bcb37d86b3a0b58553" title=" " alt="" coords="295,14,409,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,30,409,30,409,25,472,25"/>
+<area shape="rect" id="Node000006" href="$classPersistentStorage.html#abc1fd27ad170e28d1d8c750c4f7b6503" title=" " alt="" coords="280,125,424,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="458,150,424,150,424,145,458,145"/>
+<area shape="rect" id="Node000007" href="$classTaskExecuteCustomCommands.html#af4a74f479f27dcd0117a6f8750eba3ea" title=" " alt="" coords="5,125,232,170"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="264,150,232,150,232,145,264,145"/>
 </map>

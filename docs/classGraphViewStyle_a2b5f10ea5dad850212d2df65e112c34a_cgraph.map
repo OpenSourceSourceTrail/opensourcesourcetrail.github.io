@@ -1,10 +1,16 @@
 <map id="GraphViewStyle::getNodeColor" name="GraphViewStyle::getNodeColor">
-<area shape="rect" id="node1" title=" " alt="" coords="5,47,228,72"/>
-<area shape="rect" id="node2" href="$classColorScheme.html#ab65eb4d23939345b1569002b38ed3caf" title=" " alt="" coords="281,5,473,31"/>
-<area shape="rect" id="node4" href="$classColorScheme.html#a6740f1536f1befcfc6d2e26990823518" title=" " alt="" coords="276,79,477,119"/>
-<area shape="rect" id="node3" href="$classColorScheme.html#ac359cbede591576e3cd630bba4ef2dd0" title=" " alt="" coords="525,5,728,31"/>
-<area shape="rect" id="node5" href="$classNodeType.html#aada8e1ad40ccf2d1a2328a20ff872392" title=" " alt="" coords="528,79,725,119"/>
-<area shape="rect" id="node6" href="$classNodeType.html#a548ab2f69a65eb56317fe50281804d45" title=" " alt="" coords="776,50,983,90"/>
-<area shape="rect" id="node8" href="$namespaceutility.html#a239deb522abcf6865fc4409d6fff2914" title=" " alt="" coords="822,115,937,140"/>
-<area shape="rect" id="node7" href="$NodeKind_8cpp.html#a1df24373c5d37e19daf04ca7f2621443" title=" " alt="" coords="1031,57,1236,83"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,228,76"/>
+<area shape="rect" id="Node000002" href="$classColorScheme.html#ab65eb4d23939345b1569002b38ed3caf" title=" " alt="" coords="280,5,472,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,45,273,33,273,39,205,50"/>
+<area shape="rect" id="Node000003" href="$classColorScheme.html#a6740f1536f1befcfc6d2e26990823518" title=" " alt="" coords="276,81,476,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,74,261,82,260,87,207,79"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="329,81,328,71,336,62,352,56,376,54,402,57,418,63,416,68,401,62,376,59,353,61,338,66,333,72,334,80"/>
+<area shape="rect" id="Node000004" href="$classNodeType.html#aada8e1ad40ccf2d1a2328a20ff872392" title=" " alt="" coords="524,81,720,126"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="477,101,509,101,509,106,477,106"/>
+<area shape="rect" id="Node000005" href="$classNodeType.html#a548ab2f69a65eb56317fe50281804d45" title=" " alt="" coords="768,50,974,95"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="720,88,752,84,753,90,721,94"/>
+<area shape="rect" id="Node000007" href="$namespaceutility.html#a239deb522abcf6865fc4409d6fff2914" title=" " alt="" coords="814,119,928,146"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="721,112,799,121,798,127,720,117"/>
+<area shape="rect" id="Node000006" href="$NodeKind_8cpp.html#a1df24373c5d37e19daf04ca7f2621443" title=" " alt="" coords="1022,59,1226,86"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="974,70,1006,70,1006,75,974,75"/>
 </map>

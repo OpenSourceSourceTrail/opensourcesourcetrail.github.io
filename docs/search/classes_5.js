@@ -1,16 +1,19 @@
 var searchData=
 [
   ['filedata_0',['FileData',['../structQtCodeFileSingle_1_1FileData.html',1,'QtCodeFileSingle']]],
-  ['fileinfo_1',['FileInfo',['../structFileInfo.html',1,'']]],
-  ['filelogger_2',['FileLogger',['../classFileLogger.html',1,'']]],
-  ['filemanager_3',['FileManager',['../classFileManager.html',1,'']]],
-  ['filepath_4',['FilePath',['../classFilePath.html',1,'']]],
-  ['filepathfilter_5',['FilePathFilter',['../classFilePathFilter.html',1,'']]],
-  ['fileregister_6',['FileRegister',['../classFileRegister.html',1,'']]],
-  ['filesystem_7',['FileSystem',['../classFileSystem.html',1,'']]],
-  ['filetree_8',['FileTree',['../classFileTree.html',1,'']]],
-  ['focus_9',['Focus',['../structCodeFocusHandler_1_1Focus.html',1,'CodeFocusHandler']]],
-  ['fulltextsearchfile_10',['FullTextSearchFile',['../structFullTextSearchFile.html',1,'']]],
-  ['fulltextsearchindex_11',['FullTextSearchIndex',['../classFullTextSearchIndex.html',1,'']]],
-  ['fulltextsearchresult_12',['FullTextSearchResult',['../structFullTextSearchResult.html',1,'']]]
+  ['filehandler_1',['FileHandler',['../structFileHandler.html',1,'']]],
+  ['fileinfo_2',['FileInfo',['../structFileInfo.html',1,'']]],
+  ['filelogger_3',['FileLogger',['../classFileLogger.html',1,'']]],
+  ['filemanager_4',['FileManager',['../classFileManager.html',1,'']]],
+  ['filepath_5',['FilePath',['../classFilePath.html',1,'']]],
+  ['filepathfilter_6',['FilePathFilter',['../classFilePathFilter.html',1,'']]],
+  ['fileregister_7',['FileRegister',['../classFileRegister.html',1,'']]],
+  ['filesystem_8',['FileSystem',['../classFileSystem.html',1,'']]],
+  ['filetree_9',['FileTree',['../classFileTree.html',1,'']]],
+  ['findingsourcelocationsbyid_10',['FindingSourceLocationsById',['../classFindingSourceLocationsById.html',1,'']]],
+  ['focus_11',['Focus',['../structCodeFocusHandler_1_1Focus.html',1,'CodeFocusHandler']]],
+  ['frontendactionfactory_12',['FrontendActionFactory',['../classclang_1_1tooling_1_1FrontendActionFactory.html',1,'clang::tooling']]],
+  ['fulltextsearchfile_13',['FullTextSearchFile',['../structFullTextSearchFile.html',1,'']]],
+  ['fulltextsearchindex_14',['FullTextSearchIndex',['../classFullTextSearchIndex.html',1,'']]],
+  ['fulltextsearchresult_15',['FullTextSearchResult',['../structFullTextSearchResult.html',1,'']]]
 ];

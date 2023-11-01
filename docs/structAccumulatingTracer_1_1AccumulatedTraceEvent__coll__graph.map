@@ -1,7 +1,13 @@
 <map id="AccumulatingTracer::AccumulatedTraceEvent" name="AccumulatingTracer::AccumulatedTraceEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="42,211,229,251"/>
-<area shape="rect" id="node2" href="$structTraceEvent.html" title=" " alt="" coords="88,123,183,148"/>
-<area shape="rect" id="node3" title=" " alt="" coords="106,5,165,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,65,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="253,5,319,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,225,227,269"/>
+<area shape="rect" id="Node000002" href="$structTraceEvent.html" title=" " alt="" coords="87,132,180,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,175,136,224,131,224,131,175"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,163,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,48,136,132,131,132,131,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,65,33"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="31,49,26,102,29,131,37,159,49,178,64,195,98,222,94,226,60,199,45,181,33,161,24,132,21,102,26,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="50,46,67,76,89,106,116,129,112,133,85,110,63,79,45,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="250,5,316,33"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="296,48,300,78,295,109,271,147,241,179,207,206,176,226,173,222,204,201,237,175,267,144,290,107,295,78,290,49"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="268,48,261,58,247,86,241,98,229,110,206,125,182,135,179,130,203,120,225,106,236,94,243,83,256,56,263,45"/>
 </map>

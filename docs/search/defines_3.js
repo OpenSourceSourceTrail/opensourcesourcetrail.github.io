@@ -1,15 +1,19 @@
 var searchData=
 [
-  ['log_5ferror_0',['LOG_ERROR',['../logging_8h.html#ad13510dc90bf21cb0a7253f0991e2cdf',1,'logging.h']]],
-  ['log_5ferror_5fbare_1',['LOG_ERROR_BARE',['../logging_8h.html#a67ce9e6862f813992d0f24f8df08cd5a',1,'logging.h']]],
-  ['log_5ferror_5fstream_2',['LOG_ERROR_STREAM',['../logging_8h.html#a6fceab5d285a3d32a7e4ef79268a32ce',1,'logging.h']]],
-  ['log_5ferror_5fstream_5fbare_3',['LOG_ERROR_STREAM_BARE',['../logging_8h.html#a7c7605039242230648b4a14bbf316323',1,'logging.h']]],
-  ['log_5finfo_4',['LOG_INFO',['../logging_8h.html#a88b8d05854b8ab5d9434a4a21f6162f9',1,'logging.h']]],
-  ['log_5finfo_5fbare_5',['LOG_INFO_BARE',['../logging_8h.html#aefce71f743abb2b85c934232879c9db0',1,'logging.h']]],
-  ['log_5finfo_5fstream_6',['LOG_INFO_STREAM',['../logging_8h.html#a8af7538ef2a6bee9e93e9db3cd9845c7',1,'logging.h']]],
-  ['log_5finfo_5fstream_5fbare_7',['LOG_INFO_STREAM_BARE',['../logging_8h.html#a6d37c37bc5e786eb5143d93c27b52e1a',1,'logging.h']]],
-  ['log_5fwarning_8',['LOG_WARNING',['../logging_8h.html#a619606d19b8eaa0f4990889887955a7e',1,'logging.h']]],
-  ['log_5fwarning_5fbare_9',['LOG_WARNING_BARE',['../logging_8h.html#a7a92df68ba586594b12f757a5f58b583',1,'logging.h']]],
-  ['log_5fwarning_5fstream_10',['LOG_WARNING_STREAM',['../logging_8h.html#abc8c40ff51f615c03f443286e13476d9',1,'logging.h']]],
-  ['log_5fwarning_5fstream_5fbare_11',['LOG_WARNING_STREAM_BARE',['../logging_8h.html#a8e89f322dd9faf1f166246702ba4e828',1,'logging.h']]]
+  ['def_5fgetter_5f0_0',['DEF_GETTER_0',['../StorageAccessProxy_8cpp.html#a49e3307a809b8d09be27ecd89c1d0106',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f1_1',['DEF_GETTER_1',['../StorageAccessProxy_8cpp.html#a496490a0c3fa86445d0a96944ebb9453',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f2_2',['DEF_GETTER_2',['../StorageAccessProxy_8cpp.html#add68cb0eb0239ddf1d7da32823d5d8f3',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f3_3',['DEF_GETTER_3',['../StorageAccessProxy_8cpp.html#abd7cd850e121ea3418625afdea6d6f25',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f4_4',['DEF_GETTER_4',['../StorageAccessProxy_8cpp.html#a52a80b360fb32fde9f8277eafd44965a',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f5_5',['DEF_GETTER_5',['../StorageAccessProxy_8cpp.html#ab0aa17756f0420a4e09eb1d9a481a506',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f6_6',['DEF_GETTER_6',['../StorageAccessProxy_8cpp.html#ad2467f61085d5037210a39e0c2361716',1,'StorageAccessProxy.cpp']]],
+  ['def_5fgetter_5f7_7',['DEF_GETTER_7',['../StorageAccessProxy_8cpp.html#aa4c74f784d6d34440c9fe4f9e8295223',1,'StorageAccessProxy.cpp']]],
+  ['def_5ftraverse_5fcustom_5ftype_8',['def_traverse_custom_type',['../CxxAstVisitor_8cpp.html#abd3b8a55765c25053950e50132e76710',1,'DEF_TRAVERSE_CUSTOM_TYPE:&#160;CxxAstVisitor.cpp'],['../CxxAstVisitorComponent_8h.html#a873496ebe03201bb97568469878a0f8d',1,'DEF_TRAVERSE_CUSTOM_TYPE:&#160;CxxAstVisitorComponent.h']]],
+  ['def_5ftraverse_5fcustom_5ftype_5fptr_9',['def_traverse_custom_type_ptr',['../CxxAstVisitor_8cpp.html#afa1daa5b9f8a9b83f28bd7b5ff59d121',1,'DEF_TRAVERSE_CUSTOM_TYPE_PTR:&#160;CxxAstVisitor.cpp'],['../CxxAstVisitorComponent_8h.html#ac4b0ac7d4e5ae13c6b20ad49eda96312',1,'DEF_TRAVERSE_CUSTOM_TYPE_PTR:&#160;CxxAstVisitorComponent.h']]],
+  ['def_5ftraverse_5ftype_10',['def_traverse_type',['../CxxAstVisitor_8cpp.html#a5a191a6c8a3f43758569b6e7ba378aaa',1,'DEF_TRAVERSE_TYPE:&#160;CxxAstVisitor.cpp'],['../CxxAstVisitorComponent_8h.html#aa68c7a4d658e5f5e0a89c2abb64b4132',1,'DEF_TRAVERSE_TYPE:&#160;CxxAstVisitorComponent.h']]],
+  ['def_5ftraverse_5ftype_5fptr_11',['def_traverse_type_ptr',['../CxxAstVisitor_8cpp.html#a775f51ecfa6bbb50acd274f68cd64c34',1,'DEF_TRAVERSE_TYPE_PTR:&#160;CxxAstVisitor.cpp'],['../CxxAstVisitorComponent_8h.html#a87bb0498388a54b450f0a9f183571c74',1,'DEF_TRAVERSE_TYPE_PTR:&#160;CxxAstVisitorComponent.h']]],
+  ['def_5fvisit_5fcustom_5ftype_12',['DEF_VISIT_CUSTOM_TYPE',['../CxxAstVisitor_8cpp.html#aa387a23db243aad78871f2190c2a35df',1,'CxxAstVisitor.cpp']]],
+  ['def_5fvisit_5fcustom_5ftype_5fptr_13',['DEF_VISIT_CUSTOM_TYPE_PTR',['../CxxAstVisitor_8cpp.html#a689dea5a71aeba17d5a85e57cd0b6a67',1,'CxxAstVisitor.cpp']]],
+  ['def_5fvisit_5ftype_14',['DEF_VISIT_TYPE',['../CxxAstVisitor_8cpp.html#a2b7fa8a17900a575b35245f4ec41e45e',1,'CxxAstVisitor.cpp']]],
+  ['def_5fvisit_5ftype_5fptr_15',['DEF_VISIT_TYPE_PTR',['../CxxAstVisitor_8cpp.html#ac09ac4df90da6f208b7d705c8e074abe',1,'CxxAstVisitor.cpp']]]
 ];

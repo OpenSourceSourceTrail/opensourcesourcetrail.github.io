@@ -12,7 +12,7 @@ var structDummyNode =
       [ "DUMMY_TEXT", "structDummyNode.html#a5ea48eb52a56bdc273acb39e62beea99ac518ad2fa5774dc54f36e12976724c37", null ],
       [ "DUMMY_GROUP", "structDummyNode.html#a5ea48eb52a56bdc273acb39e62beea99adc7b729e9da65227f70c673415aa15e1", null ]
     ] ],
-    [ "DummyNode", "structDummyNode.html#a683f66ae9498892025a41318dca32859", null ],
+    [ "DummyNode", "structDummyNode.html#ac816d84b7bb27eadff9529d25b3b2835", null ],
     [ "forEachDummyNodeRecursive", "structDummyNode.html#a2a75ebdfb675c1b33134c6b8e483edae", null ],
     [ "getAccessNodes", "structDummyNode.html#a24e36a1c4be99ffc48d78145f59a8f60", null ],
     [ "getActiveSubNodeCount", "structDummyNode.html#ae1947135377e896a24b03df99b57c8d6", null ],
@@ -38,7 +38,7 @@ var structDummyNode =
     [ "isTextNode", "structDummyNode.html#a1528ea26aeca924abd499d89e8c32807", null ],
     [ "replaceAccessNodes", "structDummyNode.html#ad5fa03ec7083984bbd4b5306cdf28ba8", null ],
     [ "replaceSubGraphNodes", "structDummyNode.html#a2696e3f577a137733690b3750fb73baf", null ],
-    [ "setBundleIdRecursive", "structDummyNode.html#a28fda4112dec7a3f9bb35a685474f2dd", null ],
+    [ "setBundleIdRecursive", "structDummyNode.html#a081efdd5a6297f0369567825c97e3a69", null ],
     [ "sortSubNodesByName", "structDummyNode.html#a1a8295527c24b7ff2fc5f6f44042d384", null ],
     [ "accessKind", "structDummyNode.html#a8c85971ae666448080468b8b434df28b", null ],
     [ "active", "structDummyNode.html#a2fd873b08d838bca616be36e721832a9", null ],

@@ -1,6 +1,9 @@
 <map id="Bucket" name="Bucket">
-<area shape="rect" id="node1" title=" " alt="" coords="163,167,230,192"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,20,44,45"/>
-<area shape="rect" id="node3" title=" " alt="" coords="68,5,325,60"/>
-<area shape="rect" id="node4" title=" " alt="" coords="349,20,460,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,183,229,211"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,22,44,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,61,82,108,132,157,169,180,167,185,129,161,78,112,40,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,5,325,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,83,199,182,194,182,194,83"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="349,22,458,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="381,63,330,111,266,161,225,185,222,180,263,157,327,107,378,59"/>
 </map>

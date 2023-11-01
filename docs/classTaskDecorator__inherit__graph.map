@@ -1,8 +1,13 @@
 <map id="TaskDecorator" name="TaskDecorator">
-<area shape="rect" id="node1" title=" " alt="" coords="206,93,321,119"/>
-<area shape="rect" id="node4" href="$classTaskDecoratorDelay.html" title=" " alt="" coords="5,167,159,192"/>
-<area shape="rect" id="node5" href="$classTaskDecoratorRepeat.html" title=" " alt="" coords="183,167,344,192"/>
-<area shape="rect" id="node6" href="$classTaskParseWrapper.html" title=" " alt="" coords="368,167,511,192"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="159,13,210,38"/>
-<area shape="rect" id="node3" title=" " alt="" coords="235,5,449,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,98,319,126"/>
+<area shape="rect" id="Node000004" href="$classTaskDecoratorDelay.html" title=" " alt="" coords="5,174,158,201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,134,114,176,112,171,214,129"/>
+<area shape="rect" id="Node000005" href="$classTaskDecoratorRepeat.html" title=" " alt="" coords="181,174,342,201"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="264,141,264,173,259,173,259,141"/>
+<area shape="rect" id="Node000006" href="$classTaskParseWrapper.html" title=" " alt="" coords="366,174,507,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="308,130,406,171,404,176,306,134"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="159,14,209,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,51,251,96,247,100,205,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="234,5,447,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,63,276,99,272,96,307,59"/>
 </map>

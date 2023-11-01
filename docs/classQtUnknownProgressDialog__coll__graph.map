@@ -1,22 +1,43 @@
 <map id="QtUnknownProgressDialog" name="QtUnknownProgressDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="345,579,541,604"/>
-<area shape="rect" id="node2" href="$classQtProgressBarDialog.html" title=" " alt="" coords="365,504,522,529"/>
-<area shape="rect" id="node3" href="$classQtIndexingDialog.html" title=" " alt="" coords="245,387,380,412"/>
-<area shape="rect" id="node4" href="$classQtWindowBase.html" title=" " alt="" coords="335,299,456,324"/>
-<area shape="rect" id="node5" href="$classQtWindowStackElement.html" title=" " alt="" coords="257,196,435,221"/>
-<area shape="rect" id="node6" href="$classQWidget.html" title=" " alt="" coords="312,93,391,119"/>
-<area shape="rect" id="node14" href="$classQtProgressBar.html" title=" " alt="" coords="665,196,779,221"/>
-<area shape="rect" id="node7" title=" " alt="" coords="459,196,510,221"/>
-<area shape="rect" id="node8" title=" " alt="" coords="137,196,227,221"/>
-<area shape="rect" id="node9" title=" " alt="" coords="571,196,636,221"/>
-<area shape="rect" id="node10" title=" " alt="" coords="5,196,103,221"/>
-<area shape="rect" id="node11" title=" " alt="" coords="189,299,311,324"/>
-<area shape="rect" id="node12" title=" " alt="" coords="404,387,483,412"/>
-<area shape="rect" id="node13" title=" " alt="" coords="567,387,619,412"/>
-<area shape="rect" id="node15" title=" " alt="" coords="840,93,900,119"/>
-<area shape="rect" id="node16" title=" " alt="" coords="417,93,497,119"/>
-<area shape="rect" id="node17" href="$classTimeStamp.html" title=" " alt="" coords="521,93,617,119"/>
-<area shape="rect" id="node18" title=" " alt="" coords="539,5,599,31"/>
-<area shape="rect" id="node19" href="$classQtDeviceScaledPixmap.html" title=" " alt="" coords="641,93,816,119"/>
-<area shape="rect" id="node20" title=" " alt="" coords="688,5,769,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="343,614,538,641"/>
+<area shape="rect" id="Node000002" href="$classQtProgressBarDialog.html" title=" " alt="" coords="362,537,518,564"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,580,443,613,438,613,438,580"/>
+<area shape="rect" id="Node000003" href="$classQtIndexingDialog.html" title=" " alt="" coords="244,410,378,438"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,446,429,534,425,538,333,450"/>
+<area shape="rect" id="Node000004" href="$classQtWindowBase.html" title=" " alt="" coords="332,317,452,345"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,358,346,388,325,411,321,408,342,384,369,354"/>
+<area shape="rect" id="Node000005" href="$classQtWindowStackElement.html" title=" " alt="" coords="254,208,432,235"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="351,250,365,292,382,315,377,318,360,295,345,251"/>
+<area shape="rect" id="Node000006" href="$classQWidget.html" title=" " alt="" coords="311,98,388,126"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="350,141,346,208,341,207,345,141"/>
+<area shape="rect" id="Node000014" href="$classQtProgressBar.html" title=" " alt="" coords="660,208,775,235"/>
+<area shape="poly" id="edge15_Node000014_Node000006" title=" " alt="" coords="382,132,425,159,476,181,521,193,558,198,643,205,660,208,660,213,643,210,557,203,520,199,474,186,423,163,379,137"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="456,208,505,235"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="442,239,410,252,392,261,387,274,386,289,390,317,385,318,380,289,382,273,389,258,407,247,440,234"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="136,208,224,235"/>
+<area shape="poly" id="edge12_Node000002_Node000008" title=" " alt="" coords="177,251,173,296,179,344,188,373,199,394,234,436,273,469,318,497,362,518,400,534,398,539,359,523,315,502,270,474,230,440,194,397,183,375,174,346,168,296,172,251"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="206,243,237,268,274,291,335,314,334,319,271,296,234,272,203,247"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="567,208,631,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="596,252,587,275,571,295,551,306,522,314,453,326,452,321,521,309,549,301,568,291,583,272,591,250"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,208,102,235"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="77,244,106,270,142,291,189,306,228,310,269,310,320,315,332,317,331,322,320,320,269,316,228,315,188,311,139,296,103,274,74,249"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="188,317,308,345"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="264,357,281,384,301,408,296,411,277,388,260,360"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="402,410,479,438"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="443,453,443,536,438,536,438,453"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="564,410,615,438"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="589,454,581,485,562,514,542,529,520,539,518,534,540,525,558,511,576,483,584,452"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="725,250,730,306,728,377,721,414,710,451,694,485,670,515,645,529,608,538,519,549,518,543,607,533,643,524,666,511,689,482,705,449,716,413,722,376,725,306,720,251"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="835,98,894,126"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="848,140,827,163,802,186,757,209,755,205,799,181,823,160,844,136"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="414,98,493,126"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="473,136,495,161,522,181,661,208,660,213,520,186,491,165,469,140"/>
+<area shape="rect" id="Node000017" href="$classTimeStamp.html" title=" " alt="" coords="518,98,613,126"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="581,138,597,161,617,182,639,195,663,205,661,210,637,200,614,186,593,164,577,141"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="536,5,595,33"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="568,48,568,98,563,98,563,48"/>
+<area shape="rect" id="Node000019" href="$classQtDeviceScaledPixmap.html" title=" " alt="" coords="638,98,811,126"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="725,141,721,208,716,207,720,141"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="684,5,764,33"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="727,48,727,98,722,98,722,48"/>
 </map>

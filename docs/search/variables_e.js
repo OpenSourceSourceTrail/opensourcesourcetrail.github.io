@@ -1,7 +1,7 @@
 var searchData=
 [
   ['parents_0',['parents',['../structTrailNode.html#aaaaf4f033aa4d319cf58b519e4b87610',1,'TrailNode']]],
-  ['path_1',['path',['../structDummyEdge.html#aacb1bdceaf541374be6fca9de2260adb',1,'DummyEdge::path()'],['../structFileInfo.html#a2d25653e1a283f1c1fef7eb931ca6dfc',1,'FileInfo::path()'],['../classMessageSaveAsImage.html#a33c6758d9cd656342398a27e52f1b765',1,'MessageSaveAsImage::path()']]],
+  ['path_1',['path',['../structDummyEdge.html#aacb1bdceaf541374be6fca9de2260adb',1,'DummyEdge::path'],['../structFileInfo.html#a2d25653e1a283f1c1fef7eb931ca6dfc',1,'FileInfo::path'],['../classMessageSaveAsImage.html#a33c6758d9cd656342398a27e52f1b765',1,'MessageSaveAsImage::path']]],
   ['pattern_2',['pattern',['../structQtHighlighter_1_1HighlightingRule.html#a40efd8c14d2e149038c489f605b9e8a5',1,'QtHighlighter::HighlightingRule']]],
   ['pos_3',['pos',['../structTrailLayouter_1_1TrailNode.html#ae0634cc3138222488189cabf1175b265',1,'TrailLayouter::TrailNode']]],
   ['position_4',['position',['../structDummyNode.html#a8cca8369dcfba356d4423d0fe60422d6',1,'DummyNode']]],

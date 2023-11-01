@@ -1,5 +1,5 @@
 var classMessageFilter =
 [
-    [ "~MessageFilter", "classMessageFilter.html#a6d10ab12f091cf117d02814628445687", null ],
-    [ "filter", "classMessageFilter.html#a67706d5e2522b4678e2056b2c1c1f29b", null ]
+    [ "~MessageFilter", "classMessageFilter.html#a06c24c3ccc5a35f355b1c92bc3b1d3b4", null ],
+    [ "filter", "classMessageFilter.html#a8878044b09755670326c6884795caa4e", null ]
 ];

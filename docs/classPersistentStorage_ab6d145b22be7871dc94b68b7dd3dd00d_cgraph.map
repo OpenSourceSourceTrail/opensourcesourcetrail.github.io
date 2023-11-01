@@ -1,9 +1,15 @@
 <map id="PersistentStorage::getNodeIdsForLocationIds" name="PersistentStorage::getNodeIdsForLocationIds">
-<area shape="rect" id="node1" title=" " alt="" coords="5,99,196,139"/>
-<area shape="rect" id="node2" href="$classSqliteIndexStorage.html#aeae2223d485b97202bec2a9bef9b401a" title=" " alt="" coords="284,5,429,45"/>
-<area shape="rect" id="node3" href="$classSqliteIndexStorage.html#a300347cb36689c8d8721cbd7cdc59450" title=" " alt="" coords="244,69,469,109"/>
-<area shape="rect" id="node6" href="$classEdge.html#a7ed693a82d45e351e90133c1142ea337" title=" " alt="" coords="295,134,418,159"/>
-<area shape="rect" id="node7" href="$namespaceutility.html#aaf52f1ff3ca887705d82c1e674f434c0" title=" " alt="" coords="295,183,418,209"/>
-<area shape="rect" id="node4" href="$namespaceutility.html#a237f617b0b07dbb7215f63901217c7a4" title=" " alt="" coords="535,53,625,78"/>
-<area shape="rect" id="node5" href="$namespaceutility.html#aea0681f6afa2ac9505f8f5a988bd04f8" title=" " alt="" coords="517,102,643,127"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,195,150"/>
+<area shape="rect" id="Node000002" href="$classSqliteIndexStorage.html#aeae2223d485b97202bec2a9bef9b401a" title=" " alt="" coords="283,5,427,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,103,242,60,267,51,269,56,244,65,148,107"/>
+<area shape="rect" id="Node000003" href="$classSqliteIndexStorage.html#a300347cb36689c8d8721cbd7cdc59450" title=" " alt="" coords="243,75,467,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,114,227,110,227,115,196,119"/>
+<area shape="rect" id="Node000006" href="$classEdge.html#a7ed693a82d45e351e90133c1142ea337" title=" " alt="" coords="294,143,416,171"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,136,279,146,278,151,195,141"/>
+<area shape="rect" id="Node000007" href="$namespaceutility.html#aaf52f1ff3ca887705d82c1e674f434c0" title=" " alt="" coords="294,195,416,223"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,148,243,180,280,190,278,195,242,185,155,153"/>
+<area shape="rect" id="Node000004" href="$namespaceutility.html#a237f617b0b07dbb7215f63901217c7a4" title=" " alt="" coords="532,58,622,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,82,516,76,517,81,468,87"/>
+<area shape="rect" id="Node000005" href="$namespaceutility.html#aea0681f6afa2ac9505f8f5a988bd04f8" title=" " alt="" coords="515,110,639,138"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="468,108,500,112,500,117,467,113"/>
 </map>

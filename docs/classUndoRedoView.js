@@ -1,13 +1,13 @@
 var classUndoRedoView =
 [
     [ "UndoRedoView", "classUndoRedoView.html#a00e7626b25d9c91dfc581b605c9ce60c", null ],
-    [ "~UndoRedoView", "classUndoRedoView.html#ab0d11acd2f9df8b453e340ae542aa717", null ],
+    [ "~UndoRedoView", "classUndoRedoView.html#ae5bd789c05820998224faaed5e5d3e6f", null ],
     [ "addToLayout", "classUndoRedoView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "create", "classUndoRedoView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
     [ "createAndAddToLayout", "classUndoRedoView.html#a93a9174f4de6b909706465a61949bf83", null ],
     [ "createWidgetWrapper", "classUndoRedoView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
     [ "getController", "classUndoRedoView.html#a68ba9601f3980fd7f43fe8b5f58a1235", null ],
-    [ "getName", "classUndoRedoView.html#a3f39cae90059d5c8d31b922bc6aed8ea", null ],
+    [ "getName", "classUndoRedoView.html#a91674e0da61a21588a192b9300e9a36b", null ],
     [ "getViewLayout", "classUndoRedoView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classUndoRedoView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "refreshView", "classUndoRedoView.html#a47d8e2f48a7e71a9a481df791826b0e6", null ],

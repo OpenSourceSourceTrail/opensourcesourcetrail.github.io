@@ -1,8 +1,17 @@
 <map id="QtGraphNode::setIsFocused" name="QtGraphNode::setIsFocused">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,208,80"/>
-<area shape="rect" id="node2" href="$classQtGraphNode.html#a444bacafe53f537080812ad92a59f9cb" title=" " alt="" coords="261,55,444,80"/>
-<area shape="rect" id="node5" href="$classQtGraphNode.html#a1fba2d30be621127392f39cbfbfe06b8" title=" " alt="" coords="499,104,695,129"/>
-<area shape="rect" id="node6" href="$classQtGraphNode.html#a878aa40b969853e02f85a35b8281bbf1" title=" " alt="" coords="256,5,449,31"/>
-<area shape="rect" id="node3" href="$classQtGraphNode.html#a0aad72991e96f4cd90a4b76ed529219a" title=" " alt="" coords="497,55,696,80"/>
-<area shape="rect" id="node4" href="$classQtGraphEdge.html#ac21d6a2430b2e80fe69f9488a0fe3be4" title=" " alt="" coords="503,5,690,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,207,86"/>
+<area shape="rect" id="Node000002" href="$classQtGraphNode.html#a444bacafe53f537080812ad92a59f9cb" title=" " alt="" coords="260,59,442,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,70,245,70,245,75,207,75"/>
+<area shape="rect" id="Node000005" href="$classQtGraphNode.html#a1fba2d30be621127392f39cbfbfe06b8" title=" " alt="" coords="497,109,692,137"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="184,84,255,95,371,107,481,115,481,120,371,112,254,100,183,90"/>
+<area shape="rect" id="Node000006" href="$classQtGraphNode.html#a878aa40b969853e02f85a35b8281bbf1" title=" " alt="" coords="255,7,447,34"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="174,55,267,36,268,41,175,61"/>
+<area shape="rect" id="Node000003" href="$classQtGraphNode.html#a0aad72991e96f4cd90a4b76ed529219a" title=" " alt="" coords="495,57,693,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,69,479,69,479,74,442,75"/>
+<area shape="rect" id="Node000004" href="$classQtGraphEdge.html#ac21d6a2430b2e80fe69f9488a0fe3be4" title=" " alt="" coords="501,5,687,33"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,55,512,34,513,40,418,61"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="421,84,510,103,509,108,420,89"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="421,32,510,51,509,56,420,37"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="448,17,485,17,485,22,448,23"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="421,33,448,45,464,57,473,70,482,83,496,94,509,101,507,106,494,99,478,86,469,73,460,61,446,49,419,37"/>
 </map>

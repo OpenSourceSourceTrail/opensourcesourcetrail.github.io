@@ -1,7 +1,7 @@
 var classMessageBase =
 [
     [ "MessageBase", "classMessageBase.html#a7bf7d7947ebc492d42b24a152d942592", null ],
-    [ "~MessageBase", "classMessageBase.html#a7864695ad7547de8414d555a63eacf8a", null ],
+    [ "~MessageBase", "classMessageBase.html#a41bb54772efa4495bbeec3dc452acc3e", null ],
     [ "dispatch", "classMessageBase.html#a2ff5779df5721ba559a4a1e3dbbe9089", null ],
     [ "getId", "classMessageBase.html#a8b22dcbfc6bd7df5d1cfd25838366f19", null ],
     [ "getSchedulerId", "classMessageBase.html#afd36f69f78a741be829f6a8555806eb6", null ],

@@ -1,8 +1,57 @@
 <map id="UndoRedoView::updateHistory" name="UndoRedoView::updateHistory">
-<area shape="rect" id="node1" title=" " alt="" coords="609,77,831,102"/>
-<area shape="rect" id="node2" href="$classUndoRedoController.html#a541ae514628e45d4ef06a138eb167974" title=" " alt="" coords="408,69,561,109"/>
-<area shape="rect" id="node3" href="$classUndoRedoController.html#a2b27232f8d4366c465f9fbb476640bf6" title=" " alt="" coords="207,5,360,45"/>
-<area shape="rect" id="node4" href="$classUndoRedoController.html#adfd4802bb291b469d153e3d7c86341b2" title=" " alt="" coords="207,69,360,109"/>
-<area shape="rect" id="node5" href="$classUndoRedoController.html#a1db0756f178fa717527ddb5ad43bbd60" title=" " alt="" coords="207,133,360,173"/>
-<area shape="rect" id="node6" href="$classUndoRedoController.html#aeb619d6fdc151ecc99d8d132e041cd32" title=" " alt="" coords="5,133,159,173"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="606,569,827,596"/>
+<area shape="rect" id="Node000002" href="$classUndoRedoController.html#a541ae514628e45d4ef06a138eb167974" title=" " alt="" coords="406,560,558,605"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="590,585,559,585,559,580,590,580"/>
+<area shape="rect" id="Node000003" href="$classUndoRedoController.html#a2b27232f8d4366c465f9fbb476640bf6" title=" " alt="" coords="206,421,358,466"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,551,404,515,357,481,336,469,339,464,359,476,407,511,449,547"/>
+<area shape="rect" id="Node000004" href="$classUndoRedoController.html#adfd4802bb291b469d153e3d7c86341b2" title=" " alt="" coords="206,491,358,535"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="400,557,348,539,350,533,402,552"/>
+<area shape="rect" id="Node000005" href="$classUndoRedoController.html#a3c6cff83649935420a9382744cf441c4" title=" " alt="" coords="206,560,358,605"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="390,585,358,585,358,580,390,580"/>
+<area shape="rect" id="Node000006" href="$classUndoRedoController.html#a4ba4977c2bdb46843be062e9535ddc44" title=" " alt="" coords="206,629,358,674"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="402,613,350,631,348,626,400,608"/>
+<area shape="rect" id="Node000007" href="$classUndoRedoController.html#a1db0756f178fa717527ddb5ad43bbd60" title=" " alt="" coords="206,699,358,743"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="449,617,407,653,359,689,339,700,336,696,357,684,404,649,445,613"/>
+<area shape="rect" id="Node000008" href="$classUndoRedoController.html#aeb619d6fdc151ecc99d8d132e041cd32" title=" " alt="" coords="5,5,158,50"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="204,689,203,688,190,663,181,632,173,557,174,469,179,374,184,280,185,192,177,118,168,88,155,64,145,52,148,49,160,61,173,86,182,117,190,192,189,280,184,374,179,469,179,557,187,631,195,661,208,685,208,686"/>
+<area shape="rect" id="Node000009" href="$classUndoRedoController.html#a55faa43e26e696cd0270809b3a27c9ca" title=" " alt="" coords="5,75,158,119"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="204,689,203,688,181,650,166,613,158,578,156,543,163,475,179,408,195,342,202,275,200,241,192,206,178,170,156,133,144,122,148,118,160,130,182,168,197,205,205,240,208,275,200,343,184,410,168,476,161,543,163,577,171,612,186,648,208,685,208,686"/>
+<area shape="rect" id="Node000010" href="$classUndoRedoController.html#a27895dfeb21c97824762bc54aac860da" title=" " alt="" coords="5,144,158,189"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="204,689,203,688,183,655,170,623,163,591,160,561,166,501,179,443,192,385,198,327,195,297,188,266,175,235,156,203,144,191,148,187,160,199,180,232,193,265,201,296,203,327,198,386,184,444,171,502,166,561,168,591,175,621,188,652,208,685,208,686"/>
+<area shape="rect" id="Node000011" href="$classUndoRedoController.html#a6085136cd47348b962d03476098a5c54" title=" " alt="" coords="5,213,158,258"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="204,689,203,688,186,660,174,632,167,605,165,579,169,528,179,478,189,428,193,378,191,352,184,326,173,299,156,272,144,260,148,257,160,269,177,297,189,324,196,351,198,378,195,429,184,479,174,529,170,579,173,604,179,630,191,657,208,685,209,686"/>
+<area shape="rect" id="Node000012" href="$classUndoRedoController.html#a1f0789a71712ff3d655f1ac65c989a1e" title=" " alt="" coords="5,283,158,327"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="205,689,203,688,189,664,178,641,169,597,172,554,179,513,186,471,189,429,180,386,170,364,156,341,144,330,148,326,160,338,175,362,185,385,194,429,192,472,184,513,177,555,175,597,183,640,193,662,208,685,209,686"/>
+<area shape="rect" id="Node000013" href="$classUndoRedoController.html#aab9b1d3f1080ded1739d9b1bbf9b1c3d" title=" " alt="" coords="5,352,158,397"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="205,689,203,688,182,651,174,615,174,581,179,547,184,514,184,481,176,446,156,411,144,399,148,395,160,407,181,444,189,480,189,514,184,548,180,581,179,615,187,649,208,685,209,686"/>
+<area shape="rect" id="Node000014" href="$classUndoRedoController.html#ada0d51d399d06f63249513ae704d9454" title=" " alt="" coords="5,421,158,466"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="205,690,204,688,186,660,179,634,177,608,179,582,181,557,179,532,172,506,156,480,143,469,147,465,160,477,177,504,185,531,186,557,184,583,183,608,184,633,191,658,208,685,209,686"/>
+<area shape="rect" id="Node000015" href="$classUndoRedoController.html#a4a4917cbb64dbd20916c6210e0868dae" title=" " alt="" coords="5,491,158,535"/>
+<area shape="poly" id="edge14_Node000007_Node000015" title=" " alt="" coords="206,691,204,688,191,670,183,652,179,617,175,584,168,567,156,549,142,538,146,534,160,546,173,564,180,582,184,617,188,650,195,667,208,685,210,687"/>
+<area shape="rect" id="Node000016" href="$classUndoRedoController.html#adbf4432f10be370d492faccbc4076b65" title=" " alt="" coords="5,560,158,605"/>
+<area shape="poly" id="edge15_Node000007_Node000016" title=" " alt="" coords="208,692,204,688,188,670,179,653,171,636,156,619,139,607,142,603,159,615,175,633,184,650,192,667,208,684,212,688"/>
+<area shape="rect" id="Node000017" href="$classUndoRedoController.html#a5b52ce6c8c1c87c26522141adb5b2057" title=" " alt="" coords="5,629,158,674"/>
+<area shape="poly" id="edge16_Node000007_Node000017" title=" " alt="" coords="200,696,147,677,149,672,202,691"/>
+<area shape="rect" id="Node000018" href="$classUndoRedoController.html#ad00e676b606e605810dce61a639ce6b6" title=" " alt="" coords="5,699,158,743"/>
+<area shape="poly" id="edge17_Node000007_Node000018" title=" " alt="" coords="190,724,158,724,158,718,190,718"/>
+<area shape="rect" id="Node000019" href="$classUndoRedoController.html#a50f373c339556af8843caf65b56fd008" title=" " alt="" coords="5,768,158,813"/>
+<area shape="poly" id="edge18_Node000007_Node000019" title=" " alt="" coords="202,751,149,770,147,765,200,746"/>
+<area shape="rect" id="Node000020" href="$classUndoRedoController.html#a8ad6ccea08fda3e06e47616a967e00b4" title=" " alt="" coords="5,837,158,882"/>
+<area shape="poly" id="edge19_Node000007_Node000020" title=" " alt="" coords="248,756,207,792,159,827,138,839,136,834,156,823,204,788,245,752"/>
+<area shape="rect" id="Node000021" href="$classUndoRedoController.html#affb0983af04c0cf155c8213e9d22ffff" title=" " alt="" coords="5,907,158,951"/>
+<area shape="poly" id="edge20_Node000007_Node000021" title=" " alt="" coords="265,758,222,827,193,864,159,896,142,908,139,904,156,892,189,860,217,824,260,756"/>
+<area shape="rect" id="Node000022" href="$classUndoRedoController.html#ac16e92baf3f11db716b21eb84ab7aee7" title=" " alt="" coords="5,976,158,1021"/>
+<area shape="poly" id="edge21_Node000007_Node000022" title=" " alt="" coords="273,759,257,805,233,860,201,916,160,966,144,978,141,973,156,962,196,913,228,857,252,803,268,757"/>
+<area shape="rect" id="Node000023" href="$classUndoRedoController.html#ace13deec43d6250b30ae16ac4d10485a" title=" " alt="" coords="5,1045,158,1090"/>
+<area shape="poly" id="edge22_Node000007_Node000023" title=" " alt="" coords="278,759,265,818,243,891,208,967,186,1003,160,1035,145,1047,142,1043,156,1031,182,999,204,964,238,889,260,817,272,758"/>
+<area shape="rect" id="Node000024" href="$classUndoRedoController.html#ae2f54e0e50f0f4b3473b4d882a9ec607" title=" " alt="" coords="5,1115,158,1159"/>
+<area shape="poly" id="edge23_Node000007_Node000024" title=" " alt="" coords="281,759,272,831,252,922,236,970,216,1018,191,1063,160,1104,146,1116,143,1112,156,1101,186,1060,211,1015,231,968,246,920,267,830,275,759"/>
+<area shape="rect" id="Node000025" href="$classUndoRedoController.html#abc0669dc6c6fc45cb1a3dd915c4e0cf5" title=" " alt="" coords="5,1184,158,1229"/>
+<area shape="poly" id="edge24_Node000007_Node000025" title=" " alt="" coords="283,759,278,842,260,951,244,1010,223,1068,195,1123,160,1173,146,1186,143,1182,156,1170,191,1120,218,1066,239,1008,255,950,272,841,278,759"/>
+<area shape="rect" id="Node000026" href="$classUndoRedoController.html#a9281b3e48571a4d02d2fa545193731d7" title=" " alt="" coords="5,1253,158,1298"/>
+<area shape="poly" id="edge25_Node000007_Node000026" title=" " alt="" coords="279,759,263,869,237,1012,203,1150,182,1204,160,1243,147,1255,143,1251,156,1239,177,1202,198,1148,232,1011,258,868,273,758"/>
+<area shape="rect" id="Node000027" href="$classUndoRedoController.html#a1b5cff890b4dc3769458896dabcbc728" title=" " alt="" coords="5,1323,158,1367"/>
+<area shape="poly" id="edge26_Node000007_Node000027" title=" " alt="" coords="280,759,266,882,242,1046,225,1129,206,1205,185,1268,160,1312,147,1324,143,1320,156,1309,180,1265,201,1203,220,1128,236,1045,261,882,274,759"/>
+<area shape="rect" id="Node000028" href="$classUndoRedoController.html#a4d2dc53eac594f862a3b587fc5432622" title=" " alt="" coords="5,1392,158,1437"/>
+<area shape="poly" id="edge27_Node000007_Node000028" title=" " alt="" coords="281,759,269,895,246,1080,230,1173,210,1259,187,1331,160,1381,147,1393,144,1389,156,1378,182,1329,205,1258,224,1172,241,1079,263,895,275,759"/>
 </map>

@@ -1,9 +1,16 @@
 <map id="GraphViewStyle::loadStyleSettings" name="GraphViewStyle::loadStyleSettings">
-<area shape="rect" id="node1" title=" " alt="" coords="5,97,200,137"/>
-<area shape="rect" id="node2" href="$classGraphViewStyle.html#a302223de4f4773a81f1bdc3de3e9a46b" title=" " alt="" coords="248,55,476,81"/>
-<area shape="rect" id="node5" href="$classGraphViewStyle.html#acbe4b1377b21efc8bb0e7909cef4eb56" title=" " alt="" coords="270,105,454,130"/>
-<area shape="rect" id="node6" href="$classApplicationSettings.html#a59fd66f9eab421c8e7ea4da03c4b0d1e" title=" " alt="" coords="288,155,436,195"/>
-<area shape="rect" id="node3" href="$classGraphViewStyle.html#a0911dbbf61bdfd307f8a42d8ab085ff9" title=" " alt="" coords="524,5,747,45"/>
-<area shape="rect" id="node4" href="$classGraphViewStyle.html#a74a5b33896cabd85c658d0e5485108ee" title=" " alt="" coords="530,69,741,109"/>
-<area shape="rect" id="node7" href="$classApplicationSettings.html#a577f5c7696669ffd72b37c28eb3eb04c" title=" " alt="" coords="557,155,713,195"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,200,150"/>
+<area shape="rect" id="Node000002" href="$classGraphViewStyle.html#a302223de4f4773a81f1bdc3de3e9a46b" title=" " alt="" coords="248,62,475,90"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,105,273,91,274,96,201,111"/>
+<area shape="rect" id="Node000005" href="$classGraphViewStyle.html#acbe4b1377b21efc8bb0e7909cef4eb56" title=" " alt="" coords="270,114,453,142"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="200,125,254,125,254,130,200,130"/>
+<area shape="rect" id="Node000006" href="$classApplicationSettings.html#a59fd66f9eab421c8e7ea4da03c4b0d1e" title=" " alt="" coords="288,165,435,210"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="201,148,273,165,272,170,200,153"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="318,63,310,53,316,43,333,37,361,35,392,38,408,44,406,49,390,43,361,40,334,42,319,47,316,53,322,60"/>
+<area shape="rect" id="Node000003" href="$classGraphViewStyle.html#a0911dbbf61bdfd307f8a42d8ab085ff9" title=" " alt="" coords="523,5,744,50"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="443,59,507,47,508,52,444,64"/>
+<area shape="rect" id="Node000004" href="$classGraphViewStyle.html#a74a5b33896cabd85c658d0e5485108ee" title=" " alt="" coords="529,75,738,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="476,82,514,85,513,90,475,87"/>
+<area shape="rect" id="Node000007" href="$classApplicationSettings.html#a577f5c7696669ffd72b37c28eb3eb04c" title=" " alt="" coords="556,165,711,210"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="436,185,541,185,541,190,436,190"/>
 </map>

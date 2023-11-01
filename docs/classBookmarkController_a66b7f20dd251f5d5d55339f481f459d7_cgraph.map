@@ -1,10 +1,21 @@
 <map id="BookmarkController::activateBookmark" name="BookmarkController::activateBookmark">
-<area shape="rect" id="node1" title=" " alt="" coords="5,112,159,152"/>
-<area shape="rect" id="node2" href="$classMessageActivateNodes.html#a4aed47a466b9493a66380dbc12f99b35" title=" " alt="" coords="243,5,418,45"/>
-<area shape="rect" id="node3" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="259,70,402,95"/>
-<area shape="rect" id="node6" href="$classStorageAccess.html#a52563fe16129547745ffb2035287c435" title=" " alt="" coords="227,119,434,145"/>
-<area shape="rect" id="node7" href="$classStorageAccess.html#a158a98c2aeb5f0d785f0db1e05b8f169" title=" " alt="" coords="207,169,455,209"/>
-<area shape="rect" id="node8" href="$classEdge.html#a7ed693a82d45e351e90133c1142ea337" title=" " alt="" coords="269,234,392,259"/>
-<area shape="rect" id="node4" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="503,70,709,95"/>
-<area shape="rect" id="node5" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="757,70,988,95"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,158,193"/>
+<area shape="rect" id="Node000002" href="$classMessageActivateNodes.html#a4aed47a466b9493a66380dbc12f99b35" title=" " alt="" coords="242,5,417,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,146,146,102,174,80,204,60,227,50,229,54,207,65,177,84,149,106,105,149"/>
+<area shape="rect" id="Node000003" href="$classMessage.html#a4556438d5bb073d6f19ea777fe3faf10" title=" " alt="" coords="258,74,401,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,145,205,112,243,101,244,106,207,117,128,150"/>
+<area shape="rect" id="Node000006" href="$classStorageAccess.html#a52563fe16129547745ffb2035287c435" title=" " alt="" coords="226,126,433,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,158,210,152,211,157,158,164"/>
+<area shape="rect" id="Node000007" href="$classStorageAccess.html#a158a98c2aeb5f0d785f0db1e05b8f169" title=" " alt="" coords="206,177,453,222"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="158,177,190,181,190,186,158,182"/>
+<area shape="rect" id="Node000008" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="256,246,403,274"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="121,191,162,212,207,232,242,242,241,247,205,237,159,217,119,195"/>
+<area shape="rect" id="Node000010" href="$classEdge.html#a7ed693a82d45e351e90133c1142ea337" title=" " alt="" coords="268,298,391,326"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="103,191,147,238,175,263,207,283,254,299,252,305,204,287,172,267,143,242,99,195"/>
+<area shape="rect" id="Node000004" href="$classMessageQueue.html#a085ebbc4ba9c58eeeaad64e77efc8e07" title=" " alt="" coords="501,74,706,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,85,485,85,485,90,401,90"/>
+<area shape="rect" id="Node000005" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="754,74,984,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,85,739,85,739,90,707,90"/>
+<area shape="rect" id="Node000009" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="525,246,682,274"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="403,257,509,257,509,262,403,262"/>
 </map>

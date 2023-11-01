@@ -1,6 +1,9 @@
 <map id="MainView::refreshViews" name="MainView::refreshViews">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,184,60"/>
-<area shape="rect" id="node2" href="$classMainView.html#af7cb8220d4975c7b0ca4bb289048a094" title=" " alt="" coords="250,5,422,31"/>
-<area shape="rect" id="node3" href="$classComponentManager.html#adf4861851f47e75a506e07de1c3ee029" title=" " alt="" coords="232,55,440,95"/>
-<area shape="rect" id="node4" href="$classView.html#a47d8e2f48a7e71a9a481df791826b0e6" title=" " alt="" coords="488,63,628,88"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,184,64"/>
+<area shape="rect" id="Node000002" href="$classMainView.html#af7cb8220d4975c7b0ca4bb289048a094" title=" " alt="" coords="250,5,421,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,36,234,29,235,35,185,41"/>
+<area shape="rect" id="Node000003" href="$classComponentManager.html#adf4861851f47e75a506e07de1c3ee029" title=" " alt="" coords="232,57,439,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,58,216,62,216,67,184,63"/>
+<area shape="rect" id="Node000004" href="$classView.html#a47d8e2f48a7e71a9a481df791826b0e6" title=" " alt="" coords="487,65,626,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="440,77,472,77,472,82,440,82"/>
 </map>

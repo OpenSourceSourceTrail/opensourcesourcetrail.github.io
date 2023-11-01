@@ -1,12 +1,20 @@
 <map id="QtGraphView::centerNode" name="QtGraphView::centerNode">
-<area shape="rect" id="node1" title=" " alt="" coords="5,95,196,121"/>
-<area shape="rect" id="node2" href="$classQtGraphicsView.html#a70aba3e321f3aef4081abe4e2f7efdaf" title=" " alt="" coords="244,5,467,45"/>
-<area shape="rect" id="node5" href="$classQtGraphNode.html#a7062333378814d720310aa702200c420" title=" " alt="" coords="260,70,451,95"/>
-<area shape="rect" id="node6" href="$classQtGraphNode.html#a3be8fc2cf178da6982c69a162c7a2a54" title=" " alt="" coords="272,119,439,145"/>
-<area shape="rect" id="node7" href="$classQtGraphView.html#ab4a01fb0bbb6b3aa021024423c85689a" title=" " alt="" coords="271,169,440,194"/>
-<area shape="rect" id="node3" href="$classApplicationSettings.html#a59fd66f9eab421c8e7ea4da03c4b0d1e" title=" " alt="" coords="526,5,674,45"/>
-<area shape="rect" id="node4" href="$classApplicationSettings.html#a577f5c7696669ffd72b37c28eb3eb04c" title=" " alt="" coords="747,5,903,45"/>
-<area shape="rect" id="node8" href="$classQtViewWidgetWrapper.html#aa659b4c3a0fec8e22a1710675fda6c53" title=" " alt="" coords="515,161,685,201"/>
-<area shape="rect" id="node9" href="$classQtViewWidgetWrapper.html#a71c7ef42ca3c100256d5feacc5c706fe" title=" " alt="" coords="740,132,911,172"/>
-<area shape="rect" id="node10" href="$classView.html#a3cbf5820d5c11e82b48e3fabb7b0e640" title=" " alt="" coords="733,197,917,222"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,196,128"/>
+<area shape="rect" id="Node000002" href="$classQtGraphicsView.html#a70aba3e321f3aef4081abe4e2f7efdaf" title=" " alt="" coords="244,5,465,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,97,243,60,264,53,266,58,245,65,141,102"/>
+<area shape="rect" id="Node000005" href="$classQtGraphNode.html#a7062333378814d720310aa702200c420" title=" " alt="" coords="259,74,450,102"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,102,243,97,244,102,196,107"/>
+<area shape="rect" id="Node000006" href="$classQtGraphNode.html#a3be8fc2cf178da6982c69a162c7a2a54" title=" " alt="" coords="272,126,437,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,121,256,127,256,133,196,126"/>
+<area shape="rect" id="Node000007" href="$classQtGraphView.html#ab4a01fb0bbb6b3aa021024423c85689a" title=" " alt="" coords="270,202,439,230"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="138,126,305,193,303,198,136,131"/>
+<area shape="rect" id="Node000003" href="$classApplicationSettings.html#a59fd66f9eab421c8e7ea4da03c4b0d1e" title=" " alt="" coords="524,5,671,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,25,509,25,509,30,465,30"/>
+<area shape="rect" id="Node000004" href="$classApplicationSettings.html#a577f5c7696669ffd72b37c28eb3eb04c" title=" " alt="" coords="744,5,900,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="672,25,729,25,729,30,672,30"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="313,203,306,193,311,183,328,177,354,175,383,178,398,184,396,189,382,183,354,180,329,182,315,187,311,193,317,200"/>
+<area shape="rect" id="Node000008" href="$classQtViewWidgetWrapper.html#a45cce65886c2fe0b4bd351f36ae47c79" title=" " alt="" coords="513,193,682,238"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="439,213,497,213,497,218,439,218"/>
+<area shape="rect" id="Node000009" href="$classView.html#a3cbf5820d5c11e82b48e3fabb7b0e640" title=" " alt="" coords="730,202,914,230"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="683,213,715,213,715,218,683,218"/>
 </map>

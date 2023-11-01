@@ -1,51 +1,105 @@
 <map id="SqliteStorage::executeQuery" name="SqliteStorage::executeQuery">
-<area shape="rect" id="node1" title=" " alt="" coords="2009,429,2217,454"/>
-<area shape="rect" id="node2" href="$classSqliteIndexStorage.html#a444dd440d36a2dca222685fbd3acaadb" title=" " alt="" coords="1763,37,1909,77"/>
-<area shape="rect" id="node4" href="$classSqliteStorage.html#a1c12bd48862226b716f1f9f755b08b99" title=" " alt="" coords="1717,133,1955,173"/>
-<area shape="rect" id="node5" href="$classSqliteIndexStorage.html#a5ebc136814418c922693d0309bfb7103" title=" " alt="" coords="1763,197,1909,237"/>
-<area shape="rect" id="node6" href="$classSqliteIndexStorage.html#aec685378fea75878bb1148f4ee53b65e" title=" " alt="" coords="1763,261,1909,301"/>
-<area shape="rect" id="node14" href="$classSqliteIndexStorage.html#a629c7b46e37a6db66a392e06b2c13e5d" title=" " alt="" coords="1745,325,1927,365"/>
-<area shape="rect" id="node16" href="$classSqliteIndexStorage.html#ad7f7e7d1e275b73f0692d02040071148" title=" " alt="" coords="1745,389,1927,429"/>
-<area shape="rect" id="node18" href="$classSqliteIndexStorage.html#a2ea7b5f24ce22f70eeab775d4452022c" title=" " alt="" coords="1759,453,1913,493"/>
-<area shape="rect" id="node21" href="$classSqliteIndexStorage.html#ad82466fc517994be5ea8e77e711e752f" title=" " alt="" coords="1751,517,1921,557"/>
-<area shape="rect" id="node26" href="$classSqliteStorage.html#afa7522703bc8f2c48085fecf74a69277" title=" " alt="" coords="1453,761,1661,786"/>
-<area shape="rect" id="node42" href="$classSqliteIndexStorage.html#a763983a48200795896512e66657c9b21" title=" " alt="" coords="1733,843,1939,883"/>
-<area shape="rect" id="node47" href="$classSqliteIndexStorage.html#ab626de2bbf0c68dc30bc922878fbcb29" title=" " alt="" coords="1711,639,1961,679"/>
-<area shape="rect" id="node49" href="$classSqliteStorage.html#a76e7ccacfb050cafe2bd90318c49fb5e" title=" " alt="" coords="1749,759,1923,785"/>
-<area shape="rect" id="node3" href="$classPersistentStorage.html#a5b7954b73fe9f9d5d21ce9648379b030" title=" " alt="" coords="1485,5,1630,45"/>
-<area shape="rect" id="node7" href="$classPersistentStorage.html#a8a261dc321df71bbcac5de2766dfbfca" title=" " alt="" coords="1485,69,1630,109"/>
-<area shape="rect" id="node8" href="$classPersistentStorage.html#a876ec8149b14c5bf770a17efc9d9fd0a" title=" " alt="" coords="1485,133,1630,173"/>
-<area shape="rect" id="node12" href="$classPersistentStorage.html#ae36a5bee65b414fb390eb02e3b5c2a31" title=" " alt="" coords="1471,197,1643,237"/>
-<area shape="rect" id="node13" href="$classPersistentStorage.html#a771277a39d0760f684ffea9579131302" title=" " alt="" coords="1485,261,1630,301"/>
-<area shape="rect" id="node9" href="$classPersistentStorage.html#aad6bb8dfb77c27aa7fd022fdf613f988" title=" " alt="" coords="1215,133,1364,173"/>
-<area shape="rect" id="node10" href="$classPersistentStorage.html#a2b42e733a963d7b77e4394c48dcc1cb8" title=" " alt="" coords="961,101,1106,141"/>
-<area shape="rect" id="node11" href="$classPersistentStorage.html#a7d50885920b291a7f54751fa00de7974" title=" " alt="" coords="961,165,1106,205"/>
-<area shape="rect" id="node15" href="$classPersistentStorage.html#a836046316a57d383a74861199d30f457" title=" " alt="" coords="1471,325,1644,365"/>
-<area shape="rect" id="node17" href="$classPersistentStorage.html#aa192e1e54d9c5ddd2e999d92ab95f0f1" title=" " alt="" coords="1470,389,1645,429"/>
-<area shape="rect" id="node19" href="$classPersistentStorage.html#aa3ec38a7048d92fc1524c9bb7da44afd" title=" " alt="" coords="1465,453,1649,493"/>
-<area shape="rect" id="node20" href="$classPersistentStorage.html#a9f32a552d5d29d7e5ed7107da1a72f7c" title=" " alt="" coords="1190,485,1389,525"/>
-<area shape="rect" id="node22" href="$classPersistentStorage.html#aaedca58db823846eb42b5b8704f0ead4" title=" " alt="" coords="1485,517,1630,557"/>
-<area shape="rect" id="node25" href="$classPersistentStorage.html#a6d80bdb84d3687be28b52cd49225f81f" title=" " alt="" coords="1485,581,1630,621"/>
-<area shape="rect" id="node23" href="$classPersistentStorage.html#affb6cd0ceacf0f94b0bf3853490689f2" title=" " alt="" coords="1195,624,1384,664"/>
-<area shape="rect" id="node24" href="$classPersistentStorage.html#a4e8e066571898d8762233955dbc3e845" title=" " alt="" coords="940,624,1127,664"/>
-<area shape="rect" id="node27" href="$classSqliteIndexStorage.html#a48f43abdbfcca0ac19c58468dd6d5ae2" title=" " alt="" coords="1201,691,1377,731"/>
-<area shape="rect" id="node29" href="$classSqliteStorage.html#a2cae6736778db6f61b765a2f5e37a684" title=" " alt="" coords="1204,761,1375,786"/>
-<area shape="rect" id="node31" href="$classSqliteStorage.html#aab4c9d524cde137023da3a1129c94dde" title=" " alt="" coords="1196,818,1383,843"/>
-<area shape="rect" id="node28" href="$classPersistentStorage.html#a39f9f1cf1dd2960348f4489ef039d087" title=" " alt="" coords="949,689,1117,729"/>
-<area shape="rect" id="node30" href="$classPersistentStorage.html#a4aefbc764daffda522d8f413ea352057" title=" " alt="" coords="961,753,1106,793"/>
-<area shape="rect" id="node32" href="$classSqliteStorage.html#a1f5696fc4597e5e020480a0f33369caa" title=" " alt="" coords="948,871,1119,897"/>
-<area shape="rect" id="node34" href="$classSqliteStorage.html#a876f4f796e70c151fa5994020ed35c7d" title=" " alt="" coords="679,814,892,839"/>
-<area shape="rect" id="node33" href="$classPersistentStorage.html#ac2b48cdbef840cf9fda035a00cce1b75" title=" " alt="" coords="713,864,858,904"/>
-<area shape="rect" id="node36" href="$classSqliteStorage.html#a57fb337324f9dc5eb2ac7228d17d268f" title=" " alt="" coords="477,899,631,925"/>
-<area shape="rect" id="node41" href="$classPersistentStorage.html#aa268d08ed4d81c748dcb255e279db13b" title=" " alt="" coords="713,979,858,1019"/>
-<area shape="rect" id="node35" href="$classPersistentStorage.html#a5fb6c0a56bc66dc2d6611898da541e0e" title=" " alt="" coords="481,807,627,847"/>
-<area shape="rect" id="node37" href="$classSqliteStorage.html#a563c05ddc1d28664a0f070ff8cd61377" title=" " alt="" coords="280,869,429,894"/>
-<area shape="rect" id="node39" href="$classPersistentStorage.html#abc1fd27ad170e28d1d8c750c4f7b6503" title=" " alt="" coords="282,920,427,960"/>
-<area shape="rect" id="node38" href="$classPersistentStorage.html#a5b3eea5249e7355dbeedec39ede2ca55" title=" " alt="" coords="46,859,191,899"/>
-<area shape="rect" id="node40" href="$classTaskExecuteCustomCommands.html#af4a74f479f27dcd0117a6f8750eba3ea" title=" " alt="" coords="5,923,232,963"/>
-<area shape="rect" id="node43" href="$classPersistentStorage.html#a16864ccdaa087feee36c6268ab47f863" title=" " alt="" coords="1474,811,1641,851"/>
-<area shape="rect" id="node44" href="$classPersistentStorage.html#a033c75ff62edebbd4cf6e7d7e2a27b62" title=" " alt="" coords="1473,875,1641,915"/>
-<area shape="rect" id="node45" href="$classPersistentStorage.html#a81e098b9dd0046082f3c12abd84bed2e" title=" " alt="" coords="1452,939,1663,979"/>
-<area shape="rect" id="node46" href="$classPersistentStorage.html#a95ac68ed86a85ce2c9bd4057c44b7286" title=" " alt="" coords="1175,939,1404,979"/>
-<area shape="rect" id="node48" href="$classPersistentStorage.html#a2dbc9a5f0c8608f545f1b39030543d48" title=" " alt="" coords="1460,696,1655,736"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1332,707,1539,735"/>
+<area shape="rect" id="Node000002" href="$classSqliteIndexStorage.html#a444dd440d36a2dca222685fbd3acaadb" title=" " alt="" coords="1087,5,1232,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1429,692,1414,558,1384,369,1364,273,1341,185,1313,113,1298,85,1282,64,1259,47,1231,37,1233,32,1261,42,1286,60,1302,82,1318,110,1346,183,1369,272,1390,369,1419,558,1434,691"/>
+<area shape="rect" id="Node000004" href="$classSqliteStorage.html#a1c12bd48862226b716f1f9f755b08b99" title=" " alt="" coords="1041,75,1278,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1428,692,1411,571,1380,403,1360,318,1336,240,1311,176,1282,133,1268,122,1271,118,1286,130,1315,174,1341,238,1365,316,1385,402,1416,570,1433,691"/>
+<area shape="rect" id="Node000005" href="$classSqliteIndexStorage.html#a53d922bc2b500f1481dca330addda749" title=" " alt="" coords="1087,144,1232,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1432,691,1429,597,1422,535,1410,466,1391,395,1365,325,1329,260,1282,203,1258,186,1231,176,1233,171,1261,182,1286,199,1333,257,1369,323,1396,393,1415,465,1427,534,1434,597,1438,691"/>
+<area shape="rect" id="Node000006" href="$classSqliteIndexStorage.html#a5ebc136814418c922693d0309bfb7103" title=" " alt="" coords="1087,213,1232,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1431,692,1423,609,1415,555,1401,496,1382,435,1357,376,1324,321,1282,272,1259,256,1231,246,1233,241,1261,251,1286,268,1328,318,1362,374,1387,434,1406,495,1420,554,1429,608,1436,691"/>
+<area shape="rect" id="Node000007" href="$classSqliteIndexStorage.html#aa6bbba9392b238c5948fa655f00067b5" title=" " alt="" coords="1087,283,1232,327"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1429,692,1417,621,1392,526,1373,476,1349,427,1319,381,1282,342,1258,326,1231,316,1232,311,1261,321,1286,338,1323,378,1354,424,1378,474,1397,525,1423,620,1434,691"/>
+<area shape="rect" id="Node000008" href="$classSqliteIndexStorage.html#aa0cb4448160d50115877f68f02cb48d3" title=" " alt="" coords="1087,352,1232,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1426,693,1411,633,1383,557,1364,517,1341,478,1314,442,1282,411,1258,396,1231,386,1232,381,1260,391,1286,407,1318,439,1345,475,1369,515,1388,555,1416,632,1431,691"/>
+<area shape="rect" id="Node000009" href="$classSqliteIndexStorage.html#a930d8d6af5d580bc7c8050c679b61a19" title=" " alt="" coords="1087,421,1232,466"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1422,694,1403,647,1373,589,1333,530,1309,504,1282,481,1258,466,1231,457,1233,452,1260,462,1286,476,1313,500,1337,527,1378,586,1408,644,1427,692"/>
+<area shape="rect" id="Node000010" href="$classSqliteIndexStorage.html#ac55c79f7733d2b6b9ac25dc0005991b2" title=" " alt="" coords="1087,491,1232,535"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1416,695,1362,622,1325,583,1283,550,1258,537,1231,528,1233,523,1260,532,1285,545,1329,579,1367,619,1420,692"/>
+<area shape="rect" id="Node000011" href="$classSqliteIndexStorage.html#ac8e020ec47263bd214de93e2c409da58" title=" " alt="" coords="1087,560,1232,605"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1405,699,1350,659,1283,619,1231,601,1233,596,1285,615,1353,654,1408,695"/>
+<area shape="rect" id="Node000012" href="$classSqliteIndexStorage.html#a9c0adf6388ac7ec706b4a3732ea4d1f6" title=" " alt="" coords="1087,629,1232,674"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1363,706,1231,672,1233,667,1364,700"/>
+<area shape="rect" id="Node000013" href="$classSqliteIndexStorage.html#a4889b25ae88be5aa840c971749309125" title=" " alt="" coords="1087,699,1232,743"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1316,724,1232,724,1232,718,1316,718"/>
+<area shape="rect" id="Node000014" href="$classSqliteIndexStorage.html#a1a1c2044c5ba1bc35edac7ee56db5273" title=" " alt="" coords="1087,768,1232,813"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1364,742,1233,775,1231,770,1363,736"/>
+<area shape="rect" id="Node000015" href="$classSqliteIndexStorage.html#aec685378fea75878bb1148f4ee53b65e" title=" " alt="" coords="1087,837,1232,882"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1408,747,1353,788,1285,827,1233,846,1231,841,1283,823,1350,783,1405,743"/>
+<area shape="rect" id="Node000023" href="$classSqliteIndexStorage.html#a629c7b46e37a6db66a392e06b2c13e5d" title=" " alt="" coords="1069,907,1250,951"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="1420,750,1367,823,1329,863,1285,897,1251,913,1248,908,1283,892,1325,859,1362,820,1416,747"/>
+<area shape="rect" id="Node000025" href="$classSqliteIndexStorage.html#ad7f7e7d1e275b73f0692d02040071148" title=" " alt="" coords="1068,976,1251,1021"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="1427,750,1408,798,1378,856,1337,915,1313,942,1286,966,1252,984,1249,979,1282,961,1309,938,1333,912,1373,853,1403,795,1422,748"/>
+<area shape="rect" id="Node000027" href="$classSqliteIndexStorage.html#a2ea7b5f24ce22f70eeab775d4452022c" title=" " alt="" coords="1083,1045,1236,1090"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="1431,751,1416,810,1388,887,1369,927,1345,967,1318,1003,1286,1035,1263,1050,1237,1060,1235,1055,1260,1045,1282,1031,1314,1000,1341,964,1364,925,1383,885,1411,809,1426,749"/>
+<area shape="rect" id="Node000030" href="$classSqliteIndexStorage.html#ad82466fc517994be5ea8e77e711e752f" title=" " alt="" coords="1075,1115,1244,1159"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="1434,751,1423,822,1397,917,1378,968,1354,1018,1323,1064,1286,1104,1267,1118,1245,1127,1243,1122,1264,1113,1282,1100,1319,1061,1349,1015,1373,966,1392,916,1417,821,1429,750"/>
+<area shape="rect" id="Node000035" href="$classSqliteStorage.html#afa7522703bc8f2c48085fecf74a69277" title=" " alt="" coords="778,1373,985,1400"/>
+<area shape="poly" id="edge35_Node000001_Node000035" title=" " alt="" coords="1435,750,1420,881,1392,1065,1372,1159,1348,1244,1320,1312,1303,1338,1286,1358,1246,1384,1202,1403,1156,1414,1108,1419,1016,1416,939,1403,940,1398,1016,1410,1108,1413,1155,1408,1201,1398,1244,1380,1282,1354,1299,1335,1315,1310,1343,1242,1367,1158,1387,1065,1415,881,1429,750"/>
+<area shape="rect" id="Node000051" href="$classSqliteIndexStorage.html#a763983a48200795896512e66657c9b21" title=" " alt="" coords="1057,1459,1262,1503"/>
+<area shape="poly" id="edge44_Node000001_Node000051" title=" " alt="" coords="1434,751,1415,886,1383,1079,1363,1179,1340,1271,1314,1349,1286,1404,1254,1437,1217,1460,1214,1456,1251,1432,1282,1401,1309,1347,1335,1270,1358,1178,1378,1079,1410,886,1428,750"/>
+<area shape="rect" id="Node000056" href="$classSqliteIndexStorage.html#ab626de2bbf0c68dc30bc922878fbcb29" title=" " alt="" coords="1035,1244,1284,1289"/>
+<area shape="poly" id="edge49_Node000001_Node000056" title=" " alt="" coords="1433,751,1420,829,1393,938,1373,998,1349,1059,1320,1118,1286,1173,1247,1215,1203,1246,1200,1241,1243,1211,1282,1170,1316,1116,1345,1057,1368,997,1388,937,1414,828,1428,750"/>
+<area shape="rect" id="Node000058" href="$classSqliteStorage.html#a76e7ccacfb050cafe2bd90318c49fb5e" title=" " alt="" coords="1073,1317,1246,1344"/>
+<area shape="poly" id="edge52_Node000001_Node000058" title=" " alt="" coords="1433,750,1416,870,1385,1036,1365,1120,1342,1197,1315,1260,1301,1284,1286,1303,1268,1316,1248,1325,1245,1320,1265,1312,1282,1299,1297,1281,1311,1258,1337,1195,1360,1119,1380,1035,1411,869,1428,749"/>
+<area shape="rect" id="Node000003" href="$classPersistentStorage.html#a5b7954b73fe9f9d5d21ce9648379b030" title=" " alt="" coords="809,5,954,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1072,30,954,30,954,25,1072,25"/>
+<area shape="rect" id="Node000016" href="$classPersistentStorage.html#a8a261dc321df71bbcac5de2766dfbfca" title=" " alt="" coords="809,629,954,674"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1071,850,1051,840,1033,827,1019,809,1011,792,1008,756,1004,722,998,705,985,688,970,677,953,668,955,663,973,672,989,684,1002,702,1010,720,1013,756,1016,790,1023,807,1037,823,1054,836,1073,845"/>
+<area shape="rect" id="Node000017" href="$classPersistentStorage.html#a876ec8149b14c5bf770a17efc9d9fd0a" title=" " alt="" coords="809,699,954,743"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="1071,846,1033,827,1016,810,1008,792,1000,774,985,758,953,740,955,736,988,754,1005,771,1013,790,1021,807,1036,823,1074,842"/>
+<area shape="rect" id="Node000021" href="$classPersistentStorage.html#ae36a5bee65b414fb390eb02e3b5c2a31" title=" " alt="" coords="796,768,967,813"/>
+<area shape="poly" id="edge20_Node000015_Node000021" title=" " alt="" coords="1072,841,967,814,968,809,1073,835"/>
+<area shape="rect" id="Node000022" href="$classPersistentStorage.html#a771277a39d0760f684ffea9579131302" title=" " alt="" coords="809,837,954,882"/>
+<area shape="poly" id="edge21_Node000015_Node000022" title=" " alt="" coords="1072,862,954,862,954,857,1072,857"/>
+<area shape="rect" id="Node000018" href="$classPersistentStorage.html#aad6bb8dfb77c27aa7fd022fdf613f988" title=" " alt="" coords="540,699,688,743"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="794,724,689,724,689,718,794,718"/>
+<area shape="rect" id="Node000019" href="$classPersistentStorage.html#a2b42e733a963d7b77e4394c48dcc1cb8" title=" " alt="" coords="287,733,431,778"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="525,736,432,749,431,743,524,730"/>
+<area shape="rect" id="Node000020" href="$classPersistentStorage.html#a7d50885920b291a7f54751fa00de7974" title=" " alt="" coords="287,664,431,709"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="524,712,431,699,432,693,525,706"/>
+<area shape="rect" id="Node000024" href="$classPersistentStorage.html#a836046316a57d383a74861199d30f457" title=" " alt="" coords="795,907,968,951"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="1054,932,968,932,968,926,1054,926"/>
+<area shape="rect" id="Node000026" href="$classPersistentStorage.html#aa192e1e54d9c5ddd2e999d92ab95f0f1" title=" " alt="" coords="794,976,969,1021"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="1052,1001,969,1001,969,996,1052,996"/>
+<area shape="rect" id="Node000028" href="$classPersistentStorage.html#aa3ec38a7048d92fc1524c9bb7da44afd" title=" " alt="" coords="790,1045,973,1090"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="1068,1070,974,1070,974,1065,1068,1065"/>
+<area shape="rect" id="Node000029" href="$classPersistentStorage.html#a9f32a552d5d29d7e5ed7107da1a72f7c" title=" " alt="" coords="515,1080,713,1125"/>
+<area shape="poly" id="edge28_Node000028_Node000029" title=" " alt="" coords="775,1084,714,1092,713,1087,774,1079"/>
+<area shape="rect" id="Node000031" href="$classPersistentStorage.html#aaedca58db823846eb42b5b8704f0ead4" title=" " alt="" coords="809,1115,954,1159"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="1059,1140,954,1140,954,1134,1059,1134"/>
+<area shape="rect" id="Node000034" href="$classPersistentStorage.html#a6d80bdb84d3687be28b52cd49225f81f" title=" " alt="" coords="809,1184,954,1229"/>
+<area shape="poly" id="edge34_Node000030_Node000034" title=" " alt="" coords="1060,1164,955,1191,953,1186,1059,1159"/>
+<area shape="poly" id="edge31_Node000031_Node000029" title=" " alt="" coords="793,1128,713,1118,714,1113,794,1123"/>
+<area shape="rect" id="Node000032" href="$classPersistentStorage.html#affb6cd0ceacf0f94b0bf3853490689f2" title=" " alt="" coords="520,1189,708,1234"/>
+<area shape="poly" id="edge32_Node000031_Node000032" title=" " alt="" coords="795,1164,697,1191,696,1186,794,1159"/>
+<area shape="rect" id="Node000033" href="$classPersistentStorage.html#a4e8e066571898d8762233955dbc3e845" title=" " alt="" coords="266,1189,452,1234"/>
+<area shape="poly" id="edge33_Node000032_Node000033" title=" " alt="" coords="504,1214,452,1214,452,1209,504,1209"/>
+<area shape="rect" id="Node000036" href="$classSqliteIndexStorage.html#a48f43abdbfcca0ac19c58468dd6d5ae2" title=" " alt="" coords="527,1364,702,1409"/>
+<area shape="poly" id="edge36_Node000035_Node000036" title=" " alt="" coords="762,1389,702,1389,702,1384,762,1384"/>
+<area shape="rect" id="Node000038" href="$classSqliteStorage.html#a2cae6736778db6f61b765a2f5e37a684" title=" " alt="" coords="530,1438,699,1466"/>
+<area shape="poly" id="edge38_Node000035_Node000038" title=" " alt="" coords="807,1407,777,1414,674,1440,673,1435,776,1409,806,1402"/>
+<area shape="rect" id="Node000040" href="$classSqliteStorage.html#aab4c9d524cde137023da3a1129c94dde" title=" " alt="" coords="521,1313,707,1340"/>
+<area shape="poly" id="edge40_Node000035_Node000040" title=" " alt="" coords="802,1371,728,1354,679,1343,681,1338,729,1349,803,1366"/>
+<area shape="rect" id="Node000037" href="$classPersistentStorage.html#a39f9f1cf1dd2960348f4489ef039d087" title=" " alt="" coords="275,1364,443,1409"/>
+<area shape="poly" id="edge37_Node000036_Node000037" title=" " alt="" coords="511,1389,443,1389,443,1384,511,1384"/>
+<area shape="rect" id="Node000039" href="$classPersistentStorage.html#a4aefbc764daffda522d8f413ea352057" title=" " alt="" coords="287,1433,431,1478"/>
+<area shape="poly" id="edge39_Node000038_Node000039" title=" " alt="" coords="514,1456,432,1457,431,1452,514,1451"/>
+<area shape="rect" id="Node000041" href="$classSqliteStorage.html#a1f5696fc4597e5e020480a0f33369caa" title=" " alt="" coords="274,1262,444,1290"/>
+<area shape="poly" id="edge41_Node000040_Node000041" title=" " alt="" coords="526,1312,432,1293,433,1288,527,1306"/>
+<area shape="rect" id="Node000043" href="$classSqliteStorage.html#a876f4f796e70c151fa5994020ed35c7d" title=" " alt="" coords="5,1287,218,1315"/>
+<area shape="poly" id="edge43_Node000040_Node000043" title=" " alt="" coords="505,1324,218,1309,218,1304,506,1318"/>
+<area shape="poly" id="edge42_Node000041_Node000043" title=" " alt="" coords="259,1289,218,1293,218,1287,258,1283"/>
+<area shape="rect" id="Node000052" href="$classPersistentStorage.html#a16864ccdaa087feee36c6268ab47f863" title=" " alt="" coords="799,1424,964,1469"/>
+<area shape="poly" id="edge45_Node000051_Node000052" title=" " alt="" coords="1041,1469,964,1459,965,1454,1042,1464"/>
+<area shape="rect" id="Node000053" href="$classPersistentStorage.html#a033c75ff62edebbd4cf6e7d7e2a27b62" title=" " alt="" coords="798,1493,965,1538"/>
+<area shape="poly" id="edge46_Node000051_Node000053" title=" " alt="" coords="1042,1498,966,1508,965,1503,1041,1493"/>
+<area shape="rect" id="Node000054" href="$classPersistentStorage.html#a81e098b9dd0046082f3c12abd84bed2e" title=" " alt="" coords="776,1563,987,1607"/>
+<area shape="poly" id="edge47_Node000051_Node000054" title=" " alt="" coords="1091,1512,988,1553,954,1565,953,1560,986,1548,1089,1507"/>
+<area shape="rect" id="Node000055" href="$classPersistentStorage.html#a95ac68ed86a85ce2c9bd4057c44b7286" title=" " alt="" coords="500,1563,728,1607"/>
+<area shape="poly" id="edge48_Node000054_Node000055" title=" " alt="" coords="761,1588,729,1588,729,1582,761,1582"/>
+<area shape="poly" id="edge51_Node000056_Node000032" title=" " alt="" coords="1019,1264,900,1256,776,1244,708,1233,709,1228,777,1238,901,1251,1019,1258"/>
+<area shape="rect" id="Node000057" href="$classPersistentStorage.html#a2dbc9a5f0c8608f545f1b39030543d48" title=" " alt="" coords="784,1304,979,1349"/>
+<area shape="poly" id="edge50_Node000056_Node000057" title=" " alt="" coords="1038,1295,980,1308,978,1303,1037,1290"/>
+<area shape="poly" id="edge53_Node000058_Node000035" title=" " alt="" coords="1073,1350,954,1375,953,1369,1071,1345"/>
 </map>

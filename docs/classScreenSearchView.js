@@ -1,7 +1,7 @@
 var classScreenSearchView =
 [
     [ "ScreenSearchView", "classScreenSearchView.html#a42f49e98b20f5a681537e425a5ef2854", null ],
-    [ "~ScreenSearchView", "classScreenSearchView.html#a8f559070394c97b372f581ff93ffa30a", null ],
+    [ "~ScreenSearchView", "classScreenSearchView.html#a60141f32415721a09192231f2eefabaa", null ],
     [ "addResponder", "classScreenSearchView.html#a8c60ee31a993855a90582415d43525c8", null ],
     [ "addToLayout", "classScreenSearchView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "create", "classScreenSearchView.html#a74af5d9d1e3a886e107a455e5028a101", null ],

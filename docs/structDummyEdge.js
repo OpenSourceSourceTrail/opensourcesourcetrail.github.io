@@ -1,7 +1,7 @@
 var structDummyEdge =
 [
-    [ "DummyEdge", "structDummyEdge.html#ae3f5a8a9bc04d757aa518ef63cd2911b", null ],
-    [ "DummyEdge", "structDummyEdge.html#a3ae80a7f5c72e64c0d4d47abf8c056fa", null ],
+    [ "DummyEdge", "structDummyEdge.html#ad56884ee91f8dd1fda2d51b97a957430", null ],
+    [ "DummyEdge", "structDummyEdge.html#a351b0d1ead7ac81ead0d2018379a13ce", null ],
     [ "getDirection", "structDummyEdge.html#a50de4d332371083d373a12045baaa860", null ],
     [ "getWeight", "structDummyEdge.html#acebc8adf4946578e77ddcf20a52f5d92", null ],
     [ "updateDirection", "structDummyEdge.html#a77d4e3f28e63620d1820ebd1bea35f89", null ],

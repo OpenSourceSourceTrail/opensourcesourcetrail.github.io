@@ -11,7 +11,7 @@ var classQtPathListDialog =
     [ "handleClose", "classQtPathListDialog.html#a2ba2b21448b4008f0a30e174b6794b6e", null ],
     [ "handleClosePress", "classQtPathListDialog.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtPathListDialog.html#a1340456acb8f85fd561f281018675139", null ],
-    [ "handleNextPress", "classQtPathListDialog.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtPathListDialog.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtPathListDialog.html#aa0e2b118a9cf753c4dacb35528beb5ff", null ],
     [ "handlePreviousPress", "classQtPathListDialog.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtPathListDialog.html#a932ab453a347b3d196e431ff9c2626eb", null ],

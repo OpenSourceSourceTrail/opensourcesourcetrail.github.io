@@ -1,9 +1,20 @@
 <map id="IDECommunicationController::handleMessage" name="IDECommunicationController::handleMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,88,216,128"/>
-<area shape="rect" id="node2" href="$classNetworkProtocolHelper.html#a6ca336b5ceba89f4e42394a57da1b74e" title=" " alt="" coords="267,5,472,45"/>
-<area shape="rect" id="node3" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="571,42,681,67"/>
-<area shape="rect" id="node4" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="298,121,441,146"/>
-<area shape="rect" id="node7" href="$classIDECommunicationController.html#a4cbbf5cb264e870fc8f495d0b4b5024a" title=" " alt="" coords="264,171,475,211"/>
-<area shape="rect" id="node5" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="523,121,729,146"/>
-<area shape="rect" id="node6" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="777,121,1008,146"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,216,161"/>
+<area shape="rect" id="Node000002" href="$classNetworkProtocolHelper.html#a6ca336b5ceba89f4e42394a57da1b74e" title=" " alt="" coords="267,5,471,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,113,263,67,293,54,296,59,265,71,162,118"/>
+<area shape="rect" id="Node000003" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="571,43,679,71"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="216,118,263,110,555,65,556,70,264,116,216,123"/>
+<area shape="rect" id="Node000004" href="$classMessage.html#a4556438d5bb073d6f19ea777fe3faf10" title=" " alt="" coords="298,125,440,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,136,282,136,282,141,216,141"/>
+<area shape="rect" id="Node000007" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="296,177,442,204"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="217,157,282,170,281,175,216,162"/>
+<area shape="rect" id="Node000009" href="$classIDECommunicationController.html#a4cbbf5cb264e870fc8f495d0b4b5024a" title=" " alt="" coords="264,228,474,273"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="153,159,265,213,281,220,279,225,263,218,151,163"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,37,555,46,555,52,471,42"/>
+<area shape="rect" id="Node000005" href="$classMessageQueue.html#a085ebbc4ba9c58eeeaad64e77efc8e07" title=" " alt="" coords="522,125,727,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="440,136,507,136,507,141,440,141"/>
+<area shape="rect" id="Node000006" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="775,125,1005,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="728,136,760,136,760,141,728,141"/>
+<area shape="rect" id="Node000008" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="546,177,703,204"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="442,188,531,188,531,193,442,193"/>
 </map>

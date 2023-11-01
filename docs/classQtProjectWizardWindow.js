@@ -11,7 +11,7 @@ var classQtProjectWizardWindow =
     [ "handleClose", "classQtProjectWizardWindow.html#a2ba2b21448b4008f0a30e174b6794b6e", null ],
     [ "handleClosePress", "classQtProjectWizardWindow.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtProjectWizardWindow.html#a53e4046ce6ca0ec7f2b27b0231a193fc", null ],
-    [ "handleNextPress", "classQtProjectWizardWindow.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtProjectWizardWindow.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtProjectWizardWindow.html#a39793c44c68d15fdba7578a8486680a3", null ],
     [ "handlePreviousPress", "classQtProjectWizardWindow.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtProjectWizardWindow.html#a932ab453a347b3d196e431ff9c2626eb", null ],

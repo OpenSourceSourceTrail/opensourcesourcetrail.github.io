@@ -1,8 +1,10 @@
 <map id="TrailLayouter::layout" name="TrailLayouter::layout">
-<area shape="rect" id="node1" title=" " alt="" coords="5,38,161,63"/>
-<area shape="rect" id="node2" href="$classTrailLayouter.html#a5e2207af51a2a28645270acfb8a1516f" title=" " alt="" coords="471,5,651,45"/>
-<area shape="rect" id="node3" href="$classTrailLayouter.html#ab91f490ea57074a80d82048373728b45" title=" " alt="" coords="209,38,423,63"/>
-<area shape="rect" id="node4" href="$classTrailLayouter.html#a09bb1d46fef94e0d5eda294150192664" title=" " alt="" coords="219,88,413,128"/>
-<area shape="rect" id="node5" href="$classVector2.html#a56c9846b703651ae663f92d97aa44498" title=" " alt="" coords="491,95,630,121"/>
-<area shape="rect" id="node6" href="$classVectorBase.html#a0914ac917bd287ac7361d9a512aa0528" title=" " alt="" coords="699,95,861,121"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,24,161,52"/>
+<area shape="rect" id="Node000002" href="$classTrailLayouter.html#a5e2207af51a2a28645270acfb8a1516f" title=" " alt="" coords="469,21,648,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,21,208,10,315,3,421,10,454,15,453,20,421,16,315,8,209,16,143,26"/>
+<area shape="rect" id="Node000003" href="$classTrailLayouter.html#ab91f490ea57074a80d82048373728b45" title=" " alt="" coords="209,24,421,52"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,36,193,36,193,41,161,41"/>
+<area shape="rect" id="Node000004" href="$classTrailLayouter.html#a09bb1d46fef94e0d5eda294150192664" title=" " alt="" coords="219,76,411,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,50,212,69,211,74,139,55"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="411,74,453,64,455,70,412,79"/>
 </map>

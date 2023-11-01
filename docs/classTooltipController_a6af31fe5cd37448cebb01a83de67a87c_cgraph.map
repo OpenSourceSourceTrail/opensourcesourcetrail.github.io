@@ -1,17 +1,39 @@
 <map id="TooltipController::handleMessage" name="TooltipController::handleMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,210,143,250"/>
-<area shape="rect" id="node2" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="241,37,384,63"/>
-<area shape="rect" id="node5" href="$classStorageAccess.html#a6028aad5f17c2cdcb86154004c37412b" title=" " alt="" coords="191,108,435,163"/>
-<area shape="rect" id="node6" href="$classTooltipController.html#aebddfe43923c0c8d10e750c1f1ed84d4" title=" " alt="" coords="784,154,921,194"/>
-<area shape="rect" id="node7" href="$classTooltipController.html#a7b39e09dc6377691a185c6cc2e64c79c" title=" " alt="" coords="517,86,655,126"/>
-<area shape="rect" id="node10" href="$classTooltipController.html#a166d231ff75abbf1cdcabeae1de7e3bf" title=" " alt="" coords="238,238,387,278"/>
-<area shape="rect" id="node15" href="$classTooltipView.html#adcba21f5f189bc9e8156ad3a279b7f00" title=" " alt="" coords="495,364,677,389"/>
-<area shape="rect" id="node3" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="483,16,689,41"/>
-<area shape="rect" id="node4" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="737,5,968,31"/>
-<area shape="rect" id="node8" href="$classViewLayout.html#a8120491cdb08736f77800c2faa5191d3" title=" " alt="" coords="745,104,961,129"/>
-<area shape="rect" id="node9" href="$classView.html#a816b2d71d2ce85e5a1cac19ace11b53f" title=" " alt="" coords="773,55,932,80"/>
-<area shape="rect" id="node11" href="$classTabId.html#adcf8beb1bb2123b49eba230589901edd" title=" " alt="" coords="542,265,630,291"/>
-<area shape="rect" id="node12" href="$classTask.html#afbf3e5b7febfad5362973e6c605e0c91" title=" " alt="" coords="529,315,643,340"/>
-<area shape="rect" id="node14" href="$classStorageAccess.html#a2a7658486c1c41762726a52548d4fdfb" title=" " alt="" coords="491,201,681,241"/>
-<area shape="rect" id="node13" href="$classTaskManager.html#abad32d382134af5d84739dd12a33beaf" title=" " alt="" coords="752,315,953,340"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,218,142,263"/>
+<area shape="rect" id="Node000002" href="$classMessage.html#a4556438d5bb073d6f19ea777fe3faf10" title=" " alt="" coords="240,37,383,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,216,127,158,156,125,188,97,215,81,243,68,245,73,217,85,191,101,159,129,131,161,90,219"/>
+<area shape="rect" id="Node000005" href="$classStorageAccess.html#a6028aad5f17c2cdcb86154004c37412b" title=" " alt="" coords="190,111,433,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="126,215,189,189,218,177,220,181,191,194,128,220"/>
+<area shape="rect" id="Node000006" href="$classTooltipController.html#aebddfe43923c0c8d10e750c1f1ed84d4" title=" " alt="" coords="781,161,917,206"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="89,262,129,320,158,350,191,374,324,443,383,467,441,481,498,485,556,476,618,455,685,418,698,408,706,398,714,374,719,347,732,317,772,262,813,215,817,219,776,265,737,319,724,349,719,376,710,400,701,412,688,423,620,460,558,482,498,490,440,486,382,472,321,448,188,379,154,354,125,323,85,265"/>
+<area shape="rect" id="Node000009" href="$classTooltipController.html#a7b39e09dc6377691a185c6cc2e64c79c" title=" " alt="" coords="516,89,652,134"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="142,233,278,217,356,202,432,182,525,138,527,143,434,187,357,207,278,222,143,239"/>
+<area shape="rect" id="Node000012" href="$classTooltipController.html#a166d231ff75abbf1cdcabeae1de7e3bf" title=" " alt="" coords="237,248,386,292"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="143,246,222,256,221,261,142,252"/>
+<area shape="rect" id="Node000017" href="$classTooltipView.html#adcba21f5f189bc9e8156ad3a279b7f00" title=" " alt="" coords="493,381,674,409"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="111,261,149,283,191,302,264,327,340,348,478,377,477,382,338,353,262,332,189,307,146,287,108,266"/>
+<area shape="rect" id="Node000003" href="$classMessageQueue.html#a085ebbc4ba9c58eeeaad64e77efc8e07" title=" " alt="" coords="481,16,686,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,43,466,36,466,42,383,48"/>
+<area shape="rect" id="Node000004" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="734,5,964,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="687,23,719,22,719,27,687,28"/>
+<area shape="rect" id="Node000007" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="1012,169,1158,197"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="918,181,996,181,996,186,918,186"/>
+<area shape="rect" id="Node000008" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="1206,169,1363,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1158,181,1190,181,1190,186,1158,186"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="653,127,767,158,765,163,652,132"/>
+<area shape="rect" id="Node000010" href="$classViewLayout.html#a8120491cdb08736f77800c2faa5191d3" title=" " alt="" coords="741,109,957,137"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="652,112,726,115,725,120,652,117"/>
+<area shape="rect" id="Node000011" href="$classView.html#a816b2d71d2ce85e5a1cac19ace11b53f" title=" " alt="" coords="770,57,928,85"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="652,98,754,83,755,88,653,104"/>
+<area shape="poly" id="edge17_Node000012_Node000006" title=" " alt="" coords="385,246,432,226,455,209,465,201,480,194,554,177,630,169,702,168,765,171,765,176,702,173,630,174,555,182,482,199,468,205,458,213,434,231,387,251"/>
+<area shape="poly" id="edge18_Node000012_Node000009" title=" " alt="" coords="385,251,409,240,431,226,447,208,455,190,463,170,479,151,500,136,503,141,483,154,467,173,460,192,452,211,435,231,412,245,387,256"/>
+<area shape="rect" id="Node000013" href="$classTabId.html#adcf8beb1bb2123b49eba230589901edd" title=" " alt="" coords="540,277,627,305"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="386,273,525,284,525,289,386,278"/>
+<area shape="rect" id="Node000014" href="$classTask.html#afbf3e5b7febfad5362973e6c605e0c91" title=" " alt="" coords="527,329,640,357"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="387,288,482,314,513,322,512,327,480,319,385,293"/>
+<area shape="rect" id="Node000016" href="$classStorageAccess.html#a2a7658486c1c41762726a52548d4fdfb" title=" " alt="" coords="490,209,678,254"/>
+<area shape="poly" id="edge16_Node000012_Node000016" title=" " alt="" coords="386,257,474,244,475,249,386,262"/>
+<area shape="poly" id="edge19_Node000012_Node000017" title=" " alt="" coords="347,290,408,329,482,366,503,374,502,379,480,371,406,333,344,295"/>
+<area shape="rect" id="Node000015" href="$classTaskManager.html#abad32d382134af5d84739dd12a33beaf" title=" " alt="" coords="749,329,949,357"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="641,341,733,341,733,346,641,346"/>
 </map>

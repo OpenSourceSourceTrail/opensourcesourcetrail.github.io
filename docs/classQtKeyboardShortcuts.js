@@ -1,8 +1,8 @@
 var classQtKeyboardShortcuts =
 [
     [ "Shortcut", "structQtKeyboardShortcuts_1_1Shortcut.html", "structQtKeyboardShortcuts_1_1Shortcut" ],
-    [ "QtKeyboardShortcuts", "classQtKeyboardShortcuts.html#aaf242f187882d8de30a99161bbef7cbe", null ],
-    [ "~QtKeyboardShortcuts", "classQtKeyboardShortcuts.html#af769793988e71a80c778873986927fb9", null ],
+    [ "QtKeyboardShortcuts", "classQtKeyboardShortcuts.html#a5cdbc2fced33da85b4b4c3a01cdc778c", null ],
+    [ "~QtKeyboardShortcuts", "classQtKeyboardShortcuts.html#a6c31fd3718a8e1129570882524950974", null ],
     [ "addLogo", "classQtKeyboardShortcuts.html#a39f04f628173069055fed83678075602", null ],
     [ "addShortcuts", "classQtKeyboardShortcuts.html#a422a583da4dd63e94edb054aaa1e6592", null ],
     [ "canceled", "classQtKeyboardShortcuts.html#af9e905a002e791adf349de73b2d4cc00", null ],
@@ -17,7 +17,7 @@ var classQtKeyboardShortcuts =
     [ "handleClose", "classQtKeyboardShortcuts.html#a2ba2b21448b4008f0a30e174b6794b6e", null ],
     [ "handleClosePress", "classQtKeyboardShortcuts.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtKeyboardShortcuts.html#a1340456acb8f85fd561f281018675139", null ],
-    [ "handleNextPress", "classQtKeyboardShortcuts.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtKeyboardShortcuts.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtKeyboardShortcuts.html#aa0e2b118a9cf753c4dacb35528beb5ff", null ],
     [ "handlePreviousPress", "classQtKeyboardShortcuts.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtKeyboardShortcuts.html#a932ab453a347b3d196e431ff9c2626eb", null ],

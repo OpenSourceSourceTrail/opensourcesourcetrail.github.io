@@ -41,7 +41,7 @@ var classQtGraphNodeQualifier =
     [ "isGroupNode", "classQtGraphNodeQualifier.html#a9bbea603843a4bd7827c64d1da41817a", null ],
     [ "isQualifierNode", "classQtGraphNodeQualifier.html#a09b286645b2c36d39e18c2a8a59ae1a7", null ],
     [ "isTextNode", "classQtGraphNodeQualifier.html#ae28175fa1790342ef213cc0062b79560", null ],
-    [ "matchName", "classQtGraphNodeQualifier.html#a479ec993d61be8b7a71588920304fc95", null ],
+    [ "matchName", "classQtGraphNodeQualifier.html#a4b289bee6f66dcda165acfb229346d32", null ],
     [ "matchNameRecursive", "classQtGraphNodeQualifier.html#a9554916b3c91d206e687b24cd1c693d4", null ],
     [ "mouseMoveEvent", "classQtGraphNodeQualifier.html#a91ec339ea56f17a082da02b421737bd0", null ],
     [ "mousePressEvent", "classQtGraphNodeQualifier.html#adb3a725e527ae3c69c39e9ef98d47059", null ],

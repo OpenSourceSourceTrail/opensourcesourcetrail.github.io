@@ -7,6 +7,12 @@ var hierarchy =
     [ "QtCodeField::AnnotationColor", "structQtCodeField_1_1AnnotationColor.html", null ],
     [ "ApplicationSettingsPrefiller", "classApplicationSettingsPrefiller.html", null ],
     [ "AppPath", "classAppPath.html", null ],
+    [ "clang::ASTConsumer", null, [
+      [ "ASTConsumer", "classASTConsumer.html", null ]
+    ] ],
+    [ "clang::ASTFrontendAction", null, [
+      [ "ASTAction", "classASTAction.html", null ]
+    ] ],
     [ "BaseInterprocessDataManager", "classBaseInterprocessDataManager.html", [
       [ "InterprocessIndexerCommandManager", "classInterprocessIndexerCommandManager.html", null ],
       [ "InterprocessIndexingStatusManager", "classInterprocessIndexingStatusManager.html", null ],
@@ -27,6 +33,8 @@ var hierarchy =
     [ "BucketLayouter", "classBucketLayouter.html", null ],
     [ "DummyNode::BundleInfo", "structDummyNode_1_1BundleInfo.html", null ],
     [ "NodeType::BundleInfo", "structNodeType_1_1BundleInfo.html", null ],
+    [ "CanonicalFilePathCache", "classCanonicalFilePathCache.html", null ],
+    [ "ClangInvocationInfo", "structClangInvocationInfo.html", null ],
     [ "CodeFileParams", "structCodeFileParams.html", null ],
     [ "CodeFocusHandler", "classCodeFocusHandler.html", [
       [ "QtCodeNavigator", "classQtCodeNavigator.html", null ]
@@ -34,13 +42,24 @@ var hierarchy =
     [ "CodeView::CodeParams", "structCodeView_1_1CodeParams.html", null ],
     [ "CodeScrollParams", "structCodeScrollParams.html", null ],
     [ "CodeSnippetParams", "structCodeSnippetParams.html", null ],
+    [ "CollectOutStream", "structCollectOutStream.html", null ],
     [ "Color< T >", "classColor.html", null ],
     [ "UndoRedoController::Command", "structUndoRedoController_1_1Command.html", null ],
     [ "commandline::CommandlineCommand", "classcommandline_1_1CommandlineCommand.html", [
+      [ "MockedCommandlineCommand", "structMockedCommandlineCommand.html", null ],
       [ "commandline::CommandlineCommandConfig", "classcommandline_1_1CommandlineCommandConfig.html", null ],
       [ "commandline::CommandlineCommandIndex", "classcommandline_1_1CommandlineCommandIndex.html", null ]
     ] ],
     [ "commandline::CommandLineParser", "classcommandline_1_1CommandLineParser.html", null ],
+    [ "CxxIndexerCommandProvider::CommandRepresentation", "structCxxIndexerCommandProvider_1_1CommandRepresentation.html", null ],
+    [ "clang::CommentHandler", null, [
+      [ "CommentHandler", "classCommentHandler.html", null ]
+    ] ],
+    [ "clang::tooling::CompilationDatabase", "classclang_1_1tooling_1_1CompilationDatabase.html", [
+      [ "CxxCompilationDatabaseSingle", "classCxxCompilationDatabaseSingle.html", null ]
+    ] ],
+    [ "utility::CompilationDatabase", "classutility_1_1CompilationDatabase.html", null ],
+    [ "Codeblocks::Compiler", "classCodeblocks_1_1Compiler.html", null ],
     [ "Component", "classComponent.html", null ],
     [ "ComponentFactory", "classComponentFactory.html", null ],
     [ "ComponentManager", "classComponentManager.html", null ],
@@ -70,6 +89,7 @@ var hierarchy =
       [ "IDECommunicationController", "classIDECommunicationController.html", [
         [ "QtIDECommunicationController", "classQtIDECommunicationController.html", null ]
       ] ],
+      [ "MockedController", "structMockedController.html", null ],
       [ "RefreshController", "classRefreshController.html", null ],
       [ "ScreenSearchController", "classScreenSearchController.html", null ],
       [ "SearchController", "classSearchController.html", null ],
@@ -86,7 +106,37 @@ var hierarchy =
     [ "ControllerProxy< ScreenSearchController >", "classControllerProxy.html", null ],
     [ "NetworkProtocolHelper::CreateCDBProjectMessage", "structNetworkProtocolHelper_1_1CreateCDBProjectMessage.html", null ],
     [ "NetworkProtocolHelper::CreateProjectMessage", "structNetworkProtocolHelper_1_1CreateProjectMessage.html", null ],
+    [ "CxxAstVisitorComponent", "classCxxAstVisitorComponent.html", [
+      [ "CxxAstVisitorComponentBraceRecorder", "classCxxAstVisitorComponentBraceRecorder.html", null ],
+      [ "CxxAstVisitorComponentContext", "classCxxAstVisitorComponentContext.html", null ],
+      [ "CxxAstVisitorComponentDeclRefKind", "classCxxAstVisitorComponentDeclRefKind.html", null ],
+      [ "CxxAstVisitorComponentImplicitCode", "classCxxAstVisitorComponentImplicitCode.html", null ],
+      [ "CxxAstVisitorComponentIndexer", "classCxxAstVisitorComponentIndexer.html", null ],
+      [ "CxxAstVisitorComponentTypeRefKind", "classCxxAstVisitorComponentTypeRefKind.html", null ]
+    ] ],
+    [ "CxxContext", "classCxxContext.html", [
+      [ "CxxContextDecl", "classCxxContextDecl.html", null ],
+      [ "CxxContextType", "classCxxContextType.html", null ]
+    ] ],
+    [ "CxxName", "classCxxName.html", [
+      [ "CxxDeclName", "classCxxDeclName.html", [
+        [ "CxxFunctionDeclName", "classCxxFunctionDeclName.html", [
+          [ "CxxStaticFunctionDeclName", "classCxxStaticFunctionDeclName.html", null ]
+        ] ],
+        [ "CxxVariableDeclName", "classCxxVariableDeclName.html", null ]
+      ] ],
+      [ "CxxTypeName", "classCxxTypeName.html", null ]
+    ] ],
+    [ "CxxNameResolver", "classCxxNameResolver.html", [
+      [ "CxxDeclNameResolver", "classCxxDeclNameResolver.html", null ],
+      [ "CxxSpecifierNameResolver", "classCxxSpecifierNameResolver.html", null ],
+      [ "CxxTemplateArgumentNameResolver", "classCxxTemplateArgumentNameResolver.html", null ],
+      [ "CxxTemplateParameterStringResolver", "classCxxTemplateParameterStringResolver.html", null ],
+      [ "CxxTypeNameResolver", "classCxxTypeNameResolver.html", null ]
+    ] ],
+    [ "CxxQualifierFlags", "classCxxQualifierFlags.html", null ],
     [ "DialogView", "classDialogView.html", [
+      [ "MockedDialogView", "structMockedDialogView.html", null ],
       [ "QtDialogView", "classQtDialogView.html", null ]
     ] ],
     [ "QtMainWindow::DockWidget", "structQtMainWindow_1_1DockWidget.html", null ],
@@ -113,6 +163,7 @@ var hierarchy =
     [ "ErrorFilter", "structErrorFilter.html", null ],
     [ "ErrorInfo", "structErrorInfo.html", null ],
     [ "QtCodeFileSingle::FileData", "structQtCodeFileSingle_1_1FileData.html", null ],
+    [ "FileHandler", "structFileHandler.html", null ],
     [ "FileInfo", "structFileInfo.html", null ],
     [ "FileManager", "classFileManager.html", null ],
     [ "FilePath", "classFilePath.html", null ],
@@ -121,9 +172,15 @@ var hierarchy =
     [ "FileSystem", "classFileSystem.html", null ],
     [ "FileTree", "classFileTree.html", null ],
     [ "CodeFocusHandler::Focus", "structCodeFocusHandler_1_1Focus.html", null ],
+    [ "clang::tooling::FrontendActionFactory", "classclang_1_1tooling_1_1FrontendActionFactory.html", [
+      [ "SingleFrontendActionFactory", "classSingleFrontendActionFactory.html", null ]
+    ] ],
     [ "FullTextSearchFile", "structFullTextSearchFile.html", null ],
     [ "FullTextSearchIndex", "classFullTextSearchIndex.html", null ],
     [ "FullTextSearchResult", "structFullTextSearchResult.html", null ],
+    [ "clang::GeneratePCHAction", null, [
+      [ "GeneratePCHAction", "classGeneratePCHAction.html", null ]
+    ] ],
     [ "Graph", "classGraph.html", null ],
     [ "GraphFocusClient", "classGraphFocusClient.html", [
       [ "QtGraphView", "classQtGraphView.html", null ]
@@ -132,20 +189,29 @@ var hierarchy =
     [ "GraphView::GraphParams", "structGraphView_1_1GraphParams.html", null ],
     [ "GraphViewStyle", "classGraphViewStyle.html", null ],
     [ "GraphViewStyleImpl", "classGraphViewStyleImpl.html", [
+      [ "MockedGraphViewStyleImpl", "structMockedGraphViewStyleImpl.html", null ],
       [ "QtGraphViewStyleImpl", "classQtGraphViewStyleImpl.html", null ]
     ] ],
     [ "HierarchyCache", "classHierarchyCache.html", null ],
     [ "HierarchyCache::HierarchyNode", "classHierarchyCache_1_1HierarchyNode.html", null ],
     [ "QtHighlighter::HighlightingRule", "structQtHighlighter_1_1HighlightingRule.html", null ],
+    [ "IncludeDirective", "classIncludeDirective.html", null ],
+    [ "IncludeProcessing", "classIncludeProcessing.html", null ],
     [ "IndexerBase", "classIndexerBase.html", [
+      [ "Indexer< IndexerCommandCxx >", "classIndexer.html", [
+        [ "IndexerCxx", "classIndexerCxx.html", null ]
+      ] ],
       [ "Indexer< T >", "classIndexer.html", null ],
-      [ "IndexerComposite", "classIndexerComposite.html", null ]
+      [ "IndexerComposite", "classIndexerComposite.html", null ],
+      [ "MockedIndexer", "structMockedIndexer.html", null ]
     ] ],
     [ "IndexerCommand", "classIndexerCommand.html", [
-      [ "IndexerCommandCustom", "classIndexerCommandCustom.html", null ]
+      [ "IndexerCommandCustom", "classIndexerCommandCustom.html", null ],
+      [ "IndexerCommandCxx", "classIndexerCommandCxx.html", null ]
     ] ],
     [ "IndexerCommandProvider", "classIndexerCommandProvider.html", [
       [ "CombinedIndexerCommandProvider", "classCombinedIndexerCommandProvider.html", null ],
+      [ "CxxIndexerCommandProvider", "classCxxIndexerCommandProvider.html", null ],
       [ "MemoryIndexerCommandProvider", "classMemoryIndexerCommandProvider.html", null ]
     ] ],
     [ "IndexerStateInfo", "structIndexerStateInfo.html", null ],
@@ -159,13 +225,17 @@ var hierarchy =
     [ "SqliteIndexStorage::InsertBatchStatement< StorageSymbol >", "classSqliteIndexStorage_1_1InsertBatchStatement.html", null ],
     [ "InterprocessIndexer", "classInterprocessIndexer.html", null ],
     [ "plugin::IPlugin", "structplugin_1_1IPlugin.html", null ],
-    [ "LanguagePackage", "classLanguagePackage.html", null ],
+    [ "LanguagePackage", "classLanguagePackage.html", [
+      [ "LanguagePackageCxx", "classLanguagePackageCxx.html", null ],
+      [ "MockedLanguagePackage", "structMockedLanguagePackage.html", null ]
+    ] ],
     [ "LanguagePackageManager", "classLanguagePackageManager.html", null ],
     [ "ListLayouter", "classListLayouter.html", null ],
     [ "SourceLocationFile::LocationComp", "structSourceLocationFile_1_1LocationComp.html", null ],
     [ "Logger", "classLogger.html", [
       [ "ConsoleLogger", "classConsoleLogger.html", null ],
-      [ "FileLogger", "classFileLogger.html", null ]
+      [ "FileLogger", "classFileLogger.html", null ],
+      [ "MockedLogger", "classMockedLogger.html", null ]
     ] ],
     [ "LogManager", "classLogManager.html", null ],
     [ "LogManagerImplementation", "classLogManagerImplementation.html", null ],
@@ -470,7 +540,8 @@ var hierarchy =
         [ "ActivationController", "classActivationController.html", null ]
       ] ],
       [ "MessageListener< MessageActivateNodes >", "classMessageListener.html", [
-        [ "ActivationController", "classActivationController.html", null ]
+        [ "ActivationController", "classActivationController.html", null ],
+        [ "SpyMessageActivateNodes", "structSpyMessageActivateNodes.html", null ]
       ] ],
       [ "MessageListener< MessageActivateTokenIds >", "classMessageListener.html", [
         [ "ActivationController", "classActivationController.html", null ]
@@ -521,6 +592,7 @@ var hierarchy =
         [ "ActivationListener", "classActivationListener.html", null ],
         [ "CodeController", "classCodeController.html", null ],
         [ "GraphController", "classGraphController.html", null ],
+        [ "SpyMessageActivateTokens", "structSpyMessageActivateTokens.html", null ],
         [ "TooltipController", "classTooltipController.html", null ],
         [ "UndoRedoController", "classUndoRedoController.html", null ]
       ] ],
@@ -558,6 +630,7 @@ var hierarchy =
           [ "QtCodeFileTitleButton", "classQtCodeFileTitleButton.html", null ],
           [ "QtSearchBarButton", "classQtSearchBarButton.html", null ]
         ] ],
+        [ "SpyMessageRefreshUI", "structSpyMessageRefreshUI.html", null ],
         [ "Tab", "classTab.html", null ]
       ] ],
       [ "MessageListener< MessageSwitchColorScheme >", "classMessageListener.html", [
@@ -565,6 +638,7 @@ var hierarchy =
       ] ],
       [ "MessageListener< MessageBookmarkButtonState >", "classMessageListener.html", [
         [ "BookmarkButtonsView", "classBookmarkButtonsView.html", [
+          [ "MockedBookmarkButtonsView", "structMockedBookmarkButtonsView.html", null ],
           [ "QtBookmarkButtonsView", "classQtBookmarkButtonsView.html", null ]
         ] ]
       ] ],
@@ -598,6 +672,7 @@ var hierarchy =
       [ "MessageListener< MessageChangeFileView >", "classMessageListener.html", [
         [ "CodeController", "classCodeController.html", null ],
         [ "ScreenSearchController", "classScreenSearchController.html", null ],
+        [ "SpyMessageChangeFileView", "structSpyMessageChangeFileView.html", null ],
         [ "UndoRedoController", "classUndoRedoController.html", null ]
       ] ],
       [ "MessageListener< MessageCodeReference >", "classMessageListener.html", [
@@ -644,7 +719,8 @@ var hierarchy =
         [ "UndoRedoController", "classUndoRedoController.html", null ]
       ] ],
       [ "MessageListener< MessageScrollToLine >", "classMessageListener.html", [
-        [ "CodeController", "classCodeController.html", null ]
+        [ "CodeController", "classCodeController.html", null ],
+        [ "SpyMessageChangeFileView", "structSpyMessageChangeFileView.html", null ]
       ] ],
       [ "MessageListener< MessageShowError >", "classMessageListener.html", [
         [ "CodeController", "classCodeController.html", null ],
@@ -665,6 +741,7 @@ var hierarchy =
       ] ],
       [ "MessageListener< MessageFocusedSearchView >", "classMessageListener.html", [
         [ "CompositeView", "classCompositeView.html", [
+          [ "MockedCompositeView", "structMockedCompositeView.html", null ],
           [ "QtCompositeView", "classQtCompositeView.html", null ]
         ] ]
       ] ],
@@ -742,6 +819,7 @@ var hierarchy =
       ] ],
       [ "MessageListener< MessageStatus >", "classMessageListener.html", [
         [ "QtCoreApplication", "classQtCoreApplication.html", null ],
+        [ "SpyMessageRefreshUI", "structSpyMessageRefreshUI.html", null ],
         [ "StatusBarController", "classStatusBarController.html", null ],
         [ "StatusController", "classStatusController.html", null ]
       ] ],
@@ -840,6 +918,7 @@ var hierarchy =
       ] ]
     ] ],
     [ "Migrator< MigratableType >", "classMigrator.html", null ],
+    [ "CxxTypeName::Modifier", "structCxxTypeName_1_1Modifier.html", null ],
     [ "NameElement", "classNameElement.html", null ],
     [ "NameHierarchy", "classNameHierarchy.html", null ],
     [ "NetworkFactory", "classNetworkFactory.html", [
@@ -863,7 +942,9 @@ var hierarchy =
     [ "Optional< T >", "classOptional.html", null ],
     [ "OrderedCache< KeyType, ValType >", "classOrderedCache.html", null ],
     [ "ParseLocation", "structParseLocation.html", null ],
-    [ "Parser", "classParser.html", null ],
+    [ "Parser", "classParser.html", [
+      [ "CxxParser", "classCxxParser.html", null ]
+    ] ],
     [ "ParserClient", "classParserClient.html", [
       [ "ParserClientImpl", "classParserClientImpl.html", null ]
     ] ],
@@ -875,8 +956,13 @@ var hierarchy =
       [ "CxxVs15HeaderPathDetector", "classCxxVs15HeaderPathDetector.html", null ]
     ] ],
     [ "NetworkProtocolHelper::PingMessage", "structNetworkProtocolHelper_1_1PingMessage.html", null ],
+    [ "clang::PPCallbacks", null, [
+      [ "PreprocessorCallbacks", "classPreprocessorCallbacks.html", null ]
+    ] ],
     [ "utility::ProcessOutput", "structutility_1_1ProcessOutput.html", null ],
+    [ "Codeblocks::Project", "classCodeblocks_1_1Project.html", null ],
     [ "Project", "classProject.html", null ],
+    [ "ProjectWizardModel", "classProjectWizardModel.html", null ],
     [ "Property< T >", "classProperty.html", null ],
     [ "Property< int >", "classProperty.html", null ],
     [ "QAbstractTableModel", "classQAbstractTableModel.html", [
@@ -959,13 +1045,16 @@ var hierarchy =
       [ "MouseWheelOverScrollbarFilter", "classMouseWheelOverScrollbarFilter.html", null ],
       [ "QtBookmarkButtonsView", "classQtBookmarkButtonsView.html", null ],
       [ "QtContextMenu", "classQtContextMenu.html", null ],
+      [ "QtContextMenuTest", "structQtContextMenuTest.html", null ],
       [ "QtDialogView", "classQtDialogView.html", null ],
       [ "QtFocusInFilter", "classQtFocusInFilter.html", null ],
       [ "QtGraphEdge", "classQtGraphEdge.html", null ],
       [ "QtGraphNode", "classQtGraphNode.html", null ],
       [ "QtGraphView", "classQtGraphView.html", null ],
       [ "QtRequest", "classQtRequest.html", null ],
+      [ "QtScreenSearchBoxTest", "structQtScreenSearchBoxTest.html", null ],
       [ "QtScreenSearchView", "classQtScreenSearchView.html", null ],
+      [ "QtSelfRefreshIconButtonTest", "structQtSelfRefreshIconButtonTest.html", null ],
       [ "QtTabbedView", "classQtTabbedView.html", null ],
       [ "QtTabsView", "classQtTabsView.html", null ],
       [ "QtTcpWrapper", "classQtTcpWrapper.html", null ],
@@ -1101,6 +1190,11 @@ var hierarchy =
       ] ]
     ] ],
     [ "SnippetMerger::Range", "structSnippetMerger_1_1Range.html", null ],
+    [ "clang::RecursiveASTVisitor", null, [
+      [ "CxxAstVisitor", "classCxxAstVisitor.html", [
+        [ "CxxVerboseAstVisitor", "classCxxVerboseAstVisitor.html", null ]
+      ] ]
+    ] ],
     [ "CodeController::Reference", "structCodeController_1_1Reference.html", null ],
     [ "RefreshInfo", "structRefreshInfo.html", null ],
     [ "RefreshInfoGenerator", "classRefreshInfoGenerator.html", null ],
@@ -1110,16 +1204,20 @@ var hierarchy =
     ] ],
     [ "ScopedFunctor", "classScopedFunctor.html", null ],
     [ "ScopedSwitcher< T >", "classScopedSwitcher.html", null ],
+    [ "utility::ScopedTemporaryFile", "structutility_1_1ScopedTemporaryFile.html", null ],
     [ "ScopedTrace< TracerType >", "classScopedTrace.html", null ],
     [ "ScreenSearchResponder", "classScreenSearchResponder.html", [
       [ "CodeView", "classCodeView.html", [
+        [ "MockedCodeView", "structMockedCodeView.html", null ],
         [ "QtCodeView", "classQtCodeView.html", null ]
       ] ],
       [ "GraphView", "classGraphView.html", [
+        [ "MockedGraphView", "structMockedGraphView.html", null ],
         [ "QtGraphView", "classQtGraphView.html", null ]
       ] ]
     ] ],
     [ "ScreenSearchSender", "classScreenSearchSender.html", [
+      [ "MockedScreenSearchSender", "structMockedScreenSearchSender.html", null ],
       [ "ScreenSearchController", "classScreenSearchController.html", null ]
     ] ],
     [ "SearchIndex::SearchEdge", "structSearchIndex_1_1SearchEdge.html", null ],
@@ -1149,11 +1247,15 @@ var hierarchy =
     [ "SingleValueCache< std::vector< FilePath > >", "classSingleValueCache.html", null ],
     [ "SnippetMerger", "classSnippetMerger.html", null ],
     [ "SourceGroup", "classSourceGroup.html", [
-      [ "SourceGroupCustomCommand", "classSourceGroupCustomCommand.html", null ]
+      [ "SourceGroupCustomCommand", "classSourceGroupCustomCommand.html", null ],
+      [ "SourceGroupCxxCdb", "classSourceGroupCxxCdb.html", null ],
+      [ "SourceGroupCxxCodeblocks", "classSourceGroupCxxCodeblocks.html", null ],
+      [ "SourceGroupCxxEmpty", "classSourceGroupCxxEmpty.html", null ]
     ] ],
     [ "SourceGroupFactory", "classSourceGroupFactory.html", null ],
     [ "SourceGroupFactoryModule", "classSourceGroupFactoryModule.html", [
-      [ "SourceGroupFactoryModuleCustom", "classSourceGroupFactoryModuleCustom.html", null ]
+      [ "SourceGroupFactoryModuleCustom", "classSourceGroupFactoryModuleCustom.html", null ],
+      [ "SourceGroupFactoryModuleCxx", "classSourceGroupFactoryModuleCxx.html", null ]
     ] ],
     [ "SourceGroupSettingsBase", "classSourceGroupSettingsBase.html", [
       [ "SourceGroupSettings", "classSourceGroupSettings.html", [
@@ -1199,6 +1301,7 @@ var hierarchy =
       [ "PersistentStorage", "classPersistentStorage.html", null ]
     ] ],
     [ "StorageAccess", "classStorageAccess.html", [
+      [ "MockedStorageAccess", "classMockedStorageAccess.html", null ],
       [ "PersistentStorage", "classPersistentStorage.html", null ],
       [ "StorageAccessProxy", "classStorageAccessProxy.html", [
         [ "StorageCache", "classStorageCache.html", null ]
@@ -1248,6 +1351,7 @@ var hierarchy =
     [ "suffix", "structsuffix.html", null ],
     [ "SuffixArray", "classSuffixArray.html", null ],
     [ "TabId", "classTabId.html", null ],
+    [ "Codeblocks::Target", "classCodeblocks_1_1Target.html", null ],
     [ "Task", "classTask.html", [
       [ "TaskBuildIndex", "classTaskBuildIndex.html", null ],
       [ "TaskCleanStorage", "classTaskCleanStorage.html", null ],
@@ -1268,8 +1372,33 @@ var hierarchy =
     [ "TaskRunner", "classTaskRunner.html", null ],
     [ "TaskScheduler", "classTaskScheduler.html", null ],
     [ "SqliteIndexStorage::TempSourceLocation", "structSqliteIndexStorage_1_1TempSourceLocation.html", null ],
+    [ "Test", "classTest.html", [
+      [ "ActivationControllerFix", "structActivationControllerFix.html", null ],
+      [ "CommandlineCommandConfigFix", "structCommandlineCommandConfigFix.html", null ],
+      [ "CommandlineCommandIndexFix", "structCommandlineCommandIndexFix.html", null ]
+    ] ],
+    [ "testing::Test", null, [
+      [ "CreatingPlainCopyOfAllLocationsInLineRange", "classCreatingPlainCopyOfAllLocationsInLineRange.html", null ],
+      [ "FindingSourceLocationsById", "classFindingSourceLocationsById.html", null ],
+      [ "GetSourceLocationsFilteredByLines", "classGetSourceLocationsFilteredByLines.html", null ],
+      [ "GraphViewStyleFix", "structGraphViewStyleFix.html", null ],
+      [ "MockedLoggerCompilationDatabase", "structMockedLoggerCompilationDatabase.html", null ],
+      [ "SetupMainFix", "structSetupMainFix.html", null ],
+      [ "SetupTabFix", "structSetupTabFix.html", null ],
+      [ "SourceLocationFileFix", "classSourceLocationFileFix.html", null ],
+      [ "SourceLocationsDoNotGetCreatedWithWrongInput", "classSourceLocationsDoNotGetCreatedWithWrongInput.html", null ],
+      [ "SourceLocationsGetCreatedWithOtherEnd", "classSourceLocationsGetCreatedWithOtherEnd.html", null ],
+      [ "SourceLocationsGetUniqueIdButBothEndsHaveTheSame", "classSourceLocationsGetUniqueIdButBothEndsHaveTheSame.html", null ],
+      [ "SourceLocationsHaveRightFilePathLineColumnAndTokenId", "classSourceLocationsHaveRightFilePathLineColumnAndTokenId.html", null ],
+      [ "StatusBarControllerFix", "structStatusBarControllerFix.html", null ],
+      [ "StatusControllerFix", "structStatusControllerFix.html", null ],
+      [ "TabIdFix", "structTabIdFix.html", null ]
+    ] ],
     [ "TextAccess", "classTextAccess.html", null ],
     [ "TextCodec", "classTextCodec.html", null ],
+    [ "clang::TextDiagnosticPrinter", null, [
+      [ "CxxDiagnosticConsumer", "classCxxDiagnosticConsumer.html", null ]
+    ] ],
     [ "TimeStamp", "classTimeStamp.html", null ],
     [ "Token", "classToken.html", [
       [ "Edge", "classEdge.html", null ],
@@ -1295,6 +1424,7 @@ var hierarchy =
     [ "TrailLayouter::TrailNode", "structTrailLayouter_1_1TrailNode.html", null ],
     [ "TrailNode", "structTrailNode.html", null ],
     [ "Tree< T >", "structTree.html", null ],
+    [ "Codeblocks::Unit", "classCodeblocks_1_1Unit.html", null ],
     [ "UnorderedCache< KeyType, ValType, Hasher >", "classUnorderedCache.html", null ],
     [ "UnorderedCache< std::wstring, bool >", "classUnorderedCache.html", null ],
     [ "UserPaths", "classUserPaths.html", null ],
@@ -1326,22 +1456,30 @@ var hierarchy =
         [ "QtErrorView", "classQtErrorView.html", null ]
       ] ],
       [ "GraphView", "classGraphView.html", null ],
+      [ "MockedView", "structMockedView.html", null ],
+      [ "MockedView", "structMockedView.html", null ],
       [ "RefreshView", "classRefreshView.html", [
+        [ "MockedRefreshView", "structMockedRefreshView.html", null ],
         [ "QtRefreshView", "classQtRefreshView.html", null ]
       ] ],
       [ "ScreenSearchView", "classScreenSearchView.html", [
+        [ "MockedScreenSearchView", "structMockedScreenSearchView.html", null ],
         [ "QtScreenSearchView", "classQtScreenSearchView.html", null ]
       ] ],
       [ "SearchView", "classSearchView.html", [
+        [ "MockedSearchView", "structMockedSearchView.html", null ],
         [ "QtSearchView", "classQtSearchView.html", null ]
       ] ],
       [ "StatusBarView", "classStatusBarView.html", [
+        [ "MockedStatusBarView", "structMockedStatusBarView.html", null ],
         [ "QtStatusBarView", "classQtStatusBarView.html", null ]
       ] ],
       [ "StatusView", "classStatusView.html", [
+        [ "MockedStatusView", "structMockedStatusView.html", null ],
         [ "QtStatusView", "classQtStatusView.html", null ]
       ] ],
       [ "TabbedView", "classTabbedView.html", [
+        [ "MockedTabbedView", "structMockedTabbedView.html", null ],
         [ "QtTabbedView", "classQtTabbedView.html", null ]
       ] ],
       [ "TabsView", "classTabsView.html", [
@@ -1351,10 +1489,12 @@ var hierarchy =
         [ "QtTooltipView", "classQtTooltipView.html", null ]
       ] ],
       [ "UndoRedoView", "classUndoRedoView.html", [
+        [ "MockedUndoRedoView", "structMockedUndoRedoView.html", null ],
         [ "QtUndoRedoView", "classQtUndoRedoView.html", null ]
       ] ]
     ] ],
     [ "ViewFactory", "classViewFactory.html", [
+      [ "MockedViewFactory", "structMockedViewFactory.html", null ],
       [ "QtViewFactory", "classQtViewFactory.html", null ]
     ] ],
     [ "ViewLayout", "classViewLayout.html", [
@@ -1362,6 +1502,7 @@ var hierarchy =
       [ "MainView", "classMainView.html", [
         [ "QtMainView", "classQtMainView.html", null ]
       ] ],
+      [ "MockedViewLayout", "structMockedViewLayout.html", null ],
       [ "Tab", "classTab.html", null ],
       [ "TabbedView", "classTabbedView.html", null ]
     ] ],
@@ -1393,6 +1534,7 @@ var hierarchy =
       [ "QtSearchElement", "classQtSearchElement.html", null ],
       [ "QtSelfRefreshIconButton", "classQtSelfRefreshIconButton.html", null ]
     ] ],
+    [ "static constexpr uint32_t", "classstatic_01constexpr_01uint32__t.html", null ],
     [ "T", "classT.html", null ],
     [ "unordered_map< std::wstring, bool, std::hash< std::wstring > >", "classstd_1_1unordered__map_3_01std_1_1wstring_00_01bool_00_01std_1_1hash_3_01std_1_1wstring_01_4_01_4.html", null ]
 ];

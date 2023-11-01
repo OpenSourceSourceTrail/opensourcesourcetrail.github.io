@@ -1,12 +1,23 @@
 <map id="QtGraphNodeExpandToggle::QtGraphNodeExpandToggle" name="QtGraphNodeExpandToggle::QtGraphNodeExpandToggle">
-<area shape="rect" id="node1" title=" " alt="" coords="5,127,213,167"/>
-<area shape="rect" id="node2" href="$classResourcePaths.html#aac268005efee61f8dcba454dd4e5a097" title=" " alt="" coords="261,55,520,80"/>
-<area shape="rect" id="node6" href="$classQtDeviceScaledPixmap.html#afc90f5e16934d6f17dab67a8dd1c872b" title=" " alt="" coords="616,105,791,145"/>
-<area shape="rect" id="node8" href="$classQtDeviceScaledPixmap.html#a27e91117b69db82293993f0561f547be" title=" " alt="" coords="303,155,478,195"/>
-<area shape="rect" id="node9" href="$classQtDeviceScaledPixmap.html#abdbb20640a1ddfd57bc83bd1e8bb0a0a" title=" " alt="" coords="303,219,478,259"/>
-<area shape="rect" id="node3" href="$classFilePath.html#a1f9e209dcb9a8d2b3d39ec6cfdd5c17f" title=" " alt="" coords="623,5,784,31"/>
-<area shape="rect" id="node5" href="$classAppPath.html#afb2974614a9eee22c6f8a75fada9ac23" title=" " alt="" coords="568,55,839,80"/>
-<area shape="rect" id="node4" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="909,5,1039,31"/>
-<area shape="rect" id="node7" href="$classQtDeviceScaledPixmap.html#a8e2c040795e5af1d3c39f2e998f81f81" title=" " alt="" coords="887,162,1061,202"/>
-<area shape="rect" id="node10" href="$classQtDeviceScaledPixmap.html#a321cfe24855eaa215a05116404835072" title=" " alt="" coords="616,219,791,259"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,130,213,175"/>
+<area shape="rect" id="Node000002" href="$classResourcePaths.html#aac268005efee61f8dcba454dd4e5a097" title=" " alt="" coords="261,57,518,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,127,260,101,312,87,313,92,261,106,177,132"/>
+<area shape="rect" id="Node000006" href="$classQtDeviceScaledPixmap.html#afc90f5e16934d6f17dab67a8dd1c872b" title=" " alt="" coords="614,109,787,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,146,599,132,599,137,213,151"/>
+<area shape="rect" id="Node000008" href="$classQtDeviceScaledPixmap.html#a27e91117b69db82293993f0561f547be" title=" " alt="" coords="303,160,476,204"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="214,161,288,169,287,174,213,166"/>
+<area shape="rect" id="Node000009" href="$classQtDeviceScaledPixmap.html#abdbb20640a1ddfd57bc83bd1e8bb0a0a" title=" " alt="" coords="303,229,476,274"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="160,173,262,214,289,223,287,228,260,219,158,178"/>
+<area shape="rect" id="Node000003" href="$classFilePath.html#a1f9e209dcb9a8d2b3d39ec6cfdd5c17f" title=" " alt="" coords="621,5,781,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,54,605,32,606,38,477,59"/>
+<area shape="rect" id="Node000005" href="$classAppPath.html#afb2974614a9eee22c6f8a75fada9ac23" title=" " alt="" coords="566,57,835,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="518,69,551,69,551,74,518,74"/>
+<area shape="rect" id="Node000004" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="905,5,1035,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="781,17,889,17,889,22,781,22"/>
+<area shape="rect" id="Node000007" href="$classQtDeviceScaledPixmap.html#a8e2c040795e5af1d3c39f2e998f81f81" title=" " alt="" coords="883,169,1057,214"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="788,148,869,166,868,171,787,153"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="476,229,566,214,724,199,867,191,868,196,725,204,566,219,477,234"/>
+<area shape="rect" id="Node000010" href="$classQtDeviceScaledPixmap.html#a321cfe24855eaa215a05116404835072" title=" " alt="" coords="614,229,787,274"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="477,249,599,249,599,254,477,254"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="787,229,868,211,869,216,788,234"/>
 </map>

@@ -1,7 +1,12 @@
 <map id="TaskFillIndexerCommandsQueue::handleMessage" name="TaskFillIndexerCommandsQueue::handleMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,240,77"/>
-<area shape="rect" id="node2" href="$classInterprocessIndexerCommandManager.html#ac2722d8f02b201b16bc5b16f7459fc17" title=" " alt="" coords="288,5,531,45"/>
-<area shape="rect" id="node5" href="$classInterprocessIndexerCommandManager.html#abcc6fab068063c658d1c4a2acb6e0baf" title=" " alt="" coords="289,69,530,109"/>
-<area shape="rect" id="node3" href="$classSharedMemory_1_1ScopedAccess.html#a2d8027e6c2dd6df9a66dac209793cc93" title=" " alt="" coords="579,37,799,77"/>
-<area shape="rect" id="node4" href="$classSharedMemory_1_1ScopedAccess.html#ab30438bfd4b6345dba19341fcb8f032f" title=" " alt="" coords="847,37,1067,77"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,40,239,85"/>
+<area shape="rect" id="Node000002" href="$classInterprocessIndexerCommandManager.html#ac2722d8f02b201b16bc5b16f7459fc17" title=" " alt="" coords="287,5,528,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,45,271,42,271,47,239,51"/>
+<area shape="rect" id="Node000005" href="$classInterprocessIndexerCommandManager.html#abcc6fab068063c658d1c4a2acb6e0baf" title=" " alt="" coords="287,75,528,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,74,272,78,271,83,239,79"/>
+<area shape="rect" id="Node000003" href="$classSharedMemory_1_1ScopedAccess.html#a2d8027e6c2dd6df9a66dac209793cc93" title=" " alt="" coords="576,40,795,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,40,561,44,560,49,528,45"/>
+<area shape="rect" id="Node000004" href="$classSharedMemory_1_1ScopedAccess.html#ab30438bfd4b6345dba19341fcb8f032f" title=" " alt="" coords="843,40,1063,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="796,60,828,60,828,65,796,65"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="528,79,560,75,561,81,528,85"/>
 </map>

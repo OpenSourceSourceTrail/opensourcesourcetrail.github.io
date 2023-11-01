@@ -1,23 +1,48 @@
 <map id="QtCodeArea::mouseReleaseEvent" name="QtCodeArea::mouseReleaseEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,329,209,369"/>
-<area shape="rect" id="node2" href="$classQtCodeArea.html#ae8aa8968f2f295f384e1e3bb191936b5" title=" " alt="" coords="257,135,496,175"/>
-<area shape="rect" id="node12" href="$classQtCodeField.html#a3508c1390dc05416beeb589e771114b6" title=" " alt="" coords="281,271,473,311"/>
-<area shape="rect" id="node13" href="$classQtCodeField.html#a8120e52c5c2b73aaf492c81a8273472c" title=" " alt="" coords="570,271,769,311"/>
-<area shape="rect" id="node14" href="$classQtCodeArea.html#a901e9324a7a57bc6f09ad63a3f124fd9" title=" " alt="" coords="277,336,477,361"/>
-<area shape="rect" id="node16" href="$classQtCodeNavigator.html#aae63916a3ab9f2a1ef5285f517a101e3" title=" " alt="" coords="275,386,479,426"/>
-<area shape="rect" id="node17" href="$classQtCodeField.html#ac2bd702e0732771fb4217a6f55ae1f5a" title=" " alt="" coords="289,451,464,476"/>
-<area shape="rect" id="node18" href="$classQtCodeArea.html#a356ca9b1c7fc52c2c240a95fda74f9c4" title=" " alt="" coords="281,501,473,541"/>
-<area shape="rect" id="node3" href="$classQtCodeField.html#a744ed7f961ad6035a36e2e21a8fb36e9" title=" " alt="" coords="550,171,789,196"/>
-<area shape="rect" id="node4" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="875,311,1017,336"/>
-<area shape="rect" id="node9" href="$namespaceutility.html#aaf52f1ff3ca887705d82c1e674f434c0" title=" " alt="" coords="885,120,1007,145"/>
-<area shape="rect" id="node10" href="$classQtCodeNavigator.html#a465ff8bf3e77858922d79dd91f6f8986" title=" " alt="" coords="568,5,771,31"/>
-<area shape="rect" id="node11" href="$classQtCodeArea.html#a93c0e46a2b752f2565378703f72e9d74" title=" " alt="" coords="562,55,777,95"/>
-<area shape="rect" id="node7" href="$classQtCodeField.html#a202145f00420db0d621f6972dfa47870" title=" " alt="" coords="843,170,1049,210"/>
-<area shape="rect" id="node5" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="1107,311,1313,336"/>
-<area shape="rect" id="node6" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="1371,311,1601,336"/>
-<area shape="rect" id="node8" href="$classQtCodeField.html#a0cc22352dbeb10a2d8e56fdd6b1a19d2" title=" " alt="" coords="1097,177,1323,203"/>
-<area shape="rect" id="node15" href="$classQtCodeArea.html#ad0491d308c2954aca4fd02b9f62fca15" title=" " alt="" coords="556,336,783,361"/>
-<area shape="rect" id="node19" href="$classQtCodeField.html#aaa07bdb19deeda25a3eddfb96e98f5c8" title=" " alt="" coords="579,488,759,513"/>
-<area shape="rect" id="node20" href="$classQtCodeField.html#ae223c0aff65d5449e3957b4ffe7b2b64" title=" " alt="" coords="544,537,795,563"/>
-<area shape="rect" id="node21" href="$classQtCodeField.html#a4ac5684a401538ca893cd9df57db8d42" title=" " alt="" coords="570,587,769,612"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,338,209,383"/>
+<area shape="rect" id="Node000002" href="$classQtCodeArea.html#ae8aa8968f2f295f384e1e3bb191936b5" title=" " alt="" coords="257,138,495,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,336,182,280,255,220,309,188,311,192,258,224,186,284,131,340"/>
+<area shape="rect" id="Node000012" href="$classQtCodeField.html#a3508c1390dc05416beeb589e771114b6" title=" " alt="" coords="280,278,472,323"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="208,335,265,323,266,328,210,340"/>
+<area shape="rect" id="Node000013" href="$classQtCodeField.html#a8120e52c5c2b73aaf492c81a8273472c" title=" " alt="" coords="569,278,767,323"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="132,335,186,296,220,277,256,263,297,254,339,249,424,248,505,257,575,271,574,277,504,263,424,253,339,254,298,259,257,268,222,282,189,300,135,340"/>
+<area shape="rect" id="Node000014" href="$classQtCodeArea.html#a901e9324a7a57bc6f09ad63a3f124fd9" title=" " alt="" coords="276,347,476,374"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="209,358,261,358,261,363,209,363"/>
+<area shape="rect" id="Node000016" href="$classQtCodeNavigator.html#aae63916a3ab9f2a1ef5285f517a101e3" title=" " alt="" coords="274,398,478,443"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="210,381,260,392,259,397,208,386"/>
+<area shape="rect" id="Node000017" href="$classQtCodeField.html#ac2bd702e0732771fb4217a6f55ae1f5a" title=" " alt="" coords="289,467,463,494"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="139,381,192,418,258,453,276,459,275,464,256,458,190,423,136,386"/>
+<area shape="rect" id="Node000018" href="$classQtCodeArea.html#a356ca9b1c7fc52c2c240a95fda74f9c4" title=" " alt="" coords="280,518,472,563"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="127,381,182,442,218,475,258,504,268,509,266,514,255,508,215,479,178,446,123,385"/>
+<area shape="rect" id="Node000003" href="$classQtCodeField.html#a744ed7f961ad6035a36e2e21a8fb36e9" title=" " alt="" coords="549,176,787,204"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,170,533,174,533,179,495,175"/>
+<area shape="rect" id="Node000004" href="$classMessage.html#a4556438d5bb073d6f19ea777fe3faf10" title=" " alt="" coords="872,321,1015,349"/>
+<area shape="poly" id="edge9_Node000002_Node000004" title=" " alt="" coords="442,181,544,213,613,228,669,236,724,245,793,263,852,286,904,311,901,316,850,291,791,268,723,250,668,241,612,233,542,218,440,186"/>
+<area shape="rect" id="Node000009" href="$namespaceutility.html#aaf52f1ff3ca887705d82c1e674f434c0" title=" " alt="" coords="883,125,1004,153"/>
+<area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="496,153,867,139,867,145,496,159"/>
+<area shape="rect" id="Node000010" href="$classQtCodeNavigator.html#a465ff8bf3e77858922d79dd91f6f8986" title=" " alt="" coords="567,5,769,33"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="401,135,462,88,501,63,542,42,560,35,562,40,544,47,504,68,466,92,404,140"/>
+<area shape="rect" id="Node000011" href="$classQtCodeArea.html#a93c0e46a2b752f2565378703f72e9d74" title=" " alt="" coords="561,57,774,102"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="458,135,569,104,571,109,460,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="745,202,793,219,829,240,863,263,918,308,914,312,860,267,826,244,791,224,743,207"/>
+<area shape="rect" id="Node000007" href="$classQtCodeField.html#a202145f00420db0d621f6972dfa47870" title=" " alt="" coords="840,177,1047,222"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="787,191,825,192,825,198,787,197"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="746,173,867,150,868,156,747,178"/>
+<area shape="rect" id="Node000005" href="$classMessageQueue.html#a085ebbc4ba9c58eeeaad64e77efc8e07" title=" " alt="" coords="1104,321,1310,349"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1015,333,1089,333,1089,338,1015,338"/>
+<area shape="rect" id="Node000006" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="1367,321,1596,349"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1310,333,1351,333,1351,338,1310,338"/>
+<area shape="rect" id="Node000008" href="$classQtCodeField.html#a0cc22352dbeb10a2d8e56fdd6b1a19d2" title=" " alt="" coords="1095,185,1319,213"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1047,197,1079,197,1079,202,1047,202"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="472,298,553,298,553,303,472,303"/>
+<area shape="rect" id="Node000015" href="$classQtCodeArea.html#ad0491d308c2954aca4fd02b9f62fca15" title=" " alt="" coords="555,347,780,374"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="476,358,540,358,540,363,476,363"/>
+<area shape="poly" id="edge20_Node000017_Node000004" title=" " alt="" coords="446,463,494,453,542,441,668,414,792,383,888,352,890,357,793,388,669,419,544,446,496,458,447,469"/>
+<area shape="poly" id="edge22_Node000018_Node000004" title=" " alt="" coords="458,515,494,503,542,485,613,471,669,468,724,462,756,454,791,441,827,423,860,401,915,357,918,362,863,405,829,427,793,446,757,459,725,467,670,473,613,476,544,490,496,508,459,520"/>
+<area shape="rect" id="Node000019" href="$classQtCodeField.html#aaa07bdb19deeda25a3eddfb96e98f5c8" title=" " alt="" coords="578,499,757,526"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="472,529,562,520,563,525,472,534"/>
+<area shape="rect" id="Node000020" href="$classQtCodeField.html#ae223c0aff65d5449e3957b4ffe7b2b64" title=" " alt="" coords="543,551,792,578"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="472,546,528,550,527,556,472,551"/>
+<area shape="rect" id="Node000021" href="$classQtCodeField.html#a4ac5684a401538ca893cd9df57db8d42" title=" " alt="" coords="569,603,766,630"/>
+<area shape="poly" id="edge25_Node000018_Node000021" title=" " alt="" coords="451,561,544,587,581,596,580,601,542,592,449,566"/>
 </map>

@@ -1,12 +1,12 @@
 var classMessageSwitchColorScheme =
 [
     [ "MessageSwitchColorScheme", "classMessageSwitchColorScheme.html#aa89e62416a900e04a20007ae122f4edb", null ],
-    [ "dispatch", "classMessageSwitchColorScheme.html#aa60564025ee950bf52c8deb6ac1bb843", null ],
+    [ "dispatch", "classMessageSwitchColorScheme.html#a4556438d5bb073d6f19ea777fe3faf10", null ],
     [ "dispatchImmediately", "classMessageSwitchColorScheme.html#a7b949d8bcecd096615e1604421256dd2", null ],
     [ "getId", "classMessageSwitchColorScheme.html#a8b22dcbfc6bd7df5d1cfd25838366f19", null ],
     [ "getSchedulerId", "classMessageSwitchColorScheme.html#afd36f69f78a741be829f6a8555806eb6", null ],
     [ "getStaticType", "classMessageSwitchColorScheme.html#a77bd3b2405c5335192b3fc803fdb9fb9", null ],
-    [ "getType", "classMessageSwitchColorScheme.html#a1aa14336889e4e9ded2985a2e2948511", null ],
+    [ "getType", "classMessageSwitchColorScheme.html#a08a3ad4dd55ffb94c5eb45c196dab427", null ],
     [ "isLast", "classMessageSwitchColorScheme.html#a5e77c0e43ba275a546bc544103c61d42", null ],
     [ "isLogged", "classMessageSwitchColorScheme.html#a2e2d14c3d84fec68fba3a466562066f6", null ],
     [ "isParallel", "classMessageSwitchColorScheme.html#a0dab5c6a372ef7246d07754128117df7", null ],

@@ -1,13 +1,13 @@
 var classMessageStatus =
 [
-    [ "MessageStatus", "classMessageStatus.html#a91c98138fcdb0b65f9433be5637bd90c", null ],
-    [ "MessageStatus", "classMessageStatus.html#a255e1d0561867e44a97e2d0592070e7f", null ],
-    [ "dispatch", "classMessageStatus.html#aa60564025ee950bf52c8deb6ac1bb843", null ],
+    [ "MessageStatus", "classMessageStatus.html#a150a89229ebf0f80322d046e288b7090", null ],
+    [ "MessageStatus", "classMessageStatus.html#a5452a4ffcd8603347679c5d143c24488", null ],
+    [ "dispatch", "classMessageStatus.html#a4556438d5bb073d6f19ea777fe3faf10", null ],
     [ "dispatchImmediately", "classMessageStatus.html#a7b949d8bcecd096615e1604421256dd2", null ],
     [ "getId", "classMessageStatus.html#a8b22dcbfc6bd7df5d1cfd25838366f19", null ],
     [ "getSchedulerId", "classMessageStatus.html#afd36f69f78a741be829f6a8555806eb6", null ],
     [ "getStaticType", "classMessageStatus.html#ae73e108dc9d6ab02c153477ab0d5ab8d", null ],
-    [ "getType", "classMessageStatus.html#a1aa14336889e4e9ded2985a2e2948511", null ],
+    [ "getType", "classMessageStatus.html#a08a3ad4dd55ffb94c5eb45c196dab427", null ],
     [ "isLast", "classMessageStatus.html#a5e77c0e43ba275a546bc544103c61d42", null ],
     [ "isLogged", "classMessageStatus.html#a2e2d14c3d84fec68fba3a466562066f6", null ],
     [ "isParallel", "classMessageStatus.html#a0dab5c6a372ef7246d07754128117df7", null ],

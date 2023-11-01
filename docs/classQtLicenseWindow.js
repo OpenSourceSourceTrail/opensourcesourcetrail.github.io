@@ -1,6 +1,6 @@
 var classQtLicenseWindow =
 [
-    [ "QtLicenseWindow", "classQtLicenseWindow.html#ad407a8aeb6a660c474f871a04ff59f6c", null ],
+    [ "QtLicenseWindow", "classQtLicenseWindow.html#a3d40eeb0b4f4605462484b0e16a41ab5", null ],
     [ "addLogo", "classQtLicenseWindow.html#a39f04f628173069055fed83678075602", null ],
     [ "canceled", "classQtLicenseWindow.html#af9e905a002e791adf349de73b2d4cc00", null ],
     [ "closeEvent", "classQtLicenseWindow.html#a01f1b161e7d863f8e2b8c924da8e6fbb", null ],
@@ -10,7 +10,7 @@ var classQtLicenseWindow =
     [ "handleClose", "classQtLicenseWindow.html#a2ba2b21448b4008f0a30e174b6794b6e", null ],
     [ "handleClosePress", "classQtLicenseWindow.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtLicenseWindow.html#a1340456acb8f85fd561f281018675139", null ],
-    [ "handleNextPress", "classQtLicenseWindow.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtLicenseWindow.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtLicenseWindow.html#aa0e2b118a9cf753c4dacb35528beb5ff", null ],
     [ "handlePreviousPress", "classQtLicenseWindow.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtLicenseWindow.html#a932ab453a347b3d196e431ff9c2626eb", null ],

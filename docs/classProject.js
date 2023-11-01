@@ -1,22 +1,23 @@
 var classProject =
 [
     [ "ProjectStateType", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3", [
-      [ "PROJECT_STATE_NOT_LOADED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a457fa2fc5a40da5585701928c566a6cb", null ],
-      [ "PROJECT_STATE_EMPTY", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a37f5417432838c2fadeddd436b656fda", null ],
-      [ "PROJECT_STATE_LOADED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a27fb944cf896a317f01d8de1405c495b", null ],
-      [ "PROJECT_STATE_OUTDATED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a6d893ac8acfb8f0da4503e823d3099c3", null ],
-      [ "PROJECT_STATE_OUTVERSIONED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a6ca0f0cffef403fa8419262264fda774", null ],
-      [ "PROJECT_STATE_NEEDS_MIGRATION", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a7180151fd7dd0ca93ec8bd5d9938548b", null ],
-      [ "PROJECT_STATE_DB_CORRUPTED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3ae7a3154479380cac65c4bb657edd4d5e", null ]
+      [ "NOT_LOADED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a64d839b006f22e6c066be3e30d3a6d49", null ],
+      [ "EMPTY", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3aba2b45bdc11e2a4a6e86aab2ac693cbb", null ],
+      [ "LOADED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3ab638272ceeff54912f043465e9a28c9b", null ],
+      [ "OUTDATED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a3382ba740fd67dcf1a43dbf5f254d986", null ],
+      [ "OUTVERSIONED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3af717a912f923ed2bfcc9a5fca4e72617", null ],
+      [ "NEEDS_MIGRATION", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a3519055f4bb915bbfa924269d4cf32c2", null ],
+      [ "DB_CORRUPTED", "classProject.html#a3197d8bd96b9c9c9569cfec5460638f3a0718f36923b8526b12a14ecb81a13d9e", null ]
     ] ],
     [ "RefreshStageType", "classProject.html#a06c4c0078a3d6881e79435a17ecc8942", [
       [ "REFRESHING", "classProject.html#a06c4c0078a3d6881e79435a17ecc8942a90eb120650a80f029c2bd36a6d67e704", null ],
       [ "INDEXING", "classProject.html#a06c4c0078a3d6881e79435a17ecc8942a8eae423d4ca52adb8ba8061f29a79207", null ],
       [ "NONE", "classProject.html#a06c4c0078a3d6881e79435a17ecc8942ab50339a10e1de285ac99d4c3990b8693", null ]
     ] ],
-    [ "Project", "classProject.html#aa722ddd140a3a9a09c98750deb7dfad8", null ],
+    [ "Project", "classProject.html#a8243693b98eaf54846c51d3942014086", null ],
+    [ "Project", "classProject.html#a60588c690d890a52acef069681bf3b2a", null ],
+    [ "Project", "classProject.html#aaf54d4213754cabbff5a1785e72d5570", null ],
     [ "~Project", "classProject.html#ad165d61b76ee86ee9c27fd987a2a7b9e", null ],
-    [ "Project", "classProject.html#a168e7cdc6435b03ed82b1f38525f9cda", null ],
     [ "buildIndex", "classProject.html#a0a4460901ddd0fb1482007715ec97669", null ],
     [ "discardTempStorage", "classProject.html#a7df25a1e4221bf9a93ea47775509add0", null ],
     [ "getDescription", "classProject.html#ae29c0a39f2533654dd4ebf5293ef9b51", null ],
@@ -26,6 +27,8 @@ var classProject =
     [ "isIndexing", "classProject.html#a1501f81ee5257103d269165dd66454c5", null ],
     [ "isLoaded", "classProject.html#ac8487ad6c2dc957a8d460ed309ecdb03", null ],
     [ "load", "classProject.html#a744fcd821ba36738a8bd87acaa5a8cc2", null ],
+    [ "operator=", "classProject.html#a344e82ded9db798c6c3da3d0028de3bf", null ],
+    [ "operator=", "classProject.html#a51cc3df8137a6ff294f5feda0b3ddf6b", null ],
     [ "refresh", "classProject.html#afba51cb85b0c6e4ee2556f0ce0b7bfce", null ],
     [ "setStateOutdated", "classProject.html#a2637ab5b405d976d18d8585d0cdb70c2", null ],
     [ "settingsEqualExceptNameAndLocation", "classProject.html#a992e7a34e9c1c90161b9986cc1a89789", null ],

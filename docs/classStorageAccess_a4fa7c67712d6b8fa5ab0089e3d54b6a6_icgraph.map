@@ -1,8 +1,13 @@
 <map id="StorageAccess::getNodeIdForFileNode" name="StorageAccess::getNodeIdForFileNode">
-<area shape="rect" id="node1" title=" " alt="" coords="825,63,1017,103"/>
-<area shape="rect" id="node2" href="$classActivationController.html#af412d4eb51e7535c93a55492097520f9" title=" " alt="" coords="586,5,738,45"/>
-<area shape="rect" id="node3" href="$classTabsController.html#ab8edc0046d7f189a0adeb6820e468cd6" title=" " alt="" coords="549,70,775,95"/>
-<area shape="rect" id="node4" href="$classIDECommunicationController.html#aa98a35e2b11952439b630c76b878ea0e" title=" " alt="" coords="547,120,777,160"/>
-<area shape="rect" id="node5" href="$classIDECommunicationController.html#ad31a8677711a2212cd517e89bafba0d3" title=" " alt="" coords="288,120,499,160"/>
-<area shape="rect" id="node6" href="$classQtIDECommunicationController.html#a0c742d22bccba1e0f8882d02bca3be55" title=" " alt="" coords="5,120,240,160"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="823,65,1015,110"/>
+<area shape="rect" id="Node000002" href="$classActivationController.html#af412d4eb51e7535c93a55492097520f9" title=" " alt="" coords="585,5,736,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="808,65,736,48,737,43,809,59"/>
+<area shape="rect" id="Node000003" href="$classTabsController.html#ab8edc0046d7f189a0adeb6820e468cd6" title=" " alt="" coords="548,74,772,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="808,90,773,90,773,85,808,85"/>
+<area shape="rect" id="Node000004" href="$classIDECommunicationController.html#aa98a35e2b11952439b630c76b878ea0e" title=" " alt="" coords="545,125,775,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="809,116,760,127,759,122,808,111"/>
+<area shape="rect" id="Node000005" href="$classIDECommunicationController.html#ad31a8677711a2212cd517e89bafba0d3" title=" " alt="" coords="287,125,497,170"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="530,150,498,150,498,145,530,145"/>
+<area shape="rect" id="Node000006" href="$classQtIDECommunicationController.html#a0c742d22bccba1e0f8882d02bca3be55" title=" " alt="" coords="5,125,239,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="271,150,239,150,239,145,271,145"/>
 </map>

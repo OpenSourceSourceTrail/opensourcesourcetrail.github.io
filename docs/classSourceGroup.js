@@ -1,6 +1,6 @@
 var classSourceGroup =
 [
-    [ "~SourceGroup", "classSourceGroup.html#aec99d77c34516ab8a09218c3617bcba1", null ],
+    [ "~SourceGroup", "classSourceGroup.html#adc2c7253e6c27850da115610db58d4af", null ],
     [ "allowsPartialClearing", "classSourceGroup.html#a18380024214b05e97b499311639f096f", null ],
     [ "allowsShallowIndexing", "classSourceGroup.html#ab29b17a6e56c0552d8d2fed44c31f99b", null ],
     [ "containsSourceFilePath", "classSourceGroup.html#ae72f6692fb6329b0fe021e15b57f16f1", null ],

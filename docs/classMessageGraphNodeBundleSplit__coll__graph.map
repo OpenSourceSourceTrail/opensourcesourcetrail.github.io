@@ -1,9 +1,18 @@
 <map id="MessageGraphNodeBundleSplit" name="MessageGraphNodeBundleSplit">
-<area shape="rect" id="node1" title=" " alt="" coords="58,437,285,463"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="58,348,285,388"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="127,167,239,192"/>
-<area shape="rect" id="node7" href="$classMessage.html" title=" " alt="" coords="149,243,348,269"/>
-<area shape="rect" id="node4" title=" " alt="" coords="146,5,221,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="5,5,65,31"/>
-<area shape="rect" id="node6" title=" " alt="" coords="310,5,361,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,470,284,498"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="58,376,284,421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,436,174,470,168,470,168,436"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="126,183,237,211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,224,148,241,139,261,135,291,139,322,149,351,160,374,156,377,144,353,134,323,129,291,134,259,144,239,156,221"/>
+<area shape="rect" id="Node000007" href="$classMessage.html" title=" " alt="" coords="148,263,346,291"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="205,221,238,261,234,264,201,225"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="145,5,218,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,49,184,183,179,183,179,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,65,33"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="32,49,21,115,15,196,15,399,21,424,37,443,60,457,87,467,85,472,57,461,33,447,16,426,10,400,10,195,16,115,27,48"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="40,48,52,103,65,132,83,157,103,172,127,182,124,187,101,177,79,161,60,135,47,105,35,49"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="308,5,357,33"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="367,42,377,56,393,92,398,123,396,196,396,400,392,413,381,424,345,444,296,460,246,472,245,467,295,455,343,439,378,420,388,410,391,399,391,195,393,124,388,94,373,58,362,45"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="296,40,275,59,263,84,260,108,257,133,244,161,230,174,214,185,211,180,226,170,240,157,252,132,255,108,257,83,271,55,292,36"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="201,301,182,319,172,347,171,376,166,375,167,346,178,317,197,297"/>
 </map>

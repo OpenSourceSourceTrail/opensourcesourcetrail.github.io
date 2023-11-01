@@ -1,9 +1,21 @@
 <map id="TabsController::showTab" name="TabsController::showTab">
-<area shape="rect" id="node1" title=" " alt="" coords="5,120,184,145"/>
-<area shape="rect" id="node2" href="$classTabId.html#adcf8beb1bb2123b49eba230589901edd" title=" " alt="" coords="283,5,371,31"/>
-<area shape="rect" id="node3" href="$classScreenSearchSender.html#a60db474a1672e4b328d3b0e35a972f97" title=" " alt="" coords="250,55,405,95"/>
-<area shape="rect" id="node4" href="$classTask.html#afbf3e5b7febfad5362973e6c605e0c91" title=" " alt="" coords="270,120,385,145"/>
-<area shape="rect" id="node6" href="$classTabId.html#a6ecd6ff10f45233df148b802349d4be6" title=" " alt="" coords="244,169,411,195"/>
-<area shape="rect" id="node7" href="$classViewLayout.html#a209af084338dc6b2dba0b213d3ec61bd" title=" " alt="" coords="232,219,423,259"/>
-<area shape="rect" id="node5" href="$classTaskManager.html#abad32d382134af5d84739dd12a33beaf" title=" " alt="" coords="471,120,672,145"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,184,180"/>
+<area shape="rect" id="Node000002" href="$classTabId.html#adcf8beb1bb2123b49eba230589901edd" title=" " alt="" coords="283,5,371,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,150,156,97,191,68,230,42,267,28,269,33,233,47,195,72,160,101,110,153"/>
+<area shape="rect" id="Node000003" href="$classScreenSearchSender.html#a60db474a1672e4b328d3b0e35a972f97" title=" " alt="" coords="250,57,404,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,149,231,111,248,105,250,110,233,116,134,154"/>
+<area shape="rect" id="Node000004" href="$classTask.html#afbf3e5b7febfad5362973e6c605e0c91" title=" " alt="" coords="270,125,384,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,153,254,145,255,150,184,158"/>
+<area shape="rect" id="Node000006" href="$classTabsController.html#a3e705eec382fa7e3ef66ab5bcb8c33d4" title=" " alt="" coords="239,177,415,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="184,173,224,177,224,183,184,178"/>
+<area shape="rect" id="Node000009" href="$classTabId.html#a6ecd6ff10f45233df148b802349d4be6" title=" " alt="" coords="244,229,410,257"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="133,178,233,214,258,222,256,227,231,219,131,183"/>
+<area shape="rect" id="Node000010" href="$classViewLayout.html#a209af084338dc6b2dba0b213d3ec61bd" title=" " alt="" coords="232,281,422,326"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="113,178,165,221,233,266,244,272,241,276,230,271,161,225,110,182"/>
+<area shape="rect" id="Node000005" href="$classTaskManager.html#abad32d382134af5d84739dd12a33beaf" title=" " alt="" coords="470,125,670,153"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="384,137,454,137,454,142,384,142"/>
+<area shape="rect" id="Node000007" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="497,177,643,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="415,189,481,189,481,194,415,194"/>
+<area shape="rect" id="Node000008" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="718,177,876,205"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="644,189,703,189,703,194,644,194"/>
 </map>

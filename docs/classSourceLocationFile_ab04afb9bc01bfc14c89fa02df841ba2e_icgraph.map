@@ -1,6 +1,23 @@
 <map id="SourceLocationFile::addSourceLocation" name="SourceLocationFile::addSourceLocation">
-<area shape="rect" id="node1" title=" " alt="" coords="524,37,677,77"/>
-<area shape="rect" id="node2" href="$classSourceLocationCollection.html#a0db579453761e2eaaffad1ffe9022468" title=" " alt="" coords="286,5,473,45"/>
-<area shape="rect" id="node3" href="$classCodeController.html#aa965e9caa2a29354045335199b86cd89" title=" " alt="" coords="283,69,476,109"/>
-<area shape="rect" id="node4" href="$classCodeController.html#a45ee1e83fa9d27767e041832532bf15f" title=" " alt="" coords="5,77,235,102"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="536,375,688,419"/>
+<area shape="rect" id="Node000002" href="$classSourceLocationCollection.html#a0db579453761e2eaaffad1ffe9022468" title=" " alt="" coords="299,276,485,321"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,370,443,324,445,319,548,366"/>
+<area shape="rect" id="Node000010" href="$classCodeController.html#aa965e9caa2a29354045335199b86cd89" title=" " alt="" coords="296,409,488,454"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="521,414,489,419,488,414,521,409"/>
+<area shape="rect" id="Node000003" href="$classSourceLocationsGetCreatedWithOtherEnd.html#a59e78ec29007a51209560d31ad9d34cd" title=" " alt="" coords="26,5,227,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,263,357,217,329,163,292,110,270,86,246,64,226,52,229,48,249,60,274,82,296,107,333,161,361,215,381,261"/>
+<area shape="rect" id="Node000004" href="$classSourceLocationsDoNotGetCreatedWithWrongInput.html#ac979ad2753877a20e3f4c841f89917eb" title=" " alt="" coords="5,75,248,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="367,264,317,198,284,163,246,134,224,122,227,118,249,129,287,159,321,194,371,261"/>
+<area shape="rect" id="Node000005" href="$classSourceLocationsGetUniqueIdButBothEndsHaveTheSame.html#a0d395894f759b714b340a08471295a7b" title=" " alt="" coords="21,144,232,205"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="340,270,247,219,220,208,222,203,249,215,343,265"/>
+<area shape="rect" id="Node000006" href="$classSourceLocationsHaveRightFilePathLineColumnAndTokenId.html#a98047ed194ec6342c61f15f47560a759" title=" " alt="" coords="15,229,238,291"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="284,285,238,279,239,273,284,280"/>
+<area shape="rect" id="Node000007" href="$classFindingSourceLocationsById.html#acb54d64650ae495cceee1ed828036773" title=" " alt="" coords="31,315,222,359"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="284,317,223,326,222,320,284,311"/>
+<area shape="rect" id="Node000008" href="$classCreatingPlainCopyOfAllLocationsInLineRange.html#ae66c12876acdb64554c405c7cea36bba" title=" " alt="" coords="9,384,244,429"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="339,331,249,374,215,386,213,381,247,369,336,326"/>
+<area shape="rect" id="Node000009" href="$classGetSourceLocationsFilteredByLines.html#abb230b6082d7c46fd2f794dce5dc3fee" title=" " alt="" coords="27,453,226,498"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="361,334,296,400,249,443,225,455,223,450,246,439,292,397,357,330"/>
+<area shape="rect" id="Node000011" href="$classCodeController.html#a45ee1e83fa9d27767e041832532bf15f" title=" " alt="" coords="12,522,241,550"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="344,465,299,490,249,513,213,524,211,519,247,508,297,485,342,460"/>
 </map>

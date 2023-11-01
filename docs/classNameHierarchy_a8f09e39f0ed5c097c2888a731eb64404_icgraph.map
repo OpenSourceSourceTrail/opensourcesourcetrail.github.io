@@ -1,10 +1,17 @@
 <map id="NameHierarchy::serializeRange" name="NameHierarchy::serializeRange">
-<area shape="rect" id="node1" title=" " alt="" coords="797,87,984,127"/>
-<area shape="rect" id="node2" href="$classParserClientImpl.html#a940c7625a2a6f9638274f9094b03b66e" title=" " alt="" coords="553,55,749,95"/>
-<area shape="rect" id="node6" href="$classNameHierarchy.html#a0b0c0f2ba97e519e9d2d87ba12d342d6" title=" " alt="" coords="558,123,745,148"/>
-<area shape="rect" id="node3" href="$classParserClientImpl.html#ab0373e2bebff5883eb88a4fc9243f1c7" title=" " alt="" coords="283,5,505,31"/>
-<area shape="rect" id="node5" href="$classParserClientImpl.html#aa4915a8b3f6eb71ed3f1e084edee6057" title=" " alt="" coords="305,55,483,95"/>
-<area shape="rect" id="node4" href="$classParserClientImpl.html#a254726d0926a918e12827e210612c76e" title=" " alt="" coords="19,5,221,31"/>
-<area shape="rect" id="node7" href="$classPersistentStorage.html#a81e098b9dd0046082f3c12abd84bed2e" title=" " alt="" coords="289,119,499,159"/>
-<area shape="rect" id="node8" href="$classPersistentStorage.html#a95ac68ed86a85ce2c9bd4057c44b7286" title=" " alt="" coords="5,119,235,159"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="795,92,981,136"/>
+<area shape="rect" id="Node000002" href="$classParserClientImpl.html#a940c7625a2a6f9638274f9094b03b66e" title=" " alt="" coords="552,57,747,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="780,101,748,96,748,91,780,95"/>
+<area shape="rect" id="Node000006" href="$classNameHierarchy.html#a0b0c0f2ba97e519e9d2d87ba12d342d6" title=" " alt="" coords="557,129,742,157"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="780,130,743,134,743,129,780,124"/>
+<area shape="rect" id="Node000003" href="$classParserClientImpl.html#ab0373e2bebff5883eb88a4fc9243f1c7" title=" " alt="" coords="282,5,504,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,55,503,47,456,36,458,31,505,42,539,50"/>
+<area shape="rect" id="Node000005" href="$classParserClientImpl.html#aa4915a8b3f6eb71ed3f1e084edee6057" title=" " alt="" coords="304,57,482,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="536,82,482,82,482,77,536,77"/>
+<area shape="rect" id="Node000004" href="$classParserClientImpl.html#a254726d0926a918e12827e210612c76e" title=" " alt="" coords="19,5,220,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,22,220,22,220,17,266,17"/>
+<area shape="rect" id="Node000007" href="$classPersistentStorage.html#a81e098b9dd0046082f3c12abd84bed2e" title=" " alt="" coords="288,126,498,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="541,148,498,149,498,144,541,143"/>
+<area shape="rect" id="Node000008" href="$classPersistentStorage.html#a95ac68ed86a85ce2c9bd4057c44b7286" title=" " alt="" coords="5,126,234,171"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="272,151,234,151,234,146,272,146"/>
 </map>

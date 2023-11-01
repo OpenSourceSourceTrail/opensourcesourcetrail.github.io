@@ -1,8 +1,13 @@
 <map id="TaskGroup" name="TaskGroup">
-<area shape="rect" id="node1" title=" " alt="" coords="195,93,285,119"/>
-<area shape="rect" id="node4" href="$classTaskGroupParallel.html" title=" " alt="" coords="5,167,144,192"/>
-<area shape="rect" id="node5" href="$classTaskGroupSelector.html" title=" " alt="" coords="169,167,311,192"/>
-<area shape="rect" id="node6" href="$classTaskGroupSequence.html" title=" " alt="" coords="335,167,489,192"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="143,13,193,38"/>
-<area shape="rect" id="node3" title=" " alt="" coords="217,5,407,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,98,283,126"/>
+<area shape="rect" id="Node000004" href="$classTaskGroupParallel.html" title=" " alt="" coords="5,174,144,201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,135,105,176,102,171,194,130"/>
+<area shape="rect" id="Node000005" href="$classTaskGroupSelector.html" title=" " alt="" coords="167,174,310,201"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,141,241,173,236,173,236,141"/>
+<area shape="rect" id="Node000006" href="$classTaskGroupSequence.html" title=" " alt="" coords="334,174,487,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="284,130,381,171,379,176,282,135"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="141,14,192,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,52,229,96,225,99,186,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="216,5,405,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,64,252,99,248,96,279,60"/>
 </map>

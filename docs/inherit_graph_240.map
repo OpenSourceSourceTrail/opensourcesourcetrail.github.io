@@ -1,3 +1,15 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classTextAccess.html" title=" " alt="" coords="5,5,100,31"/>
+<area shape="rect" id="Node000000" href="$classStorage.html" title=" " alt="" coords="28,32,99,60"/>
+<area shape="rect" id="Node000001" href="$classIntermediateStorage.html" title=" " alt="" coords="175,5,331,33"/>
+<area shape="poly" id="edge827_Node000000_Node000001" title=" " alt="" coords="114,36,174,27,175,33,115,41"/>
+<area shape="rect" id="Node000002" href="$classPersistentStorage.html" title=" " alt="" coords="185,57,321,85"/>
+<area shape="poly" id="edge828_Node000000_Node000002" title=" " alt="" coords="115,50,184,59,184,65,114,55"/>
+<area shape="rect" id="Node000003" href="$classStorageAccess.html" title=" " alt="" coords="5,109,122,137"/>
+<area shape="poly" id="edge830_Node000003_Node000002" title=" " alt="" coords="131,102,199,83,200,88,132,107"/>
+<area shape="rect" id="Node000004" href="$classMockedStorageAccess.html" title=" " alt="" coords="170,109,336,137"/>
+<area shape="poly" id="edge829_Node000003_Node000004" title=" " alt="" coords="137,121,169,121,169,126,137,126"/>
+<area shape="rect" id="Node000005" href="$classStorageAccessProxy.html" title=" " alt="" coords="176,161,330,189"/>
+<area shape="poly" id="edge831_Node000003_Node000005" title=" " alt="" coords="132,139,200,158,199,163,131,144"/>
+<area shape="rect" id="Node000006" href="$classStorageCache.html" title=" " alt="" coords="384,161,495,189"/>
+<area shape="poly" id="edge832_Node000005_Node000006" title=" " alt="" coords="345,173,383,173,383,178,345,178"/>
 </map>

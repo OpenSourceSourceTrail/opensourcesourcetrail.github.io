@@ -1,7 +1,7 @@
 var classErrorView =
 [
-    [ "ErrorView", "classErrorView.html#a8c9001f14a8f5396d07c8e0738429b78", null ],
-    [ "~ErrorView", "classErrorView.html#aef627f0f232b0e1d477c846aa6a59454", null ],
+    [ "ErrorView", "classErrorView.html#a78c2b32eb9328557041902c3a2a0651a", null ],
+    [ "~ErrorView", "classErrorView.html#a3c5273108bdf23c0f48ec4667828ce3f", null ],
     [ "addErrors", "classErrorView.html#a619c0210d357c984cebed1f4e713a497", null ],
     [ "addToLayout", "classErrorView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "clear", "classErrorView.html#ad2a77e92428dc04651f6a4a87ea02c0c", null ],
@@ -10,7 +10,7 @@ var classErrorView =
     [ "createWidgetWrapper", "classErrorView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
     [ "getController", "classErrorView.html#aa4d988d307d70568545ad17f89dbe789", null ],
     [ "getErrorFilter", "classErrorView.html#ad8e709a7c2e522fe1a7801179fab21f0", null ],
-    [ "getName", "classErrorView.html#a08de02ff68fa1585d6a7da765cf5b756", null ],
+    [ "getName", "classErrorView.html#aa330319c2d5371429a1b227afa64549f", null ],
     [ "getViewLayout", "classErrorView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classErrorView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "refreshView", "classErrorView.html#a47d8e2f48a7e71a9a481df791826b0e6", null ],

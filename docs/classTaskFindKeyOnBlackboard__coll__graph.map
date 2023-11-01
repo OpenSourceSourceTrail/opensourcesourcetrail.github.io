@@ -1,6 +1,9 @@
 <map id="TaskFindKeyOnBlackboard" name="TaskFindKeyOnBlackboard">
-<area shape="rect" id="node1" title=" " alt="" coords="5,211,197,236"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="20,123,71,148"/>
-<area shape="rect" id="node3" title=" " alt="" coords="20,5,71,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="95,123,153,148"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,225,197,252"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="37,132,88,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,173,98,223,93,225,71,175"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="38,5,87,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,48,65,132,60,132,60,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="112,132,170,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,175,109,225,104,223,127,173"/>
 </map>

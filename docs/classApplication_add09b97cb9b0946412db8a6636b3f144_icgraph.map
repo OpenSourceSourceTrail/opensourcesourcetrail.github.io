@@ -1,52 +1,105 @@
 <map id="Application::getInstance" name="Application::getInstance">
-<area shape="rect" id="node1" title=" " alt="" coords="907,563,1085,588"/>
-<area shape="rect" id="node2" href="$classQtTabsView.html#a478130ed6c03e82b41b44bc6d1448347" title=" " alt="" coords="647,5,799,31"/>
-<area shape="rect" id="node4" href="$classQtMainWindow.html#aa58fe1b13bce5824a67d5084087b9670" title=" " alt="" coords="619,55,827,80"/>
-<area shape="rect" id="node7" href="$classQtCodeFileTitleButton.html#aa72f1be5644800ffac68ddcc0608c847" title=" " alt="" coords="642,154,805,194"/>
-<area shape="rect" id="node8" href="$classQtProjectWizard.html#aa87c664f120c05593fab2032f9b07afe" title=" " alt="" coords="613,219,834,244"/>
-<area shape="rect" id="node10" href="$classTabsController.html#a55c1c58e80c718f7e65420ba941927d0" title=" " alt="" coords="626,268,821,293"/>
-<area shape="rect" id="node11" href="$classQtMainWindow.html#aed085eb9208ab850b1b325cec61bacae" title=" " alt="" coords="624,104,823,129"/>
-<area shape="rect" id="node13" href="$classQtProjectWizardContentPathsHeaderSearch.html#ae7d5e2c9480368581c9ad3c1f3f84fd7" title=" " alt="" coords="595,396,851,451"/>
-<area shape="rect" id="node16" href="$classCodeController.html#aa965e9caa2a29354045335199b86cd89" title=" " alt="" coords="627,526,820,566"/>
-<area shape="rect" id="node17" href="$classCodeController.html#a45ee1e83fa9d27767e041832532bf15f" title=" " alt="" coords="296,504,525,529"/>
-<area shape="rect" id="node18" href="$classTabsController.html#aa4d82e68fffe8fc8f91750301aae341e" title=" " alt="" coords="611,591,836,616"/>
-<area shape="rect" id="node19" href="$classGraphController.html#adcf865b84ce0a6e46ab05f50e3fb0925" title=" " alt="" coords="606,640,841,665"/>
-<area shape="rect" id="node20" href="$classErrorController.html#af0bd69a702500a0cdc8eccaa70a4377b" title=" " alt="" coords="610,689,837,715"/>
-<area shape="rect" id="node21" href="$classQtPreferencesWindow.html#a29f8a0bfa062824baf9c5b2668f4a7ac" title=" " alt="" coords="640,739,807,779"/>
-<area shape="rect" id="node22" href="$classSqliteBookmarkStorage.html#a2f3bed78dd760007681776153c5199da" title=" " alt="" coords="635,803,811,843"/>
-<area shape="rect" id="node25" href="$classUndoRedoController.html#a937249ecddce26560153126eda47ca33" title=" " alt="" coords="647,867,800,907"/>
-<area shape="rect" id="node28" href="$classQtCodeFileTitleBar.html#a5dc00e4ac9570ab615988286764f65e9" title=" " alt="" coords="652,1078,795,1118"/>
-<area shape="rect" id="node35" href="$classBookmarkController.html#a3d96b348f6480e2bf5636ea4c521ab6d" title=" " alt="" coords="647,1338,800,1378"/>
-<area shape="rect" id="node42" href="$classUndoRedoController.html#ac9a73719639ce1a50dad91b47b2a3338" title=" " alt="" coords="644,1594,803,1634"/>
-<area shape="rect" id="node45" href="$classQtCodeFileTitleButton.html#a25b597cbf432fc48bd8180bfb5562158" title=" " alt="" coords="642,931,805,971"/>
-<area shape="rect" id="node50" href="$classQtProjectWizardContentPathsHeaderSearch.html#a9a6847fdf99ce334edca578353009682" title=" " alt="" coords="588,317,859,372"/>
-<area shape="rect" id="node3" href="$classQtTabsView.html#a7e36a90b55d78e1b12decb66f8adc549" title=" " alt="" coords="319,5,502,31"/>
-<area shape="rect" id="node5" href="$classQtMainWindow.html#a664153854c294f6243af5fbb203687e1" title=" " alt="" coords="287,55,534,80"/>
-<area shape="rect" id="node6" href="$classQtMainWindow.html#ab526da2f9eb598fdbee15a62a4323ad0" title=" " alt="" coords="5,55,233,80"/>
-<area shape="rect" id="node9" href="$classQtProjectWizard.html#a439497d35f27306ce0eacc4833eabecf" title=" " alt="" coords="297,219,524,244"/>
-<area shape="rect" id="node12" href="$classQtMainView.html#a160fe0bfc55a31faad96f0ca8ee1fc98" title=" " alt="" coords="305,104,516,129"/>
-<area shape="rect" id="node14" href="$classQtProjectWizardContentPathsHeaderSearch.html#a6d7d2c5f48d72bc3292282c0e043413e" title=" " alt="" coords="281,392,540,447"/>
-<area shape="rect" id="node15" href="$classQtProjectWizardContentPathsHeaderSearch.html#a16d6ec27e776e2547dff55c1d17bf02e" title=" " alt="" coords="12,363,227,403"/>
-<area shape="rect" id="node23" href="$classPersistentStorage.html#abc1fd27ad170e28d1d8c750c4f7b6503" title=" " alt="" coords="338,625,483,665"/>
-<area shape="rect" id="node24" href="$classTaskExecuteCustomCommands.html#af4a74f479f27dcd0117a6f8750eba3ea" title=" " alt="" coords="6,625,233,665"/>
-<area shape="rect" id="node26" href="$classUndoRedoController.html#a3c6cff83649935420a9382744cf441c4" title=" " alt="" coords="334,753,487,793"/>
-<area shape="rect" id="node27" href="$classUndoRedoController.html#a4997d10e786f9f9c30e0bec7f95d7464" title=" " alt="" coords="334,689,487,729"/>
-<area shape="rect" id="node29" href="$classQtCodeFileSingle.html#a5fb50acd63b16160f3ac343d11726839" title=" " alt="" coords="304,1111,517,1136"/>
-<area shape="rect" id="node33" href="$classQtCodeFile.html#a6333893be3c70db4896088a7c21485b7" title=" " alt="" coords="313,1160,508,1185"/>
-<area shape="rect" id="node34" href="$classQtCodeFileTitleBar.html#a989adcb39999180d4934262b81ab5746" title=" " alt="" coords="47,995,191,1035"/>
-<area shape="rect" id="node30" href="$classQtCodeFileSingle.html#a9a79da8d37022afa497a602193893364" title=" " alt="" coords="26,1160,213,1185"/>
-<area shape="rect" id="node31" href="$classQtCodeFileSingle.html#abcb6f719eb9ddb78599b5b068ff3fc65" title=" " alt="" coords="22,1061,217,1087"/>
-<area shape="rect" id="node32" href="$classQtCodeFileSingle.html#a025dfc782328c0e8ea4c66b036c321d3" title=" " alt="" coords="25,1111,214,1136"/>
-<area shape="rect" id="node36" href="$classBookmarkController.html#a5cde50842bde97779cd3598f65f3c805" title=" " alt="" coords="334,1402,487,1442"/>
-<area shape="rect" id="node37" href="$classBookmarkController.html#ab8c12ec3e8db4926f8443c6194085fd0" title=" " alt="" coords="334,1466,487,1506"/>
-<area shape="rect" id="node38" href="$classBookmarkController.html#a5974b8f7946acd36212d7bf389bb5e03" title=" " alt="" coords="312,1530,509,1570"/>
-<area shape="rect" id="node39" href="$classBookmarkController.html#ac59d2801bf8c8d2e86e1bcb597779d35" title=" " alt="" coords="289,1210,532,1250"/>
-<area shape="rect" id="node40" href="$classBookmarkController.html#a067f27e8925e90d89c7037556d719a1d" title=" " alt="" coords="334,1274,487,1314"/>
-<area shape="rect" id="node41" href="$classBookmarkController.html#a62a20b4ec8e3d052d58ce0ef8dc06c51" title=" " alt="" coords="334,1338,487,1378"/>
-<area shape="rect" id="node43" href="$classUndoRedoController.html#a2b27232f8d4366c465f9fbb476640bf6" title=" " alt="" coords="334,1658,487,1698"/>
-<area shape="rect" id="node44" href="$classUndoRedoController.html#a1db0756f178fa717527ddb5ad43bbd60" title=" " alt="" coords="334,1594,487,1634"/>
-<area shape="rect" id="node46" href="$classQtCodeFileList.html#ad7840c4c591af4b7a970ec73c6188e13" title=" " alt="" coords="315,867,506,907"/>
-<area shape="rect" id="node47" href="$classQtCodeFileSingle.html#ab23c987023e00107ec9f182a7f6936fc" title=" " alt="" coords="307,931,515,971"/>
-<area shape="rect" id="node48" href="$classQtCodeFileTitleButton.html#a5fb14fdaeae9b7d6392c25683d67fa9b" title=" " alt="" coords="329,995,492,1035"/>
-<area shape="rect" id="node49" href="$classQtCodeFile.html#af245464e4a46de60b4e6ab13091f8f84" title=" " alt="" coords="313,817,508,843"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="821,721,1000,749"/>
+<area shape="rect" id="Node000002" href="$classQtTabsView.html#a478130ed6c03e82b41b44bc6d1448347" title=" " alt="" coords="563,5,714,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="905,706,894,566,871,367,853,266,831,173,804,98,788,69,772,48,745,30,714,21,715,16,747,25,775,44,793,66,809,96,836,172,858,265,876,366,900,565,910,705"/>
+<area shape="rect" id="Node000004" href="$classQtMainWindow.html#aa58fe1b13bce5824a67d5084087b9670" title=" " alt="" coords="535,57,742,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="904,706,892,575,868,392,850,299,828,214,802,145,787,119,771,100,757,89,741,81,743,76,760,84,775,96,792,116,807,143,833,213,855,298,873,391,898,575,910,705"/>
+<area shape="rect" id="Node000007" href="$classQtCodeFileTitleButton.html#aa72f1be5644800ffac68ddcc0608c847" title=" " alt="" coords="557,161,719,206"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="903,707,887,599,858,452,840,378,820,311,797,256,771,220,747,203,719,192,721,187,750,198,775,216,801,254,825,309,845,377,864,451,892,598,908,706"/>
+<area shape="rect" id="Node000008" href="$classQtProjectWizard.html#aa87c664f120c05593fab2032f9b07afe" title=" " alt="" coords="528,229,748,257"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="908,706,905,619,899,563,888,502,871,439,847,377,814,321,772,272,748,256,750,252,775,268,819,318,852,375,876,437,893,501,904,562,910,619,913,705"/>
+<area shape="rect" id="Node000010" href="$classTabsController.html#a55c1c58e80c718f7e65420ba941927d0" title=" " alt="" coords="542,281,735,309"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="906,706,901,628,893,579,881,525,864,469,841,416,810,366,772,324,754,312,734,304,736,299,757,307,775,320,815,363,846,413,869,468,887,523,898,578,906,628,912,706"/>
+<area shape="rect" id="Node000011" href="$classQtMainWindow.html#aed085eb9208ab850b1b325cec61bacae" title=" " alt="" coords="539,109,737,137"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="904,706,890,584,864,417,846,332,825,255,800,192,786,168,772,150,755,139,737,130,739,126,758,134,775,147,790,165,805,190,830,253,851,330,870,416,896,584,909,705"/>
+<area shape="rect" id="Node000013" href="$classQtProjectWizardContentPathsHeaderSearch.html#ae7d5e2c9480368581c9ad3c1f3f84fd7" title=" " alt="" coords="511,334,766,395"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="902,706,889,646,865,568,848,527,827,487,801,449,772,416,748,398,751,394,775,412,806,446,831,484,853,525,870,567,894,645,907,705"/>
+<area shape="rect" id="Node000016" href="$classCodeController.html#aa965e9caa2a29354045335199b86cd89" title=" " alt="" coords="542,470,734,515"/>
+<area shape="poly" id="edge14_Node000001_Node000016" title=" " alt="" coords="896,708,878,668,851,619,816,570,772,529,734,510,736,505,775,525,820,567,856,616,883,665,901,706"/>
+<area shape="rect" id="Node000017" href="$classCodeController.html#a45ee1e83fa9d27767e041832532bf15f" title=" " alt="" coords="212,449,440,477"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="902,706,890,651,866,582,849,546,828,513,802,484,772,460,722,436,667,422,611,416,555,416,501,422,450,431,370,451,369,446,449,425,500,417,555,411,611,410,668,416,724,431,775,456,806,480,832,510,854,544,871,579,895,649,908,705"/>
+<area shape="rect" id="Node000018" href="$classTabsController.html#aa4d82e68fffe8fc8f91750301aae341e" title=" " alt="" coords="526,539,750,566"/>
+<area shape="poly" id="edge16_Node000001_Node000018" title=" " alt="" coords="891,709,843,644,810,610,772,581,745,569,747,564,775,577,814,606,847,640,895,706"/>
+<area shape="rect" id="Node000019" href="$classGraphController.html#adcf865b84ce0a6e46ab05f50e3fb0925" title=" " alt="" coords="521,591,755,618"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="883,712,834,671,804,651,772,634,738,621,740,616,774,629,807,646,837,667,886,708"/>
+<area shape="rect" id="Node000020" href="$classErrorController.html#aa8c79924b697bea35be7bd4fd698681e" title=" " alt="" coords="525,643,751,670"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="861,717,773,686,723,674,724,668,774,681,863,712"/>
+<area shape="rect" id="Node000021" href="$classErrorController.html#a6b7e59930f3752eeaa4aa54deaaace5a" title=" " alt="" coords="525,695,751,722"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="806,728,751,722,752,717,806,722"/>
+<area shape="rect" id="Node000022" href="$classTabsController.html#a305ebc331934b190adba4e1ae45cc5d8" title=" " alt="" coords="526,747,750,774"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="806,748,751,753,750,747,806,742"/>
+<area shape="rect" id="Node000023" href="$classTabsController.html#a40f2cadcfb55dd663a49a5af66d32d25" title=" " alt="" coords="526,799,750,826"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="862,758,774,788,723,801,722,795,773,783,860,753"/>
+<area shape="rect" id="Node000024" href="$classTabsController.html#ab8edc0046d7f189a0adeb6820e468cd6" title=" " alt="" coords="526,851,750,878"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="886,762,837,802,807,823,774,840,740,853,738,847,772,835,804,819,834,798,883,758"/>
+<area shape="rect" id="Node000025" href="$classQtPreferencesWindow.html#a29f8a0bfa062824baf9c5b2668f4a7ac" title=" " alt="" coords="556,902,721,947"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="895,764,847,828,813,863,775,892,749,905,722,914,720,909,747,900,772,888,810,859,843,825,891,760"/>
+<area shape="rect" id="Node000026" href="$classSqliteBookmarkStorage.html#a2f3bed78dd760007681776153c5199da" title=" " alt="" coords="551,972,726,1016"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="902,765,885,808,858,862,822,915,800,940,775,961,752,975,727,984,725,979,750,970,772,957,796,936,818,912,854,859,880,806,897,763"/>
+<area shape="rect" id="Node000029" href="$classSourceGroupCxxCdb.html#a041effbb1889b259977199d01aaf6e56" title=" " alt="" coords="557,1041,719,1086"/>
+<area shape="poly" id="edge27_Node000001_Node000029" title=" " alt="" coords="907,765,893,821,869,893,851,931,830,967,805,1001,775,1031,749,1047,721,1057,719,1052,747,1042,772,1026,801,998,826,964,846,928,864,891,888,820,902,764"/>
+<area shape="rect" id="Node000030" href="$classSourceGroupCxxCodeblocks.html#a08dd1110619428b71571ea90a5e617d2" title=" " alt="" coords="536,1110,740,1155"/>
+<area shape="poly" id="edge28_Node000001_Node000030" title=" " alt="" coords="910,765,900,834,878,924,861,972,838,1019,810,1062,775,1100,742,1120,739,1115,772,1096,806,1059,834,1016,856,970,873,922,895,833,904,764"/>
+<area shape="rect" id="Node000031" href="$classUndoRedoController.html#a937249ecddce26560153126eda47ca33" title=" " alt="" coords="562,1180,714,1224"/>
+<area shape="poly" id="edge29_Node000001_Node000031" title=" " alt="" coords="912,765,906,845,899,898,887,954,870,1012,846,1069,815,1123,775,1169,747,1188,716,1198,714,1193,745,1183,772,1165,811,1119,842,1067,865,1010,882,953,894,897,901,845,906,765"/>
+<area shape="rect" id="Node000034" href="$classQtCodeFileTitleBar.html#a5dc00e4ac9570ab615988286764f65e9" title=" " alt="" coords="568,1365,709,1410"/>
+<area shape="poly" id="edge32_Node000001_Node000034" title=" " alt="" coords="912,765,909,863,903,930,892,1004,875,1082,851,1161,818,1237,775,1307,740,1342,700,1366,697,1362,737,1338,771,1304,813,1235,846,1159,870,1081,887,1003,898,929,904,863,907,765"/>
+<area shape="rect" id="Node000063" href="$classBookmarkController.html#a3d96b348f6480e2bf5636ea4c521ab6d" title=" " alt="" coords="562,1630,714,1675"/>
+<area shape="poly" id="edge36_Node000001_Node000063" title=" " alt="" coords="910,764,898,873,874,1038,834,1230,808,1328,776,1423,748,1484,716,1543,659,1631,654,1628,712,1540,744,1482,771,1421,803,1327,829,1229,869,1037,893,873,904,764"/>
+<area shape="rect" id="Node000076" href="$classUndoRedoController.html#ac9a73719639ce1a50dad91b47b2a3338" title=" " alt="" coords="560,1804,717,1848"/>
+<area shape="poly" id="edge43_Node000001_Node000076" title=" " alt="" coords="910,765,897,945,871,1216,852,1359,831,1492,805,1605,791,1651,776,1688,754,1724,727,1756,673,1805,669,1801,723,1752,750,1721,771,1686,786,1650,800,1604,825,1491,847,1358,865,1215,892,945,905,764"/>
+<area shape="rect" id="Node000100" href="$classQtCodeFileTitleButton.html#a25b597cbf432fc48bd8180bfb5562158" title=" " alt="" coords="557,1249,719,1294"/>
+<area shape="poly" id="edge46_Node000001_Node000100" title=" " alt="" coords="908,765,891,870,862,1012,844,1083,824,1148,801,1202,775,1238,750,1256,721,1267,719,1262,747,1252,771,1235,796,1199,819,1147,839,1082,857,1010,886,869,903,764"/>
+<area shape="rect" id="Node000105" href="$classQtProjectWizardContentPathsHeaderSearch.html#a9a6847fdf99ce334edca578353009682" title=" " alt="" coords="503,1872,773,1934"/>
+<area shape="poly" id="edge53_Node000001_Node000105" title=" " alt="" coords="910,764,895,994,867,1343,848,1520,826,1676,802,1796,789,1837,775,1862,764,1874,760,1870,771,1859,784,1835,797,1795,821,1676,842,1519,861,1342,890,994,905,764"/>
+<area shape="rect" id="Node000003" href="$classQtTabsView.html#a7e36a90b55d78e1b12decb66f8adc549" title=" " alt="" coords="235,5,417,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,22,417,22,417,17,547,17"/>
+<area shape="rect" id="Node000005" href="$classQtMainWindow.html#a664153854c294f6243af5fbb203687e1" title=" " alt="" coords="203,57,449,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="519,74,449,74,449,69,519,69"/>
+<area shape="rect" id="Node000009" href="$classQtProjectWizard.html#a439497d35f27306ce0eacc4833eabecf" title=" " alt="" coords="213,229,439,257"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="512,246,439,246,439,241,512,241"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="535,109,413,88,414,83,536,104"/>
+<area shape="rect" id="Node000012" href="$classQtMainView.html#a160fe0bfc55a31faad96f0ca8ee1fc98" title=" " alt="" coords="221,109,431,137"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="523,126,431,126,431,121,523,121"/>
+<area shape="rect" id="Node000014" href="$classQtProjectWizardContentPathsHeaderSearch.html#a6d7d2c5f48d72bc3292282c0e043413e" title=" " alt="" coords="197,334,455,395"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="495,367,455,367,455,362,495,362"/>
+<area shape="poly" id="edge15_Node000016_Node000017" title=" " alt="" coords="526,485,440,477,440,471,526,479"/>
+<area shape="rect" id="Node000027" href="$classPersistentStorage.html#abc1fd27ad170e28d1d8c750c4f7b6503" title=" " alt="" coords="254,872,398,916"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="535,974,502,962,478,946,454,931,397,912,399,906,456,926,480,942,504,957,536,969"/>
+<area shape="rect" id="Node000032" href="$classUndoRedoController.html#a3c6cff83649935420a9382744cf441c4" title=" " alt="" coords="250,941,402,986"/>
+<area shape="poly" id="edge30_Node000031_Node000032" title=" " alt="" coords="546,1195,522,1185,501,1169,485,1148,477,1126,476,1083,475,1040,468,1020,453,1000,429,983,401,973,403,968,432,978,457,996,473,1017,481,1039,482,1083,482,1125,490,1145,505,1165,525,1180,548,1190"/>
+<area shape="rect" id="Node000033" href="$classUndoRedoController.html#a4997d10e786f9f9c30e0bec7f95d7464" title=" " alt="" coords="250,1010,402,1055"/>
+<area shape="poly" id="edge31_Node000031_Node000033" title=" " alt="" coords="546,1192,522,1183,501,1169,489,1157,482,1144,476,1118,471,1093,464,1081,453,1069,429,1054,402,1044,404,1039,431,1049,457,1065,469,1078,476,1091,482,1117,487,1142,494,1154,505,1165,525,1178,548,1188"/>
+<area shape="rect" id="Node000035" href="$classQtCodeFileSingle.html#a5fb50acd63b16160f3ac343d11726839" title=" " alt="" coords="220,1339,432,1366"/>
+<area shape="poly" id="edge33_Node000034_Node000035" title=" " alt="" coords="552,1380,432,1367,432,1362,552,1375"/>
+<area shape="rect" id="Node000047" href="$classQtCodeFile.html#a6333893be3c70db4896088a7c21485b7" title=" " alt="" coords="229,1440,423,1468"/>
+<area shape="poly" id="edge34_Node000034_Node000047" title=" " alt="" coords="553,1408,395,1442,394,1437,551,1403"/>
+<area shape="rect" id="Node000051" href="$classQtCodeFileTitleBar.html#a989adcb39999180d4934262b81ab5746" title=" " alt="" coords="5,1300,149,1344"/>
+<area shape="poly" id="edge35_Node000034_Node000051" title=" " alt="" coords="552,1398,476,1402,386,1403,290,1396,196,1380,153,1366,115,1347,117,1342,155,1361,197,1375,291,1391,386,1397,476,1397,552,1393"/>
+<area shape="rect" id="Node000064" href="$classBookmarkController.html#a5cde50842bde97779cd3598f65f3c805" title=" " alt="" coords="250,1492,402,1536"/>
+<area shape="poly" id="edge37_Node000063_Node000064" title=" " alt="" coords="590,1624,526,1586,454,1551,402,1533,403,1528,456,1546,529,1582,592,1620"/>
+<area shape="rect" id="Node000066" href="$classBookmarkController.html#ab8c12ec3e8db4926f8443c6194085fd0" title=" " alt="" coords="250,1561,402,1606"/>
+<area shape="poly" id="edge38_Node000063_Node000066" title=" " alt="" coords="546,1635,402,1603,403,1597,548,1630"/>
+<area shape="rect" id="Node000069" href="$classBookmarkController.html#a5974b8f7946acd36212d7bf389bb5e03" title=" " alt="" coords="228,1630,424,1675"/>
+<area shape="poly" id="edge39_Node000063_Node000069" title=" " alt="" coords="547,1655,425,1655,425,1650,547,1650"/>
+<area shape="rect" id="Node000072" href="$classBookmarkController.html#ac59d2801bf8c8d2e86e1bcb597779d35" title=" " alt="" coords="205,1700,447,1744"/>
+<area shape="poly" id="edge40_Node000063_Node000072" title=" " alt="" coords="547,1675,430,1701,429,1696,546,1670"/>
+<area shape="rect" id="Node000074" href="$classBookmarkController.html#a067f27e8925e90d89c7037556d719a1d" title=" " alt="" coords="250,1769,402,1814"/>
+<area shape="poly" id="edge41_Node000063_Node000074" title=" " alt="" coords="592,1685,529,1723,456,1759,403,1777,402,1772,454,1754,526,1719,590,1681"/>
+<area shape="rect" id="Node000075" href="$classBookmarkController.html#a62a20b4ec8e3d052d58ce0ef8dc06c51" title=" " alt="" coords="250,1838,402,1883"/>
+<area shape="poly" id="edge42_Node000063_Node000075" title=" " alt="" coords="608,1688,529,1767,489,1804,456,1828,404,1849,402,1844,454,1824,485,1800,525,1764,604,1684"/>
+<area shape="rect" id="Node000077" href="$classUndoRedoController.html#a2b27232f8d4366c465f9fbb476640bf6" title=" " alt="" coords="250,1908,402,1952"/>
+<area shape="poly" id="edge44_Node000076_Node000077" title=" " alt="" coords="545,1847,504,1863,481,1880,456,1898,403,1917,402,1912,454,1893,477,1876,502,1858,543,1842"/>
+<area shape="rect" id="Node000078" href="$classUndoRedoController.html#a1db0756f178fa717527ddb5ad43bbd60" title=" " alt="" coords="250,1977,402,2022"/>
+<area shape="poly" id="edge45_Node000076_Node000078" title=" " alt="" coords="546,1841,524,1850,505,1863,493,1875,487,1887,482,1913,476,1940,469,1953,457,1967,431,1983,403,1993,401,1988,429,1978,453,1962,464,1950,471,1938,476,1912,482,1885,489,1871,501,1858,521,1845,544,1836"/>
+<area shape="poly" id="edge49_Node000100_Node000035" title=" " alt="" coords="552,1301,456,1328,402,1341,401,1335,454,1323,550,1296"/>
+<area shape="rect" id="Node000101" href="$classQtCodeFileList.html#ad7840c4c591af4b7a970ec73c6188e13" title=" " alt="" coords="231,1080,421,1124"/>
+<area shape="poly" id="edge47_Node000100_Node000101" title=" " alt="" coords="541,1260,520,1251,501,1239,489,1226,482,1213,476,1187,471,1162,464,1150,453,1139,420,1119,423,1115,457,1134,469,1147,476,1160,482,1186,487,1211,494,1223,505,1234,523,1246,543,1255"/>
+<area shape="rect" id="Node000102" href="$classQtCodeFileSingle.html#ab23c987023e00107ec9f182a7f6936fc" title=" " alt="" coords="222,1149,430,1194"/>
+<area shape="poly" id="edge48_Node000100_Node000102" title=" " alt="" coords="541,1253,502,1239,478,1223,454,1208,423,1197,425,1192,456,1203,480,1219,504,1234,543,1248"/>
+<area shape="rect" id="Node000103" href="$classQtCodeFileTitleButton.html#a5fb14fdaeae9b7d6392c25683d67fa9b" title=" " alt="" coords="245,1218,407,1263"/>
+<area shape="poly" id="edge50_Node000100_Node000103" title=" " alt="" coords="542,1264,407,1251,408,1246,542,1259"/>
+<area shape="rect" id="Node000104" href="$classQtCodeFile.html#af245464e4a46de60b4e6ab13091f8f84" title=" " alt="" coords="229,1287,423,1314"/>
+<area shape="poly" id="edge52_Node000100_Node000104" title=" " alt="" coords="542,1283,424,1294,423,1289,541,1278"/>
+<area shape="poly" id="edge51_Node000103_Node000051" title=" " alt="" coords="230,1267,198,1278,134,1301,132,1296,196,1273,229,1262"/>
 </map>

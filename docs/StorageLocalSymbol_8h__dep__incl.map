@@ -1,34 +1,79 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/storage/type/StorageLocalSymbol.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/storage/type/StorageLocalSymbol.h">
-<area shape="rect" id="node1" title=" " alt="" coords="1309,5,1513,75"/>
-<area shape="rect" id="node2" href="$SharedStorageTypes_8h.html" title=" " alt="" coords="725,123,928,207"/>
-<area shape="rect" id="node6" href="$Storage_8h.html" title=" " alt="" coords="1309,130,1512,199"/>
-<area shape="rect" id="node27" href="$SqliteIndexStorage_8h.html" title=" " alt="" coords="2371,130,2573,199"/>
-<area shape="rect" id="node3" href="$SharedIntermediateStorage_8h.html" title=" " alt="" coords="290,255,507,339"/>
-<area shape="rect" id="node4" href="$InterprocessIntermediateStorageManager_8cpp.html" title=" " alt="" coords="261,387,536,471"/>
-<area shape="rect" id="node5" href="$SharedIntermediateStorage_8cpp.html" title=" " alt="" coords="5,387,237,471"/>
-<area shape="rect" id="node7" href="$TaskInjectStorage_8cpp.html" title=" " alt="" coords="1332,526,1599,581"/>
-<area shape="rect" id="node8" href="$IntermediateStorage_8h.html" title=" " alt="" coords="900,262,1103,331"/>
-<area shape="rect" id="node19" href="$PersistentStorage_8h.html" title=" " alt="" coords="1893,262,2096,331"/>
-<area shape="rect" id="node26" href="$Storage_8cpp.html" title=" " alt="" coords="1240,262,1443,331"/>
-<area shape="rect" id="node9" href="$IndexerComposite_8cpp.html" title=" " alt="" coords="1240,394,1443,463"/>
-<area shape="rect" id="node10" href="$ParserClientImpl_8h.html" title=" " alt="" coords="560,394,763,463"/>
-<area shape="rect" id="node14" href="$IntermediateStorage_8cpp.html" title=" " alt="" coords="787,394,989,463"/>
-<area shape="rect" id="node15" href="$StorageProvider_8h.html" title=" " alt="" coords="1013,394,1216,463"/>
-<area shape="rect" id="node11" href="$Indexer_8h.html" title=" " alt="" coords="121,519,324,588"/>
-<area shape="rect" id="node12" href="$TaskBuildIndex_8cpp.html" title=" " alt="" coords="575,519,777,588"/>
-<area shape="rect" id="node13" href="$ParserClientImpl_8cpp.html" title=" " alt="" coords="348,519,551,588"/>
-<area shape="rect" id="node16" href="$TaskMergeStorages_8cpp.html" title=" " alt="" coords="802,526,1081,581"/>
-<area shape="rect" id="node17" href="$StorageProvider_8cpp.html" title=" " alt="" coords="1105,519,1308,588"/>
-<area shape="rect" id="node18" href="$Project_8cpp.html" title=" " alt="" coords="1623,526,1836,581"/>
-<area shape="rect" id="node20" href="$TaskCleanStorage_8cpp.html" title=" " alt="" coords="1569,401,1837,456"/>
-<area shape="rect" id="node21" href="$TaskFinishParsing_8cpp.html" title=" " alt="" coords="1861,401,2128,456"/>
-<area shape="rect" id="node22" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="2152,394,2411,463"/>
-<area shape="rect" id="node23" href="$TaskParseWrapper_8cpp.html" title=" " alt="" coords="2435,394,2637,463"/>
-<area shape="rect" id="node24" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="2661,394,2864,463"/>
-<area shape="rect" id="node25" href="$RefreshInfoGenerator_8cpp.html" title=" " alt="" coords="2888,394,3104,463"/>
-<area shape="rect" id="node28" href="$SqliteIndexStorage_8cpp.html" title=" " alt="" coords="2120,262,2336,331"/>
-<area shape="rect" id="node29" href="$SourceGroupCustomCommand_8cpp.html" title=" " alt="" coords="2360,262,2584,331"/>
-<area shape="rect" id="node30" href="$QtProjectWizardContentCustomCommand_8cpp.html" title=" " alt="" coords="2608,255,2893,339"/>
-<area shape="rect" id="node31" href="$QtProjectWizardContentSelect_8cpp.html" title=" " alt="" coords="2917,255,3203,339"/>
-<area shape="rect" id="node32" href="$QtAbout_8cpp.html" title=" " alt="" coords="3227,262,3429,331"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/storage/type/StorageLocalSymbol.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/storage/type/StorageLocalSymbol.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1810,5,2093,84"/>
+<area shape="rect" id="Node000002" href="$SharedStorageTypes_8h.html" title=" " alt="" coords="986,132,1330,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1795,73,1331,146,1330,140,1794,68"/>
+<area shape="rect" id="Node000006" href="$Storage_8h.html" title=" " alt="" coords="1807,141,2096,202"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1954,100,1954,140,1949,140,1949,100"/>
+<area shape="rect" id="Node000031" href="$SqliteIndexStorage_8h.html" title=" " alt="" coords="3120,132,3402,211"/>
+<area shape="poly" id="edge35_Node000001_Node000031" title=" " alt="" coords="2108,58,3119,154,3119,159,2107,63"/>
+<area shape="rect" id="Node000003" href="$SharedIntermediateStorage_8h.html" title=" " alt="" coords="356,259,685,354"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="971,214,686,273,685,268,970,209"/>
+<area shape="rect" id="Node000004" href="$InterprocessIntermediateStorageManager_8cpp.html" title=" " alt="" coords="359,402,682,498"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,370,523,402,518,402,518,370"/>
+<area shape="rect" id="Node000005" href="$SharedIntermediateStorage_8cpp.html" title=" " alt="" coords="5,402,335,498"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="390,363,288,404,286,399,388,358"/>
+<area shape="rect" id="Node000007" href="$TaskInjectStorage_8cpp.html" title=" " alt="" coords="1931,555,2246,616"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1990,213,2018,257,2048,339,2069,422,2082,497,2089,554,2083,554,2076,498,2063,423,2043,340,2013,260,1985,216"/>
+<area shape="rect" id="Node000008" href="$IntermediateStorage_8h.html" title=" " alt="" coords="1166,267,1449,346"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1793,208,1450,279,1449,273,1792,203"/>
+<area shape="rect" id="Node000023" href="$PersistentStorage_8h.html" title=" " alt="" coords="2486,267,2769,346"/>
+<area shape="poly" id="edge26_Node000006_Node000023" title=" " alt="" coords="2111,201,2486,275,2485,280,2110,207"/>
+<area shape="rect" id="Node000030" href="$Storage_8cpp.html" title=" " alt="" coords="1721,267,2003,346"/>
+<area shape="poly" id="edge34_Node000006_Node000030" title=" " alt="" coords="1925,217,1890,268,1886,265,1920,214"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="1151,330,934,361,695,405,683,407,682,402,693,400,933,356,1151,324"/>
+<area shape="rect" id="Node000009" href="$IndexerComposite_8cpp.html" title=" " alt="" coords="1626,411,1909,490"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1448,348,1642,408,1641,413,1447,353"/>
+<area shape="rect" id="Node000010" href="$ParserClientImpl_8h.html" title=" " alt="" coords="706,411,989,490"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="1168,353,974,413,972,408,1166,348"/>
+<area shape="rect" id="Node000018" href="$IntermediateStorage_8cpp.html" title=" " alt="" coords="1013,411,1295,490"/>
+<area shape="poly" id="edge18_Node000008_Node000018" title=" " alt="" coords="1256,358,1198,412,1194,408,1253,355"/>
+<area shape="rect" id="Node000019" href="$StorageProvider_8h.html" title=" " alt="" coords="1320,411,1602,490"/>
+<area shape="poly" id="edge19_Node000008_Node000019" title=" " alt="" coords="1362,355,1421,408,1417,412,1358,358"/>
+<area shape="rect" id="Node000011" href="$Indexer_8h.html" title=" " alt="" coords="348,555,635,616"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="730,498,573,557,571,552,729,493"/>
+<area shape="rect" id="Node000015" href="$TaskBuildIndex_8cpp.html" title=" " alt="" coords="966,546,1249,625"/>
+<area shape="poly" id="edge15_Node000010_Node000015" title=" " alt="" coords="938,495,1033,543,1030,548,935,499"/>
+<area shape="rect" id="Node000016" href="$ParserClientImpl_8cpp.html" title=" " alt="" coords="41,546,323,625"/>
+<area shape="poly" id="edge16_Node000010_Node000016" title=" " alt="" coords="712,497,695,501,594,518,515,526,436,533,336,549,324,551,323,546,335,543,436,528,515,521,594,513,693,495,711,491"/>
+<area shape="rect" id="Node000017" href="$utilitySourceGroupCxx_8cpp.html" title=" " alt="" coords="660,546,942,625"/>
+<area shape="poly" id="edge17_Node000010_Node000017" title=" " alt="" coords="831,505,817,547,812,545,826,503"/>
+<area shape="rect" id="Node000012" href="$IndexerCxx_8h.html" title=" " alt="" coords="350,673,633,751"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="494,632,494,672,489,672,489,632"/>
+<area shape="rect" id="Node000013" href="$LanguagePackageCxx_8cpp.html" title=" " alt="" coords="153,808,494,870"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="428,763,365,810,362,805,425,759"/>
+<area shape="rect" id="Node000014" href="$IndexerCxx_8cpp.html" title=" " alt="" coords="518,799,801,878"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="557,759,609,797,606,801,554,763"/>
+<area shape="poly" id="edge20_Node000019_Node000007" title=" " alt="" coords="1597,491,1615,495,1700,512,1767,521,1834,529,1920,543,1959,551,1958,557,1919,549,1833,535,1766,527,1699,517,1613,501,1596,496"/>
+<area shape="poly" id="edge22_Node000019_Node000015" title=" " alt="" coords="1345,498,1211,548,1209,543,1343,493"/>
+<area shape="poly" id="edge25_Node000019_Node000017" title=" " alt="" coords="1326,496,1308,501,1209,518,1131,526,1053,533,954,549,943,551,942,546,954,543,1053,528,1131,521,1208,513,1307,495,1324,491"/>
+<area shape="rect" id="Node000020" href="$TaskMergeStorages_8cpp.html" title=" " alt="" coords="1580,555,1907,616"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1557,494,1681,552,1678,556,1555,499"/>
+<area shape="rect" id="Node000021" href="$StorageProvider_8cpp.html" title=" " alt="" coords="1273,546,1555,625"/>
+<area shape="poly" id="edge23_Node000019_Node000021" title=" " alt="" coords="1445,505,1430,547,1425,545,1440,503"/>
+<area shape="rect" id="Node000022" href="$Project_8cpp.html" title=" " alt="" coords="2270,555,2553,616"/>
+<area shape="poly" id="edge24_Node000019_Node000022" title=" " alt="" coords="1594,491,1614,495,1711,511,1794,519,1936,522,2078,524,2161,530,2258,543,2300,551,2299,557,2258,549,2160,536,2077,529,1935,527,1794,524,1711,516,1614,501,1593,496"/>
+<area shape="poly" id="edge32_Node000023_Node000022" title=" " alt="" coords="2471,318,2366,328,2261,345,2214,357,2173,370,2141,386,2119,404,2104,427,2100,450,2105,472,2118,496,2179,518,2297,551,2296,556,2178,523,2115,500,2100,474,2094,450,2099,425,2115,401,2138,381,2171,365,2212,351,2260,340,2365,323,2470,313"/>
+<area shape="rect" id="Node000024" href="$TaskCleanStorage_8cpp.html" title=" " alt="" coords="2129,419,2446,481"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="2521,355,2361,421,2359,416,2519,350"/>
+<area shape="rect" id="Node000025" href="$TaskFinishParsing_8cpp.html" title=" " alt="" coords="2470,419,2785,481"/>
+<area shape="poly" id="edge28_Node000023_Node000025" title=" " alt="" coords="2630,361,2630,419,2625,419,2625,361"/>
+<area shape="rect" id="Node000026" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="2809,411,3091,490"/>
+<area shape="poly" id="edge29_Node000023_Node000026" title=" " alt="" coords="2730,350,2863,408,2861,413,2728,355"/>
+<area shape="rect" id="Node000027" href="$TaskParseWrapper_8cpp.html" title=" " alt="" coords="3116,411,3398,490"/>
+<area shape="poly" id="edge30_Node000023_Node000027" title=" " alt="" coords="2764,348,2781,352,2871,368,2942,376,3014,383,3104,400,3136,408,3135,413,3103,405,3013,389,2942,381,2870,373,2780,357,2763,353"/>
+<area shape="rect" id="Node000028" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="3422,411,3705,490"/>
+<area shape="poly" id="edge31_Node000023_Node000028" title=" " alt="" coords="2761,347,2781,352,2876,366,2957,374,3095,376,3234,378,3315,385,3410,400,3446,408,3445,413,3410,405,3315,390,3234,383,3095,381,2956,379,2875,372,2780,357,2760,353"/>
+<area shape="rect" id="Node000029" href="$RefreshInfoGenerator_8cpp.html" title=" " alt="" coords="3729,419,4086,481"/>
+<area shape="poly" id="edge33_Node000023_Node000029" title=" " alt="" coords="2760,347,2781,352,2922,372,3042,381,3148,382,3248,380,3348,377,3454,377,3575,383,3717,400,3800,416,3799,421,3716,405,3575,389,3454,382,3348,382,3248,385,3148,388,3042,386,2922,377,2780,357,2759,353"/>
+<area shape="poly" id="edge36_Node000031_Node000023" title=" " alt="" coords="3105,199,2948,226,2781,261,2751,269,2749,264,2780,256,2947,221,3104,193"/>
+<area shape="rect" id="Node000032" href="$SqliteIndexStorage_8cpp.html" title=" " alt="" coords="2793,267,3075,346"/>
+<area shape="poly" id="edge37_Node000031_Node000032" title=" " alt="" coords="3153,219,3030,269,3028,264,3151,214"/>
+<area shape="rect" id="Node000033" href="$SourceGroupCustomCommand_8cpp.html" title=" " alt="" coords="3100,267,3422,346"/>
+<area shape="poly" id="edge38_Node000031_Node000033" title=" " alt="" coords="3263,226,3263,267,3258,267,3258,226"/>
+<area shape="rect" id="Node000034" href="$QtProjectWizardContentCustomCommand_8cpp.html" title=" " alt="" coords="3447,267,3875,346"/>
+<area shape="poly" id="edge39_Node000031_Node000034" title=" " alt="" coords="3392,213,3545,264,3543,269,3390,218"/>
+<area shape="rect" id="Node000035" href="$QtProjectWizardContentSelect_8cpp.html" title=" " alt="" coords="3898,267,4250,346"/>
+<area shape="poly" id="edge40_Node000031_Node000035" title=" " alt="" coords="3418,187,3641,215,3888,256,3926,264,3925,269,3887,261,3640,221,3417,192"/>
+<area shape="rect" id="Node000036" href="$QtAbout_8cpp.html" title=" " alt="" coords="4274,267,4557,346"/>
+<area shape="poly" id="edge41_Node000031_Node000036" title=" " alt="" coords="3418,173,3592,181,3804,196,4034,220,4263,256,4297,264,4296,269,4261,261,4033,225,3803,201,3592,186,3418,179"/>
 </map>

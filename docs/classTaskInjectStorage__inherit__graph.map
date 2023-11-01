@@ -1,7 +1,12 @@
 <map id="TaskInjectStorage" name="TaskInjectStorage">
-<area shape="rect" id="node1" title=" " alt="" coords="7,272,145,297"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="5,190,56,215"/>
-<area shape="rect" id="node3" href="$classMessageListener.html" title=" " alt="" coords="80,183,285,223"/>
-<area shape="rect" id="node4" href="$classMessageListenerBase.html" title=" " alt="" coords="46,5,210,31"/>
-<area shape="rect" id="node5" href="$classMessageListener.html" title=" " alt="" coords="149,80,355,120"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,286,142,314"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="32,201,83,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,243,74,285,68,286,60,244"/>
+<area shape="rect" id="Node000003" href="$classMessageListener.html" title=" " alt="" coords="107,192,312,237"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,247,96,288,94,283,160,243"/>
+<area shape="rect" id="Node000004" href="$classMessageListenerBase.html" title=" " alt="" coords="97,5,261,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,48,191,127,206,191,201,192,186,127,177,49"/>
+<area shape="rect" id="Node000005" href="$classMessageListener.html" title=" " alt="" coords="201,82,405,127"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="212,40,272,80,269,84,209,44"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="276,141,230,193,226,190,272,137"/>
 </map>

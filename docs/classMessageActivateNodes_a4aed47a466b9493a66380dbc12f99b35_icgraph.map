@@ -1,10 +1,17 @@
 <map id="MessageActivateNodes::addNode" name="MessageActivateNodes::addNode">
-<area shape="rect" id="node1" title=" " alt="" coords="739,122,913,162"/>
-<area shape="rect" id="node2" href="$classBookmarkController.html#a66b7f20dd251f5d5d55339f481f459d7" title=" " alt="" coords="523,26,676,66"/>
-<area shape="rect" id="node6" href="$classActivationController.html#a8c3a9d09485986f66c2bcc0c9b6ed60a" title=" " alt="" coords="523,90,675,130"/>
-<area shape="rect" id="node7" href="$classMessageActivateNodes.html#a3a6c27638dd9ac85d9d9d7355458739e" title=" " alt="" coords="508,154,691,194"/>
-<area shape="rect" id="node8" href="$classQtGraphNodeQualifier.html#ad43934a6ba9a2ac22f5411ecf184009c" title=" " alt="" coords="516,218,683,258"/>
-<area shape="rect" id="node3" href="$classQtBookmark.html#ad4a5325c8352315e53d3649ffafcd373" title=" " alt="" coords="248,5,460,31"/>
-<area shape="rect" id="node5" href="$classBookmarkController.html#ae511373a6a9ed696b1a08e9311cef063" title=" " alt="" coords="277,55,431,95"/>
-<area shape="rect" id="node4" href="$classQtBookmark.html#a0a22068d0939f521f22675268a72cd6a" title=" " alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="736,130,911,175"/>
+<area shape="rect" id="Node000002" href="$classBookmarkController.html#a66b7f20dd251f5d5d55339f481f459d7" title=" " alt="" coords="521,26,673,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="767,125,687,86,660,74,662,69,689,81,769,120"/>
+<area shape="rect" id="Node000006" href="$classActivationController.html#a8c3a9d09485986f66c2bcc0c9b6ed60a" title=" " alt="" coords="522,96,673,140"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="720,139,673,132,674,127,721,134"/>
+<area shape="rect" id="Node000007" href="$classMessageActivateNodes.html#a3a6c27638dd9ac85d9d9d7355458739e" title=" " alt="" coords="506,165,688,210"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="721,171,689,176,688,171,720,166"/>
+<area shape="rect" id="Node000008" href="$classQtGraphNodeQualifier.html#ad43934a6ba9a2ac22f5411ecf184009c" title=" " alt="" coords="515,234,680,279"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="769,185,689,224,662,236,660,231,687,219,767,180"/>
+<area shape="rect" id="Node000003" href="$classQtBookmark.html#ad4a5325c8352315e53d3649ffafcd373" title=" " alt="" coords="247,5,458,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,40,458,34,459,29,506,35"/>
+<area shape="rect" id="Node000005" href="$classBookmarkController.html#ae511373a6a9ed696b1a08e9311cef063" title=" " alt="" coords="276,57,429,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="506,63,429,72,429,67,505,57"/>
+<area shape="rect" id="Node000004" href="$classQtBookmark.html#a0a22068d0939f521f22675268a72cd6a" title=" " alt="" coords="5,5,199,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,22,199,22,199,17,231,17"/>
 </map>

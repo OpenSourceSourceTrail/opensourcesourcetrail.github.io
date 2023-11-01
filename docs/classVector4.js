@@ -1,7 +1,7 @@
 var classVector4 =
 [
     [ "Vector4", "classVector4.html#afdef97d94e5697622b5322637028accf", null ],
-    [ "Vector4", "classVector4.html#af1bf9a88ab6b3bb244669d466384c637", null ],
+    [ "Vector4", "classVector4.html#a81031977f4daf9e6d05e92a83e88030d", null ],
     [ "Vector4", "classVector4.html#a94bf7501c1cb50d1da228ef351dbce0a", null ],
     [ "Vector4", "classVector4.html#a7e3c14a3c9e5731a698a8e83826ed9af", null ],
     [ "~Vector4", "classVector4.html#abf31fa9a31451c3d646cdf7a81a4daec", null ],

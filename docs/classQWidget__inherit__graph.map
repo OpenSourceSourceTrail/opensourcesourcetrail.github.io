@@ -1,51 +1,99 @@
 <map id="QWidget" name="QWidget">
-<area shape="rect" id="node1" title=" " alt="" coords="5,411,84,436"/>
-<area shape="rect" id="node2" href="$classQtCodeNavigator.html" title=" " alt="" coords="154,115,289,140"/>
-<area shape="rect" id="node3" href="$classQtCustomTrailView.html" title=" " alt="" coords="148,164,295,189"/>
-<area shape="rect" id="node4" href="$classQtErrorView.html" title=" " alt="" coords="171,213,271,239"/>
-<area shape="rect" id="node5" href="$classQtHistoryItem.html" title=" " alt="" coords="164,263,279,288"/>
-<area shape="rect" id="node6" href="$classQtHistoryList.html" title=" " alt="" coords="168,312,275,337"/>
-<area shape="rect" id="node7" href="$classQtLineNumberArea.html" title=" " alt="" coords="148,361,295,387"/>
-<area shape="rect" id="node8" href="$classQtListBoxItem.html" title=" " alt="" coords="164,411,279,436"/>
-<area shape="rect" id="node11" href="$classQtLocationPicker.html" title=" " alt="" coords="156,460,287,485"/>
-<area shape="rect" id="node12" href="$classQtProgressBar.html" title=" " alt="" coords="164,509,279,535"/>
-<area shape="rect" id="node13" href="$classQtProjectWizardContent.html" title=" " alt="" coords="132,559,311,584"/>
-<area shape="rect" id="node42" href="$classQtStatusView.html" title=" " alt="" coords="166,608,277,633"/>
-<area shape="rect" id="node43" href="$classQtViewToggle.html" title=" " alt="" coords="166,657,277,683"/>
-<area shape="rect" id="node44" href="$classQtWindowStackElement.html" title=" " alt="" coords="132,903,311,928"/>
-<area shape="rect" id="node9" href="$classQtPathListBoxItem.html" title=" " alt="" coords="414,5,558,31"/>
-<area shape="rect" id="node10" href="$classQtStringListBoxItem.html" title=" " alt="" coords="409,55,563,80"/>
-<area shape="rect" id="node14" href="$classQtProjectWizardContentCStandard.html" title=" " alt="" coords="363,104,609,129"/>
-<area shape="rect" id="node15" href="$classQtProjectWizardContentCppStandard.html" title=" " alt="" coords="385,154,587,194"/>
-<area shape="rect" id="node16" href="$classQtProjectWizardContentCrossCompilationOptions.html" title=" " alt="" coords="379,218,593,258"/>
-<area shape="rect" id="node17" href="$classQtProjectWizardContentCustomCommand.html" title=" " alt="" coords="372,282,600,322"/>
-<area shape="rect" id="node18" href="$classQtProjectWizardContentCxxPchFlags.html" title=" " alt="" coords="385,346,587,386"/>
-<area shape="rect" id="node19" href="$classQtProjectWizardContentExtensions.html" title=" " alt="" coords="361,411,611,436"/>
-<area shape="rect" id="node20" href="$classQtProjectWizardContentFlags.html" title=" " alt="" coords="379,460,593,485"/>
-<area shape="rect" id="node21" href="$classQtProjectWizardContentGroup.html" title=" " alt="" coords="377,509,595,535"/>
-<area shape="rect" id="node22" href="$classQtProjectWizardContentPath.html" title=" " alt="" coords="383,559,589,584"/>
-<area shape="rect" id="node26" href="$classQtProjectWizardContentPaths.html" title=" " alt="" coords="379,608,593,633"/>
-<area shape="rect" id="node34" href="$classQtProjectWizardContentPreferences.html" title=" " alt="" coords="359,657,613,683"/>
-<area shape="rect" id="node35" href="$classQtProjectWizardContentProjectData.html" title=" " alt="" coords="359,707,613,732"/>
-<area shape="rect" id="node36" href="$classQtProjectWizardContentRequiredLabel.html" title=" " alt="" coords="368,757,604,797"/>
-<area shape="rect" id="node37" href="$classQtProjectWizardContentSelect.html" title=" " alt="" coords="377,821,595,847"/>
-<area shape="rect" id="node38" href="$classQtProjectWizardContentSourceGroupData.html" title=" " alt="" coords="375,871,597,911"/>
-<area shape="rect" id="node39" href="$classQtProjectWizardContentSourceGroupInfoText.html" title=" " alt="" coords="375,935,597,975"/>
-<area shape="rect" id="node40" href="$classQtProjectWizardContentUnloadable.html" title=" " alt="" coords="360,1000,612,1025"/>
-<area shape="rect" id="node41" href="$classQtProjectWizardContentVS.html" title=" " alt="" coords="389,1049,583,1075"/>
-<area shape="rect" id="node23" href="$classQtProjectWizardContentPathCDB.html" title=" " alt="" coords="661,327,896,352"/>
-<area shape="rect" id="node24" href="$classQtProjectWizardContentPathCodeblocksProject.html" title=" " alt="" coords="675,377,882,417"/>
-<area shape="rect" id="node25" href="$classQtProjectWizardContentPathCxxPch.html" title=" " alt="" coords="675,441,882,481"/>
-<area shape="rect" id="node27" href="$classQtProjectWizardContentPathsExclude.html" title=" " alt="" coords="671,505,886,545"/>
-<area shape="rect" id="node28" href="$classQtProjectWizardContentPathsFrameworkSearch.html" title=" " alt="" coords="671,569,886,609"/>
-<area shape="rect" id="node29" href="$classQtProjectWizardContentPathsFrameworkSearchGlobal.html" title=" " alt="" coords="671,633,886,673"/>
-<area shape="rect" id="node30" href="$classQtProjectWizardContentPathsHeaderSearch.html" title=" " alt="" coords="671,697,886,737"/>
-<area shape="rect" id="node31" href="$classQtProjectWizardContentPathsHeaderSearchGlobal.html" title=" " alt="" coords="671,761,886,801"/>
-<area shape="rect" id="node32" href="$classQtProjectWizardContentPathsIndexedHeaders.html" title=" " alt="" coords="671,825,886,865"/>
-<area shape="rect" id="node33" href="$classQtProjectWizardContentPathsSource.html" title=" " alt="" coords="671,889,886,929"/>
-<area shape="rect" id="node45" href="$classQtWindowBase.html" title=" " alt="" coords="425,1099,547,1124"/>
-<area shape="rect" id="node46" href="$classQtIndexingDialog.html" title=" " alt="" coords="711,1073,846,1099"/>
-<area shape="rect" id="node49" href="$classQtWindow.html" title=" " alt="" coords="734,1123,823,1148"/>
-<area shape="rect" id="node47" href="$classQtIndexingReportDialog.html" title=" " alt="" coords="944,1048,1123,1073"/>
-<area shape="rect" id="node48" href="$classQtIndexingStartDialog.html" title=" " alt="" coords="950,1097,1117,1123"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,437,83,465"/>
+<area shape="rect" id="Node000002" href="$classQtCodeNavigator.html" title=" " alt="" coords="153,125,287,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,422,47,367,60,298,71,262,85,227,105,193,129,164,151,149,154,153,132,168,109,196,90,229,76,264,65,300,52,368,48,422"/>
+<area shape="rect" id="Node000003" href="$classQtCustomTrailView.html" title=" " alt="" coords="147,177,293,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="45,421,52,376,67,321,91,265,108,239,129,216,147,203,150,208,132,220,113,242,96,267,72,323,58,377,50,422"/>
+<area shape="rect" id="Node000004" href="$classQtErrorView.html" title=" " alt="" coords="170,229,270,257"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="49,422,58,387,74,345,98,304,129,268,148,256,169,248,171,253,150,260,132,272,102,307,79,348,64,388,54,423"/>
+<area shape="rect" id="Node000005" href="$classQtHistoryItem.html" title=" " alt="" coords="163,281,277,309"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="55,422,83,370,104,343,129,320,162,303,164,308,132,324,108,346,88,373,59,424"/>
+<area shape="rect" id="Node000006" href="$classQtHistoryList.html" title=" " alt="" coords="167,333,273,361"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="66,424,94,397,129,372,165,356,167,361,132,376,98,401,69,428"/>
+<area shape="rect" id="Node000007" href="$classQtLineNumberArea.html" title=" " alt="" coords="147,385,293,413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="97,433,170,411,171,416,98,438"/>
+<area shape="rect" id="Node000008" href="$classQtListBoxItem.html" title=" " alt="" coords="163,437,277,465"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="98,449,162,449,162,454,98,454"/>
+<area shape="rect" id="Node000011" href="$classQtLocationPicker.html" title=" " alt="" coords="155,489,285,517"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="98,464,171,486,170,491,97,469"/>
+<area shape="rect" id="Node000012" href="$classQtProgressBar.html" title=" " alt="" coords="163,541,277,569"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="69,475,98,502,132,526,163,540,161,545,129,531,94,506,66,478"/>
+<area shape="rect" id="Node000013" href="$classQtProjectWizardContent.html" title=" " alt="" coords="131,593,309,621"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="59,478,88,530,108,556,132,578,154,590,151,595,129,583,104,560,83,533,55,481"/>
+<area shape="rect" id="Node000042" href="$classQtStatusView.html" title=" " alt="" coords="165,645,275,673"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="54,479,64,514,79,555,102,596,132,630,148,641,166,648,164,653,145,646,129,635,98,599,74,557,58,516,49,481"/>
+<area shape="rect" id="Node000043" href="$classQtViewToggle.html" title=" " alt="" coords="165,697,275,725"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="50,480,58,525,72,580,96,635,113,660,132,683,148,693,165,701,163,706,145,698,129,686,108,663,91,638,67,581,52,526,45,481"/>
+<area shape="rect" id="Node000044" href="$classQtWindowStackElement.html" title=" " alt="" coords="131,956,309,984"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="56,479,88,592,133,736,179,863,215,955,210,957,174,865,128,737,83,594,51,481"/>
+<area shape="rect" id="Node000009" href="$classQtPathListBoxItem.html" title=" " alt="" coords="413,5,556,33"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="289,436,307,423,324,399,335,375,342,352,344,328,339,281,328,234,318,187,314,139,317,115,324,92,336,68,355,44,381,26,411,17,413,22,383,31,359,48,341,71,329,94,322,117,319,139,323,186,334,233,345,280,349,328,347,353,340,377,329,402,311,426,293,441"/>
+<area shape="rect" id="Node000010" href="$classQtStringListBoxItem.html" title=" " alt="" coords="408,57,560,85"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="289,436,307,423,322,402,332,382,340,341,337,301,329,260,320,219,318,178,328,137,339,116,355,96,379,79,407,70,408,75,381,84,359,100,343,119,333,139,323,179,326,219,334,259,342,300,345,342,337,384,326,405,311,426,293,441"/>
+<area shape="rect" id="Node000014" href="$classQtProjectWizardContentCStandard.html" title=" " alt="" coords="362,109,606,137"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="304,582,307,579,326,551,339,524,345,497,348,470,341,417,328,363,314,309,309,255,312,228,320,201,334,174,355,147,368,135,372,139,359,150,339,177,325,203,317,229,314,255,320,308,333,362,347,416,353,470,351,498,344,526,331,554,311,582,308,585"/>
+<area shape="rect" id="Node000015" href="$classQtProjectWizardContentCppStandard.html" title=" " alt="" coords="383,161,585,206"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="304,582,307,579,323,556,334,533,341,511,343,489,340,444,330,399,320,354,317,309,319,286,326,263,338,239,355,216,381,196,384,201,359,220,342,242,331,265,325,287,322,309,325,353,335,398,345,443,349,489,346,512,339,535,328,559,311,582,308,585"/>
+<area shape="rect" id="Node000016" href="$classQtProjectWizardContentCrossCompilationOptions.html" title=" " alt="" coords="378,230,591,275"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="304,582,307,579,330,542,338,506,336,470,330,434,323,397,322,360,331,323,355,285,375,269,379,273,359,289,336,325,327,361,329,397,335,433,342,470,343,507,335,544,311,582,308,585"/>
+<area shape="rect" id="Node000017" href="$classQtProjectWizardContentCustomCommand.html" title=" " alt="" coords="371,300,598,344"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="304,582,307,579,326,551,333,524,333,496,330,468,327,440,327,412,335,383,355,355,369,343,373,347,359,358,340,385,332,413,332,440,335,468,339,496,338,525,330,554,311,582,307,586"/>
+<area shape="rect" id="Node000018" href="$classQtProjectWizardContentCxxPchFlags.html" title=" " alt="" coords="383,369,585,414"/>
+<area shape="poly" id="edge17_Node000013_Node000018" title=" " alt="" coords="303,582,307,579,321,560,328,541,330,503,332,463,340,443,355,424,381,406,384,410,359,428,345,446,337,465,335,503,333,543,326,563,311,582,306,586"/>
+<area shape="rect" id="Node000019" href="$classQtProjectWizardContentExtensions.html" title=" " alt="" coords="360,437,608,465"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="301,583,307,579,318,566,324,554,330,528,336,502,343,488,355,476,376,463,378,468,359,480,347,491,341,503,335,529,330,556,323,569,311,582,305,587"/>
+<area shape="rect" id="Node000020" href="$classQtProjectWizardContentFlags.html" title=" " alt="" coords="378,489,590,517"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="296,584,307,578,322,566,331,553,340,540,356,528,384,515,386,520,358,532,344,544,335,556,326,570,311,583,299,589"/>
+<area shape="rect" id="Node000021" href="$classQtProjectWizardContentGroup.html" title=" " alt="" coords="376,541,592,569"/>
+<area shape="poly" id="edge20_Node000013_Node000021" title=" " alt="" coords="308,587,409,567,410,572,309,592"/>
+<area shape="rect" id="Node000022" href="$classQtProjectWizardContentPath.html" title=" " alt="" coords="381,593,587,621"/>
+<area shape="poly" id="edge21_Node000013_Node000022" title=" " alt="" coords="324,605,381,605,381,610,324,610"/>
+<area shape="rect" id="Node000026" href="$classQtProjectWizardContentPaths.html" title=" " alt="" coords="378,645,591,673"/>
+<area shape="poly" id="edge25_Node000013_Node000026" title=" " alt="" coords="309,622,410,642,409,647,308,627"/>
+<area shape="rect" id="Node000034" href="$classQtProjectWizardContentPreferences.html" title=" " alt="" coords="357,697,611,725"/>
+<area shape="poly" id="edge33_Node000013_Node000034" title=" " alt="" coords="299,625,311,632,326,645,335,658,344,671,358,682,386,694,384,699,356,687,340,674,331,661,322,648,307,636,296,630"/>
+<area shape="rect" id="Node000035" href="$classQtProjectWizardContentProjectData.html" title=" " alt="" coords="358,749,611,777"/>
+<area shape="poly" id="edge34_Node000013_Node000035" title=" " alt="" coords="305,627,311,632,323,645,330,659,335,685,341,711,347,723,359,734,378,746,376,751,355,739,343,726,336,713,330,686,324,660,318,648,307,636,301,631"/>
+<area shape="rect" id="Node000036" href="$classQtProjectWizardContentRequiredLabel.html" title=" " alt="" coords="367,801,602,846"/>
+<area shape="poly" id="edge35_Node000013_Node000036" title=" " alt="" coords="306,628,311,632,326,652,333,672,335,711,337,750,345,768,359,787,374,798,371,803,355,790,340,771,332,751,330,712,328,673,321,654,307,636,303,632"/>
+<area shape="rect" id="Node000037" href="$classQtProjectWizardContentSelect.html" title=" " alt="" coords="376,869,593,897"/>
+<area shape="poly" id="edge36_Node000013_Node000037" title=" " alt="" coords="307,628,311,632,330,661,338,690,338,719,334,747,331,775,331,803,339,830,359,856,377,869,374,873,355,860,335,832,326,804,325,775,329,747,333,719,333,691,325,663,307,636,304,632"/>
+<area shape="rect" id="Node000038" href="$classQtProjectWizardContentSourceGroupData.html" title=" " alt="" coords="374,921,595,966"/>
+<area shape="poly" id="edge37_Node000013_Node000038" title=" " alt="" coords="308,629,311,632,334,667,342,703,341,738,335,772,330,806,329,840,337,873,359,907,375,920,371,924,355,910,332,875,323,840,324,805,330,771,336,737,337,703,329,670,307,635,304,633"/>
+<area shape="rect" id="Node000039" href="$classQtProjectWizardContentSourceGroupInfoText.html" title=" " alt="" coords="374,990,595,1035"/>
+<area shape="poly" id="edge38_Node000013_Node000039" title=" " alt="" coords="308,629,311,632,327,654,338,677,347,721,344,764,335,807,326,849,323,891,332,934,343,955,359,976,375,990,372,994,355,980,339,958,327,935,318,892,321,849,330,806,339,763,342,721,333,678,323,657,307,636,304,633"/>
+<area shape="rect" id="Node000040" href="$classQtProjectWizardContentUnloadable.html" title=" " alt="" coords="359,1059,610,1086"/>
+<area shape="poly" id="edge39_Node000013_Node000040" title=" " alt="" coords="308,629,311,632,330,659,342,686,349,713,352,739,346,792,333,843,321,894,316,945,319,970,326,995,339,1020,359,1045,372,1056,368,1060,355,1049,335,1023,321,997,314,971,311,945,315,894,328,842,341,791,346,739,344,713,337,688,325,662,307,636,304,633"/>
+<area shape="rect" id="Node000041" href="$classQtProjectWizardContentVS.html" title=" " alt="" coords="387,1111,581,1138"/>
+<area shape="poly" id="edge40_Node000013_Node000041" title=" " alt="" coords="308,629,311,632,332,662,346,692,353,722,355,752,348,811,333,869,318,926,312,983,315,1011,323,1039,337,1068,359,1096,372,1107,388,1115,385,1120,369,1112,355,1100,333,1070,318,1041,310,1012,307,983,313,925,328,867,343,810,350,752,348,723,341,694,327,665,307,635,304,633"/>
+<area shape="rect" id="Node000023" href="$classQtProjectWizardContentPathCDB.html" title=" " alt="" coords="659,343,894,370"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="599,587,609,579,627,555,635,531,635,507,633,482,630,456,631,430,639,405,657,380,672,369,676,373,661,384,644,407,636,431,635,456,638,481,641,506,640,532,632,558,613,582,603,591"/>
+<area shape="rect" id="Node000024" href="$classQtProjectWizardContentPathCodeblocksProject.html" title=" " alt="" coords="673,394,880,439"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="599,586,610,579,623,564,630,549,633,516,637,483,644,466,657,449,673,437,677,442,661,453,649,468,642,484,639,517,635,550,627,567,613,582,602,590"/>
+<area shape="rect" id="Node000025" href="$classQtProjectWizardContentPathCxxPch.html" title=" " alt="" coords="673,464,880,508"/>
+<area shape="poly" id="edge24_Node000022_Node000025" title=" " alt="" coords="598,585,610,578,625,565,633,550,642,534,658,518,679,506,682,511,661,523,646,537,638,552,629,568,613,583,601,589"/>
+<area shape="rect" id="Node000027" href="$classQtProjectWizardContentPathsExclude.html" title=" " alt="" coords="670,533,883,578"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="594,637,610,630,624,620,634,610,643,599,658,588,683,576,686,581,661,592,647,603,638,613,628,624,613,635,596,642"/>
+<area shape="rect" id="Node000028" href="$classQtProjectWizardContentPathsFrameworkSearch.html" title=" " alt="" coords="670,602,883,647"/>
+<area shape="poly" id="edge27_Node000026_Node000028" title=" " alt="" coords="606,642,669,634,670,640,607,647"/>
+<area shape="rect" id="Node000029" href="$classQtProjectWizardContentPathsFrameworkSearchGlobal.html" title=" " alt="" coords="670,672,883,716"/>
+<area shape="poly" id="edge28_Node000026_Node000029" title=" " alt="" coords="607,671,670,679,669,684,606,676"/>
+<area shape="rect" id="Node000030" href="$classQtProjectWizardContentPathsHeaderSearch.html" title=" " alt="" coords="670,741,883,786"/>
+<area shape="poly" id="edge29_Node000026_Node000030" title=" " alt="" coords="596,676,613,684,628,694,638,705,647,716,661,726,686,738,683,743,658,731,643,720,634,709,624,698,610,688,594,681"/>
+<area shape="rect" id="Node000031" href="$classQtProjectWizardContentPathsHeaderSearchGlobal.html" title=" " alt="" coords="670,810,883,855"/>
+<area shape="poly" id="edge30_Node000026_Node000031" title=" " alt="" coords="606,678,613,684,626,697,633,712,639,741,643,769,650,783,661,796,677,807,674,812,658,800,645,786,638,771,633,742,628,714,622,701,610,688,603,683"/>
+<area shape="rect" id="Node000032" href="$classQtProjectWizardContentPathsIndexedHeaders.html" title=" " alt="" coords="670,880,883,924"/>
+<area shape="poly" id="edge31_Node000026_Node000032" title=" " alt="" coords="605,677,613,684,631,706,639,729,640,753,639,776,638,821,645,843,661,865,676,877,672,881,657,869,641,846,633,822,634,775,635,753,634,731,626,709,609,688,602,681"/>
+<area shape="rect" id="Node000033" href="$classQtProjectWizardContentPathsSource.html" title=" " alt="" coords="670,949,883,994"/>
+<area shape="poly" id="edge32_Node000026_Node000033" title=" " alt="" coords="605,677,613,684,635,715,644,747,644,779,639,810,634,842,634,873,641,904,661,935,675,946,671,950,657,938,636,906,628,873,629,841,634,810,639,778,639,748,631,718,609,688,602,681"/>
+<area shape="rect" id="Node000045" href="$classQtWindowBase.html" title=" " alt="" coords="424,1163,544,1190"/>
+<area shape="poly" id="edge44_Node000044_Node000045" title=" " alt="" coords="237,997,256,1032,283,1073,317,1114,358,1148,390,1162,424,1170,423,1175,389,1167,356,1152,314,1118,279,1076,251,1035,232,999"/>
+<area shape="rect" id="Node000046" href="$classQtIndexingDialog.html" title=" " alt="" coords="709,1136,844,1164"/>
+<area shape="poly" id="edge45_Node000045_Node000046" title=" " alt="" coords="560,1167,709,1153,709,1159,560,1172"/>
+<area shape="rect" id="Node000053" href="$classQtWindow.html" title=" " alt="" coords="732,1188,821,1216"/>
+<area shape="poly" id="edge48_Node000045_Node000053" title=" " alt="" coords="560,1180,732,1195,732,1201,560,1186"/>
+<area shape="rect" id="Node000047" href="$classQtIndexingReportDialog.html" title=" " alt="" coords="942,1109,1119,1137"/>
+<area shape="poly" id="edge46_Node000046_Node000047" title=" " alt="" coords="859,1139,941,1130,942,1135,859,1144"/>
+<area shape="rect" id="Node000048" href="$classQtIndexingStartDialog.html" title=" " alt="" coords="948,1161,1113,1189"/>
+<area shape="poly" id="edge47_Node000046_Node000048" title=" " alt="" coords="859,1155,948,1164,947,1170,858,1161"/>
 </map>

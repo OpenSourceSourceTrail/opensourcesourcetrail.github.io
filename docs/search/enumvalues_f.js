@@ -19,7 +19,7 @@ var searchData=
   ['refresh_5fupdated_5fand_5fincomplete_5ffiles_16',['REFRESH_UPDATED_AND_INCOMPLETE_FILES',['../RefreshInfo_8h.html#a637fdb8cb4e3b3e277c8da853b0d27c2a5b08d9cf579627b272854aba104bf1fd',1,'RefreshInfo.h']]],
   ['refresh_5fupdated_5ffiles_17',['REFRESH_UPDATED_FILES',['../RefreshInfo_8h.html#a637fdb8cb4e3b3e277c8da853b0d27c2a9ddf1754db4330d8e0af0acad36a6139',1,'RefreshInfo.h']]],
   ['refreshing_18',['REFRESHING',['../classProject.html#a06c4c0078a3d6881e79435a17ecc8942a90eb120650a80f029c2bd36a6d67e704',1,'Project']]],
-  ['right_19',['RIGHT',['../classGraphFocusHandler.html#ada1832feede7c7aec1117af783c6acb5a21507b40c80068eda19865706fdc2403',1,'GraphFocusHandler::RIGHT()'],['../classCodeFocusHandler.html#ab6ba5e53d305e65647e135a20b6e99afa21507b40c80068eda19865706fdc2403',1,'CodeFocusHandler::RIGHT()']]],
+  ['right_19',['right',['../classGraphFocusHandler.html#ada1832feede7c7aec1117af783c6acb5a21507b40c80068eda19865706fdc2403',1,'GraphFocusHandler::RIGHT'],['../classCodeFocusHandler.html#ab6ba5e53d305e65647e135a20b6e99afa21507b40c80068eda19865706fdc2403',1,'CodeFocusHandler::RIGHT']]],
   ['route_5fany_20',['ROUTE_ANY',['../classQtLineItemBase.html#ab5eca33270986c812a2c83e1e83ce092a097314fdd11083fee73d85c0849f37ff',1,'QtLineItemBase']]],
   ['route_5fhorizontal_21',['ROUTE_HORIZONTAL',['../classQtLineItemBase.html#ab5eca33270986c812a2c83e1e83ce092a331192a2cf64d33ed4e8240402019a82',1,'QtLineItemBase']]],
   ['route_5fvertical_22',['ROUTE_VERTICAL',['../classQtLineItemBase.html#ab5eca33270986c812a2c83e1e83ce092a6a8c4eea63544c5c85434b30ceedb756',1,'QtLineItemBase']]]

@@ -1,6 +1,9 @@
 <map id="TaskRunner" name="TaskRunner">
-<area shape="rect" id="node1" title=" " alt="" coords="157,93,255,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,156,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="181,5,231,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="255,5,450,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,98,252,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,155,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,41,148,72,184,95,181,100,145,76,105,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="179,5,229,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,48,207,98,201,98,201,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,5,446,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,44,268,76,228,100,225,95,265,72,316,39"/>
 </map>

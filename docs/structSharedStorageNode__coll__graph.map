@@ -1,6 +1,9 @@
 <map id="SharedStorageNode" name="SharedStorageNode">
-<area shape="rect" id="node1" title=" " alt="" coords="387,55,537,80"/>
-<area shape="rect" id="node2" title=" " alt="" coords="89,5,149,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="99,55,138,80"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,105,232,174"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="385,57,535,85"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="88,5,148,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,20,255,30,361,46,401,54,400,59,360,51,254,36,163,26"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,57,137,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,69,384,69,384,74,153,74"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,109,231,188"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,117,360,91,395,83,396,88,361,96,246,122"/>
 </map>

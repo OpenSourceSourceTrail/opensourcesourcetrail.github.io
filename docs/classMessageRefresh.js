@@ -1,12 +1,12 @@
 var classMessageRefresh =
 [
     [ "MessageRefresh", "classMessageRefresh.html#a6993b9a07c8cc206852b4a8c2570b38c", null ],
-    [ "dispatch", "classMessageRefresh.html#aa60564025ee950bf52c8deb6ac1bb843", null ],
+    [ "dispatch", "classMessageRefresh.html#a4556438d5bb073d6f19ea777fe3faf10", null ],
     [ "dispatchImmediately", "classMessageRefresh.html#a7b949d8bcecd096615e1604421256dd2", null ],
     [ "getId", "classMessageRefresh.html#a8b22dcbfc6bd7df5d1cfd25838366f19", null ],
     [ "getSchedulerId", "classMessageRefresh.html#afd36f69f78a741be829f6a8555806eb6", null ],
     [ "getStaticType", "classMessageRefresh.html#a6945d82e8ebd8d6c5fbcbb883ccde519", null ],
-    [ "getType", "classMessageRefresh.html#a1aa14336889e4e9ded2985a2e2948511", null ],
+    [ "getType", "classMessageRefresh.html#a08a3ad4dd55ffb94c5eb45c196dab427", null ],
     [ "isLast", "classMessageRefresh.html#a5e77c0e43ba275a546bc544103c61d42", null ],
     [ "isLogged", "classMessageRefresh.html#a2e2d14c3d84fec68fba3a466562066f6", null ],
     [ "isParallel", "classMessageRefresh.html#a0dab5c6a372ef7246d07754128117df7", null ],

@@ -1,13 +1,31 @@
 <map id="ConfigManager::setValue" name="ConfigManager::setValue">
-<area shape="rect" id="node1" title=" " alt="" coords="627,269,813,294"/>
-<area shape="rect" id="node2" href="$classSourceGroupSettings.html#abcc7b9b2ac65d061c76b6d831deafd6b" title=" " alt="" coords="372,5,531,45"/>
-<area shape="rect" id="node4" href="$classSourceGroupSettingsWithCppStandard.html#ae31025a62465fe5cf4afa8e2f5587c0e" title=" " alt="" coords="345,69,558,109"/>
-<area shape="rect" id="node5" href="$classSourceGroupSettingsWithCStandard.html#a65af199ddd240cd99078b8b347107366" title=" " alt="" coords="324,133,579,173"/>
-<area shape="rect" id="node6" href="$classSourceGroupSettingsWithCxxCdbPath.html#a746d7cbf8e3493ab8ed252803d1a973f" title=" " alt="" coords="345,197,558,237"/>
-<area shape="rect" id="node7" href="$classSourceGroupSettingsWithCxxCodeblocksPath.html#a802ebd7513037746692751745f8d9dac" title=" " alt="" coords="345,261,558,301"/>
-<area shape="rect" id="node8" href="$classSourceGroupSettingsWithCxxCrossCompilationOptions.html#a40128ed555663491bc65cd5b6dcd9713" title=" " alt="" coords="338,325,565,365"/>
-<area shape="rect" id="node9" href="$classSourceGroupSettingsWithCxxPchOptions.html#aa14c4e812cd40fcae4a4fd4c397592d9" title=" " alt="" coords="345,389,558,429"/>
-<area shape="rect" id="node10" href="$classSourceGroupSettingsWithCustomCommand.html#a38f5557c2d1a9da4ec1764c3d9970f19" title=" " alt="" coords="332,453,571,493"/>
-<area shape="rect" id="node11" href="$classConfigManager.html#a05efa578f85e3a03ef26e08b3c38d665" title=" " alt="" coords="358,518,545,543"/>
-<area shape="rect" id="node3" href="$classSourceGroupSettingsWithComponents.html#aec543f38744bbfc2d45384c98b6f18c8" title=" " alt="" coords="5,5,276,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="625,430,810,458"/>
+<area shape="rect" id="Node000002" href="$classSourceGroupSettings.html#abcc7b9b2ac65d061c76b6d831deafd6b" title=" " alt="" coords="371,5,529,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="712,414,703,343,680,249,663,198,640,149,611,104,575,64,553,49,528,39,530,34,556,45,579,60,615,101,644,147,668,196,685,247,708,342,717,414"/>
+<area shape="rect" id="Node000004" href="$classSourceGroupSettingsWithCppStandard.html#ae31025a62465fe5cf4afa8e2f5587c0e" title=" " alt="" coords="344,75,556,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="709,415,696,356,671,280,653,240,632,201,606,165,575,134,555,120,558,116,579,130,610,162,636,198,658,237,676,278,701,354,714,414"/>
+<area shape="rect" id="Node000005" href="$classSourceGroupSettingsWithCStandard.html#a65af199ddd240cd99078b8b347107366" title=" " alt="" coords="323,144,577,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="705,416,688,369,661,312,624,253,601,226,575,203,557,192,560,187,579,199,605,223,628,250,666,309,693,367,710,414"/>
+<area shape="rect" id="Node000006" href="$classSourceGroupSettingsWithCxxCdbPath.html#a746d7cbf8e3493ab8ed252803d1a973f" title=" " alt="" coords="344,213,556,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="700,418,679,384,651,345,616,306,576,273,554,261,556,256,578,268,620,302,655,342,683,381,704,415"/>
+<area shape="rect" id="Node000007" href="$classSourceGroupSettingsWithCxxCodeblocksPath.html#a802ebd7513037746692751745f8d9dac" title=" " alt="" coords="344,283,556,327"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="688,421,638,381,576,342,548,330,550,325,578,337,641,376,692,417"/>
+<area shape="rect" id="Node000008" href="$classSourceGroupSettingsWithCxxCrossCompilationOptions.html#a40128ed555663491bc65cd5b6dcd9713" title=" " alt="" coords="337,352,563,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="646,428,538,400,540,395,647,423"/>
+<area shape="rect" id="Node000009" href="$classSourceGroupSettingsWithCxxPchOptions.html#aa14c4e812cd40fcae4a4fd4c397592d9" title=" " alt="" coords="344,421,556,466"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="609,446,557,446,557,441,609,441"/>
+<area shape="rect" id="Node000010" href="$classSourceGroupSettingsWithCustomCommand.html#a38f5557c2d1a9da4ec1764c3d9970f19" title=" " alt="" coords="331,491,569,535"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="647,464,540,493,538,487,646,459"/>
+<area shape="rect" id="Node000011" href="$classConfigManager.html#ab558bd7c9dbb54b5243c6af77a90b205" title=" " alt="" coords="357,559,543,587"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="692,470,642,512,611,533,578,550,544,562,542,557,576,545,608,528,639,508,689,466"/>
+<area shape="rect" id="Node000012" href="$classConfigManager.html#ae6baaf010c2bf4d814f8f5016bea8633" title=" " alt="" coords="357,611,543,639"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="702,472,653,537,618,572,578,601,544,615,542,610,576,596,614,568,649,534,698,469"/>
+<area shape="rect" id="Node000013" href="$classConfigManager.html#a548e194bc85a92a3b0aae5654d84834a" title=" " alt="" coords="357,663,543,691"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="708,473,689,514,661,563,624,612,578,653,544,669,541,664,576,648,620,608,657,560,684,512,703,471"/>
+<area shape="rect" id="Node000014" href="$classConfigManager.html#a4b6da8682f88eb193449c0762e5a3802" title=" " alt="" coords="357,715,543,743"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="712,473,696,524,670,587,631,651,607,680,578,705,544,722,541,717,576,700,603,676,627,648,665,584,691,522,707,471"/>
+<area shape="rect" id="Node000015" href="$classConfigManager.html#a05efa578f85e3a03ef26e08b3c38d665" title=" " alt="" coords="357,767,543,795"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="715,473,702,533,677,610,659,650,637,689,611,725,579,756,544,775,542,770,575,752,607,722,633,687,655,648,672,608,697,532,710,472"/>
+<area shape="rect" id="Node000003" href="$classSourceGroupSettingsWithComponents.html#aec543f38744bbfc2d45384c98b6f18c8" title=" " alt="" coords="5,5,275,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,30,275,30,275,25,355,25"/>
 </map>

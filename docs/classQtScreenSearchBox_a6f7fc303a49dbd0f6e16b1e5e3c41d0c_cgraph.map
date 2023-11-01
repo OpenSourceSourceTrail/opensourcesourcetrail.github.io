@@ -1,11 +1,24 @@
 <map id="QtScreenSearchBox::addResponder" name="QtScreenSearchBox::addResponder">
-<area shape="rect" id="node1" title=" " alt="" coords="5,75,164,115"/>
-<area shape="rect" id="node2" href="$classQtScreenSearchBox.html#a7a58d3670edad457024cc25c963faabe" title=" " alt="" coords="212,75,371,115"/>
-<area shape="rect" id="node3" href="$classControllerProxy.html#a2c3812dac1134864c6fb4982323d6891" title=" " alt="" coords="419,43,601,83"/>
-<area shape="rect" id="node8" href="$classScreenSearchController.html#a968660dbbbf708da6b223ad3e02f8acf" title=" " alt="" coords="423,107,597,147"/>
-<area shape="rect" id="node4" href="$classTask.html#afbf3e5b7febfad5362973e6c605e0c91" title=" " alt="" coords="679,5,794,31"/>
-<area shape="rect" id="node6" href="$classView.html#aa4d988d307d70568545ad17f89dbe789" title=" " alt="" coords="663,55,810,80"/>
-<area shape="rect" id="node5" href="$classTaskManager.html#abad32d382134af5d84739dd12a33beaf" title=" " alt="" coords="872,5,1073,31"/>
-<area shape="rect" id="node7" href="$classComponent.html#a7312b206ac33721ebb1f1fdd364ed1f4" title=" " alt="" coords="877,55,1068,80"/>
-<area shape="rect" id="node9" href="$classScreenSearchController.html#a19c4240dd4fd96d766e06aff0a3c6aec" title=" " alt="" coords="649,107,824,147"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,163,126"/>
+<area shape="rect" id="Node000002" href="$classQtScreenSearchBox.html#a7a58d3670edad457024cc25c963faabe" title=" " alt="" coords="211,81,368,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,101,195,101,195,106,163,106"/>
+<area shape="rect" id="Node000003" href="$classControllerProxy.html#a2c3812dac1134864c6fb4982323d6891" title=" " alt="" coords="416,46,597,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,88,400,83,401,88,369,93"/>
+<area shape="rect" id="Node000008" href="$classScreenSearchController.html#a968660dbbbf708da6b223ad3e02f8acf" title=" " alt="" coords="420,116,593,160"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="369,113,405,119,404,124,368,118"/>
+<area shape="rect" id="Node000004" href="$classTask.html#afbf3e5b7febfad5362973e6c605e0c91" title=" " alt="" coords="675,5,789,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="597,46,660,32,661,37,599,51"/>
+<area shape="rect" id="Node000006" href="$classView.html#aa4d988d307d70568545ad17f89dbe789" title=" " alt="" coords="659,57,805,85"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="598,67,643,67,643,73,598,72"/>
+<area shape="rect" id="Node000005" href="$classTaskManager.html#abad32d382134af5d84739dd12a33beaf" title=" " alt="" coords="867,5,1067,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="789,17,851,17,851,22,789,22"/>
+<area shape="rect" id="Node000007" href="$classComponent.html#a7312b206ac33721ebb1f1fdd364ed1f4" title=" " alt="" coords="872,57,1062,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="806,69,856,69,856,74,806,74"/>
+<area shape="rect" id="Node000009" href="$classScreenSearchController.html#a19c4240dd4fd96d766e06aff0a3c6aec" title=" " alt="" coords="645,113,819,158"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="593,134,630,134,630,139,593,139"/>
+<area shape="rect" id="Node000010" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="894,151,1040,178"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="593,158,646,167,767,173,878,169,878,175,767,179,645,172,592,163"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="819,143,878,151,878,156,819,149"/>
+<area shape="rect" id="Node000011" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="1115,151,1272,178"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1040,162,1100,162,1100,167,1040,167"/>
 </map>

@@ -7,7 +7,7 @@ var classCodeView =
       [ "FILE_MAXIMIZED", "classCodeView.html#ac69558a495249ecc0aab4bd2ee0da1e4add6c2453935a8be693a1338cea367210", null ]
     ] ],
     [ "CodeView", "classCodeView.html#af028f75a17e3300c4e8c6fbe015928ed", null ],
-    [ "~CodeView", "classCodeView.html#ac984a179bba5e66b4f0fe938c377c495", null ],
+    [ "~CodeView", "classCodeView.html#ad2c844dd6366e2dce2d21a4d2bcce705", null ],
     [ "activateMatch", "classCodeView.html#a318d079aa91a2b48054bacd738eb9546", null ],
     [ "addToLayout", "classCodeView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "clear", "classCodeView.html#abd49d20a4e65e2fe16fe98e2524fa84a", null ],
@@ -20,7 +20,7 @@ var classCodeView =
     [ "deCoFocusTokenIds", "classCodeView.html#a132c207079560303052b4626c512400c", null ],
     [ "findMatches", "classCodeView.html#a89c0475180169dd361cf3d96df430d4c", null ],
     [ "getController", "classCodeView.html#a3d09a2e54966a09cc80dc053f6711514", null ],
-    [ "getName", "classCodeView.html#adeb72f9c4d068b6b5dd7b5b37933961d", null ],
+    [ "getName", "classCodeView.html#ad83e3cc921af30a68c4fad111fd2ace6", null ],
     [ "getViewLayout", "classCodeView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classCodeView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "hasNavigationFocus", "classCodeView.html#a5032cb78a4acc2cd7a9802b75a9f98c7", null ],

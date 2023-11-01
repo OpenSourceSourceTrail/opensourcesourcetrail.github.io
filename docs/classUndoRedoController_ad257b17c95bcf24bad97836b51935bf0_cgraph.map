@@ -1,12 +1,21 @@
 <map id="UndoRedoController::handleMessage" name="UndoRedoController::handleMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,105,159,145"/>
-<area shape="rect" id="node2" href="$classMessage.html#aa60564025ee950bf52c8deb6ac1bb843" title=" " alt="" coords="243,5,386,31"/>
-<area shape="rect" id="node5" href="$classStorageAccess.html#adf8acdccfc8d345095b7c72f7b76c72a" title=" " alt="" coords="207,55,422,80"/>
-<area shape="rect" id="node6" href="$classUndoRedoController.html#ada0ded0b740a45d7d43b856ae7018a85" title=" " alt="" coords="238,105,391,145"/>
-<area shape="rect" id="node9" href="$classUndoRedoController.html#a8e8e82424d148183a23e207baf00bcf7" title=" " alt="" coords="238,193,391,233"/>
-<area shape="rect" id="node10" href="$classMessageBase.html#a78b74840a194c335f7ce17712e97e136" title=" " alt="" coords="207,257,423,283"/>
-<area shape="rect" id="node3" href="$classMessageQueue.html#ae42d768ad6ffd631d627fe101e38f711" title=" " alt="" coords="471,5,677,31"/>
-<area shape="rect" id="node4" href="$classMessageQueue.html#a006069f4b83d2372c989c52784fac5de" title=" " alt="" coords="725,5,956,31"/>
-<area shape="rect" id="node7" href="$classController.html#aaa516c0e13ed5cf871261e85c9a4401f" title=" " alt="" coords="499,112,649,137"/>
-<area shape="rect" id="node8" href="$classComponent.html#a219acf46d03b0ccc6d5f91b9c7685493" title=" " alt="" coords="761,112,921,137"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,158,132"/>
+<area shape="rect" id="Node000002" href="$classStorageAccess.html#adf8acdccfc8d345095b7c72f7b76c72a" title=" " alt="" coords="206,5,420,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,85,159,62,205,42,225,35,227,40,207,47,162,67,121,89"/>
+<area shape="rect" id="Node000003" href="$classUndoRedoController.html#ada0ded0b740a45d7d43b856ae7018a85" title=" " alt="" coords="237,57,389,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,97,221,89,221,94,158,102"/>
+<area shape="rect" id="Node000006" href="$classUndoRedoController.html#a85a08a669686e3529bd335710ece6ec1" title=" " alt="" coords="468,158,620,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,119,453,164,452,169,158,124"/>
+<area shape="rect" id="Node000009" href="$classUndoRedoController.html#a8e8e82424d148183a23e207baf00bcf7" title=" " alt="" coords="237,201,389,246"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="130,130,253,191,251,196,128,135"/>
+<area shape="rect" id="Node000004" href="$classController.html#aaa516c0e13ed5cf871261e85c9a4401f" title=" " alt="" coords="470,65,618,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="389,77,455,77,455,82,389,82"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#a219acf46d03b0ccc6d5f91b9c7685493" title=" " alt="" coords="668,65,828,93"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="619,77,652,77,652,82,619,82"/>
+<area shape="rect" id="Node000007" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="675,167,821,194"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="621,178,660,178,660,183,621,183"/>
+<area shape="rect" id="Node000008" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="876,167,1033,194"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="822,178,860,178,860,183,822,183"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="389,207,452,195,453,200,390,212"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="269,201,267,191,275,182,290,176,313,174,338,177,353,183,351,188,337,182,313,179,291,181,278,186,272,192,274,200"/>
 </map>

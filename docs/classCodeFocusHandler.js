@@ -7,6 +7,7 @@ var classCodeFocusHandler =
       [ "LEFT", "classCodeFocusHandler.html#ab6ba5e53d305e65647e135a20b6e99afa684d325a7303f52e64011467ff5c5758", null ],
       [ "RIGHT", "classCodeFocusHandler.html#ab6ba5e53d305e65647e135a20b6e99afa21507b40c80068eda19865706fdc2403", null ]
     ] ],
+    [ "~CodeFocusHandler", "classCodeFocusHandler.html#a8e1e3256b38bfe54eaf63c0ba1ed7af3", null ],
     [ "clearCurrentFocus", "classCodeFocusHandler.html#aaa426a1919c4f6017c505006f55106b6", null ],
     [ "defocus", "classCodeFocusHandler.html#a582dd958ace515f680a8d60ce00d92fe", null ],
     [ "focus", "classCodeFocusHandler.html#a490e77f69ddbfb9839de943c88817683", null ],

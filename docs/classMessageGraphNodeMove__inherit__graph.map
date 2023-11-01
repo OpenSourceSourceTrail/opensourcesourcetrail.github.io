@@ -1,6 +1,10 @@
 <map id="MessageGraphNodeMove" name="MessageGraphNodeMove">
-<area shape="rect" id="node1" title=" " alt="" coords="24,257,213,283"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,168,232,208"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="57,5,169,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="135,80,334,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,269,212,297"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,175,231,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,235,121,269,115,269,115,235"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="57,5,168,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,48,120,174,115,175,111,48"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="134,82,331,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="148,39,213,80,210,84,145,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="208,122,145,176,141,172,205,118"/>
 </map>

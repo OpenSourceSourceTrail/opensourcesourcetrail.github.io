@@ -1,14 +1,29 @@
 <map id="SqliteIndexStorage::addNodes" name="SqliteIndexStorage::addNodes">
-<area shape="rect" id="node1" title=" " alt="" coords="5,212,151,252"/>
-<area shape="rect" id="node2" href="$classLowMemoryStringMap.html#abbdbf265cea339f37830b462574bd206" title=" " alt="" coords="199,41,399,66"/>
-<area shape="rect" id="node7" href="$classLowMemoryStringMap.html#a531c95f8149d40ec2c4c72269c8f5968" title=" " alt="" coords="215,91,383,131"/>
-<area shape="rect" id="node8" href="$namespaceutility.html#a3370ea0d4afa1a0a4376d2fe034799ce" title=" " alt="" coords="221,155,377,181"/>
-<area shape="rect" id="node9" href="$classSqliteIndexStorage_1_1InsertBatchStatement.html#acaa5199762bf4a7671c03fb87a03abfb" title=" " alt="" coords="213,205,385,259"/>
-<area shape="rect" id="node10" href="$classSqliteStorage.html#a6cc9f021cdd876e5dbc6a9c69e65c6b9" title=" " alt="" coords="447,285,684,310"/>
-<area shape="rect" id="node11" href="$classLowMemoryStringMap.html#ad9b41a4eb1649565be4e5399e1b363a2" title=" " alt="" coords="215,335,383,375"/>
-<area shape="rect" id="node12" href="$classSqliteIndexStorage.html#a3284ff878b4a7847c39ed9651cfa4858" title=" " alt="" coords="226,399,371,439"/>
-<area shape="rect" id="node3" href="$classLowMemoryStringMap_1_1Branch.html#a859306095c5056651a34521d2bcf7db3" title=" " alt="" coords="481,33,649,73"/>
-<area shape="rect" id="node4" href="$classLowMemoryStringMap_1_1Branch.html#a7d6afe9eb9602a589debca71b7dc1788" title=" " alt="" coords="949,5,1117,45"/>
-<area shape="rect" id="node5" href="$classLowMemoryStringMap_1_1Branch.html#a2df7f420a035f5f18410b054df535016" title=" " alt="" coords="732,63,900,103"/>
-<area shape="rect" id="node6" href="$classLowMemoryStringMap_1_1Branch.html#a9d1b953a6d2224b79908c95c2677b041" title=" " alt="" coords="948,69,1117,109"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,224,150,269"/>
+<area shape="rect" id="Node000002" href="$classLowMemoryStringMap.html#abbdbf265cea339f37830b462574bd206" title=" " alt="" coords="198,43,397,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,222,103,190,128,152,159,113,196,80,204,75,207,80,199,84,162,117,132,155,108,193,91,225"/>
+<area shape="rect" id="Node000007" href="$classLowMemoryStringMap.html#a531c95f8149d40ec2c4c72269c8f5968" title=" " alt="" coords="214,95,381,139"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="101,221,144,185,196,149,207,144,210,148,199,154,147,189,104,225"/>
+<area shape="rect" id="Node000008" href="$namespaceutility.html#a4959dcb82d86854e88fa8757194a00ec" title=" " alt="" coords="220,163,375,191"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="139,221,197,201,224,193,226,198,198,206,140,226"/>
+<area shape="rect" id="Node000009" href="$classSqliteIndexStorage_1_1InsertBatchStatement.html#acaa5199762bf4a7671c03fb87a03abfb" title=" " alt="" coords="212,216,383,277"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="150,244,196,244,196,249,150,249"/>
+<area shape="rect" id="Node000010" href="$classSqliteStorage.html#a6cc9f021cdd876e5dbc6a9c69e65c6b9" title=" " alt="" coords="445,301,681,328"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="134,267,198,286,316,304,430,311,429,317,316,309,197,292,132,272"/>
+<area shape="rect" id="Node000011" href="$classLowMemoryStringMap.html#ad9b41a4eb1649565be4e5399e1b363a2" title=" " alt="" coords="214,352,381,397"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="108,267,150,299,199,331,223,343,220,348,196,335,147,303,105,271"/>
+<area shape="rect" id="Node000012" href="$classSqliteIndexStorage.html#a3284ff878b4a7847c39ed9651cfa4858" title=" " alt="" coords="225,421,370,466"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="92,268,133,336,164,374,199,407,212,415,210,420,196,411,160,378,129,339,87,271"/>
+<area shape="rect" id="Node000003" href="$classLowMemoryStringMap_1_1Branch.html#a859306095c5056651a34521d2bcf7db3" title=" " alt="" coords="480,35,647,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,54,464,54,464,60,397,60"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="516,35,514,25,522,16,539,10,563,8,590,11,606,17,604,22,589,16,563,13,540,15,525,20,519,26,521,34"/>
+<area shape="rect" id="Node000004" href="$classLowMemoryStringMap_1_1Branch.html#a7d6afe9eb9602a589debca71b7dc1788" title=" " alt="" coords="945,5,1113,50"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="647,49,929,31,930,37,647,54"/>
+<area shape="rect" id="Node000005" href="$classLowMemoryStringMap_1_1Branch.html#a2df7f420a035f5f18410b054df535016" title=" " alt="" coords="729,65,897,110"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="648,65,714,73,714,78,647,70"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="895,62,931,52,932,57,896,67"/>
+<area shape="rect" id="Node000006" href="$classLowMemoryStringMap_1_1Branch.html#a9d1b953a6d2224b79908c95c2677b041" title=" " alt="" coords="945,75,1113,119"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="897,89,929,90,929,95,897,94"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="384,266,492,293,491,299,383,271"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="368,418,396,407,466,370,526,334,529,339,469,375,398,411,370,423"/>
 </map>

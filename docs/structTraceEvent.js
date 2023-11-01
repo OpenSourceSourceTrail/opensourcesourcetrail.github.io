@@ -1,7 +1,7 @@
 var structTraceEvent =
 [
-    [ "TraceEvent", "structTraceEvent.html#a9fcba52a41148edb0e303da255498da2", null ],
-    [ "TraceEvent", "structTraceEvent.html#ae09a72c2b0d4a72693e136a128c2a497", null ],
+    [ "TraceEvent", "structTraceEvent.html#a62c9221f5ed725efb531bda500d6677e", null ],
+    [ "TraceEvent", "structTraceEvent.html#ad1f13dba373a30c09549762fe5976b40", null ],
     [ "depth", "structTraceEvent.html#a34d45badceed28a80133a8e0363ba001", null ],
     [ "eventName", "structTraceEvent.html#a20d1b08ba813c2a5f2d80aa4cb917b38", null ],
     [ "functionName", "structTraceEvent.html#aadadec1780a5596083c2b0c06f53cc79", null ],

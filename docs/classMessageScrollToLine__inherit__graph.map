@@ -1,6 +1,10 @@
 <map id="MessageScrollToLine" name="MessageScrollToLine">
-<area shape="rect" id="node1" title=" " alt="" coords="28,257,185,283"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,168,208,208"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="45,5,157,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="123,80,322,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,269,185,297"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,175,208,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,235,109,269,104,269,104,235"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="46,5,157,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,48,109,174,103,175,99,48"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="123,82,320,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="136,39,202,80,199,84,134,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="196,122,133,176,130,172,193,118"/>
 </map>

@@ -1,26 +1,73 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/project/SourceGroupFactoryModuleCustom.cpp" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/project/SourceGroupFactoryModuleCustom.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="195,5,419,75"/>
-<area shape="rect" id="node2" href="$SourceGroupFactoryModuleCustom_8h.html" title=" " alt="" coords="59,123,261,163"/>
-<area shape="rect" id="node8" href="$SourceGroupCustomCommand_8h.html" title=" " alt="" coords="189,218,424,243"/>
-<area shape="rect" id="node14" href="$SourceGroupSettingsCustomCommand_8h.html" title=" " alt="" coords="843,123,1051,163"/>
-<area shape="rect" id="node3" href="$SourceGroupFactoryModule_8h.html" title=" " alt="" coords="5,306,219,331"/>
-<area shape="rect" id="node4" title=" " alt="" coords="267,387,344,412"/>
-<area shape="rect" id="node5" href="$SourceGroupType_8h.html" title=" " alt="" coords="359,460,505,485"/>
-<area shape="rect" id="node6" title=" " alt="" coords="351,533,513,559"/>
-<area shape="rect" id="node7" title=" " alt="" coords="584,533,643,559"/>
-<area shape="rect" id="node9" title=" " alt="" coords="149,387,192,412"/>
-<area shape="rect" id="node10" title=" " alt="" coords="885,387,947,412"/>
-<area shape="rect" id="node11" href="$SourceGroup_8h.html" title=" " alt="" coords="344,306,461,331"/>
-<area shape="rect" id="node12" href="$LanguageType_8h.html" title=" " alt="" coords="369,387,495,412"/>
-<area shape="rect" id="node13" href="$SourceGroupStatusType_8h.html" title=" " alt="" coords="519,387,707,412"/>
-<area shape="rect" id="node15" href="$SourceGroupSettingsWithComponents_8h.html" title=" " alt="" coords="448,218,731,243"/>
-<area shape="rect" id="node18" href="$SourceGroupSettingsWithCustomCommand_8h.html" title=" " alt="" coords="1355,211,1594,251"/>
-<area shape="rect" id="node20" href="$SourceGroupSettingsWithExcludeFilters_8h.html" title=" " alt="" coords="905,299,1143,339"/>
-<area shape="rect" id="node21" href="$SourceGroupSettingsWithSourceExtensionsEmpty_8h.html" title=" " alt="" coords="1087,211,1319,251"/>
-<area shape="rect" id="node23" href="$SourceGroupSettingsWithSourcePaths_8h.html" title=" " alt="" coords="755,211,987,251"/>
-<area shape="rect" id="node16" href="$SourceGroupSettings_8h.html" title=" " alt="" coords="499,306,669,331"/>
-<area shape="rect" id="node17" href="$SourceGroupSettingsBase_8h.html" title=" " alt="" coords="899,460,1101,485"/>
-<area shape="rect" id="node19" href="$SourceGroupSettingsComponent_8h.html" title=" " alt="" coords="1051,387,1296,412"/>
-<area shape="rect" id="node22" href="$SourceGroupSettingsWithSourceExtensions_8h.html" title=" " alt="" coords="1219,299,1451,339"/>
-<area shape="rect" id="node24" href="$FilePath_8h.html" title=" " alt="" coords="693,306,779,331"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/project/SourceGroupFactoryModuleCustom.cpp" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/project/SourceGroupFactoryModuleCustom.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="146,5,466,84"/>
+<area shape="rect" id="Node000002" href="$SourceGroupFactoryModuleCustom_8h.html" title=" " alt="" coords="61,132,261,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,87,204,125,201,120,252,82"/>
+<area shape="rect" id="Node000008" href="$SourceGroupCustomCommand_8h.html" title=" " alt="" coords="190,233,423,261"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="309,84,309,218,304,218,304,84"/>
+<area shape="rect" id="Node000014" href="$SourceGroupSettingsCustomCommand_8h.html" title=" " alt="" coords="840,132,1047,177"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="467,70,825,130,824,136,467,76"/>
+<area shape="rect" id="Node000003" href="$SourceGroupFactoryModule_8h.html" title=" " alt="" coords="5,326,218,354"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,178,122,311,116,310,153,176"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="267,410,343,438"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,352,261,401,259,406,142,357"/>
+<area shape="rect" id="Node000005" href="$SourceGroupType_8h.html" title=" " alt="" coords="357,486,503,513"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="114,353,118,395,125,417,139,436,171,454,222,468,342,487,341,493,221,474,169,459,135,440,120,419,112,396,108,354"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="349,561,511,589"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="433,514,433,546,428,546,428,514"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="582,561,641,589"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="464,511,569,554,567,559,462,516"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="309,261,308,394,302,394,303,261"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="150,410,191,438"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="301,263,272,308,232,364,197,401,193,398,228,360,268,305,296,260"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="880,410,943,438"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="386,259,436,267,537,275,617,275,655,277,695,283,739,295,790,315,821,332,849,353,893,396,889,400,845,357,818,337,788,320,738,300,694,288,655,282,617,280,536,280,435,272,385,264"/>
+<area shape="rect" id="Node000011" href="$SourceGroup_8h.html" title=" " alt="" coords="344,326,460,354"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="322,259,379,313,376,317,318,263"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="388,356,333,402,330,398,385,352"/>
+<area shape="poly" id="edge20_Node000011_Node000005" title=" " alt="" coords="346,357,306,370,270,389,258,399,251,411,250,423,256,436,273,454,294,469,343,487,341,492,292,473,270,459,252,439,245,424,246,409,254,396,267,384,304,365,344,352"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="366,357,207,412,205,407,364,352"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="453,352,488,359,698,394,865,415,865,420,698,399,487,365,451,357"/>
+<area shape="rect" id="Node000012" href="$LanguageType_8h.html" title=" " alt="" coords="367,410,493,438"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="409,353,423,395,418,396,404,355"/>
+<area shape="rect" id="Node000013" href="$SourceGroupStatusType_8h.html" title=" " alt="" coords="518,410,705,438"/>
+<area shape="poly" id="edge18_Node000011_Node000013" title=" " alt="" coords="437,352,565,401,563,406,435,357"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="433,438,433,470,428,470,428,438"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="452,436,517,484,589,548,586,552,514,488,448,440"/>
+<area shape="poly" id="edge19_Node000013_Node000007" title=" " alt="" coords="614,438,614,545,609,545,609,438"/>
+<area shape="rect" id="Node000015" href="$SourceGroupSettingsWithComponents_8h.html" title=" " alt="" coords="447,233,728,261"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="859,180,655,231,654,226,858,175"/>
+<area shape="rect" id="Node000018" href="$SourceGroupSettingsWithCustomCommand_8h.html" title=" " alt="" coords="1352,225,1589,269"/>
+<area shape="poly" id="edge30_Node000014_Node000018" title=" " alt="" coords="1048,171,1337,220,1336,225,1047,176"/>
+<area shape="rect" id="Node000020" href="$SourceGroupSettingsWithExcludeFilters_8h.html" title=" " alt="" coords="902,317,1140,362"/>
+<area shape="poly" id="edge34_Node000014_Node000020" title=" " alt="" coords="966,175,983,198,998,224,1012,263,1019,301,1014,302,1006,265,993,226,978,201,961,179"/>
+<area shape="rect" id="Node000021" href="$SourceGroupSettingsWithSourceExtensionsEmpty_8h.html" title=" " alt="" coords="1084,225,1315,269"/>
+<area shape="poly" id="edge37_Node000014_Node000021" title=" " alt="" coords="1006,175,1125,217,1123,222,1004,180"/>
+<area shape="rect" id="Node000023" href="$SourceGroupSettingsWithSourcePaths_8h.html" title=" " alt="" coords="752,225,983,269"/>
+<area shape="poly" id="edge41_Node000014_Node000023" title=" " alt="" coords="928,179,897,215,893,211,923,175"/>
+<area shape="rect" id="Node000016" href="$SourceGroupSettings_8h.html" title=" " alt="" coords="499,326,668,354"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="590,261,587,311,582,311,584,261"/>
+<area shape="poly" id="edge24_Node000016_Node000004" title=" " alt="" coords="539,357,359,409,358,404,538,352"/>
+<area shape="poly" id="edge29_Node000016_Node000005" title=" " alt="" coords="631,352,670,366,705,386,718,397,726,410,726,425,719,439,706,451,687,460,637,476,578,487,519,494,518,489,577,481,636,470,685,455,703,446,715,436,721,423,721,412,714,401,702,390,668,371,629,357"/>
+<area shape="poly" id="edge25_Node000016_Node000010" title=" " alt="" coords="637,352,866,408,864,414,636,357"/>
+<area shape="poly" id="edge26_Node000016_Node000012" title=" " alt="" coords="560,356,469,405,467,400,558,352"/>
+<area shape="poly" id="edge28_Node000016_Node000013" title=" " alt="" coords="591,353,605,395,600,396,585,355"/>
+<area shape="rect" id="Node000017" href="$SourceGroupSettingsBase_8h.html" title=" " alt="" coords="895,486,1096,513"/>
+<area shape="poly" id="edge27_Node000016_Node000017" title=" " alt="" coords="619,352,948,477,946,482,617,357"/>
+<area shape="rect" id="Node000019" href="$SourceGroupSettingsComponent_8h.html" title=" " alt="" coords="1047,410,1291,438"/>
+<area shape="poly" id="edge31_Node000018_Node000019" title=" " alt="" coords="1477,270,1479,316,1473,342,1460,364,1436,380,1399,393,1307,412,1306,407,1398,388,1433,376,1456,360,1468,340,1474,316,1472,270"/>
+<area shape="poly" id="edge32_Node000019_Node000007" title=" " alt="" coords="1167,439,1147,478,1131,499,1110,516,1073,532,1022,544,895,562,762,572,657,576,656,570,762,566,894,557,1021,539,1071,526,1107,511,1127,495,1142,475,1162,437"/>
+<area shape="poly" id="edge33_Node000019_Node000017" title=" " alt="" coords="1139,441,1041,482,1039,477,1137,436"/>
+<area shape="poly" id="edge35_Node000020_Node000010" title=" " alt="" coords="994,365,943,402,940,398,991,360"/>
+<area shape="poly" id="edge36_Node000020_Node000019" title=" " alt="" coords="1061,360,1133,400,1130,404,1059,365"/>
+<area shape="rect" id="Node000022" href="$SourceGroupSettingsWithSourceExtensions_8h.html" title=" " alt="" coords="1215,317,1446,362"/>
+<area shape="poly" id="edge38_Node000021_Node000022" title=" " alt="" coords="1232,267,1288,306,1285,311,1229,272"/>
+<area shape="poly" id="edge39_Node000022_Node000010" title=" " alt="" coords="1220,365,958,416,957,411,1219,360"/>
+<area shape="poly" id="edge40_Node000022_Node000019" title=" " alt="" coords="1289,365,1209,405,1207,400,1286,360"/>
+<area shape="poly" id="edge42_Node000023_Node000010" title=" " alt="" coords="873,269,893,361,904,395,899,396,888,363,868,270"/>
+<area shape="poly" id="edge47_Node000023_Node000019" title=" " alt="" coords="984,261,1085,283,1126,298,1153,315,1165,334,1172,354,1175,394,1169,395,1167,355,1160,336,1150,319,1124,302,1084,288,983,266"/>
+<area shape="rect" id="Node000024" href="$FilePath_8h.html" title=" " alt="" coords="692,326,776,354"/>
+<area shape="poly" id="edge43_Node000023_Node000024" title=" " alt="" coords="837,272,767,319,764,315,834,268"/>
+<area shape="poly" id="edge44_Node000024_Node000004" title=" " alt="" coords="706,357,682,365,593,384,522,392,450,399,359,412,358,407,450,393,522,387,592,378,680,359,704,351"/>
+<area shape="poly" id="edge45_Node000024_Node000007" title=" " alt="" coords="741,354,747,392,746,416,741,439,722,474,697,506,645,553,641,550,693,502,717,471,736,437,741,415,741,393,735,354"/>
+<area shape="poly" id="edge46_Node000024_Node000010" title=" " alt="" coords="764,352,870,401,868,406,762,357"/>
 </map>

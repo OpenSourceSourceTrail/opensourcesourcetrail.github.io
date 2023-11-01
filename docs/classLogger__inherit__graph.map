@@ -1,5 +1,9 @@
 <map id="Logger" name="Logger">
-<area shape="rect" id="node1" title=" " alt="" coords="95,5,162,31"/>
-<area shape="rect" id="node2" href="$classConsoleLogger.html" title=" " alt="" coords="5,79,124,104"/>
-<area shape="rect" id="node3" href="$classFileLogger.html" title=" " alt="" coords="149,79,237,104"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,5,223,33"/>
+<area shape="rect" id="Node000002" href="$classConsoleLogger.html" title=" " alt="" coords="5,81,123,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,43,88,83,85,78,154,39"/>
+<area shape="rect" id="Node000003" href="$classFileLogger.html" title=" " alt="" coords="147,81,234,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,49,193,81,188,81,188,49"/>
+<area shape="rect" id="Node000004" href="$classMockedLogger.html" title=" " alt="" coords="258,81,374,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,39,295,78,292,83,224,43"/>
 </map>

@@ -11,7 +11,7 @@ var classQtBookmarkCreator =
     [ "handleClose", "classQtBookmarkCreator.html#ad597196aa8fcc3bd5b4a9453fbaf874a", null ],
     [ "handleClosePress", "classQtBookmarkCreator.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtBookmarkCreator.html#ab3b705de58b10f9b044563dbc50b8940", null ],
-    [ "handleNextPress", "classQtBookmarkCreator.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtBookmarkCreator.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtBookmarkCreator.html#aa0e2b118a9cf753c4dacb35528beb5ff", null ],
     [ "handlePreviousPress", "classQtBookmarkCreator.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtBookmarkCreator.html#a932ab453a347b3d196e431ff9c2626eb", null ],

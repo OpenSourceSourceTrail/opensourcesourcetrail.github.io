@@ -1,10 +1,22 @@
 <map id="HierarchyCache::HierarchyNode::getEdgeId" name="HierarchyCache::HierarchyNode::getEdgeId">
-<area shape="rect" id="node1" title=" " alt="" coords="1036,59,1232,99"/>
-<area shape="rect" id="node2" href="$classHierarchyCache.html#a489adc0eda849ee35af223b824340e06" title=" " alt="" coords="769,59,988,99"/>
-<area shape="rect" id="node3" href="$classPersistentStorage.html#a4854526dd2b81e756a97f671f2c472d7" title=" " alt="" coords="498,5,714,45"/>
-<area shape="rect" id="node5" href="$classPersistentStorage.html#a4a5638a08130b9f4ec0243f02ecc712c" title=" " alt="" coords="491,87,721,142"/>
-<area shape="rect" id="node4" href="$classPersistentStorage.html#a739d4ccb8075fa10eb61794625366d2e" title=" " alt="" coords="5,37,204,77"/>
-<area shape="rect" id="node6" href="$classPersistentStorage.html#a5f44bbca9303d5a71892cc336c779b65" title=" " alt="" coords="252,95,443,135"/>
-<area shape="rect" id="node7" href="$classPersistentStorage.html#a7cfe97aac2495e1f2bbdb143f142994a" title=" " alt="" coords="261,159,434,199"/>
-<area shape="rect" id="node8" href="$classPersistentStorage.html#aa0459f7ee5cffa942e8a53c34b01e009" title=" " alt="" coords="275,223,420,263"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1033,77,1228,122"/>
+<area shape="rect" id="Node000002" href="$classHierarchyCache.html#a489adc0eda849ee35af223b824340e06" title=" " alt="" coords="767,77,985,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1017,102,985,102,985,97,1017,97"/>
+<area shape="rect" id="Node000003" href="$classPersistentStorage.html#a4854526dd2b81e756a97f671f2c472d7" title=" " alt="" coords="497,5,712,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="774,75,691,53,692,48,775,70"/>
+<area shape="rect" id="Node000005" href="$classPersistentStorage.html#a4a5638a08130b9f4ec0243f02ecc712c" title=" " alt="" coords="490,108,719,169"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="752,120,720,125,720,119,752,115"/>
+<area shape="rect" id="Node000004" href="$classPersistentStorage.html#a739d4ccb8075fa10eb61794625366d2e" title=" " alt="" coords="5,52,204,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="481,19,369,17,310,21,252,28,205,39,161,54,159,49,203,34,251,22,310,15,369,12,481,14"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="531,103,487,85,441,72,381,63,319,60,204,64,204,59,319,54,381,57,443,66,489,80,533,98"/>
+<area shape="rect" id="Node000006" href="$classPersistentStorage.html#a5f44bbca9303d5a71892cc336c779b65" title=" " alt="" coords="252,81,442,126"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="474,123,442,119,443,114,475,118"/>
+<area shape="rect" id="Node000007" href="$classPersistentStorage.html#a172ab166e95a725576059295faadbd63" title=" " alt="" coords="258,151,436,195"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="475,158,437,164,436,158,474,153"/>
+<area shape="rect" id="Node000008" href="$classPersistentStorage.html#a7cfe97aac2495e1f2bbdb143f142994a" title=" " alt="" coords="261,220,433,265"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="520,178,443,210,412,222,410,217,441,205,518,173"/>
+<area shape="rect" id="Node000009" href="$classPersistentStorage.html#aa0459f7ee5cffa942e8a53c34b01e009" title=" " alt="" coords="275,289,419,334"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="565,182,510,232,443,279,420,291,417,286,441,275,506,228,561,178"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="236,93,204,89,204,84,236,88"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="266,147,251,141,155,100,157,95,253,136,268,142"/>
 </map>

@@ -1,6 +1,7 @@
 var classQtProjectWizardContentPathCDB =
 [
-    [ "QtProjectWizardContentPathCDB", "classQtProjectWizardContentPathCDB.html#a1b1708a54e34f2ebf96cba3614c3b92e", null ],
+    [ "QtProjectWizardContentPathCDB", "classQtProjectWizardContentPathCDB.html#a78f9aa134798875295d4302af7999ab9", null ],
+    [ "~QtProjectWizardContentPathCDB", "classQtProjectWizardContentPathCDB.html#a3a0ba3ee54865162d1352251278a0fb4", null ],
     [ "addFilesButton", "classQtProjectWizardContentPathCDB.html#a64c255569c9185b26dce569c4e832bbe", null ],
     [ "addHelpButton", "classQtProjectWizardContentPathCDB.html#a3c1c6483d8552f9e5988c1b3dcc4ff3e", null ],
     [ "addSeparator", "classQtProjectWizardContentPathCDB.html#a329117e06f5f2738eb219fda935a918e", null ],
@@ -17,8 +18,6 @@ var classQtProjectWizardContentPathCDB =
     [ "getSourceGroupSettings", "classQtProjectWizardContentPathCDB.html#aa18c3439b9b4feef0cea4a8e41780739", null ],
     [ "isRequired", "classQtProjectWizardContentPathCDB.html#a12244d05c5d3b093c221cb6897af3693", null ],
     [ "load", "classQtProjectWizardContentPathCDB.html#a5a35b791784ebc7f9810e0b6ac9c389b", null ],
-    [ "onPickerTextChanged", "classQtProjectWizardContentPathCDB.html#acf2f3e6fb21583bc05c534eb2dccfd30", null ],
-    [ "pickedPath", "classQtProjectWizardContentPathCDB.html#a7fdefb3a5f65127d58c56d2ae4e22080", null ],
     [ "populate", "classQtProjectWizardContentPathCDB.html#a4709222ceddec53a908ac4c1770000c5", null ],
     [ "refresh", "classQtProjectWizardContentPathCDB.html#abacee518afd57110ba2bf686684cf42b", null ],
     [ "save", "classQtProjectWizardContentPathCDB.html#a3563ed9eafa29297de2648c3670f8205", null ],
@@ -31,13 +30,12 @@ var classQtProjectWizardContentPathCDB =
     [ "windowReady", "classQtProjectWizardContentPathCDB.html#ae7427bdfc6decbac4104c918cce389a2", null ],
     [ "m_fileCountLabel", "classQtProjectWizardContentPathCDB.html#a77d9489cbc21a67b756e17df0cb7390a", null ],
     [ "m_fileEndings", "classQtProjectWizardContentPathCDB.html#ac5c397c5fd9e0304ef37b6ae1db2770c", null ],
-    [ "m_filePaths", "classQtProjectWizardContentPathCDB.html#a96bdd0cba06a87142598a7d6bd187c5d", null ],
     [ "m_filesDialog", "classQtProjectWizardContentPathCDB.html#a879e0cf55fafe1f022bd596fe998f08e", null ],
     [ "m_helpString", "classQtProjectWizardContentPathCDB.html#a32e8267d8dabdfefae60fdf5e3e3f164", null ],
     [ "m_isRequired", "classQtProjectWizardContentPathCDB.html#a60e2b94cbbb0d3c100b1ce47164dafda", null ],
+    [ "m_model", "classQtProjectWizardContentPathCDB.html#a9fba25acbdd20ea8d8a108323cd31883", null ],
     [ "m_picker", "classQtProjectWizardContentPathCDB.html#af18735068a3e373d9db09370aead98f8", null ],
     [ "m_placeholderString", "classQtProjectWizardContentPathCDB.html#a72f64c1973d0db233e9e79431441ecb8", null ],
-    [ "m_settings", "classQtProjectWizardContentPathCDB.html#a47d0b0c7a11ce10e575d8e34965d4ff9", null ],
     [ "m_showFilesFunctor", "classQtProjectWizardContentPathCDB.html#a6e922570cd0e5ce3d839ab2380e1611a", null ],
     [ "m_titleString", "classQtProjectWizardContentPathCDB.html#a3ae7bb13240d3340f97ca1dcf45c89da", null ],
     [ "m_window", "classQtProjectWizardContentPathCDB.html#a3fee33077135827bde039ab2b1903370", null ]

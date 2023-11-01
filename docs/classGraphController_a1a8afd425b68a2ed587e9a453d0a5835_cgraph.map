@@ -1,5 +1,11 @@
 <map id="GraphController::handleMessage" name="GraphController::handleMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,240,56"/>
-<area shape="rect" id="node2" href="$classGraphView.html#a9f182f479bb4cbcf8b113f483dc7c403" title=" " alt="" coords="288,5,515,31"/>
-<area shape="rect" id="node3" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="308,55,495,80"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,240,60"/>
+<area shape="rect" id="Node000002" href="$classGraphView.html#a9f182f479bb4cbcf8b113f483dc7c403" title=" " alt="" coords="288,5,514,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,32,272,29,272,34,240,37"/>
+<area shape="rect" id="Node000003" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="308,57,494,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,54,293,59,293,64,240,59"/>
+<area shape="rect" id="Node000004" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="562,57,708,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="494,69,547,69,547,74,494,74"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="756,57,914,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,69,741,69,741,74,709,74"/>
 </map>

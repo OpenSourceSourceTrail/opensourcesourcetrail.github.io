@@ -1,35 +1,92 @@
 <map id="View" name="View">
-<area shape="rect" id="node1" title=" " alt="" coords="5,376,60,401"/>
-<area shape="rect" id="node2" href="$classBookmarkButtonsView.html" title=" " alt="" coords="108,5,279,31"/>
-<area shape="rect" id="node4" href="$classBookmarkView.html" title=" " alt="" coords="133,55,254,80"/>
-<area shape="rect" id="node6" href="$classCodeView.html" title=" " alt="" coords="150,104,237,129"/>
-<area shape="rect" id="node8" href="$classCompositeView.html" title=" " alt="" coords="131,153,255,179"/>
-<area shape="rect" id="node10" href="$classCustomTrailView.html" title=" " alt="" coords="127,203,259,228"/>
-<area shape="rect" id="node12" href="$classErrorView.html" title=" " alt="" coords="151,252,236,277"/>
-<area shape="rect" id="node14" href="$classGraphView.html" title=" " alt="" coords="147,301,240,327"/>
-<area shape="rect" id="node16" href="$classRefreshView.html" title=" " alt="" coords="141,351,245,376"/>
-<area shape="rect" id="node18" href="$classScreenSearchView.html" title=" " alt="" coords="122,400,265,425"/>
-<area shape="rect" id="node20" href="$classSearchView.html" title=" " alt="" coords="144,449,243,475"/>
-<area shape="rect" id="node22" href="$classStatusBarView.html" title=" " alt="" coords="135,499,252,524"/>
-<area shape="rect" id="node24" href="$classStatusView.html" title=" " alt="" coords="146,548,241,573"/>
-<area shape="rect" id="node26" href="$classTabbedView.html" title=" " alt="" coords="143,597,243,623"/>
-<area shape="rect" id="node28" href="$classTabsView.html" title=" " alt="" coords="152,647,235,672"/>
-<area shape="rect" id="node30" href="$classTooltipView.html" title=" " alt="" coords="145,696,242,721"/>
-<area shape="rect" id="node32" href="$classUndoRedoView.html" title=" " alt="" coords="133,745,254,771"/>
-<area shape="rect" id="node3" href="$classQtBookmarkButtonsView.html" title=" " alt="" coords="327,5,513,31"/>
-<area shape="rect" id="node5" href="$classQtBookmarkView.html" title=" " alt="" coords="352,55,488,80"/>
-<area shape="rect" id="node7" href="$classQtCodeView.html" title=" " alt="" coords="369,104,471,129"/>
-<area shape="rect" id="node9" href="$classQtCompositeView.html" title=" " alt="" coords="351,153,489,179"/>
-<area shape="rect" id="node11" href="$classQtCustomTrailView.html" title=" " alt="" coords="347,203,493,228"/>
-<area shape="rect" id="node13" href="$classQtErrorView.html" title=" " alt="" coords="370,252,470,277"/>
-<area shape="rect" id="node15" href="$classQtGraphView.html" title=" " alt="" coords="366,301,474,327"/>
-<area shape="rect" id="node17" href="$classQtRefreshView.html" title=" " alt="" coords="361,351,479,376"/>
-<area shape="rect" id="node19" href="$classQtScreenSearchView.html" title=" " alt="" coords="341,400,499,425"/>
-<area shape="rect" id="node21" href="$classQtSearchView.html" title=" " alt="" coords="363,449,477,475"/>
-<area shape="rect" id="node23" href="$classQtStatusBarView.html" title=" " alt="" coords="354,499,486,524"/>
-<area shape="rect" id="node25" href="$classQtStatusView.html" title=" " alt="" coords="365,548,475,573"/>
-<area shape="rect" id="node27" href="$classQtTabbedView.html" title=" " alt="" coords="363,597,477,623"/>
-<area shape="rect" id="node29" href="$classQtTabsView.html" title=" " alt="" coords="371,647,469,672"/>
-<area shape="rect" id="node31" href="$classQtTooltipView.html" title=" " alt="" coords="364,696,476,721"/>
-<area shape="rect" id="node33" href="$classQtUndoRedoView.html" title=" " alt="" coords="352,745,488,771"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,604,59,632"/>
+<area shape="rect" id="Node000002" href="$classBookmarkButtonsView.html" title=" " alt="" coords="107,57,277,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,588,38,486,50,349,72,215,87,161,104,122,126,99,152,83,155,88,130,103,109,125,92,162,77,216,56,350,43,487,37,588"/>
+<area shape="rect" id="Node000005" href="$classBookmarkView.html" title=" " alt="" coords="132,135,252,162"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="33,588,41,502,55,387,76,277,89,232,104,200,127,177,153,161,156,165,130,181,109,203,94,234,81,278,60,388,46,502,38,589"/>
+<area shape="rect" id="Node000007" href="$classCodeView.html" title=" " alt="" coords="149,213,235,241"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="32,588,37,533,49,460,71,381,86,341,104,304,135,267,168,239,171,244,138,271,109,307,91,344,76,382,54,461,42,534,37,589"/>
+<area shape="rect" id="Node000010" href="$classCompositeView.html" title=" " alt="" coords="130,317,254,345"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="32,589,37,542,49,485,70,424,86,395,105,369,122,354,142,343,145,348,125,359,109,373,90,398,75,426,54,486,42,543,37,589"/>
+<area shape="rect" id="Node000013" href="$classCustomTrailView.html" title=" " alt="" coords="126,383,258,410"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="38,588,61,520,80,482,105,447,129,425,156,409,159,413,133,429,109,450,85,484,66,522,43,590"/>
+<area shape="rect" id="Node000015" href="$classErrorView.html" title=" " alt="" coords="150,460,234,488"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="45,589,70,550,105,512,126,497,148,486,151,491,129,502,108,516,75,553,50,592"/>
+<area shape="rect" id="Node000017" href="$classGraphView.html" title=" " alt="" coords="146,525,238,553"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="61,592,105,563,144,548,146,553,108,568,64,596"/>
+<area shape="rect" id="Node000020" href="$structMockedView.html" title=" " alt="" coords="140,577,244,605"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="74,616,152,603,153,608,75,622"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="73,600,139,589,140,594,74,606"/>
+<area shape="rect" id="Node000021" href="$classRefreshView.html" title=" " alt="" coords="140,629,244,657"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="75,622,140,632,139,638,74,627"/>
+<area shape="rect" id="Node000024" href="$classScreenSearchView.html" title=" " alt="" coords="121,681,263,709"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="64,639,108,666,138,678,136,683,105,671,61,643"/>
+<area shape="rect" id="Node000027" href="$classSearchView.html" title=" " alt="" coords="143,785,241,813"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="53,643,109,719,143,754,175,783,172,787,140,758,105,722,48,646"/>
+<area shape="rect" id="Node000030" href="$classStatusBarView.html" title=" " alt="" coords="134,889,250,917"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="42,646,65,729,84,777,109,823,140,859,172,887,169,891,136,863,104,826,79,779,60,730,36,647"/>
+<area shape="rect" id="Node000033" href="$classStatusView.html" title=" " alt="" coords="145,993,239,1021"/>
+<area shape="poly" id="edge33_Node000001_Node000033" title=" " alt="" coords="37,647,43,702,54,774,76,852,91,891,109,927,138,964,171,991,168,995,135,967,104,930,86,893,71,854,49,775,37,702,32,647"/>
+<area shape="rect" id="Node000036" href="$classTabbedView.html" title=" " alt="" coords="142,1097,242,1125"/>
+<area shape="poly" id="edge36_Node000001_Node000036" title=" " alt="" coords="35,647,36,719,45,817,54,871,68,927,86,980,109,1031,138,1068,170,1095,167,1099,134,1071,104,1034,81,982,63,928,49,873,40,818,31,719,30,647"/>
+<area shape="rect" id="Node000039" href="$classTabsView.html" title=" " alt="" coords="151,1163,233,1190"/>
+<area shape="poly" id="edge39_Node000001_Node000039" title=" " alt="" coords="37,647,41,754,52,899,62,972,74,1040,90,1096,109,1135,128,1152,151,1164,149,1169,125,1157,105,1138,85,1098,69,1041,56,973,47,899,36,754,31,647"/>
+<area shape="rect" id="Node000041" href="$classTooltipView.html" title=" " alt="" coords="144,1240,240,1268"/>
+<area shape="poly" id="edge41_Node000001_Node000041" title=" " alt="" coords="36,647,40,765,51,929,60,1013,73,1090,89,1155,109,1200,129,1222,154,1237,151,1242,126,1226,104,1203,84,1156,68,1091,55,1013,46,929,35,765,31,647"/>
+<area shape="rect" id="Node000043" href="$classUndoRedoView.html" title=" " alt="" coords="132,1305,252,1333"/>
+<area shape="poly" id="edge43_Node000001_Node000043" title=" " alt="" coords="36,647,36,779,44,967,53,1063,67,1152,85,1226,96,1255,109,1278,123,1292,141,1303,138,1307,120,1296,105,1281,91,1257,80,1228,61,1153,48,1064,39,967,31,779,30,647"/>
+<area shape="rect" id="Node000003" href="$structMockedBookmarkButtonsView.html" title=" " alt="" coords="325,5,545,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,51,366,31,367,36,276,56"/>
+<area shape="rect" id="Node000004" href="$classQtBookmarkButtonsView.html" title=" " alt="" coords="343,57,528,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="292,69,342,69,342,74,292,74"/>
+<area shape="rect" id="Node000006" href="$classQtBookmarkView.html" title=" " alt="" coords="368,109,503,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="267,138,367,128,367,133,268,143"/>
+<area shape="rect" id="Node000008" href="$structMockedCodeView.html" title=" " alt="" coords="367,161,503,189"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="250,212,366,187,367,192,251,217"/>
+<area shape="rect" id="Node000009" href="$classQtCodeView.html" title=" " alt="" coords="385,213,486,241"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="250,225,384,225,384,230,250,230"/>
+<area shape="rect" id="Node000011" href="$structMockedCompositeView.html" title=" " alt="" coords="349,265,522,293"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="268,312,366,291,367,296,269,317"/>
+<area shape="rect" id="Node000012" href="$classQtCompositeView.html" title=" " alt="" coords="366,317,504,345"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="269,329,365,329,365,334,269,334"/>
+<area shape="rect" id="Node000014" href="$classQtCustomTrailView.html" title=" " alt="" coords="362,369,508,397"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="273,389,361,385,362,390,273,395"/>
+<area shape="rect" id="Node000016" href="$classQtErrorView.html" title=" " alt="" coords="386,421,485,449"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="249,462,385,440,386,446,250,467"/>
+<area shape="rect" id="Node000018" href="$structMockedGraphView.html" title=" " alt="" coords="364,473,506,501"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="253,524,366,499,368,504,254,529"/>
+<area shape="rect" id="Node000019" href="$classQtGraphView.html" title=" " alt="" coords="382,525,489,553"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="253,537,381,537,381,542,253,542"/>
+<area shape="rect" id="Node000022" href="$structMockedRefreshView.html" title=" " alt="" coords="359,577,512,605"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="258,626,366,603,368,608,259,632"/>
+<area shape="rect" id="Node000023" href="$classQtRefreshView.html" title=" " alt="" coords="376,629,494,657"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="259,641,375,641,375,646,259,646"/>
+<area shape="rect" id="Node000025" href="$structMockedScreenSearchView.html" title=" " alt="" coords="340,681,531,709"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="278,693,339,693,339,698,278,698"/>
+<area shape="rect" id="Node000026" href="$classQtScreenSearchView.html" title=" " alt="" coords="357,733,513,761"/>
+<area shape="poly" id="edge26_Node000024_Node000026" title=" " alt="" coords="276,710,367,730,366,735,274,715"/>
+<area shape="rect" id="Node000028" href="$structMockedSearchView.html" title=" " alt="" coords="362,785,509,813"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="256,797,361,797,361,802,256,802"/>
+<area shape="rect" id="Node000029" href="$classQtSearchView.html" title=" " alt="" coords="379,837,491,865"/>
+<area shape="poly" id="edge29_Node000027_Node000029" title=" " alt="" coords="256,810,379,837,378,842,255,815"/>
+<area shape="rect" id="Node000031" href="$structMockedStatusBarView.html" title=" " alt="" coords="352,889,518,917"/>
+<area shape="poly" id="edge31_Node000030_Node000031" title=" " alt="" coords="265,901,352,901,352,906,265,906"/>
+<area shape="rect" id="Node000032" href="$classQtStatusBarView.html" title=" " alt="" coords="370,941,501,969"/>
+<area shape="poly" id="edge32_Node000030_Node000032" title=" " alt="" coords="266,916,370,939,369,944,264,921"/>
+<area shape="rect" id="Node000034" href="$structMockedStatusView.html" title=" " alt="" coords="363,993,507,1021"/>
+<area shape="poly" id="edge34_Node000033_Node000034" title=" " alt="" coords="255,1005,362,1005,362,1010,255,1010"/>
+<area shape="rect" id="Node000035" href="$classQtStatusView.html" title=" " alt="" coords="381,1045,490,1073"/>
+<area shape="poly" id="edge35_Node000033_Node000035" title=" " alt="" coords="255,1018,381,1045,379,1050,254,1023"/>
+<area shape="rect" id="Node000037" href="$structMockedTabbedView.html" title=" " alt="" coords="361,1097,510,1125"/>
+<area shape="poly" id="edge37_Node000036_Node000037" title=" " alt="" coords="257,1109,360,1109,360,1114,257,1114"/>
+<area shape="rect" id="Node000038" href="$classQtTabbedView.html" title=" " alt="" coords="378,1149,492,1177"/>
+<area shape="poly" id="edge38_Node000036_Node000038" title=" " alt="" coords="257,1122,378,1148,377,1154,256,1128"/>
+<area shape="rect" id="Node000040" href="$classQtTabsView.html" title=" " alt="" coords="387,1201,484,1229"/>
+<area shape="poly" id="edge40_Node000039_Node000040" title=" " alt="" coords="249,1183,386,1205,386,1210,248,1188"/>
+<area shape="rect" id="Node000042" href="$classQtTooltipView.html" title=" " alt="" coords="380,1253,491,1281"/>
+<area shape="poly" id="edge42_Node000041_Node000042" title=" " alt="" coords="255,1255,379,1261,379,1267,255,1260"/>
+<area shape="rect" id="Node000044" href="$structMockedUndoRedoView.html" title=" " alt="" coords="350,1305,520,1333"/>
+<area shape="poly" id="edge44_Node000043_Node000044" title=" " alt="" coords="268,1317,350,1317,350,1322,268,1322"/>
+<area shape="rect" id="Node000045" href="$classQtUndoRedoView.html" title=" " alt="" coords="368,1357,503,1385"/>
+<area shape="poly" id="edge45_Node000043_Node000045" title=" " alt="" coords="268,1333,368,1354,366,1359,267,1338"/>
 </map>

@@ -1,20 +1,42 @@
 <map id="PersistentStorage::addInheritanceChainsToGraph" name="PersistentStorage::addInheritanceChainsToGraph">
-<area shape="rect" id="node1" title=" " alt="" coords="5,496,221,536"/>
-<area shape="rect" id="node2" href="$classHierarchyCache.html#a489adc0eda849ee35af223b824340e06" title=" " alt="" coords="273,299,492,339"/>
-<area shape="rect" id="node8" href="$classToken.html#a203ac76302b27f82dc87e4f9b85995e6" title=" " alt="" coords="299,377,466,402"/>
-<area shape="rect" id="node9" href="$classGraph.html#ae8e164899bc05fd2916876be88c30177" title=" " alt="" coords="311,478,454,503"/>
-<area shape="rect" id="node10" href="$classGraph.html#aab31e9da8d531e02ec93c0680df3fd10" title=" " alt="" coords="608,479,759,505"/>
-<area shape="rect" id="node11" href="$classToken.html#a7327713d89dab24b733a7ff9096deea0" title=" " alt="" coords="633,529,733,554"/>
-<area shape="rect" id="node12" href="$classGraph.html#a6b9edd5c521d6564853a8bcf7913ebc7" title=" " alt="" coords="607,578,760,603"/>
-<area shape="rect" id="node13" href="$classGraph.html#a5251028681c86e92da84163ab7dac73e" title=" " alt="" coords="307,630,459,655"/>
-<area shape="rect" id="node14" href="$classHierarchyCache.html#ac3b80274db5d7bbc7908091ab5076403" title=" " alt="" coords="269,133,496,173"/>
-<area shape="rect" id="node17" href="$classNode.html#a8fad79f65f64fc6c150574e023eb043f" title=" " alt="" coords="325,679,440,705"/>
-<area shape="rect" id="node18" href="$classNodeType.html#a45fd20f5b4b1998d3e2bf4a935deba70" title=" " alt="" coords="295,729,470,754"/>
-<area shape="rect" id="node3" href="$classHierarchyCache_1_1HierarchyNode.html#a005865cfbeff351b268b22dfe9902275" title=" " alt="" coords="585,351,781,391"/>
-<area shape="rect" id="node4" href="$classHierarchyCache.html#aefb70cc4f2fa9f98a488b9247907a9d2" title=" " alt="" coords="589,173,777,198"/>
-<area shape="rect" id="node5" href="$classHierarchyCache_1_1HierarchyNode.html#a4d635a9660e1dd2e51922d620d943752" title=" " alt="" coords="585,415,781,455"/>
-<area shape="rect" id="node6" href="$classHierarchyCache_1_1HierarchyNode.html#affac470277a717ce7f890f39c3334220" title=" " alt="" coords="585,223,781,263"/>
-<area shape="rect" id="node7" href="$classHierarchyCache_1_1HierarchyNode.html#af2baf4626ffb655e7b1c2fd15a52006b" title=" " alt="" coords="585,287,781,327"/>
-<area shape="rect" id="node15" href="$classHierarchyCache.html#acb1a2e53c819a404131c1b00c3105ea7" title=" " alt="" coords="580,29,787,69"/>
-<area shape="rect" id="node16" href="$classHierarchyCache_1_1HierarchyNode.html#a4f2fc4f96ed431930de777d2f82ee332" title=" " alt="" coords="544,94,823,149"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,531,221,575"/>
+<area shape="rect" id="Node000002" href="$classHierarchyCache.html#a489adc0eda849ee35af223b824340e06" title=" " alt="" coords="273,324,491,369"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,528,189,466,227,431,267,399,310,374,313,378,270,403,230,435,193,470,135,532"/>
+<area shape="rect" id="Node000008" href="$classToken.html#a203ac76302b27f82dc87e4f9b85995e6" title=" " alt="" coords="299,413,465,440"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="144,528,200,492,268,456,303,443,305,448,270,461,203,496,147,533"/>
+<area shape="rect" id="Node000009" href="$classGraph.html#ae8e164899bc05fd2916876be88c30177" title=" " alt="" coords="311,514,453,542"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="221,540,295,533,296,538,221,545"/>
+<area shape="rect" id="Node000010" href="$classGraph.html#aab31e9da8d531e02ec93c0680df3fd10" title=" " alt="" coords="607,513,757,540"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="169,528,217,512,268,500,354,492,440,492,521,498,592,507,591,513,521,504,440,498,354,497,269,505,218,517,171,533"/>
+<area shape="rect" id="Node000011" href="$classToken.html#a7327713d89dab24b733a7ff9096deea0" title=" " alt="" coords="633,565,732,592"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="221,555,617,573,617,578,221,560"/>
+<area shape="rect" id="Node000012" href="$classGraph.html#a6b9edd5c521d6564853a8bcf7913ebc7" title=" " alt="" coords="606,617,758,644"/>
+<area shape="poly" id="edge20_Node000001_Node000012" title=" " alt="" coords="221,565,269,572,591,615,590,621,268,577,221,570"/>
+<area shape="rect" id="Node000013" href="$classGraph.html#a5251028681c86e92da84163ab7dac73e" title=" " alt="" coords="306,666,458,694"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="147,573,203,610,270,645,305,658,303,663,268,650,200,614,144,578"/>
+<area shape="rect" id="Node000014" href="$classHierarchyCache.html#ac3b80274db5d7bbc7908091ab5076403" title=" " alt="" coords="269,141,495,186"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="126,529,185,433,266,310,351,196,355,200,271,313,190,436,130,532"/>
+<area shape="rect" id="Node000017" href="$classNode.html#a8fad79f65f64fc6c150574e023eb043f" title=" " alt="" coords="325,718,439,746"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="133,574,189,639,227,673,270,703,311,718,309,723,267,707,224,678,185,642,129,577"/>
+<area shape="rect" id="Node000018" href="$classNodeType.html#a45fd20f5b4b1998d3e2bf4a935deba70" title=" " alt="" coords="295,770,469,798"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="127,574,148,614,180,663,221,713,270,755,282,761,279,766,267,759,217,717,175,666,144,617,122,577"/>
+<area shape="rect" id="Node000003" href="$classHierarchyCache_1_1HierarchyNode.html#a005865cfbeff351b268b22dfe9902275" title=" " alt="" coords="585,375,780,419"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,362,570,375,569,381,491,367"/>
+<area shape="rect" id="Node000004" href="$classHierarchyCache.html#aefb70cc4f2fa9f98a488b9247907a9d2" title=" " alt="" coords="589,185,776,212"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,322,463,270,501,243,542,221,572,210,574,215,544,226,504,248,466,274,407,326"/>
+<area shape="rect" id="Node000005" href="$classHierarchyCache_1_1HierarchyNode.html#a4d635a9660e1dd2e51922d620d943752" title=" " alt="" coords="585,444,780,489"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="434,367,496,399,520,415,544,429,570,439,569,444,542,434,517,419,494,403,432,371"/>
+<area shape="rect" id="Node000006" href="$classHierarchyCache_1_1HierarchyNode.html#affac470277a717ce7f890f39c3334220" title=" " alt="" coords="585,236,780,281"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="447,321,542,290,570,283,572,288,544,296,449,326"/>
+<area shape="rect" id="Node000007" href="$classHierarchyCache_1_1HierarchyNode.html#af2baf4626ffb655e7b1c2fd15a52006b" title=" " alt="" coords="585,305,780,350"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="491,337,569,332,569,337,491,342"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="453,525,591,524,592,529,453,530"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="453,537,617,565,616,570,453,542"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="410,540,470,571,544,601,592,614,590,619,542,606,468,576,407,544"/>
+<area shape="poly" id="edge16_Node000014_Node000004" title=" " alt="" coords="496,174,573,183,573,188,495,179"/>
+<area shape="rect" id="Node000015" href="$classHierarchyCache.html#acb1a2e53c819a404131c1b00c3105ea7" title=" " alt="" coords="579,29,785,74"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="423,139,479,111,542,84,564,76,566,81,544,89,481,115,425,143"/>
+<area shape="rect" id="Node000016" href="$classHierarchyCache_1_1HierarchyNode.html#a4f2fc4f96ed431930de777d2f82ee332" title=" " alt="" coords="543,98,821,160"/>
+<area shape="poly" id="edge19_Node000014_Node000016" title=" " alt="" coords="495,148,527,144,528,149,496,153"/>
+<area shape="poly" id="edge18_Node000015_Node000015" title=" " alt="" coords="626,29,624,19,634,10,653,5,682,3,714,5,733,12,732,17,713,10,682,8,654,10,636,15,629,21,631,28"/>
 </map>

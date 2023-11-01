@@ -1,0 +1,28 @@
+var structMockedUndoRedoView =
+[
+    [ "MockedUndoRedoView", "structMockedUndoRedoView.html#a0c00db9a7fe942fe52fa31c09f6879c4", null ],
+    [ "addToLayout", "structMockedUndoRedoView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
+    [ "create", "structMockedUndoRedoView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
+    [ "createAndAddToLayout", "structMockedUndoRedoView.html#a93a9174f4de6b909706465a61949bf83", null ],
+    [ "createWidgetWrapper", "structMockedUndoRedoView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
+    [ "getController", "structMockedUndoRedoView.html#a68ba9601f3980fd7f43fe8b5f58a1235", null ],
+    [ "getName", "structMockedUndoRedoView.html#a91674e0da61a21588a192b9300e9a36b", null ],
+    [ "getViewLayout", "structMockedUndoRedoView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
+    [ "getWidgetWrapper", "structMockedUndoRedoView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
+    [ "MOCK_METHOD", "structMockedUndoRedoView.html#ab3ea4c05a8d7d520bd7925825950e520", null ],
+    [ "MOCK_METHOD", "structMockedUndoRedoView.html#a9bcf907c77dfd40a7a52181e72238a95", null ],
+    [ "MOCK_METHOD", "structMockedUndoRedoView.html#a0ca8615625d852e3fd6b06cb547347ed", null ],
+    [ "MOCK_METHOD", "structMockedUndoRedoView.html#adf930bc13615f568b30f94cc075ba814", null ],
+    [ "MOCK_METHOD", "structMockedUndoRedoView.html#a39ae31e237a0056430a73b9c857790e5", null ],
+    [ "refreshView", "structMockedUndoRedoView.html#a47d8e2f48a7e71a9a481df791826b0e6", null ],
+    [ "setComponent", "structMockedUndoRedoView.html#a4148a46723f9be0dfdf36034d1b02cb4", null ],
+    [ "setEnabled", "structMockedUndoRedoView.html#a9e9a72267df76d7a0206fbe4f2328e7d", null ],
+    [ "setRedoButtonEnabled", "structMockedUndoRedoView.html#a0e1f8043ea0a94f6e30345a865e2b3fb", null ],
+    [ "setUndoButtonEnabled", "structMockedUndoRedoView.html#a712f1ce1b243e41bb4dd2f1e8ea9435d", null ],
+    [ "setWidgetWrapper", "structMockedUndoRedoView.html#a6400c84b3738fee7a3066698171547fe", null ],
+    [ "showDockWidget", "structMockedUndoRedoView.html#abce42d26620a80d229ed28f70b2dcd08", null ],
+    [ "updateHistory", "structMockedUndoRedoView.html#a5f47f245abb388bf781e59837fafe47e", null ],
+    [ "m_component", "structMockedUndoRedoView.html#aea146311bfc8ade50aea47dce4795bb6", null ],
+    [ "m_viewLayout", "structMockedUndoRedoView.html#ab1a24bac93610fe8c726b14ce7f96e12", null ],
+    [ "m_widgetWrapper", "structMockedUndoRedoView.html#a8fab697987cb82172050bc8e20f8c541", null ]
+];

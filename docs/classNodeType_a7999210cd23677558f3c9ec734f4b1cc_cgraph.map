@@ -1,8 +1,14 @@
 <map id="NodeType::getIconPath" name="NodeType::getIconPath">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,176,80"/>
-<area shape="rect" id="node2" href="$classFilePath.html#a1f9e209dcb9a8d2b3d39ec6cfdd5c17f" title=" " alt="" coords="585,5,747,31"/>
-<area shape="rect" id="node4" href="$classResourcePaths.html#aac268005efee61f8dcba454dd4e5a097" title=" " alt="" coords="224,55,483,80"/>
-<area shape="rect" id="node6" href="$classNodeType.html#af95a7bb5a659fb7b97f33292f356f14d" title=" " alt="" coords="273,104,433,129"/>
-<area shape="rect" id="node3" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="849,5,980,31"/>
-<area shape="rect" id="node5" href="$classAppPath.html#afb2974614a9eee22c6f8a75fada9ac23" title=" " alt="" coords="531,55,801,80"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,176,84"/>
+<area shape="rect" id="Node000002" href="$classFilePath.html#a1f9e209dcb9a8d2b3d39ec6cfdd5c17f" title=" " alt="" coords="584,5,744,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,53,223,42,407,26,568,18,568,24,407,31,224,47,158,58"/>
+<area shape="rect" id="Node000004" href="$classResourcePaths.html#aac268005efee61f8dcba454dd4e5a097" title=" " alt="" coords="224,56,481,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,67,208,67,208,73,176,73"/>
+<area shape="rect" id="Node000006" href="$classNodeType.html#af95a7bb5a659fb7b97f33292f356f14d" title=" " alt="" coords="273,108,432,136"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="165,82,265,102,264,107,164,87"/>
+<area shape="rect" id="Node000003" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="846,5,977,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="744,17,831,17,831,22,744,22"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="441,53,568,32,569,37,442,58"/>
+<area shape="rect" id="Node000005" href="$classAppPath.html#afb2974614a9eee22c6f8a75fada9ac23" title=" " alt="" coords="529,57,798,85"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="481,68,514,68,514,73,481,73"/>
 </map>

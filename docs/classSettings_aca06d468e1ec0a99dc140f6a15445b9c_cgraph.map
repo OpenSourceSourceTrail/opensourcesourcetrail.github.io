@@ -1,8 +1,14 @@
 <map id="Settings::save" name="Settings::save">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,120,105"/>
-<area shape="rect" id="node2" href="$classSettings.html#a29ce634c9b4756dd6bdcec46a83698fb" title=" " alt="" coords="188,55,303,80"/>
-<area shape="rect" id="node6" href="$classSettings.html#ae84aeec337843d83feb5a966e228c2c7" title=" " alt="" coords="168,104,323,129"/>
-<area shape="rect" id="node3" href="$classFilePath.html#ae09c07f1ae9ac6f650a765cc11cc6494" title=" " alt="" coords="371,5,493,31"/>
-<area shape="rect" id="node4" href="$classFilePath.html#ae43df68f4d64aa712319fcebebf5236b" title=" " alt="" coords="383,55,481,80"/>
-<area shape="rect" id="node5" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="377,104,487,129"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,119,136"/>
+<area shape="rect" id="Node000002" href="$classSettings.html#a29ce634c9b4756dd6bdcec46a83698fb" title=" " alt="" coords="187,81,300,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,111,171,103,172,108,119,116"/>
+<area shape="rect" id="Node000006" href="$classSettings.html#ae84aeec337843d83feb5a966e228c2c7" title=" " alt="" coords="167,133,320,161"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="119,127,152,132,151,137,119,132"/>
+<area shape="rect" id="Node000003" href="$classFilePath.html#ae09c07f1ae9ac6f650a765cc11cc6494" title=" " alt="" coords="368,29,490,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,78,362,59,363,64,296,83"/>
+<area shape="rect" id="Node000004" href="$classFilePath.html#ae43df68f4d64aa712319fcebebf5236b" title=" " alt="" coords="381,81,478,109"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="301,93,365,93,365,98,301,98"/>
+<area shape="rect" id="Node000005" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="375,133,483,161"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="296,107,363,126,362,131,295,112"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="397,30,392,20,396,11,409,5,429,3,451,5,463,12,461,16,450,10,429,8,410,10,400,15,397,20,402,27"/>
 </map>

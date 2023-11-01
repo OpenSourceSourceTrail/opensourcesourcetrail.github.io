@@ -1,10 +1,18 @@
 <map id="QtGraphEdge::isFocusable" name="QtGraphEdge::isFocusable">
-<area shape="rect" id="node1" title=" " alt="" coords="731,45,923,70"/>
-<area shape="rect" id="node2" href="$classGraphFocusHandler.html#a04b6da1fe6fd36647b4945458e256a89" title=" " alt="" coords="525,5,683,45"/>
-<area shape="rect" id="node5" href="$classGraphFocusHandler.html#a21becae068ca09cf53afec45b1c097eb" title=" " alt="" coords="525,69,683,109"/>
-<area shape="rect" id="node3" href="$classGraphFocusHandler.html#a8fec5ef0de550176b76a50fb14b7dd93" title=" " alt="" coords="287,5,444,45"/>
-<area shape="rect" id="node4" href="$classQtGraphicsView.html#adf801883f60878e8684bfcf311eda9b2" title=" " alt="" coords="9,5,201,45"/>
-<area shape="rect" id="node6" href="$classGraphFocusHandler.html#a33039041d05ba7b34e10115aad175afd" title=" " alt="" coords="287,69,444,109"/>
-<area shape="rect" id="node8" href="$classQtGraphEdge.html#a9029db7f76290bd97102f54be1fec3bc" title=" " alt="" coords="253,134,477,159"/>
-<area shape="rect" id="node7" href="$classQtGraphView.html#a71858975a5b07059726b0337d19fe296" title=" " alt="" coords="5,77,205,102"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="728,49,920,76"/>
+<area shape="rect" id="Node000002" href="$classGraphFocusHandler.html#a04b6da1fe6fd36647b4945458e256a89" title=" " alt="" coords="524,5,680,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="716,48,680,43,681,37,717,43"/>
+<area shape="rect" id="Node000005" href="$classGraphFocusHandler.html#a21becae068ca09cf53afec45b1c097eb" title=" " alt="" coords="524,75,680,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="717,82,681,87,680,82,716,76"/>
+<area shape="rect" id="Node000003" href="$classGraphFocusHandler.html#a8fec5ef0de550176b76a50fb14b7dd93" title=" " alt="" coords="286,5,443,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,30,443,30,443,25,509,25"/>
+<area shape="rect" id="Node000004" href="$classQtGraphicsView.html#adf801883f60878e8684bfcf311eda9b2" title=" " alt="" coords="9,5,201,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,30,201,30,201,25,270,25"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="509,73,442,53,444,48,510,68"/>
+<area shape="rect" id="Node000006" href="$classGraphFocusHandler.html#a33039041d05ba7b34e10115aad175afd" title=" " alt="" coords="286,75,443,119"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="509,100,443,100,443,94,509,94"/>
+<area shape="rect" id="Node000008" href="$classQtGraphEdge.html#a9029db7f76290bd97102f54be1fec3bc" title=" " alt="" coords="253,143,476,171"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="510,126,477,134,431,145,430,140,475,129,508,120"/>
+<area shape="rect" id="Node000007" href="$classQtGraphView.html#a71858975a5b07059726b0337d19fe296" title=" " alt="" coords="5,83,205,111"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="270,100,205,100,205,94,270,94"/>
 </map>

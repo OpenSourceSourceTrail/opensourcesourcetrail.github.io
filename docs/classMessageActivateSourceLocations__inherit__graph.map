@@ -1,6 +1,10 @@
 <map id="MessageActivateSourceLocations" name="MessageActivateSourceLocations">
-<area shape="rect" id="node1" title=" " alt="" coords="5,257,245,283"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="22,168,229,208"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="64,5,176,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="142,80,341,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,269,245,297"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="22,175,228,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,235,128,269,122,269,122,235"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="64,5,175,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,48,127,174,122,175,118,48"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="141,82,338,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="155,39,220,80,217,84,152,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,122,152,176,148,172,212,118"/>
 </map>

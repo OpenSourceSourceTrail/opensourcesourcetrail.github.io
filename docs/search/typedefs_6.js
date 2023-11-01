@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['map_0',['Map',['../classSharedMemory.html#a7a858668b4ed6459d62ca938de7053b9',1,'SharedMemory']]],
-  ['masktype_1',['MaskType',['../classNodeTypeSet.html#a2f3bc9c5d20d834231e2f0c80f3fc5b2',1,'NodeTypeSet']]],
-  ['messagebuffertype_2',['MessageBufferType',['../classMessageQueue.html#a0026afdb7fda4a19e42af2e2425aed9b',1,'MessageQueue']]],
-  ['migrationmap_3',['MigrationMap',['../classMigrator.html#a59c6c54968bdf7f74b7d77035305ff60',1,'Migrator']]]
+  ['graphptr_0',['GraphPtr',['../classMockedStorageAccess.html#a5f899a4e0ebb1ef19e7c94c125edbb4c',1,'MockedStorageAccess']]],
+  ['graphviewptr_1',['GraphViewPtr',['../structMockedViewFactory.html#a491e4b7e7b7ad80780cd86aa93453274',1,'MockedViewFactory']]],
+  ['graphviewstyleimplptr_2',['GraphViewStyleImplPtr',['../structMockedViewFactory.html#ae15d5961b248a7af52a66308a8abcde1',1,'MockedViewFactory']]]
 ];

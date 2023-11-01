@@ -9,7 +9,7 @@ var searchData=
   ['vectorbase_3c_20int_2c_204_20_3e_6',['VectorBase&lt; int, 4 &gt;',['../classVectorBase.html',1,'']]],
   ['vectorbase_3c_20t_2c_202_20_3e_7',['VectorBase&lt; T, 2 &gt;',['../classVectorBase.html',1,'']]],
   ['vectorbase_3c_20t_2c_204_20_3e_8',['VectorBase&lt; T, 4 &gt;',['../classVectorBase.html',1,'']]],
-  ['version_9',['Version',['../structplugin_1_1Version.html',1,'plugin::Version'],['../classVersion.html',1,'Version']]],
+  ['version_9',['version',['../structplugin_1_1Version.html',1,'plugin::Version'],['../classVersion.html',1,'Version']]],
   ['view_10',['View',['../classView.html',1,'']]],
   ['viewfactory_11',['ViewFactory',['../classViewFactory.html',1,'']]],
   ['viewlayout_12',['ViewLayout',['../classViewLayout.html',1,'']]],

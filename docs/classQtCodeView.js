@@ -19,7 +19,7 @@ var classQtCodeView =
     [ "deCoFocusTokenIds", "classQtCodeView.html#a00b96b5c968e06b7210b0d2cb2016c03", null ],
     [ "findMatches", "classQtCodeView.html#a2746fc5ac86f34699a60e08196dd7691", null ],
     [ "getController", "classQtCodeView.html#a3d09a2e54966a09cc80dc053f6711514", null ],
-    [ "getName", "classQtCodeView.html#adeb72f9c4d068b6b5dd7b5b37933961d", null ],
+    [ "getName", "classQtCodeView.html#ad83e3cc921af30a68c4fad111fd2ace6", null ],
     [ "getViewLayout", "classQtCodeView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classQtCodeView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "hasNavigationFocus", "classQtCodeView.html#a9f9d0269286119cf2014efb433948a9a", null ],

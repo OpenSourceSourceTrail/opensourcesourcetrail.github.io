@@ -1,6 +1,10 @@
 <map id="StorageEdge" name="StorageEdge">
-<area shape="rect" id="node1" title=" " alt="" coords="91,183,195,208"/>
-<area shape="rect" id="node2" href="$structStorageEdgeData.html" title=" " alt="" coords="19,108,153,133"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,5,44,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="120,5,180,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,192,196,220"/>
+<area shape="rect" id="Node000002" href="$structStorageEdgeData.html" title=" " alt="" coords="20,115,154,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,153,137,190,133,193,104,157"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,44,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="22,48,22,70,29,90,40,103,54,112,51,117,36,106,24,92,17,71,16,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="120,5,180,33"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="179,44,186,56,189,74,186,92,171,149,153,193,148,191,165,147,181,90,183,74,181,58,174,46"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,41,92,58,87,72,85,87,87,114,82,115,80,87,82,71,88,56,105,38"/>
 </map>

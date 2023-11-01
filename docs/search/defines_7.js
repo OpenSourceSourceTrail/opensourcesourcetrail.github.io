@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['unwrap_0',['UNWRAP',['../StorageAccessProxy_8cpp.html#a64b3c41cfd9686f6608d2874a4c00a67',1,'StorageAccessProxy.cpp']]]
+  ['operator_0',['OPERATOR',['../CxxAstVisitor_8h.html#aff8b43cf5395c341c427de7a255e7d36',1,'CxxAstVisitor.h']]]
 ];

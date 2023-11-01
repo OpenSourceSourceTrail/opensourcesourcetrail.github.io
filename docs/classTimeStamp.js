@@ -1,8 +1,8 @@
 var classTimeStamp =
 [
     [ "TimeStamp", "classTimeStamp.html#a130d6c5230be88ae97c3db1ca9362b97", null ],
-    [ "TimeStamp", "classTimeStamp.html#a921a0775f335dbd00156c8bf4c3eb160", null ],
-    [ "TimeStamp", "classTimeStamp.html#ae99c7da7ebb1f208729cd03c2d54da9f", null ],
+    [ "TimeStamp", "classTimeStamp.html#ae3dc3883cb64bdcda671a69bbb511ed0", null ],
+    [ "TimeStamp", "classTimeStamp.html#afc45a9be53dd9a9e4e5601cf39081067", null ],
     [ "dayOfWeek", "classTimeStamp.html#a94b326908aac0f89ffcad197c0f169e7", null ],
     [ "dayOfWeekShort", "classTimeStamp.html#ac1bf4d4e0e946b26db265e1ce10bf0dc", null ],
     [ "deltaDays", "classTimeStamp.html#ac888b5f486e5a5808bb3bf81a6cfc2b4", null ],
@@ -14,13 +14,13 @@ var classTimeStamp =
     [ "isSameDay", "classTimeStamp.html#a6a4790bdb1fdadfdf039951537792d15", null ],
     [ "isValid", "classTimeStamp.html#a9ff803c5f4401d5bed2dda3f76e01469", null ],
     [ "now", "classTimeStamp.html#a740f4a4774218d0a6186dc89cce16a82", null ],
-    [ "operator!=", "classTimeStamp.html#adf410560608d37beb553f91bc2623982", null ],
-    [ "operator<", "classTimeStamp.html#aef9061f043e60b3556586eb1ba1f2470", null ],
-    [ "operator<=", "classTimeStamp.html#aaa6cee1654aa791a2fde5bdc75b50420", null ],
-    [ "operator==", "classTimeStamp.html#a80c6cdc00997fa1d5b41c2f80d25491d", null ],
-    [ "operator>", "classTimeStamp.html#a909ae746c5e516102b861a0fcab2db83", null ],
-    [ "operator>=", "classTimeStamp.html#ac0a5ea1748bf4ef28e935bb5fd0edff3", null ],
-    [ "secondsToString", "classTimeStamp.html#a084a05b52534c97e25739532ab108294", null ],
+    [ "operator!=", "classTimeStamp.html#ac1b23784a52f5db42c47cf10236504ec", null ],
+    [ "operator<", "classTimeStamp.html#ada8392386d2689bddc23fffd4e218d26", null ],
+    [ "operator<=", "classTimeStamp.html#a722fbd9efb63b9ce90fdc6c369deb527", null ],
+    [ "operator==", "classTimeStamp.html#a27cee3fc68133f82abbd4562fbaabaf0", null ],
+    [ "operator>", "classTimeStamp.html#a523320871be46ae655038561ddbd24e5", null ],
+    [ "operator>=", "classTimeStamp.html#acd7cfbeff48233d4d04b85ddf151c4d7", null ],
+    [ "secondsToString", "classTimeStamp.html#ad9239fb04ad1d5bc9dec8bbef9d99e73", null ],
     [ "toString", "classTimeStamp.html#aacbc25009aa6fbd88e8d91ceacdb9d4b", null ],
     [ "m_time", "classTimeStamp.html#a20fbc6319ec58168b0e44b7ebd668471", null ]
 ];

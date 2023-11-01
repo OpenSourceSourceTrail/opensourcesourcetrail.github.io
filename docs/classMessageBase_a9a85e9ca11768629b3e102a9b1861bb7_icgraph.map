@@ -1,12 +1,23 @@
 <map id="MessageBase::setIsLogged" name="MessageBase::setIsLogged">
-<area shape="rect" id="node1" title=" " alt="" coords="297,255,496,281"/>
-<area shape="rect" id="node2" href="$classMessageFocusChanged.html#aea4a5881975fb362551079ccfc21d8dc" title=" " alt="" coords="36,5,219,45"/>
-<area shape="rect" id="node3" href="$classMessageFocusedSearchView.html#ae90e5a45f27f63a6e0b643eef99e1cf8" title=" " alt="" coords="19,69,236,109"/>
-<area shape="rect" id="node4" href="$classMessageFocusIn.html#a3ad1d63cb195ad81592b32ce44c1e504" title=" " alt="" coords="5,134,249,159"/>
-<area shape="rect" id="node5" href="$classMessageFocusOut.html#a248daf8c9cf7372bb8c801833fc35298" title=" " alt="" coords="24,184,231,224"/>
-<area shape="rect" id="node6" href="$classMessageFocusView.html#ad0fcc28d27edfb9782a66e5e381d75da" title=" " alt="" coords="20,248,235,288"/>
-<area shape="rect" id="node7" href="$classMessageScrollCode.html#a83ba0e569a08c45fa4f971c25b472b18" title=" " alt="" coords="49,312,206,352"/>
-<area shape="rect" id="node8" href="$classMessageScrollGraph.html#ad2cd3021f8753752533ebe2ab0d5c09c" title=" " alt="" coords="46,376,209,416"/>
-<area shape="rect" id="node9" href="$classMessageTooltipHide.html#a1b07f98d02767c8141e67ba84058e87b" title=" " alt="" coords="47,440,208,480"/>
-<area shape="rect" id="node10" href="$classMessageTooltipShow.html#a5eb076aa14fcdc564ff7fd2eb88e1908" title=" " alt="" coords="44,504,211,544"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,307,494,335"/>
+<area shape="rect" id="Node000002" href="$classMessageFocusChanged.html#a51031b9e03987b9e312febe5471e9d51" title=" " alt="" coords="36,5,218,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,293,366,243,338,181,298,118,274,89,247,64,217,47,220,43,250,60,278,86,303,115,342,179,371,241,388,291"/>
+<area shape="rect" id="Node000003" href="$classMessageFocusedSearchView.html#a6179c7b1beb3fa9473282e92355e4c99" title=" " alt="" coords="19,75,235,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="378,294,357,258,327,214,290,171,247,134,226,122,229,117,250,129,294,167,332,211,361,255,382,292"/>
+<area shape="rect" id="Node000004" href="$classMessageFocusIn.html#ae32fbc6a4185bbb493f1d0aa26c95aac" title=" " alt="" coords="5,143,249,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,296,320,239,285,209,247,185,221,174,223,169,250,180,289,205,324,235,376,293"/>
+<area shape="rect" id="Node000005" href="$classMessageFocusOut.html#abc4daf4160ae63530bd5b7e3973c627a" title=" " alt="" coords="24,195,230,239"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="353,302,248,254,213,242,215,237,250,249,355,297"/>
+<area shape="rect" id="Node000006" href="$classMessageFocusView.html#af9f737744a8138914ddf22d0ab400e86" title=" " alt="" coords="20,264,234,309"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="281,309,234,303,235,298,282,304"/>
+<area shape="rect" id="Node000007" href="$classMessageScrollCode.html#aa5cae4abd63cb3bb53e67fd66254b485" title=" " alt="" coords="49,333,205,378"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="282,338,206,348,205,343,281,333"/>
+<area shape="rect" id="Node000008" href="$classMessageScrollGraph.html#aaa84d8c9831b22037b412d2bf33457c2" title=" " alt="" coords="46,403,208,447"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="355,345,250,393,209,406,208,401,248,388,353,340"/>
+<area shape="rect" id="Node000009" href="$classMessageTooltipHide.html#a1b07f98d02767c8141e67ba84058e87b" title=" " alt="" coords="47,472,207,517"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="376,348,323,406,288,436,250,462,209,480,207,475,247,457,285,432,319,402,372,345"/>
+<area shape="rect" id="Node000010" href="$classMessageTooltipShow.html#a8a81eaecb58db1497bfac12741e94624" title=" " alt="" coords="44,541,210,586"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="384,350,364,391,335,440,297,489,250,531,211,551,209,546,247,527,293,485,330,437,359,388,380,348"/>
+<area shape="rect" id="Node000011" href="$classMessageTooltipShow.html#ac23bad02deee27e4dfc9752a627e4542" title=" " alt="" coords="44,611,210,655"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="390,350,373,404,345,471,305,541,280,573,250,600,232,613,211,622,209,617,229,608,247,596,276,569,301,538,341,469,368,402,385,349"/>
 </map>

@@ -1,5 +1,12 @@
 <map id="GraphController::groupTrailNodes" name="GraphController::groupTrailNodes">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,204,75"/>
-<area shape="rect" id="node2" href="$classGraphController.html#a4bcdada983f647a20a51b46ccff19e4d" title=" " alt="" coords="252,5,459,45"/>
-<area shape="rect" id="node3" href="$classToken.html#a7327713d89dab24b733a7ff9096deea0" title=" " alt="" coords="305,70,405,95"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,203,81"/>
+<area shape="rect" id="Node000002" href="$classGraphController.html#a4bcdada983f647a20a51b46ccff19e4d" title=" " alt="" coords="251,5,456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,44,235,40,235,45,204,49"/>
+<area shape="rect" id="Node000003" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="504,45,689,72"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="203,59,251,60,456,60,488,59,488,64,456,65,251,65,203,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,38,489,42,488,47,456,43"/>
+<area shape="rect" id="Node000004" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="737,45,884,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="689,56,721,56,721,61,689,61"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="932,45,1089,72"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="884,56,916,56,916,61,884,61"/>
 </map>

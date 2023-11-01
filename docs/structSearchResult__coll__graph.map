@@ -1,7 +1,11 @@
 <map id="SearchResult" name="SearchResult">
-<area shape="rect" id="node1" title=" " alt="" coords="170,93,277,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,76,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="100,5,205,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="230,5,361,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="385,5,424,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,98,275,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,75,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,39,138,72,190,95,188,100,135,76,74,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,203,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,45,188,72,209,96,206,99,184,76,164,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="227,5,357,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,48,265,76,241,99,237,96,261,72,278,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="381,5,419,33"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,45,331,76,272,100,270,95,328,72,373,41"/>
 </map>

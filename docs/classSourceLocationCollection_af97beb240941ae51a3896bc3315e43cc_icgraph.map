@@ -1,7 +1,25 @@
 <map id="SourceLocationCollection::getSourceLocationFileByPath" name="SourceLocationCollection::getSourceLocationFileByPath">
-<area shape="rect" id="node1" title=" " alt="" coords="491,69,709,109"/>
-<area shape="rect" id="node2" href="$classSourceLocationCollection.html#a69b02a9070cc297130373872812acaf8" title=" " alt="" coords="251,69,443,109"/>
-<area shape="rect" id="node3" href="$classSourceLocationCollection.html#a0db579453761e2eaaffad1ffe9022468" title=" " alt="" coords="11,5,197,45"/>
-<area shape="rect" id="node4" href="$classSourceLocationCollection.html#a610afa110bd35dc025cd5326ced3f8f7" title=" " alt="" coords="5,69,203,109"/>
-<area shape="rect" id="node5" href="$classSourceLocationCollection.html#ab78b9642b9097150191828e1d4108770" title=" " alt="" coords="11,133,197,173"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="779,307,997,351"/>
+<area shape="rect" id="Node000002" href="$classSourceLocationCollection.html#a69b02a9070cc297130373872812acaf8" title=" " alt="" coords="540,307,731,351"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,332,732,332,732,326,764,326"/>
+<area shape="rect" id="Node000003" href="$classSourceLocationCollection.html#a0db579453761e2eaaffad1ffe9022468" title=" " alt="" coords="301,237,487,282"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,305,474,285,475,280,542,299"/>
+<area shape="rect" id="Node000011" href="$classSourceLocationCollection.html#a610afa110bd35dc025cd5326ced3f8f7" title=" " alt="" coords="296,307,492,351"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="524,332,493,332,493,326,524,326"/>
+<area shape="rect" id="Node000012" href="$classSourceLocationCollection.html#ab78b9642b9097150191828e1d4108770" title=" " alt="" coords="301,376,487,421"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="542,359,475,378,474,373,540,353"/>
+<area shape="rect" id="Node000004" href="$classSourceLocationsGetCreatedWithOtherEnd.html#a59e78ec29007a51209560d31ad9d34cd" title=" " alt="" coords="26,5,227,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,225,352,187,323,144,288,101,246,65,226,53,228,48,249,60,292,97,328,140,357,184,378,222"/>
+<area shape="rect" id="Node000005" href="$classSourceLocationsDoNotGetCreatedWithWrongInput.html#ac979ad2753877a20e3f4c841f89917eb" title=" " alt="" coords="5,75,248,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="361,228,310,179,279,155,246,134,221,122,223,118,249,129,282,150,313,175,364,224"/>
+<area shape="rect" id="Node000006" href="$classSourceLocationsGetUniqueIdButBothEndsHaveTheSame.html#a0d395894f759b714b340a08471295a7b" title=" " alt="" coords="21,144,232,205"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="306,235,224,208,226,203,307,229"/>
+<area shape="rect" id="Node000007" href="$classSourceLocationsHaveRightFilePathLineColumnAndTokenId.html#a98047ed194ec6342c61f15f47560a759" title=" " alt="" coords="15,229,238,291"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="285,262,239,262,239,257,285,257"/>
+<area shape="rect" id="Node000008" href="$classFindingSourceLocationsById.html#acb54d64650ae495cceee1ed828036773" title=" " alt="" coords="31,315,222,359"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="301,289,248,305,208,317,206,312,247,300,300,284"/>
+<area shape="rect" id="Node000009" href="$classCreatingPlainCopyOfAllLocationsInLineRange.html#ae66c12876acdb64554c405c7cea36bba" title=" " alt="" coords="9,384,244,429"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="303,292,298,296,282,315,274,334,267,354,249,374,230,386,227,381,246,370,262,351,269,332,277,312,294,292,299,288"/>
+<area shape="rect" id="Node000010" href="$classGetSourceLocationsFilteredByLines.html#abb230b6082d7c46fd2f794dce5dc3fee" title=" " alt="" coords="27,453,226,498"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="300,294,298,296,284,314,278,332,275,368,272,406,264,424,250,443,227,459,224,454,246,439,260,422,267,404,270,368,272,331,280,312,294,293,296,290"/>
 </map>

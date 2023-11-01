@@ -1,9 +1,16 @@
 <map id="MessageQuitApplication" name="MessageQuitApplication">
-<area shape="rect" id="node1" title=" " alt="" coords="50,404,230,429"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="6,329,274,355"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="79,167,191,192"/>
-<area shape="rect" id="node7" href="$classMessage.html" title=" " alt="" coords="157,241,355,267"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,80,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="105,5,165,31"/>
-<area shape="rect" id="node6" title=" " alt="" coords="236,5,287,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,430,229,457"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,353,273,380"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,396,142,429,136,429,136,396"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="78,183,189,211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,226,141,352,136,352,132,227"/>
+<area shape="rect" id="Node000007" href="$classMessage.html" title=" " alt="" coords="155,260,352,288"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="169,217,234,257,231,262,166,221"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="6,5,80,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="44,48,49,102,58,131,71,157,84,170,100,180,97,185,81,174,67,161,53,133,44,103,39,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="104,5,163,33"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="136,49,136,183,131,183,131,49"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="234,5,284,33"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="263,49,258,104,248,134,232,161,213,177,191,187,189,182,210,172,228,157,243,132,252,103,258,48"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="227,299,157,354,154,350,224,295"/>
 </map>

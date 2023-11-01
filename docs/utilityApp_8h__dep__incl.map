@@ -1,34 +1,63 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib_gui/utility/utilityApp.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib_gui/utility/utilityApp.h">
-<area shape="rect" id="node1" title=" " alt="" coords="3781,5,3983,75"/>
-<area shape="rect" id="node2" href="$AppPath_8cpp.html" title=" " alt="" coords="5,137,247,192"/>
-<area shape="rect" id="node3" href="$ResourcePaths_8cpp.html" title=" " alt="" coords="271,130,491,199"/>
-<area shape="rect" id="node4" href="$TaskBuildIndex_8cpp.html" title=" " alt="" coords="515,130,718,199"/>
-<area shape="rect" id="node5" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="742,130,1001,199"/>
-<area shape="rect" id="node6" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="1025,130,1227,199"/>
-<area shape="rect" id="node7" href="$Project_8cpp.html" title=" " alt="" coords="1251,137,1465,192"/>
-<area shape="rect" id="node8" href="$SharedMemoryGarbageCollector_8cpp.html" title=" " alt="" coords="1489,130,1755,199"/>
-<area shape="rect" id="node9" href="$LogManager_8cpp.html" title=" " alt="" coords="1779,130,1982,199"/>
-<area shape="rect" id="node10" href="$includesWindows_8h.html" title=" " alt="" coords="2007,130,2219,199"/>
-<area shape="rect" id="node11" href="$QtApplication_8cpp.html" title=" " alt="" coords="2243,137,2494,192"/>
-<area shape="rect" id="node12" href="$QtCodeArea_8cpp.html" title=" " alt="" coords="2518,130,2721,199"/>
-<area shape="rect" id="node13" href="$QtCodeFileList_8cpp.html" title=" " alt="" coords="2745,130,2947,199"/>
-<area shape="rect" id="node14" href="$QtGraphicsView_8cpp.html" title=" " alt="" coords="2971,130,3174,199"/>
-<area shape="rect" id="node15" href="$QtProjectWizard_8cpp.html" title=" " alt="" coords="3198,130,3406,199"/>
-<area shape="rect" id="node16" href="$QtProjectWizardContentPreferences_8cpp.html" title=" " alt="" coords="3430,123,3715,207"/>
-<area shape="rect" id="node17" href="$QtProjectWizardContentSelect_8cpp.html" title=" " alt="" coords="3739,123,4025,207"/>
-<area shape="rect" id="node18" href="$QtProjectWizardContentVS_8cpp.html" title=" " alt="" coords="4049,130,4379,199"/>
-<area shape="rect" id="node19" href="$QtProjectWizardContentPathsFrameworkSearchGlobal_8cpp.html" title=" " alt="" coords="4403,123,4697,207"/>
-<area shape="rect" id="node20" href="$QtProjectWizardContentPathsHeaderSearchGlobal_8cpp.html" title=" " alt="" coords="4722,123,4997,207"/>
-<area shape="rect" id="node21" href="$QtFileDialog_8cpp.html" title=" " alt="" coords="5021,130,5223,199"/>
-<area shape="rect" id="node22" href="$QtFilesAndDirectoriesDialog_8cpp.html" title=" " alt="" coords="5247,130,5482,199"/>
-<area shape="rect" id="node23" href="$utilityQt_8cpp.html" title=" " alt="" coords="5506,130,5709,199"/>
-<area shape="rect" id="node24" href="$QtGraphViewStyleImpl_8cpp.html" title=" " alt="" coords="5733,130,5935,199"/>
-<area shape="rect" id="node25" href="$QtMainView_8cpp.html" title=" " alt="" coords="5959,130,6162,199"/>
-<area shape="rect" id="node26" href="$QtAbout_8cpp.html" title=" " alt="" coords="6186,130,6389,199"/>
-<area shape="rect" id="node27" href="$QtMainWindow_8cpp.html" title=" " alt="" coords="6413,130,6615,199"/>
-<area shape="rect" id="node28" href="$QtPreferencesWindow_8cpp.html" title=" " alt="" coords="6639,130,6842,199"/>
-<area shape="rect" id="node29" href="$CxxVs15HeaderPathDetector_8cpp.html" title=" " alt="" coords="6866,123,7109,207"/>
-<area shape="rect" id="node30" href="$utilityCxxHeaderDetection_8cpp.html" title=" " alt="" coords="7133,123,7359,207"/>
-<area shape="rect" id="node31" href="$utilityApp_8cpp.html" title=" " alt="" coords="7383,130,7586,199"/>
-<area shape="rect" id="node32" href="$utilityPathDetection_8cpp.html" title=" " alt="" coords="7610,130,7813,199"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib_gui/utility/utilityApp.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib_gui/utility/utilityApp.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="4692,5,4974,84"/>
+<area shape="rect" id="Node000002" href="$AppPath_8cpp.html" title=" " alt="" coords="5,149,295,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4676,49,3740,54,2376,68,1685,79,1070,93,590,112,421,123,308,135,237,151,236,146,307,129,420,117,590,106,1070,88,1685,73,2376,62,3740,49,4676,44"/>
+<area shape="rect" id="Node000003" href="$ResourcePaths_8cpp.html" title=" " alt="" coords="319,149,650,211"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="4676,50,3806,57,2554,73,1922,84,1359,98,921,115,766,125,662,135,583,151,582,146,662,129,765,119,921,110,1359,93,1922,79,2554,68,3806,52,4676,44"/>
+<area shape="rect" id="Node000004" href="$TaskBuildIndex_8cpp.html" title=" " alt="" coords="674,141,957,219"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="4676,50,3863,57,2707,72,2126,83,1609,97,1206,114,1064,124,969,135,931,143,930,137,968,129,1064,119,1206,109,1609,92,2125,78,2707,66,3863,51,4676,44"/>
+<area shape="rect" id="Node000005" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="981,141,1263,219"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="4676,50,3921,58,2861,74,2330,85,1859,99,1492,116,1362,125,1276,135,1238,142,1237,137,1275,129,1362,120,1492,110,1859,94,2330,80,2861,69,3921,53,4676,45"/>
+<area shape="rect" id="Node000006" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="1288,141,1570,219"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="4676,50,3980,59,3017,76,2110,102,1778,117,1661,126,1582,135,1545,142,1544,137,1582,129,1660,120,1778,112,2109,96,3017,71,3980,54,4676,45"/>
+<area shape="rect" id="Node000007" href="$Project_8cpp.html" title=" " alt="" coords="1594,149,1877,211"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="4676,51,4038,61,3172,79,2360,104,2064,118,1889,135,1821,151,1820,146,1888,129,2064,113,2360,98,3171,74,4038,56,4676,45"/>
+<area shape="rect" id="Node000008" href="$SharedMemoryGarbageCollector_8cpp.html" title=" " alt="" coords="1901,141,2183,219"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="4676,48,4148,51,3432,62,3062,72,2717,88,2420,108,2297,121,2196,135,2159,142,2157,137,2195,129,2297,115,2420,103,2717,82,3062,67,3431,56,4148,45,4676,43"/>
+<area shape="rect" id="Node000009" href="$includesWindows_8h.html" title=" " alt="" coords="2208,141,2490,219"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="4676,49,4205,54,3577,67,3255,77,2955,92,2698,111,2502,135,2465,143,2464,137,2502,129,2697,106,2955,87,3255,72,3577,61,4205,48,4676,44"/>
+<area shape="rect" id="Node000010" href="$QtApplication_8cpp.html" title=" " alt="" coords="2514,149,2813,211"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="4676,51,4265,58,3731,73,3207,98,2990,115,2825,135,2754,151,2753,146,2824,129,2989,109,3206,93,3731,68,4265,53,4676,45"/>
+<area shape="rect" id="Node000011" href="$QtCodeArea_8cpp.html" title=" " alt="" coords="2837,141,3119,219"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="4676,52,4323,61,3878,77,3446,101,3268,117,3132,135,3095,142,3094,137,3131,129,3267,111,3446,96,3878,72,4323,55,4676,46"/>
+<area shape="rect" id="Node000012" href="$QtCodeFileList_8cpp.html" title=" " alt="" coords="3144,141,3426,219"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="4676,54,4384,65,4028,82,3686,106,3546,120,3438,135,3403,142,3401,137,3438,129,3545,114,3686,100,4027,77,4384,60,4676,48"/>
+<area shape="rect" id="Node000013" href="$QtGraphicsView_8cpp.html" title=" " alt="" coords="3450,141,3733,219"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="4676,50,4487,57,4254,71,3999,96,3870,113,3745,135,3710,142,3709,137,3744,129,3870,108,3998,91,4253,66,4487,52,4676,45"/>
+<area shape="rect" id="Node000014" href="$QtProjectWizard_8cpp.html" title=" " alt="" coords="3757,141,4039,219"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="4676,57,4385,84,4217,106,4052,135,4018,143,4017,137,4051,129,4216,100,4384,78,4676,52"/>
+<area shape="rect" id="Node000015" href="$QtProjectWizardContentPreferences_8cpp.html" title=" " alt="" coords="4064,141,4452,219"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="4677,85,4426,142,4425,137,4676,79"/>
+<area shape="rect" id="Node000016" href="$QtProjectWizardContentSelect_8cpp.html" title=" " alt="" coords="4476,141,4827,219"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="4770,95,4705,142,4702,138,4766,91"/>
+<area shape="rect" id="Node000017" href="$QtProjectWizardContentVS_8cpp.html" title=" " alt="" coords="4851,141,5180,219"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="4899,91,4964,138,4961,142,4896,95"/>
+<area shape="rect" id="Node000018" href="$QtProjectWizardContentPathsFrameworkSearchGlobal_8cpp.html" title=" " alt="" coords="5203,132,5564,228"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="4990,81,5192,129,5204,132,5202,137,5191,135,4988,86"/>
+<area shape="rect" id="Node000019" href="$QtProjectWizardContentPathsHeaderSearchGlobal_8cpp.html" title=" " alt="" coords="5587,132,5948,228"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="4990,56,5264,84,5421,105,5576,129,5587,131,5586,137,5575,135,5420,110,5263,90,4989,61"/>
+<area shape="rect" id="Node000020" href="$QtFileDialog_8cpp.html" title=" " alt="" coords="5972,141,6254,219"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="4989,45,5185,51,5428,64,5695,90,5829,107,5960,129,5995,137,5994,142,5959,135,5828,113,5694,95,5428,70,5185,56,4989,50"/>
+<area shape="rect" id="Node000021" href="$QtFilesAndDirectoriesDialog_8cpp.html" title=" " alt="" coords="6278,141,6561,219"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="4989,48,5290,59,5657,76,6010,100,6155,114,6266,129,6303,137,6301,142,6266,135,6155,119,6009,105,5657,82,5289,64,4989,53"/>
+<area shape="rect" id="Node000022" href="$utilityQt_8cpp.html" title=" " alt="" coords="6585,141,6867,219"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="4989,46,5349,55,5806,71,6250,95,6433,111,6573,129,6610,137,6609,142,6572,135,6433,116,6249,101,5806,76,5349,60,4989,51"/>
+<area shape="rect" id="Node000023" href="$QtGraphViewStyleImpl_8cpp.html" title=" " alt="" coords="6892,141,7174,219"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="4989,45,5408,51,5953,66,6231,77,6489,91,6711,108,6880,129,6917,137,6916,142,6879,135,6711,114,6489,96,6231,82,5953,71,5408,57,4989,50"/>
+<area shape="rect" id="Node000024" href="$QtMainView_8cpp.html" title=" " alt="" coords="7198,141,7481,219"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="4990,44,5465,48,6100,61,6425,72,6728,86,6989,105,7186,129,7224,137,7223,143,7186,135,6988,111,6728,92,6425,77,6099,66,5465,53,4990,49"/>
+<area shape="rect" id="Node000025" href="$QtAbout_8cpp.html" title=" " alt="" coords="7505,141,7787,219"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="4989,43,5521,45,6244,56,6617,67,6966,82,7266,103,7390,115,7493,129,7531,137,7529,142,7492,135,7390,120,7266,108,6966,87,6617,72,6244,61,5521,51,4989,48"/>
+<area shape="rect" id="Node000026" href="$QtMainWindow_8cpp.html" title=" " alt="" coords="7812,141,8094,219"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="4990,45,5631,56,6505,73,7324,98,7623,113,7800,129,7838,137,7837,143,7799,135,7622,118,7324,104,6505,79,5631,61,4989,51"/>
+<area shape="rect" id="Node000027" href="$QtPreferencesWindow_8cpp.html" title=" " alt="" coords="8118,141,8401,219"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="4989,45,5690,54,6660,71,7574,96,7909,112,8027,120,8106,129,8144,137,8143,142,8106,135,8027,126,7908,117,7574,101,6660,76,5690,59,4989,50"/>
+<area shape="rect" id="Node000028" href="$CxxVs15HeaderPathDetector_8cpp.html" title=" " alt="" coords="8424,141,8839,219"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="4990,43,5682,46,6672,57,7190,67,7676,82,8096,103,8269,115,8413,129,8466,137,8465,142,8412,135,8269,121,8096,108,7676,88,7190,73,6672,62,5682,51,4990,49"/>
+<area shape="rect" id="Node000029" href="$utilityCxxHeaderDetection_8cpp.html" title=" " alt="" coords="8863,141,9261,219"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="4989,45,5830,55,7034,72,8181,98,8601,113,8850,129,8902,137,8901,143,8850,135,8601,118,8181,103,7034,78,5830,60,4989,50"/>
+<area shape="rect" id="Node000030" href="$utilityApp_8cpp.html" title=" " alt="" coords="9285,141,9567,219"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="4989,44,5909,49,7247,62,7923,73,8526,88,8996,106,9162,117,9273,129,9311,137,9310,143,9272,135,9162,123,8995,112,8526,93,7923,78,7246,67,5909,54,4989,49"/>
+<area shape="rect" id="Node000031" href="$utilityPathDetection_8cpp.html" title=" " alt="" coords="9592,141,9874,219"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="4989,44,5966,47,7399,60,8127,71,8776,86,9281,105,9460,116,9580,129,9618,137,9617,142,9579,135,9460,122,9281,110,8776,91,8127,76,7399,65,5966,53,4989,49"/>
 </map>

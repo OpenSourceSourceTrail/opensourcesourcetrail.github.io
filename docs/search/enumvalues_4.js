@@ -17,5 +17,6 @@ var searchData=
   ['edge_5fusage_14',['EDGE_USAGE',['../classEdge.html#a45baaaa59a9bd0b4391718a973b1c217a339138f0774aadc0f2f3e380170c8635',1,'Edge']]],
   ['elide_5fleft_15',['ELIDE_LEFT',['../namespaceutility.html#a7db0f3b6033e0f8345e3a93fb448cfe3a4e2832c598b58e630ef16215d301376c',1,'utility']]],
   ['elide_5fmiddle_16',['ELIDE_MIDDLE',['../namespaceutility.html#a7db0f3b6033e0f8345e3a93fb448cfe3aebf27ed35f7534e9253f973626fa9380',1,'utility']]],
-  ['elide_5fright_17',['ELIDE_RIGHT',['../namespaceutility.html#a7db0f3b6033e0f8345e3a93fb448cfe3ac8a7c19b0323960570e9c811cbff11c6',1,'utility']]]
+  ['elide_5fright_17',['ELIDE_RIGHT',['../namespaceutility.html#a7db0f3b6033e0f8345e3a93fb448cfe3ac8a7c19b0323960570e9c811cbff11c6',1,'utility']]],
+  ['empty_18',['EMPTY',['../classProject.html#a3197d8bd96b9c9c9569cfec5460638f3aba2b45bdc11e2a4a6e86aab2ac693cbb',1,'Project']]]
 ];

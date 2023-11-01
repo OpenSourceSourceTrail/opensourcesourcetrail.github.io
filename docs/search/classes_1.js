@@ -14,5 +14,5 @@ var searchData=
   ['branch_11',['Branch',['../classLowMemoryStringMap_1_1Branch.html',1,'LowMemoryStringMap']]],
   ['bucket_12',['Bucket',['../classBucket.html',1,'']]],
   ['bucketlayouter_13',['BucketLayouter',['../classBucketLayouter.html',1,'']]],
-  ['bundleinfo_14',['BundleInfo',['../structDummyNode_1_1BundleInfo.html',1,'DummyNode::BundleInfo'],['../structNodeType_1_1BundleInfo.html',1,'NodeType::BundleInfo']]]
+  ['bundleinfo_14',['bundleinfo',['../structDummyNode_1_1BundleInfo.html',1,'DummyNode::BundleInfo'],['../structNodeType_1_1BundleInfo.html',1,'NodeType::BundleInfo']]]
 ];

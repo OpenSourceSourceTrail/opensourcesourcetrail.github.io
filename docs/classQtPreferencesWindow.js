@@ -12,7 +12,7 @@ var classQtPreferencesWindow =
     [ "handleClose", "classQtPreferencesWindow.html#a2ba2b21448b4008f0a30e174b6794b6e", null ],
     [ "handleClosePress", "classQtPreferencesWindow.html#a3fd4d4aa1c2f10535c8f3b0805143d54", null ],
     [ "handleNext", "classQtPreferencesWindow.html#a29f8a0bfa062824baf9c5b2668f4a7ac", null ],
-    [ "handleNextPress", "classQtPreferencesWindow.html#abeb8f1b5e8d9eeabde1b66d6993012cf", null ],
+    [ "handleNextPress", "classQtPreferencesWindow.html#a67785ed1a0f4ca831b70c6771f1f6c6c", null ],
     [ "handlePrevious", "classQtPreferencesWindow.html#a39793c44c68d15fdba7578a8486680a3", null ],
     [ "handlePreviousPress", "classQtPreferencesWindow.html#a6758548842eebef1af7e9463a040cd3f", null ],
     [ "hideWindow", "classQtPreferencesWindow.html#a932ab453a347b3d196e431ff9c2626eb", null ],

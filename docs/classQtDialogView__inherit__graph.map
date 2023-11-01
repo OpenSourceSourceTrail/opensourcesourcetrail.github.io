@@ -1,10 +1,22 @@
 <map id="QtDialogView" name="QtDialogView">
-<area shape="rect" id="node1" title=" " alt="" coords="952,112,1063,137"/>
-<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="763,5,837,31"/>
-<area shape="rect" id="node3" href="$classDialogView.html" title=" " alt="" coords="752,55,848,80"/>
-<area shape="rect" id="node4" href="$classMessageListener.html" title=" " alt="" coords="697,105,903,145"/>
-<area shape="rect" id="node5" href="$classMessageListenerBase.html" title=" " alt="" coords="5,212,169,237"/>
-<area shape="rect" id="node6" href="$classMessageListener.html" title=" " alt="" coords="219,170,424,210"/>
-<area shape="rect" id="node7" href="$classMessageListener.html" title=" " alt="" coords="697,169,903,209"/>
-<area shape="rect" id="node8" href="$classMessageListener.html" title=" " alt="" coords="697,233,903,273"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="949,117,1059,145"/>
+<area shape="rect" id="Node000002" href="$classQObject.html" title=" " alt="" coords="761,5,834,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="850,26,901,43,953,79,991,115,988,119,950,83,898,48,849,31"/>
+<area shape="rect" id="Node000003" href="$classDialogView.html" title=" " alt="" coords="750,57,845,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="861,83,900,94,963,114,962,119,899,99,860,88"/>
+<area shape="rect" id="Node000004" href="$classMessageListener.html" title=" " alt="" coords="695,109,900,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="915,129,948,129,948,134,915,134"/>
+<area shape="rect" id="Node000005" href="$classMessageListenerBase.html" title=" " alt="" coords="5,223,169,250"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="122,212,166,187,217,165,279,146,343,133,472,117,593,114,695,118,695,124,593,120,472,123,344,138,280,151,219,170,169,192,125,216"/>
+<area shape="rect" id="Node000006" href="$classMessageListener.html" title=" " alt="" coords="218,180,422,224"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="184,219,217,214,218,220,184,225"/>
+<area shape="rect" id="Node000007" href="$classMessageListener.html" title=" " alt="" coords="695,178,900,223"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="185,248,309,262,450,274,579,274,631,269,670,258,677,253,682,247,694,233,716,221,719,226,697,237,686,250,681,257,672,263,632,274,580,280,449,279,308,268,184,253"/>
+<area shape="rect" id="Node000008" href="$classMessageListener.html" title=" " alt="" coords="695,248,900,292"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="118,258,153,280,194,298,264,316,324,326,378,330,429,329,536,317,671,298,714,290,715,295,672,303,537,322,430,334,378,335,324,331,263,321,192,303,150,285,115,262"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="438,178,446,177,695,141,695,147,447,182,438,183"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="438,199,695,198,695,203,438,204"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="438,220,447,222,695,255,695,261,446,227,438,225"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="880,170,960,143,961,148,882,175"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="889,238,898,233,927,212,953,187,990,144,994,147,956,191,930,216,901,237,892,243"/>
 </map>

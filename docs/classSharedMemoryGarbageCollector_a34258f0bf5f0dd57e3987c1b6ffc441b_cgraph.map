@@ -1,17 +1,35 @@
 <map id="SharedMemoryGarbageCollector::stop" name="SharedMemoryGarbageCollector::stop">
-<area shape="rect" id="node1" title=" " alt="" coords="5,152,240,192"/>
-<area shape="rect" id="node2" href="$classSharedMemory_1_1ScopedAccess.html#a2d8027e6c2dd6df9a66dac209793cc93" title=" " alt="" coords="596,31,816,71"/>
-<area shape="rect" id="node3" href="$classSharedMemory_1_1ScopedAccess.html#ab30438bfd4b6345dba19341fcb8f032f" title=" " alt="" coords="889,31,1109,71"/>
-<area shape="rect" id="node4" href="$classSharedMemory.html#ac29e90cdb027ff3d6f23da03428f9dd7" title=" " alt="" coords="599,95,813,135"/>
-<area shape="rect" id="node5" href="$classTimeStamp.html#a2717bd6f332b1b0e3c42b5836c805cdd" title=" " alt="" coords="633,160,779,185"/>
-<area shape="rect" id="node6" href="$classSharedMemoryGarbageCollector.html#aa26ec85107ce8faa9a56a90313a1fdc6" title=" " alt="" coords="288,550,523,590"/>
-<area shape="rect" id="node8" href="$classTimeStamp.html#a740f4a4774218d0a6186dc89cce16a82" title=" " alt="" coords="641,566,771,592"/>
-<area shape="rect" id="node10" href="$classSharedMemoryGarbageCollector.html#ad930a9a576894c0290079616cb1554e7" title=" " alt="" coords="288,260,523,300"/>
-<area shape="rect" id="node7" href="$namespaceutility.html#ae63d2d12ed4d451c2ccc0f1c9ff3fc90" title=" " alt="" coords="571,616,841,641"/>
-<area shape="rect" id="node9" href="$classTimeStamp.html#a130d6c5230be88ae97c3db1ca9362b97" title=" " alt="" coords="910,566,1089,592"/>
-<area shape="rect" id="node11" href="$classSharedMemory_1_1ScopedAccess.html#acaa8dbdd8c8a32d2f72308755b570403" title=" " alt="" coords="596,260,816,300"/>
-<area shape="rect" id="node12" href="$classSharedMemory_1_1ScopedAccess.html#adacee40c189e7cbc235d68b45bdfc1b4" title=" " alt="" coords="596,324,816,364"/>
-<area shape="rect" id="node13" href="$classSharedMemory_1_1ScopedAccess.html#a9c1a4fec6467a641f1bb86e39c5202d9" title=" " alt="" coords="596,388,816,428"/>
-<area shape="rect" id="node14" href="$classSharedMemory_1_1ScopedAccess.html#a72942dd31464a0aecf2cfbb01abb65ee" title=" " alt="" coords="596,452,816,492"/>
-<area shape="rect" id="node15" href="$classTimeStamp.html#aacbc25009aa6fbd88e8d91ceacdb9d4b" title=" " alt="" coords="629,517,783,542"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,239,205"/>
+<area shape="rect" id="Node000002" href="$classSharedMemory_1_1ScopedAccess.html#a2d8027e6c2dd6df9a66dac209793cc93" title=" " alt="" coords="593,31,812,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,157,286,132,437,99,577,72,578,77,438,104,287,137,197,162"/>
+<area shape="rect" id="Node000003" href="$classSharedMemory_1_1ScopedAccess.html#ab30438bfd4b6345dba19341fcb8f032f" title=" " alt="" coords="885,31,1105,76"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="158,157,217,124,286,91,434,37,496,20,556,9,616,4,680,3,838,16,892,25,891,30,837,21,680,9,616,9,556,14,498,25,436,42,288,96,219,128,160,162"/>
+<area shape="rect" id="Node000004" href="$classSharedMemory.html#ac29e90cdb027ff3d6f23da03428f9dd7" title=" " alt="" coords="596,100,809,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,166,286,161,580,132,581,137,287,167,240,172"/>
+<area shape="rect" id="Node000005" href="$classTimeStamp.html#a2717bd6f332b1b0e3c42b5836c805cdd" title=" " alt="" coords="631,169,775,196"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,180,615,180,615,185,239,185"/>
+<area shape="rect" id="Node000006" href="$classSharedMemoryGarbageCollector.html#aa26ec85107ce8faa9a56a90313a1fdc6" title=" " alt="" coords="287,579,520,624"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="140,204,289,433,380,565,375,568,284,436,136,207"/>
+<area shape="rect" id="Node000008" href="$classTimeStamp.html#a740f4a4774218d0a6186dc89cce16a82" title=" " alt="" coords="638,599,768,627"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="143,204,205,279,303,383,362,439,427,493,497,542,569,584,595,595,623,602,622,607,594,600,567,589,494,547,424,497,359,443,299,387,201,282,139,207"/>
+<area shape="rect" id="Node000009" href="$classSharedMemoryGarbageCollector.html#ad930a9a576894c0290079616cb1554e7" title=" " alt="" coords="287,271,520,316"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="182,203,331,262,329,267,180,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="813,51,870,51,870,56,813,56"/>
+<area shape="rect" id="Node000007" href="$namespaceutility.html#ae63d2d12ed4d451c2ccc0f1c9ff3fc90" title=" " alt="" coords="568,651,837,679"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="504,622,569,636,613,645,612,650,567,641,502,627"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="414,269,437,230,471,180,515,129,566,86,577,79,580,84,570,90,518,133,475,183,441,232,418,272"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="510,268,568,256,645,246,707,243,766,234,799,223,836,206,876,180,912,149,967,86,971,90,915,152,879,184,839,210,801,228,767,239,707,248,646,251,568,261,511,273"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="424,268,484,212,524,181,567,155,580,149,583,153,569,160,527,185,488,216,427,272"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="445,268,502,239,567,212,615,198,616,203,569,217,504,244,447,273"/>
+<area shape="poly" id="edge18_Node000009_Node000008" title=" " alt="" coords="441,314,484,349,505,371,522,396,535,423,540,450,540,497,540,520,543,542,552,563,570,585,594,601,623,609,621,615,592,605,566,589,547,566,538,543,534,520,535,497,535,450,530,425,518,399,501,375,480,353,438,318"/>
+<area shape="rect" id="Node000010" href="$classSharedMemory_1_1ScopedAccess.html#acaa8dbdd8c8a32d2f72308755b570403" title=" " alt="" coords="593,271,812,316"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="521,291,578,291,578,296,521,296"/>
+<area shape="rect" id="Node000011" href="$classSharedMemory_1_1ScopedAccess.html#adacee40c189e7cbc235d68b45bdfc1b4" title=" " alt="" coords="593,340,812,385"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="504,314,589,334,588,339,502,319"/>
+<area shape="rect" id="Node000012" href="$classSharedMemory_1_1ScopedAccess.html#a9c1a4fec6467a641f1bb86e39c5202d9" title=" " alt="" coords="593,410,812,454"/>
+<area shape="poly" id="edge16_Node000009_Node000012" title=" " alt="" coords="436,314,496,355,569,395,586,402,584,406,567,400,493,360,433,318"/>
+<area shape="rect" id="Node000013" href="$classSharedMemory_1_1ScopedAccess.html#a72942dd31464a0aecf2cfbb01abb65ee" title=" " alt="" coords="593,479,812,524"/>
+<area shape="poly" id="edge17_Node000009_Node000013" title=" " alt="" coords="435,314,478,351,522,396,536,416,544,433,553,449,570,464,580,471,578,476,566,469,549,452,539,436,531,418,518,399,474,355,432,318"/>
+<area shape="rect" id="Node000014" href="$classTimeStamp.html#aacbc25009aa6fbd88e8d91ceacdb9d4b" title=" " alt="" coords="626,547,780,575"/>
+<area shape="poly" id="edge19_Node000009_Node000014" title=" " alt="" coords="440,314,482,350,522,396,533,416,538,435,542,471,547,503,555,518,570,534,589,546,611,555,609,560,587,551,566,538,551,522,542,505,536,471,533,436,528,418,518,399,479,353,436,318"/>
 </map>

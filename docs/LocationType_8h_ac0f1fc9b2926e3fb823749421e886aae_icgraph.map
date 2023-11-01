@@ -1,14 +1,27 @@
 <map id="locationTypeToInt" name="locationTypeToInt">
-<area shape="rect" id="node1" title=" " alt="" coords="549,313,684,338"/>
-<area shape="rect" id="node2" href="$classParserClientImpl.html#a38fd347539a082c7e0ad1498321b0560" title=" " alt="" coords="288,133,495,173"/>
-<area shape="rect" id="node7" href="$classSqliteIndexStorage.html#aaba274286ec27ae81bcfad50307b3396" title=" " alt="" coords="290,226,493,281"/>
-<area shape="rect" id="node9" href="$classParserClientImpl.html#aeb3f441fc9ef929f93e522876b570e40" title=" " alt="" coords="302,305,481,345"/>
-<area shape="rect" id="node10" href="$classSqliteIndexStorage.html#a5fd25eb92f94efc9a2c500d4e1495467" title=" " alt="" coords="295,369,488,409"/>
-<area shape="rect" id="node12" href="$classIntermediateStorage.html#a9fe1399c7334857d1b1498e15ffd4fd6" title=" " alt="" coords="281,433,501,473"/>
-<area shape="rect" id="node3" href="$classParserClientImpl.html#ac152d71d3c75f8a1153511d5127a2309" title=" " alt="" coords="30,5,209,45"/>
-<area shape="rect" id="node4" href="$classParserClientImpl.html#a15433e2b38a4ff7c08431ac663c0516a" title=" " alt="" coords="30,69,209,109"/>
-<area shape="rect" id="node5" href="$classParserClientImpl.html#a22923680a48411916454a929d07ae021" title=" " alt="" coords="30,133,209,173"/>
-<area shape="rect" id="node6" href="$classParserClientImpl.html#ae2699e86a418dceb2577336b8114b3fd" title=" " alt="" coords="30,197,209,237"/>
-<area shape="rect" id="node8" href="$classPersistentStorage.html#a982e3f33d8f12359255876bbb7011536" title=" " alt="" coords="5,261,233,301"/>
-<area shape="rect" id="node11" href="$classPersistentStorage.html#ad056a13503161ad80db950555294cd0e" title=" " alt="" coords="47,369,192,409"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="548,373,682,400"/>
+<area shape="rect" id="Node000002" href="$classParserClientImpl.html#a38fd347539a082c7e0ad1498321b0560" title=" " alt="" coords="288,144,493,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,361,555,299,528,265,498,234,468,210,437,191,440,187,471,206,502,230,532,261,560,296,601,358"/>
+<area shape="rect" id="Node000007" href="$classSqliteIndexStorage.html#aaba274286ec27ae81bcfad50307b3396" title=" " alt="" coords="290,244,491,305"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="579,366,499,319,475,308,477,303,501,315,581,361"/>
+<area shape="rect" id="Node000009" href="$classParserClientImpl.html#aeb3f441fc9ef929f93e522876b570e40" title=" " alt="" coords="301,329,480,374"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="533,376,480,368,481,363,533,371"/>
+<area shape="rect" id="Node000010" href="$classSqliteIndexStorage.html#a5fd25eb92f94efc9a2c500d4e1495467" title=" " alt="" coords="294,399,487,443"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="533,402,487,409,487,403,532,396"/>
+<area shape="rect" id="Node000012" href="$classIntermediateStorage.html#a9fe1399c7334857d1b1498e15ffd4fd6" title=" " alt="" coords="281,468,500,513"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="582,411,544,435,501,458,472,470,470,465,499,453,542,431,580,407"/>
+<area shape="rect" id="Node000013" href="$LocationTypeTestSuite_8cpp.html#a029d58a28329633b2b3201793ed47651" title=" " alt="" coords="364,537,417,564"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="601,415,561,473,533,502,501,527,459,545,418,552,417,546,457,539,499,523,530,498,557,469,597,412"/>
+<area shape="rect" id="Node000003" href="$classParserClientImpl.html#ac152d71d3c75f8a1153511d5127a2309" title=" " alt="" coords="30,5,208,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,137,293,100,232,65,203,53,205,48,234,60,296,95,350,132"/>
+<area shape="rect" id="Node000004" href="$classParserClientImpl.html#a15433e2b38a4ff7c08431ac663c0516a" title=" " alt="" coords="30,75,208,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,142,208,122,209,117,286,137"/>
+<area shape="rect" id="Node000005" href="$classParserClientImpl.html#a22923680a48411916454a929d07ae021" title=" " alt="" coords="30,144,208,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="272,169,209,169,209,164,272,164"/>
+<area shape="rect" id="Node000006" href="$classParserClientImpl.html#ae2699e86a418dceb2577336b8114b3fd" title=" " alt="" coords="30,213,208,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="286,196,209,215,208,210,285,191"/>
+<area shape="rect" id="Node000008" href="$classPersistentStorage.html#a982e3f33d8f12359255876bbb7011536" title=" " alt="" coords="5,283,233,327"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="274,290,233,295,233,289,274,285"/>
+<area shape="rect" id="Node000011" href="$classPersistentStorage.html#ad056a13503161ad80db950555294cd0e" title=" " alt="" coords="47,399,191,443"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="278,424,191,424,191,418,278,418"/>
 </map>

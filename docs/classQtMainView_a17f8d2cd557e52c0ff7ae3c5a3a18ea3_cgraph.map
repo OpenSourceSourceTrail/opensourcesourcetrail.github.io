@@ -1,7 +1,11 @@
 <map id="QtMainView::showView" name="QtMainView::showView">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,180,56"/>
-<area shape="rect" id="node2" href="$classQtMainWindow.html#a19b3f37ae7d2c4a2868de705198a989c" title=" " alt="" coords="228,31,423,56"/>
-<area shape="rect" id="node3" href="$classQtMainWindow.html#a01860cd986d2414202c2aa79d97b8e21" title=" " alt="" coords="471,23,700,63"/>
-<area shape="rect" id="node4" href="$classCompositeView.html#ac0fa8b33e2846ec71b5d6b7298633e8e" title=" " alt="" coords="748,5,940,31"/>
-<area shape="rect" id="node5" href="$classTabbedView.html#a80e982075c9847a25372a791465bfd7b" title=" " alt="" coords="760,55,928,80"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,180,60"/>
+<area shape="rect" id="Node000002" href="$classQtMainWindow.html#a19b3f37ae7d2c4a2868de705198a989c" title=" " alt="" coords="228,32,422,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,43,212,43,212,49,180,49"/>
+<area shape="rect" id="Node000003" href="$classQtMainWindow.html#a01860cd986d2414202c2aa79d97b8e21" title=" " alt="" coords="470,24,698,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,43,454,43,454,49,422,49"/>
+<area shape="rect" id="Node000004" href="$classCompositeView.html#ac0fa8b33e2846ec71b5d6b7298633e8e" title=" " alt="" coords="746,5,938,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="699,31,730,28,731,33,699,37"/>
+<area shape="rect" id="Node000005" href="$classTabbedView.html#a80e982075c9847a25372a791465bfd7b" title=" " alt="" coords="758,57,926,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="699,54,743,59,742,64,699,60"/>
 </map>

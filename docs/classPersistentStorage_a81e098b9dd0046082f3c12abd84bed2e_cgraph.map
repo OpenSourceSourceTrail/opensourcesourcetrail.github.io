@@ -1,14 +1,27 @@
 <map id="PersistentStorage::getNodeIdForNameHierarchy" name="PersistentStorage::getNodeIdForNameHierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,126,216,166"/>
-<area shape="rect" id="node2" href="$classSqliteIndexStorage.html#a763983a48200795896512e66657c9b21" title=" " alt="" coords="264,73,469,113"/>
-<area shape="rect" id="node6" href="$classNameHierarchy.html#a0b0c0f2ba97e519e9d2d87ba12d342d6" title=" " alt="" coords="273,161,460,187"/>
-<area shape="rect" id="node3" href="$namespaceutility.html#aa2aad75e2450a26e520180d5b059c638" title=" " alt="" coords="534,5,709,31"/>
-<area shape="rect" id="node4" href="$namespaceutility.html#a3370ea0d4afa1a0a4376d2fe034799ce" title=" " alt="" coords="543,55,699,80"/>
-<area shape="rect" id="node5" href="$classSqliteStorage.html#a6a89b1a3823a6ba065874769b09bf9cc" title=" " alt="" coords="517,104,725,129"/>
-<area shape="rect" id="node7" href="$classNameHierarchy.html#a8f09e39f0ed5c097c2888a731eb64404" title=" " alt="" coords="528,154,715,194"/>
-<area shape="rect" id="node12" href="$classNameHierarchy.html#a760966798a0edd110618a6179d646810" title=" " alt="" coords="802,255,959,280"/>
-<area shape="rect" id="node8" href="$classNameHierarchy.html#a120b074b23a0f96740d3245a1ca9f6d9" title=" " alt="" coords="774,27,987,52"/>
-<area shape="rect" id="node9" href="$classNameElement_1_1Signature.html#a4bb81f51eb96fb5546311bd60d959dcb" title=" " alt="" coords="788,77,973,117"/>
-<area shape="rect" id="node10" href="$classNameElement_1_1Signature.html#a42b4dce71a17904b4063c7357a9e8394" title=" " alt="" coords="788,141,973,181"/>
-<area shape="rect" id="node11" href="$classNameHierarchy.html#a36548b2b6d62fc9f72ceb07c777c8463" title=" " alt="" coords="773,205,988,231"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,216,176"/>
+<area shape="rect" id="Node000002" href="$classSqliteIndexStorage.html#a763983a48200795896512e66657c9b21" title=" " alt="" coords="264,76,468,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,128,248,121,249,126,216,133"/>
+<area shape="rect" id="Node000006" href="$classNameHierarchy.html#a0b0c0f2ba97e519e9d2d87ba12d342d6" title=" " alt="" coords="273,169,459,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="216,163,258,168,257,173,216,169"/>
+<area shape="rect" id="Node000003" href="$namespaceutility.html#ae8e6193074d8d821d3da0ccf3b1893c9" title=" " alt="" coords="533,5,707,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,72,515,43,544,35,546,40,517,48,430,77"/>
+<area shape="rect" id="Node000004" href="$namespaceutility.html#a4959dcb82d86854e88fa8757194a00ec" title=" " alt="" coords="542,57,697,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="468,84,526,78,527,84,469,90"/>
+<area shape="rect" id="Node000005" href="$classSqliteStorage.html#a6a89b1a3823a6ba065874769b09bf9cc" title=" " alt="" coords="516,109,723,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="469,105,501,109,500,114,468,111"/>
+<area shape="rect" id="Node000007" href="$classNameHierarchy.html#a8f09e39f0ed5c097c2888a731eb64404" title=" " alt="" coords="527,161,712,206"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="459,181,511,181,511,186,459,186"/>
+<area shape="rect" id="Node000012" href="$classNameHierarchy.html#a760966798a0edd110618a6179d646810" title=" " alt="" coords="800,275,956,302"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="428,195,517,215,785,269,784,274,515,220,427,200"/>
+<area shape="rect" id="Node000008" href="$classNameHierarchy.html#a120b074b23a0f96740d3245a1ca9f6d9" title=" " alt="" coords="772,9,984,37"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="705,158,722,147,732,135,739,123,744,97,750,72,758,59,770,46,774,43,778,47,773,51,762,62,755,74,749,98,744,124,737,138,725,150,708,162"/>
+<area shape="rect" id="Node000009" href="$classNameElement_1_1Signature.html#a4bb81f51eb96fb5546311bd60d959dcb" title=" " alt="" coords="786,61,970,106"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="695,158,722,146,746,131,770,115,784,109,786,114,773,120,749,135,725,151,697,163"/>
+<area shape="rect" id="Node000010" href="$classNameElement_1_1Signature.html#a42b4dce71a17904b4063c7357a9e8394" title=" " alt="" coords="786,130,970,175"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="713,169,770,163,771,168,713,175"/>
+<area shape="rect" id="Node000011" href="$classNameHierarchy.html#a36548b2b6d62fc9f72ceb07c777c8463" title=" " alt="" coords="771,199,985,226"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="713,191,756,196,756,201,713,196"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="677,204,829,266,827,271,675,208"/>
+<area shape="poly" id="edge12_Node000012_Node000012" title=" " alt="" coords="834,276,827,266,833,256,850,250,878,248,908,250,924,257,922,262,907,256,878,253,851,255,836,260,832,265,838,272"/>
 </map>

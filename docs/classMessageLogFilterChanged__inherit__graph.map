@@ -1,6 +1,10 @@
 <map id="MessageLogFilterChanged" name="MessageLogFilterChanged">
-<area shape="rect" id="node1" title=" " alt="" coords="13,257,205,283"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,168,213,208"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="48,5,160,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="126,80,325,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,269,205,297"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,175,213,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,235,112,269,106,269,106,235"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="48,5,159,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,48,111,174,106,175,102,48"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="125,82,322,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="139,39,204,80,201,84,136,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,122,136,176,132,172,196,118"/>
 </map>

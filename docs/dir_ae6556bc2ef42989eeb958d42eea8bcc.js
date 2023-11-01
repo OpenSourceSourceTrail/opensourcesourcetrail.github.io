@@ -1,5 +1,7 @@
 var dir_ae6556bc2ef42989eeb958d42eea8bcc =
 [
+    [ "ProjectWizardModel.cpp", "ProjectWizardModel_8cpp.html", null ],
+    [ "ProjectWizardModel.hpp", "ProjectWizardModel_8hpp.html", "ProjectWizardModel_8hpp" ],
     [ "QtProjectWizardContentPath.cpp", "QtProjectWizardContentPath_8cpp.html", null ],
     [ "QtProjectWizardContentPath.h", "QtProjectWizardContentPath_8h.html", "QtProjectWizardContentPath_8h" ],
     [ "QtProjectWizardContentPathCDB.cpp", "QtProjectWizardContentPathCDB_8cpp.html", null ],

@@ -1,6 +1,11 @@
 <map id="StorageAccess" name="StorageAccess">
-<area shape="rect" id="node1" title=" " alt="" coords="101,5,218,31"/>
-<area shape="rect" id="node2" href="$classPersistentStorage.html" title=" " alt="" coords="5,79,143,104"/>
-<area shape="rect" id="node3" href="$classStorageAccessProxy.html" title=" " alt="" coords="167,79,322,104"/>
-<area shape="rect" id="node4" href="$classStorageCache.html" title=" " alt="" coords="189,152,301,177"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="206,5,323,33"/>
+<area shape="rect" id="Node000002" href="$classMockedStorageAccess.html" title=" " alt="" coords="5,81,172,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,42,121,83,119,78,218,37"/>
+<area shape="rect" id="Node000003" href="$classPersistentStorage.html" title=" " alt="" coords="196,81,333,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,49,267,81,262,81,262,49"/>
+<area shape="rect" id="Node000004" href="$classStorageAccessProxy.html" title=" " alt="" coords="357,81,511,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,37,405,78,403,83,308,42"/>
+<area shape="rect" id="Node000005" href="$classStorageCache.html" title=" " alt="" coords="378,157,490,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="437,124,437,156,431,156,431,124"/>
 </map>

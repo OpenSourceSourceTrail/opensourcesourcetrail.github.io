@@ -2,7 +2,7 @@ var classGraphView =
 [
     [ "GraphParams", "structGraphView_1_1GraphParams.html", "structGraphView_1_1GraphParams" ],
     [ "GraphView", "classGraphView.html#a8d1d16c3768c6696f60ac403b2f304ff", null ],
-    [ "~GraphView", "classGraphView.html#a9f6d6bb69e8256bb98723182fac0f1af", null ],
+    [ "~GraphView", "classGraphView.html#ace83dc05d5270ef5da07c296cfd79588", null ],
     [ "activateEdge", "classGraphView.html#ae0c0171e9ba64f0440ca473695c43a8a", null ],
     [ "activateMatch", "classGraphView.html#a318d079aa91a2b48054bacd738eb9546", null ],
     [ "addToLayout", "classGraphView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
@@ -17,7 +17,7 @@ var classGraphView =
     [ "findMatches", "classGraphView.html#a89c0475180169dd361cf3d96df430d4c", null ],
     [ "getController", "classGraphView.html#aa4d988d307d70568545ad17f89dbe789", null ],
     [ "getGrouping", "classGraphView.html#a2694ff0c46e1b180f7d17f1938008f53", null ],
-    [ "getName", "classGraphView.html#afa69523cb01c7d24cd559f6af280deef", null ],
+    [ "getName", "classGraphView.html#ab4539879fc4ba4106dcba875c09c5595", null ],
     [ "getViewLayout", "classGraphView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getViewSize", "classGraphView.html#a2f6da7ec274098fcb442c95da2af1d2a", null ],
     [ "getWidgetWrapper", "classGraphView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],

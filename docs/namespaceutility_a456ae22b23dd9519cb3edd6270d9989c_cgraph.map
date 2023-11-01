@@ -1,6 +1,10 @@
 <map id="utility::loadFontsFromDirectory" name="utility::loadFontsFromDirectory">
-<area shape="rect" id="node1" title=" " alt="" coords="5,13,228,38"/>
-<area shape="rect" id="node2" href="$classFileSystem.html#a7dd1727aa4782573e19f65f019396332" title=" " alt="" coords="276,5,456,45"/>
-<area shape="rect" id="node3" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="704,13,835,38"/>
-<area shape="rect" id="node4" href="$classFilePath.html#a9720b7e43230f31e635394ba5bf571a9" title=" " alt="" coords="504,38,656,63"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,228,42"/>
+<area shape="rect" id="Node000002" href="$classFileSystem.html#a7dd1727aa4782573e19f65f019396332" title=" " alt="" coords="276,5,455,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,25,260,25,260,30,228,30"/>
+<area shape="rect" id="Node000003" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="702,14,833,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,25,687,25,687,30,455,30"/>
+<area shape="rect" id="Node000004" href="$classFilePath.html#a9720b7e43230f31e635394ba5bf571a9" title=" " alt="" coords="503,39,654,67"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,36,488,40,487,45,455,41"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="654,40,686,36,687,41,655,45"/>
 </map>

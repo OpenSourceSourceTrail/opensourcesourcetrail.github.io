@@ -1,7 +1,7 @@
 var structStorageFile =
 [
-    [ "StorageFile", "structStorageFile.html#a6a1a62eda8f396dabdd6125d5819dd2a", null ],
-    [ "StorageFile", "structStorageFile.html#a5887a8028c4bd35072e8f64a3d7c4042", null ],
+    [ "StorageFile", "structStorageFile.html#aee3f7f12a5c52107eb541e409bc813df", null ],
+    [ "StorageFile", "structStorageFile.html#aa636e7b65599e56e78b6d1756cb76332", null ],
     [ "operator<", "structStorageFile.html#a5dd0665c30256d11dca9a9836481eb72", null ],
     [ "complete", "structStorageFile.html#adf77e3a1bd0da8d8e9c4cb3c671e4387", null ],
     [ "filePath", "structStorageFile.html#a02082d68cb3feaaf49f2497c4d47cca7", null ],

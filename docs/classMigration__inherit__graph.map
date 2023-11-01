@@ -1,11 +1,19 @@
 <map id="Migration&lt; MigratableType &gt;" name="Migration&lt; MigratableType &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="5,105,220,131"/>
-<area shape="rect" id="node2" href="$classMigration.html" title=" " alt="" coords="407,80,573,105"/>
-<area shape="rect" id="node7" href="$classMigration.html" title=" " alt="" coords="389,129,591,155"/>
-<area shape="rect" id="node3" href="$classSettingsMigration.html" title=" " alt="" coords="657,80,794,105"/>
-<area shape="rect" id="node4" href="$classSettingsMigrationDeleteKey.html" title=" " alt="" coords="869,5,1073,31"/>
-<area shape="rect" id="node5" href="$classSettingsMigrationLambda.html" title=" " alt="" coords="877,55,1066,80"/>
-<area shape="rect" id="node6" href="$classSettingsMigrationMoveKey.html" title=" " alt="" coords="873,104,1070,129"/>
-<area shape="rect" id="node8" href="$classSqliteStorageMigration.html" title=" " alt="" coords="640,129,811,155"/>
-<area shape="rect" id="node9" href="$classSqliteStorageMigrationLambda.html" title=" " alt="" coords="860,153,1083,179"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,219,138"/>
+<area shape="rect" id="Node000002" href="$classMigration.html" title=" " alt="" coords="405,84,571,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,113,404,101,404,106,234,119"/>
+<area shape="rect" id="Node000007" href="$classMigration.html" title=" " alt="" coords="388,136,588,164"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="206,139,243,143,387,149,387,154,242,148,206,144"/>
+<area shape="rect" id="Node000003" href="$classSettingsMigration.html" title=" " alt="" coords="654,84,791,112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="586,95,654,95,654,101,586,101"/>
+<area shape="rect" id="Node000004" href="$classSettingsMigrationDeleteKey.html" title=" " alt="" coords="867,5,1070,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="770,75,856,43,901,31,902,36,858,48,772,80"/>
+<area shape="rect" id="Node000005" href="$classSettingsMigrationLambda.html" title=" " alt="" coords="874,57,1062,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="805,86,873,79,874,84,806,92"/>
+<area shape="rect" id="Node000006" href="$classSettingsMigrationMoveKey.html" title=" " alt="" coords="870,109,1066,137"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="806,104,870,110,869,116,806,109"/>
+<area shape="rect" id="Node000008" href="$classSqliteStorageMigration.html" title=" " alt="" coords="637,136,808,164"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="604,147,637,147,637,153,604,153"/>
+<area shape="rect" id="Node000009" href="$classSqliteStorageMigrationLambda.html" title=" " alt="" coords="857,161,1079,189"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="824,158,857,161,856,166,823,163"/>
 </map>

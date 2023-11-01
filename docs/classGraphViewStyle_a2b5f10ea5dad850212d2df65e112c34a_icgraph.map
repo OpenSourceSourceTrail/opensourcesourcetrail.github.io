@@ -1,52 +1,118 @@
 <map id="GraphViewStyle::getNodeColor" name="GraphViewStyle::getNodeColor">
-<area shape="rect" id="node1" title=" " alt="" coords="1489,333,1712,358"/>
-<area shape="rect" id="node2" href="$classGraphViewStyle.html#acc03b1ce364e4af966173694ee062b52" title=" " alt="" coords="1240,5,1428,45"/>
-<area shape="rect" id="node3" href="$classGraphViewStyle.html#a2c75d23baf5cd1501f7869f4c92484b3" title=" " alt="" coords="1240,69,1428,109"/>
-<area shape="rect" id="node5" href="$classGraphViewStyle.html#a8c266fa59b596d06086e1744967861d0" title=" " alt="" coords="1240,133,1428,173"/>
-<area shape="rect" id="node7" href="$classGraphViewStyle.html#aceaedd167d817dcb2b6cf52ad3052beb" title=" " alt="" coords="1240,197,1428,237"/>
-<area shape="rect" id="node9" href="$classGraphViewStyle.html#a3b276484aad64accbc075b9d6e6100d9" title=" " alt="" coords="1240,261,1428,301"/>
-<area shape="rect" id="node12" href="$classGraphViewStyle.html#a2786bec85f61665e57e40cdaab6c050d" title=" " alt="" coords="1240,325,1428,365"/>
-<area shape="rect" id="node14" href="$classGraphViewStyle.html#a4e43ae12123553f5ae283493dad63553" title=" " alt="" coords="1240,389,1428,429"/>
-<area shape="rect" id="node16" href="$classQtAutocompletionDelegate.html#a5649dc4257c0ce0d9037aa1fb8b7a42b" title=" " alt="" coords="1235,453,1433,493"/>
-<area shape="rect" id="node17" href="$classQtHistoryItem.html#af4033dd6f31c623188495e439d1a7c6d" title=" " alt="" coords="1227,518,1441,543"/>
-<area shape="rect" id="node18" href="$classQtTabsView.html#aa234899f7ee680192866b5a6ebe95ffa" title=" " alt="" coords="1243,567,1425,593"/>
-<area shape="rect" id="node23" href="$classQtSmartSearchBox.html#a8cb7515c5efa6313804fb113ffb8d244" title=" " alt="" coords="1235,929,1433,969"/>
-<area shape="rect" id="node4" href="$classQtGraphNodeAccess.html#a351e81b2e8ffcec09c8913653e01e407" title=" " alt="" coords="981,69,1144,109"/>
-<area shape="rect" id="node6" href="$classQtGraphNodeBundle.html#a4723a70dc174cf914ad038a8590810b2" title=" " alt="" coords="981,133,1144,173"/>
-<area shape="rect" id="node8" href="$classQtGraphNodeExpandToggle.html#a5c13c672a8f33d32a5edb5c88bd575e9" title=" " alt="" coords="963,197,1163,237"/>
-<area shape="rect" id="node10" href="$classQtGraphNodeGroup.html#ad177eae88f08efa2889cc21092d20840" title=" " alt="" coords="957,325,1168,365"/>
-<area shape="rect" id="node11" href="$classQtGraphNodeGroup.html#abeb2d260d627eaa7cd30262efa2a9d93" title=" " alt="" coords="961,261,1164,301"/>
-<area shape="rect" id="node13" href="$classQtGraphNodeQualifier.html#ab527b9e883d3fe2d73fc1f439ddce15d" title=" " alt="" coords="979,389,1146,429"/>
-<area shape="rect" id="node15" href="$classQtGraphNodeText.html#a1c9f2883f6b360f46a6bd0873559b05c" title=" " alt="" coords="951,454,1174,479"/>
-<area shape="rect" id="node19" href="$classQtTabsView.html#a8e1d7f408ae3a360d0052bd0ee3d3c5f" title=" " alt="" coords="980,535,1145,561"/>
-<area shape="rect" id="node20" href="$classQtTabsView.html#a478130ed6c03e82b41b44bc6d1448347" title=" " alt="" coords="709,535,861,561"/>
-<area shape="rect" id="node22" href="$classQtTabsView.html#a0a18aa8870c38cd13b8f826fb25326c0" title=" " alt="" coords="705,486,865,511"/>
-<area shape="rect" id="node21" href="$classQtTabsView.html#a7e36a90b55d78e1b12decb66f8adc549" title=" " alt="" coords="397,535,579,561"/>
-<area shape="rect" id="node24" href="$classQtSmartSearchBox.html#ad1d16982306c1d9bf00c067fb8d90e00" title=" " alt="" coords="954,1135,1171,1175"/>
-<area shape="rect" id="node35" href="$classQtSmartSearchBox.html#aee74b24a835e4a0739b61109aef533d9" title=" " alt="" coords="672,1243,899,1269"/>
-<area shape="rect" id="node37" href="$classQtSmartSearchBox.html#a15d1d34aa93c4ceba411322eba65af92" title=" " alt="" coords="965,692,1160,732"/>
-<area shape="rect" id="node40" href="$classQtSmartSearchBox.html#ad9767d6694a5048a3a916016c58088db" title=" " alt="" coords="687,635,883,675"/>
-<area shape="rect" id="node42" href="$classQtSmartSearchBox.html#aef172e88a1450af62b08d584c537314f" title=" " alt="" coords="947,817,1179,842"/>
-<area shape="rect" id="node44" href="$classQtSmartSearchBox.html#aa5867b91794590eece4a9a1707b2ec6b" title=" " alt="" coords="960,947,1165,987"/>
-<area shape="rect" id="node45" href="$classQtSmartSearchBox.html#a22091a7105aec2ebb0c74d3ab99ef6a6" title=" " alt="" coords="963,1407,1162,1447"/>
-<area shape="rect" id="node48" href="$classQtSmartSearchBox.html#a90add4bec252a51b40cc5b883bc670f8" title=" " alt="" coords="949,1293,1177,1318"/>
-<area shape="rect" id="node25" href="$classQtSmartSearchBox.html#a6474d870d5163a4279cd7b4e45af0439" title=" " alt="" coords="690,1142,881,1167"/>
-<area shape="rect" id="node28" href="$classQtSmartSearchBox.html#a42acffd3ed003ed9dca6c0eb45ec2caa" title=" " alt="" coords="383,880,593,920"/>
-<area shape="rect" id="node33" href="$classQtSmartSearchBox.html#a943d2015fd2e9508a9739e232d6043b9" title=" " alt="" coords="352,1328,624,1368"/>
-<area shape="rect" id="node26" href="$classQtSmartSearchBox.html#a7b10f7d2924f575ef15fcb69f280f622" title=" " alt="" coords="388,944,588,984"/>
-<area shape="rect" id="node27" href="$classQtSmartSearchBox.html#a19df91f9da6445f3474b9bb0f979ad27" title=" " alt="" coords="383,1072,593,1112"/>
-<area shape="rect" id="node29" href="$classQtSmartSearchBox.html#aef0a337c1c0f6bd4dd165e48eef12973" title=" " alt="" coords="371,1008,605,1048"/>
-<area shape="rect" id="node30" href="$classQtSmartSearchBox.html#ac2bae6622754927e3013bc0b189dae71" title=" " alt="" coords="372,1136,604,1176"/>
-<area shape="rect" id="node31" href="$classQtSmartSearchBox.html#a87cffbe57c5e6ec12098e6b4ae2158ae" title=" " alt="" coords="363,1200,613,1240"/>
-<area shape="rect" id="node32" href="$classQtSmartSearchBox.html#a7b6419b94703d2c5d89ccff746981868" title=" " alt="" coords="392,1264,584,1304"/>
-<area shape="rect" id="node34" href="$classQtSmartSearchBox.html#a73a76a12933eb79d8c47b1e0ced69cc7" title=" " alt="" coords="5,1335,304,1361"/>
-<area shape="rect" id="node36" href="$classQtSearchBar.html#ab1586c7b89f8c4f4e3377e35b690aa09" title=" " alt="" coords="392,1431,584,1457"/>
-<area shape="rect" id="node38" href="$classQtSmartSearchBox.html#a9af8830fdfa536a251ecc28fb17a124c" title=" " alt="" coords="672,585,899,610"/>
-<area shape="rect" id="node39" href="$classQtSearchBar.html#a1114294a367ab74c57a17987a01b35f3" title=" " alt="" coords="395,585,581,610"/>
-<area shape="rect" id="node41" href="$classQtSmartSearchBox.html#a99ffcb6d25c1d4c418540a516e9d201a" title=" " alt="" coords="385,635,591,675"/>
-<area shape="rect" id="node43" href="$classQtSmartSearchBox.html#a59783b72e94247f668ef19ffd708de1e" title=" " alt="" coords="674,851,897,891"/>
-<area shape="rect" id="node46" href="$classQtSearchBar.html#a63595b4c6ccd9a74c49d431701d66ac4" title=" " alt="" coords="690,1471,881,1497"/>
-<area shape="rect" id="node47" href="$classQtCustomTrailView.html#a5aeec972b7d5847941c37085e20f04fe" title=" " alt="" coords="708,1407,863,1447"/>
-<area shape="rect" id="node49" href="$classQtCustomTrailView.html#acca81bf8d37a554e88e5d805eadecdd2" title=" " alt="" coords="708,1343,863,1383"/>
-<area shape="rect" id="node50" href="$classQtSearchBar.html#ae70f093074a6a104eea1a7813aad668a" title=" " alt="" coords="692,1293,879,1318"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1486,395,1708,423"/>
+<area shape="rect" id="Node000002" href="$classGraphViewStyle.html#acc03b1ce364e4af966173694ee062b52" title=" " alt="" coords="1238,5,1425,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1588,380,1573,315,1544,230,1524,185,1499,141,1470,100,1436,64,1420,53,1423,48,1440,60,1474,97,1504,139,1529,183,1549,228,1578,314,1593,379"/>
+<area shape="rect" id="Node000003" href="$classGraphViewStyle.html#a2c75d23baf5cd1501f7869f4c92484b3" title=" " alt="" coords="1238,75,1425,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1585,382,1566,329,1535,262,1492,193,1466,162,1436,134,1418,122,1421,118,1440,130,1470,158,1496,190,1540,260,1571,327,1590,380"/>
+<area shape="rect" id="Node000005" href="$classGraphViewStyle.html#a8c266fa59b596d06086e1744967861d0" title=" " alt="" coords="1238,144,1425,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1580,382,1557,343,1525,294,1484,245,1436,203,1416,191,1419,187,1440,199,1488,242,1529,291,1561,340,1584,380"/>
+<area shape="rect" id="Node000007" href="$classGraphViewStyle.html#aceaedd167d817dcb2b6cf52ad3052beb" title=" " alt="" coords="1238,213,1425,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1571,386,1513,329,1476,299,1437,273,1412,261,1415,256,1439,268,1480,295,1517,325,1575,382"/>
+<area shape="rect" id="Node000009" href="$classGraphViewStyle.html#a3b276484aad64accbc075b9d6e6100d9" title=" " alt="" coords="1238,283,1425,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1551,391,1437,342,1405,330,1406,325,1439,337,1553,386"/>
+<area shape="rect" id="Node000012" href="$classGraphViewStyle.html#a2786bec85f61665e57e40cdaab6c050d" title=" " alt="" coords="1238,352,1425,397"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1471,395,1425,389,1426,384,1472,390"/>
+<area shape="rect" id="Node000014" href="$classGraphViewStyle.html#a4e43ae12123553f5ae283493dad63553" title=" " alt="" coords="1238,421,1425,466"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1472,428,1426,434,1425,429,1471,423"/>
+<area shape="rect" id="Node000016" href="$classQtAutocompletionDelegate.html#a5649dc4257c0ce0d9037aa1fb8b7a42b" title=" " alt="" coords="1232,491,1431,535"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1553,432,1439,481,1406,493,1405,488,1437,476,1551,427"/>
+<area shape="rect" id="Node000017" href="$classQtHistoryItem.html#af4033dd6f31c623188495e439d1a7c6d" title=" " alt="" coords="1225,559,1438,587"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1576,436,1518,494,1480,524,1439,550,1412,561,1410,556,1437,545,1477,520,1515,490,1572,433"/>
+<area shape="rect" id="Node000018" href="$classQtTabsView.html#aa234899f7ee680192866b5a6ebe95ffa" title=" " alt="" coords="1241,611,1422,639"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1583,437,1560,474,1527,519,1487,563,1439,601,1414,613,1411,608,1437,596,1483,559,1523,515,1556,471,1579,435"/>
+<area shape="rect" id="Node000023" href="$GraphViewStyleTestSuite_8cpp.html#a38f7d43963dd45dd443c84cf404793f9" title=" " alt="" coords="1297,663,1366,691"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="1588,438,1567,485,1536,543,1493,602,1468,629,1439,653,1403,670,1367,677,1366,672,1402,665,1437,648,1464,625,1489,599,1531,540,1563,483,1583,436"/>
+<area shape="rect" id="Node000024" href="$classQtSmartSearchBox.html#a8cb7515c5efa6313804fb113ffb8d244" title=" " alt="" coords="1233,968,1430,1013"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="1586,438,1345,969,1340,967,1581,436"/>
+<area shape="rect" id="Node000004" href="$classQtGraphNodeAccess.html#a351e81b2e8ffcec09c8913653e01e407" title=" " alt="" coords="980,75,1142,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1222,100,1143,100,1143,94,1222,94"/>
+<area shape="rect" id="Node000006" href="$classQtGraphNodeBundle.html#a4723a70dc174cf914ad038a8590810b2" title=" " alt="" coords="980,144,1142,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1222,169,1143,169,1143,164,1222,164"/>
+<area shape="rect" id="Node000008" href="$classQtGraphNodeExpandToggle.html#a5c13c672a8f33d32a5edb5c88bd575e9" title=" " alt="" coords="961,213,1161,258"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1222,238,1161,238,1161,233,1222,233"/>
+<area shape="rect" id="Node000010" href="$classQtGraphNodeGroup.html#ad177eae88f08efa2889cc21092d20840" title=" " alt="" coords="956,352,1166,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1227,334,1152,354,1150,349,1226,329"/>
+<area shape="rect" id="Node000011" href="$classQtGraphNodeGroup.html#abeb2d260d627eaa7cd30262efa2a9d93" title=" " alt="" coords="960,283,1162,327"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1222,308,1162,308,1162,302,1222,302"/>
+<area shape="rect" id="Node000013" href="$classQtGraphNodeQualifier.html#ab527b9e883d3fe2d73fc1f439ddce15d" title=" " alt="" coords="978,421,1144,466"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1227,404,1145,425,1143,420,1226,399"/>
+<area shape="rect" id="Node000015" href="$classQtGraphNodeText.html#a1c9f2883f6b360f46a6bd0873559b05c" title=" " alt="" coords="950,490,1172,518"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1223,471,1177,481,1128,492,1127,487,1176,476,1222,465"/>
+<area shape="rect" id="Node000019" href="$classQtTabsView.html#a8e1d7f408ae3a360d0052bd0ee3d3c5f" title=" " alt="" coords="979,577,1143,604"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1225,614,1143,603,1144,598,1226,609"/>
+<area shape="rect" id="Node000020" href="$classQtTabsView.html#a478130ed6c03e82b41b44bc6d1448347" title=" " alt="" coords="709,577,860,604"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="963,593,860,593,860,588,963,588"/>
+<area shape="rect" id="Node000022" href="$classQtTabsView.html#a0a18aa8870c38cd13b8f826fb25326c0" title=" " alt="" coords="705,525,864,552"/>
+<area shape="poly" id="edge21_Node000019_Node000022" title=" " alt="" coords="968,576,861,555,862,550,969,570"/>
+<area shape="rect" id="Node000021" href="$classQtTabsView.html#a7e36a90b55d78e1b12decb66f8adc549" title=" " alt="" coords="397,577,578,604"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="693,593,578,593,578,588,693,588"/>
+<area shape="rect" id="Node000025" href="$classQtSmartSearchBox.html#ad1d16982306c1d9bf00c067fb8d90e00" title=" " alt="" coords="953,1179,1169,1223"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="1291,1025,1093,1180,1090,1176,1287,1021"/>
+<area shape="rect" id="Node000039" href="$classQtSmartSearchBox.html#aee74b24a835e4a0739b61109aef533d9" title=" " alt="" coords="671,1247,897,1275"/>
+<area shape="poly" id="edge66_Node000024_Node000039" title=" " alt="" coords="1321,1028,1302,1078,1273,1136,1231,1193,1206,1218,1178,1238,1140,1257,1099,1270,1057,1279,1015,1284,933,1285,862,1278,862,1273,933,1280,1014,1279,1056,1274,1098,1265,1138,1252,1175,1233,1203,1213,1227,1189,1268,1134,1297,1076,1316,1027"/>
+<area shape="rect" id="Node000041" href="$classQtSmartSearchBox.html#a15d1d34aa93c4ceba411322eba65af92" title=" " alt="" coords="964,727,1158,771"/>
+<area shape="poly" id="edge41_Node000024_Node000041" title=" " alt="" coords="1292,959,1086,774,1089,770,1295,955"/>
+<area shape="rect" id="Node000045" href="$classQtSmartSearchBox.html#ad9767d6694a5048a3a916016c58088db" title=" " alt="" coords="687,628,882,673"/>
+<area shape="poly" id="edge58_Node000024_Node000045" title=" " alt="" coords="1318,954,1300,899,1271,834,1230,770,1204,741,1175,717,1142,696,1105,680,1028,658,952,648,882,646,882,641,952,643,1030,653,1107,675,1144,691,1178,712,1208,737,1234,766,1276,832,1305,898,1323,952"/>
+<area shape="rect" id="Node000047" href="$classQtSmartSearchBox.html#aef172e88a1450af62b08d584c537314f" title=" " alt="" coords="945,866,1177,894"/>
+<area shape="poly" id="edge47_Node000024_Node000047" title=" " alt="" coords="1260,964,1096,897,1098,892,1262,959"/>
+<area shape="rect" id="Node000049" href="$classQtSmartSearchBox.html#aa5867b91794590eece4a9a1707b2ec6b" title=" " alt="" coords="959,999,1163,1043"/>
+<area shape="poly" id="edge52_Node000024_Node000049" title=" " alt="" coords="1218,1006,1164,1012,1163,1007,1217,1001"/>
+<area shape="rect" id="Node000050" href="$classQtSmartSearchBox.html#a22091a7105aec2ebb0c74d3ab99ef6a6" title=" " alt="" coords="962,1469,1160,1514"/>
+<area shape="poly" id="edge59_Node000024_Node000050" title=" " alt="" coords="1324,1029,1306,1099,1276,1192,1234,1293,1208,1343,1179,1389,1139,1435,1096,1471,1093,1467,1135,1431,1175,1386,1203,1340,1229,1291,1271,1190,1300,1098,1319,1027"/>
+<area shape="rect" id="Node000054" href="$classQtSmartSearchBox.html#a90add4bec252a51b40cc5b883bc670f8" title=" " alt="" coords="947,1349,1175,1376"/>
+<area shape="poly" id="edge63_Node000024_Node000054" title=" " alt="" coords="1319,1028,1298,1081,1266,1147,1227,1217,1179,1281,1134,1321,1090,1350,1087,1346,1131,1317,1175,1278,1222,1214,1262,1145,1293,1079,1314,1026"/>
+<area shape="rect" id="Node000026" href="$classQtSmartSearchBox.html#a6474d870d5163a4279cd7b4e45af0439" title=" " alt="" coords="690,1195,879,1223"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="938,1207,879,1209,879,1204,938,1202"/>
+<area shape="rect" id="Node000029" href="$classQtSmartSearchBox.html#a42acffd3ed003ed9dca6c0eb45ec2caa" title=" " alt="" coords="382,916,593,961"/>
+<area shape="poly" id="edge34_Node000025_Node000029" title=" " alt="" coords="998,1174,847,1099,670,1005,646,989,622,975,590,964,592,959,624,971,649,984,672,1000,850,1094,1000,1169"/>
+<area shape="rect" id="Node000034" href="$classQtSmartSearchBox.html#a943d2015fd2e9508a9739e232d6043b9" title=" " alt="" coords="352,1401,623,1446"/>
+<area shape="poly" id="edge35_Node000025_Node000034" title=" " alt="" coords="1011,1234,958,1263,898,1289,864,1299,834,1305,782,1308,731,1315,703,1324,672,1339,658,1351,649,1364,640,1378,624,1391,600,1403,598,1398,622,1387,636,1375,645,1361,654,1348,670,1335,701,1319,730,1310,781,1303,833,1299,863,1294,896,1284,955,1258,1008,1229"/>
+<area shape="poly" id="edge37_Node000025_Node000039" title=" " alt="" coords="941,1230,852,1249,851,1244,939,1225"/>
+<area shape="poly" id="edge26_Node000026_Node000026" title=" " alt="" coords="832,1182,815,1176,784,1174,755,1176,739,1181,735,1186,742,1193,738,1196,730,1186,736,1176,754,1171,784,1169,816,1171,834,1177"/>
+<area shape="rect" id="Node000027" href="$classQtSmartSearchBox.html#a7b10f7d2924f575ef15fcb69f280f622" title=" " alt="" coords="388,985,587,1030"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="722,1191,694,1175,669,1155,658,1140,651,1125,646,1097,640,1070,633,1057,621,1044,586,1024,589,1020,625,1040,637,1054,645,1068,651,1096,656,1123,662,1137,673,1151,697,1171,725,1186"/>
+<area shape="rect" id="Node000028" href="$classQtSmartSearchBox.html#a19df91f9da6445f3474b9bb0f979ad27" title=" " alt="" coords="382,1263,593,1307"/>
+<area shape="poly" id="edge28_Node000026_Node000028" title=" " alt="" coords="705,1230,672,1238,624,1253,581,1265,579,1259,622,1248,670,1233,704,1224"/>
+<area shape="poly" id="edge29_Node000026_Node000029" title=" " alt="" coords="718,1191,692,1176,669,1155,654,1130,647,1106,647,1061,648,1039,645,1017,637,996,621,975,592,955,594,951,625,971,642,994,651,1016,653,1039,652,1061,652,1106,659,1128,673,1151,695,1171,721,1186"/>
+<area shape="rect" id="Node000030" href="$classQtSmartSearchBox.html#aef0a337c1c0f6bd4dd165e48eef12973" title=" " alt="" coords="371,1055,604,1099"/>
+<area shape="poly" id="edge30_Node000026_Node000030" title=" " alt="" coords="734,1191,669,1155,646,1133,636,1123,622,1114,595,1102,597,1098,624,1109,639,1119,649,1129,673,1151,737,1186"/>
+<area shape="rect" id="Node000031" href="$classQtSmartSearchBox.html#ac2bae6622754927e3013bc0b189dae71" title=" " alt="" coords="372,1332,603,1377"/>
+<area shape="poly" id="edge31_Node000026_Node000031" title=" " alt="" coords="680,1233,673,1238,656,1257,649,1278,642,1300,625,1322,605,1334,602,1330,621,1318,638,1298,644,1277,651,1255,669,1234,678,1228"/>
+<area shape="rect" id="Node000032" href="$classQtSmartSearchBox.html#a87cffbe57c5e6ec12098e6b4ae2158ae" title=" " alt="" coords="363,1124,612,1169"/>
+<area shape="poly" id="edge32_Node000026_Node000032" title=" " alt="" coords="700,1194,596,1172,597,1167,701,1189"/>
+<area shape="rect" id="Node000033" href="$classQtSmartSearchBox.html#a7b6419b94703d2c5d89ccff746981868" title=" " alt="" coords="392,1193,583,1238"/>
+<area shape="poly" id="edge33_Node000026_Node000033" title=" " alt="" coords="674,1214,583,1216,583,1211,674,1209"/>
+<area shape="rect" id="Node000035" href="$classQtSmartSearchBox.html#a73a76a12933eb79d8c47b1e0ced69cc7" title=" " alt="" coords="5,1410,304,1438"/>
+<area shape="poly" id="edge36_Node000034_Node000035" title=" " alt="" coords="336,1426,304,1426,304,1421,336,1421"/>
+<area shape="poly" id="edge38_Node000039_Node000029" title=" " alt="" coords="673,1240,669,1236,646,1203,638,1170,639,1137,644,1104,649,1071,650,1039,642,1007,621,975,591,954,595,950,625,971,647,1004,656,1038,655,1071,649,1104,644,1137,643,1169,651,1201,673,1233,676,1236"/>
+<area shape="poly" id="edge39_Node000039_Node000034" title=" " alt="" coords="690,1284,673,1295,662,1306,656,1318,650,1342,643,1367,636,1379,625,1391,606,1403,603,1399,621,1387,632,1376,639,1365,645,1341,651,1316,658,1303,669,1291,687,1279"/>
+<area shape="rect" id="Node000040" href="$classQtSearchBar.html#ab1586c7b89f8c4f4e3377e35b690aa09" title=" " alt="" coords="392,1501,583,1528"/>
+<area shape="poly" id="edge40_Node000039_Node000040" title=" " alt="" coords="741,1285,705,1308,673,1339,663,1355,656,1370,651,1400,645,1429,637,1445,625,1460,590,1486,552,1502,550,1497,588,1481,621,1456,633,1442,640,1427,646,1399,651,1369,658,1352,669,1335,702,1304,738,1280"/>
+<area shape="poly" id="edge43_Node000041_Node000029" title=" " alt="" coords="962,726,896,715,821,710,745,717,708,725,672,738,642,755,614,775,566,825,528,875,503,917,498,914,524,872,562,821,611,771,639,750,670,733,706,720,744,711,821,705,896,709,963,720"/>
+<area shape="rect" id="Node000042" href="$classQtSmartSearchBox.html#a9af8830fdfa536a251ecc28fb17a124c" title=" " alt="" coords="671,747,897,775"/>
+<area shape="poly" id="edge42_Node000041_Node000042" title=" " alt="" coords="949,757,898,759,898,753,948,751"/>
+<area shape="poly" id="edge44_Node000041_Node000045" title=" " alt="" coords="981,723,848,676,850,671,983,718"/>
+<area shape="poly" id="edge45_Node000045_Node000029" title=" " alt="" coords="691,682,673,694,642,719,614,748,565,811,527,870,502,917,497,914,523,868,561,808,610,745,639,715,669,690,688,678"/>
+<area shape="rect" id="Node000046" href="$classQtSmartSearchBox.html#a99ffcb6d25c1d4c418540a516e9d201a" title=" " alt="" coords="384,628,591,673"/>
+<area shape="poly" id="edge46_Node000045_Node000046" title=" " alt="" coords="671,653,591,653,591,648,671,648"/>
+<area shape="poly" id="edge48_Node000047_Node000027" title=" " alt="" coords="992,865,921,853,838,849,795,852,752,859,711,871,672,890,662,898,655,908,649,930,642,953,636,964,625,975,589,994,586,990,621,971,631,961,637,951,643,928,650,906,658,895,670,885,709,866,751,854,794,846,838,843,921,848,993,859"/>
+<area shape="poly" id="edge49_Node000047_Node000029" title=" " alt="" coords="996,864,929,849,847,837,759,835,715,838,672,846,630,860,589,878,522,918,520,913,587,874,628,855,670,841,714,833,758,829,847,832,930,844,998,859"/>
+<area shape="rect" id="Node000048" href="$classQtSmartSearchBox.html#a59783b72e94247f668ef19ffd708de1e" title=" " alt="" coords="673,900,895,945"/>
+<area shape="poly" id="edge50_Node000047_Node000048" title=" " alt="" coords="953,899,896,908,895,903,952,894"/>
+<area shape="poly" id="edge51_Node000048_Node000024" title=" " alt="" coords="911,935,1232,975,1232,981,910,941"/>
+<area shape="poly" id="edge53_Node000049_Node000027" title=" " alt="" coords="943,1021,587,1013,587,1007,943,1016"/>
+<area shape="poly" id="edge54_Node000049_Node000029" title=" " alt="" coords="943,1007,593,956,593,951,944,1002"/>
+<area shape="poly" id="edge55_Node000049_Node000030" title=" " alt="" coords="944,1035,604,1068,604,1063,943,1030"/>
+<area shape="poly" id="edge57_Node000049_Node000039" title=" " alt="" coords="1034,1057,948,1168,927,1205,917,1221,899,1237,875,1249,872,1244,896,1232,913,1217,922,1202,943,1165,1030,1054"/>
+<area shape="poly" id="edge56_Node000049_Node000048" title=" " alt="" coords="981,995,848,948,850,943,983,990"/>
+<area shape="rect" id="Node000051" href="$classQtSearchBar.html#a63595b4c6ccd9a74c49d431701d66ac4" title=" " alt="" coords="690,1538,879,1566"/>
+<area shape="poly" id="edge60_Node000050_Node000051" title=" " alt="" coords="947,1519,852,1540,851,1535,946,1514"/>
+<area shape="rect" id="Node000053" href="$classQtCustomTrailView.html#a5aeec972b7d5847941c37085e20f04fe" title=" " alt="" coords="707,1469,861,1514"/>
+<area shape="poly" id="edge62_Node000050_Node000053" title=" " alt="" coords="946,1494,862,1494,862,1489,946,1489"/>
+<area shape="poly" id="edge61_Node000051_Node000040" title=" " alt="" coords="674,1541,583,1529,584,1524,674,1535"/>
+<area shape="rect" id="Node000055" href="$classQtCustomTrailView.html#acca81bf8d37a554e88e5d805eadecdd2" title=" " alt="" coords="707,1400,861,1445"/>
+<area shape="poly" id="edge64_Node000054_Node000055" title=" " alt="" coords="979,1383,862,1408,861,1403,978,1377"/>
+<area shape="rect" id="Node000056" href="$classQtSearchBar.html#ae70f093074a6a104eea1a7813aad668a" title=" " alt="" coords="692,1349,877,1376"/>
+<area shape="poly" id="edge65_Node000054_Node000056" title=" " alt="" coords="932,1365,877,1365,877,1360,932,1360"/>
 </map>

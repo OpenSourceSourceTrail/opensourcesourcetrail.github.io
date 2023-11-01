@@ -41,7 +41,7 @@ var classQtGraphNodeAccess =
     [ "isGroupNode", "classQtGraphNodeAccess.html#a9bbea603843a4bd7827c64d1da41817a", null ],
     [ "isQualifierNode", "classQtGraphNodeAccess.html#a43b5c8601911937cb5703d25709c9a4c", null ],
     [ "isTextNode", "classQtGraphNodeAccess.html#ae28175fa1790342ef213cc0062b79560", null ],
-    [ "matchName", "classQtGraphNodeAccess.html#ae310c450d5cbc3c0d6b34a1ab96f5068", null ],
+    [ "matchName", "classQtGraphNodeAccess.html#a53ab33918d0b9276c0a5983e16953520", null ],
     [ "matchNameRecursive", "classQtGraphNodeAccess.html#a9554916b3c91d206e687b24cd1c693d4", null ],
     [ "mouseMoveEvent", "classQtGraphNodeAccess.html#a91ec339ea56f17a082da02b421737bd0", null ],
     [ "mousePressEvent", "classQtGraphNodeAccess.html#adb3a725e527ae3c69c39e9ef98d47059", null ],

@@ -1,5 +1,7 @@
 <map id="NodeType" name="NodeType">
-<area shape="rect" id="node1" title=" " alt="" coords="173,108,259,133"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,163,45"/>
-<area shape="rect" id="node3" title=" " alt="" coords="305,13,391,38"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="172,115,257,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,162,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,65,81,78,87,89,104,105,125,116,171,125,170,130,124,121,101,109,83,93,76,80,74,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="304,14,388,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,57,332,76,319,93,289,112,258,123,256,118,287,107,315,89,328,73,336,55"/>
 </map>

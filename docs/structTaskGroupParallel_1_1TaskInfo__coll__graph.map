@@ -1,6 +1,9 @@
 <map id="TaskGroupParallel::TaskInfo" name="TaskGroupParallel::TaskInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="247,93,394,133"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,201,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="225,5,416,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="441,5,491,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,98,394,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,201,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,37,274,95,272,100,144,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="225,5,416,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,48,323,97,318,97,318,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="440,5,489,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,44,353,100,350,95,431,40"/>
 </map>

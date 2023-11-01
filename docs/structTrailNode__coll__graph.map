@@ -1,6 +1,9 @@
 <map id="TrailNode" name="TrailNode">
-<area shape="rect" id="node1" title=" " alt="" coords="120,93,204,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,65,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="89,5,235,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="259,5,343,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,98,202,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,65,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,40,144,95,140,100,64,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,5,233,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,48,163,98,158,98,158,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="256,5,339,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,44,220,76,183,100,180,95,218,72,265,40"/>
 </map>

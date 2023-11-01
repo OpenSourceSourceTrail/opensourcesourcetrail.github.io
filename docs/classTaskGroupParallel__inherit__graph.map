@@ -1,6 +1,9 @@
 <map id="TaskGroupParallel" name="TaskGroupParallel">
-<area shape="rect" id="node1" title=" " alt="" coords="33,167,172,192"/>
-<area shape="rect" id="node2" href="$classTaskGroup.html" title=" " alt="" coords="57,93,148,119"/>
-<area shape="rect" id="node3" href="$classTask.html" title=" " alt="" coords="5,13,56,38"/>
-<area shape="rect" id="node4" title=" " alt="" coords="80,5,269,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,174,172,201"/>
+<area shape="rect" id="Node000002" href="$classTaskGroup.html" title=" " alt="" coords="58,98,147,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,141,105,173,100,173,100,141"/>
+<area shape="rect" id="Node000003" href="$classTask.html" title=" " alt="" coords="5,14,56,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="54,52,93,96,89,99,50,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,5,269,50"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="147,64,116,99,112,96,143,60"/>
 </map>

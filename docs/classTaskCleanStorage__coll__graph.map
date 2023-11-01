@@ -1,10 +1,18 @@
 <map id="TaskCleanStorage" name="TaskCleanStorage">
-<area shape="rect" id="node1" title=" " alt="" coords="623,138,761,163"/>
-<area shape="rect" id="node2" href="$classTask.html" title=" " alt="" coords="339,63,389,89"/>
-<area shape="rect" id="node3" title=" " alt="" coords="10,33,61,58"/>
-<area shape="rect" id="node4" title=" " alt="" coords="251,113,477,138"/>
-<area shape="rect" id="node5" title=" " alt="" coords="267,162,461,187"/>
-<area shape="rect" id="node6" title=" " alt="" coords="292,211,436,237"/>
-<area shape="rect" id="node7" href="$classTimeStamp.html" title=" " alt="" coords="316,261,412,286"/>
-<area shape="rect" id="node8" title=" " alt="" coords="5,261,65,286"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="620,147,757,175"/>
+<area shape="rect" id="Node000002" href="$classTask.html" title=" " alt="" coords="338,69,388,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,84,493,98,597,121,658,144,656,149,595,126,492,103,403,89"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="10,39,60,67"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="74,36,88,33,197,20,283,21,368,33,477,54,539,68,597,92,640,118,673,145,670,149,637,123,595,97,537,73,475,60,368,38,283,26,197,25,89,38,75,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="66,73,89,84,158,96,228,98,290,92,337,85,338,90,291,98,228,103,158,102,88,89,64,78"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="250,121,476,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="491,142,620,153,619,158,491,147"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="266,173,460,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="475,185,596,178,628,173,629,178,596,183,475,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="291,225,435,252"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="450,233,522,224,595,207,633,191,665,173,668,178,635,196,597,213,523,230,451,238"/>
+<area shape="rect" id="Node000007" href="$classTimeStamp.html" title=" " alt="" coords="315,277,411,304"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="426,288,509,278,553,267,595,250,620,234,643,213,676,174,680,177,647,217,624,238,597,255,555,272,510,284,426,293"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,277,65,304"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="80,288,315,288,315,293,80,293"/>
 </map>

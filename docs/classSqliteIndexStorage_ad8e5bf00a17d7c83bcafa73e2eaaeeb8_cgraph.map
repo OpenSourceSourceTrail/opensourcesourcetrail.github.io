@@ -1,16 +1,32 @@
 <map id="SqliteIndexStorage::addFile" name="SqliteIndexStorage::addFile">
-<area shape="rect" id="node1" title=" " alt="" coords="5,177,151,217"/>
-<area shape="rect" id="node2" href="$classTextAccess.html#a5155a7b9df2dcfd960d50f4961fb4936" title=" " alt="" coords="218,53,417,79"/>
-<area shape="rect" id="node7" href="$namespaceutility.html#a3370ea0d4afa1a0a4376d2fe034799ce" title=" " alt="" coords="514,136,670,161"/>
-<area shape="rect" id="node8" href="$classSqliteStorage.html#a6cc9f021cdd876e5dbc6a9c69e65c6b9" title=" " alt="" coords="199,155,436,180"/>
-<area shape="rect" id="node9" href="$classSqliteIndexStorage.html#a26a37dcc4fe2146a2cfc0b2c43ac73df" title=" " alt="" coords="245,205,390,245"/>
-<area shape="rect" id="node10" href="$classFileSystem.html#aa08fc0bad8c900f692c7a90fb6d61214" title=" " alt="" coords="208,269,427,295"/>
-<area shape="rect" id="node14" href="$classTimeStamp.html#aacbc25009aa6fbd88e8d91ceacdb9d4b" title=" " alt="" coords="240,319,395,344"/>
-<area shape="rect" id="node3" href="$classTextAccess.html#a3024169774f0b035fb68057243388c9e" title=" " alt="" coords="515,29,669,55"/>
-<area shape="rect" id="node6" href="$classTextAccess.html#a17086d2cc3eee9bbef8352489382f721" title=" " alt="" coords="505,79,679,104"/>
-<area shape="rect" id="node4" href="$classFilePath.html#ae43df68f4d64aa712319fcebebf5236b" title=" " alt="" coords="759,5,857,31"/>
-<area shape="rect" id="node5" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="753,55,863,80"/>
-<area shape="rect" id="node11" href="$classFilePath.html#a59fa57dcd7d19d74aaee62f072f14b3d" title=" " alt="" coords="748,244,868,269"/>
-<area shape="rect" id="node13" href="$classFileSystem.html#a060e5472f248e8a1936e605a7cfe7fbb" title=" " alt="" coords="484,295,700,320"/>
-<area shape="rect" id="node12" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="916,269,1047,295"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,150,224"/>
+<area shape="rect" id="Node000002" href="$classTextAccess.html#a5155a7b9df2dcfd960d50f4961fb4936" title=" " alt="" coords="217,56,415,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,177,141,137,196,99,227,86,229,91,199,104,144,142,102,181"/>
+<area shape="rect" id="Node000007" href="$namespaceutility.html#a4959dcb82d86854e88fa8757194a00ec" title=" " alt="" coords="512,195,667,222"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="115,177,154,158,197,143,263,131,316,127,368,131,435,143,496,161,550,185,548,190,494,166,433,148,368,137,316,132,264,136,198,148,156,163,118,181"/>
+<area shape="rect" id="Node000008" href="$classSqliteStorage.html#a6cc9f021cdd876e5dbc6a9c69e65c6b9" title=" " alt="" coords="198,157,434,185"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="150,190,188,185,189,190,151,195"/>
+<area shape="rect" id="Node000009" href="$classSqliteIndexStorage.html#a26a37dcc4fe2146a2cfc0b2c43ac73df" title=" " alt="" coords="244,209,388,254"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="151,208,229,218,228,223,150,213"/>
+<area shape="rect" id="Node000010" href="$classFileSystem.html#aa08fc0bad8c900f692c7a90fb6d61214" title=" " alt="" coords="207,277,425,305"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="116,222,155,244,199,263,220,270,219,275,197,268,153,249,114,227"/>
+<area shape="rect" id="Node000014" href="$classTimeStamp.html#aacbc25009aa6fbd88e8d91ceacdb9d4b" title=" " alt="" coords="239,329,393,357"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="98,223,141,270,168,294,199,314,225,325,223,330,196,319,165,298,137,274,94,226"/>
+<area shape="rect" id="Node000003" href="$classTextAccess.html#a3024169774f0b035fb68057243388c9e" title=" " alt="" coords="514,31,666,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,58,498,50,498,56,415,63"/>
+<area shape="rect" id="Node000006" href="$classTextAccess.html#a17086d2cc3eee9bbef8352489382f721" title=" " alt="" coords="503,83,676,110"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,77,488,84,487,89,415,82"/>
+<area shape="rect" id="Node000004" href="$classFilePath.html#ae43df68f4d64aa712319fcebebf5236b" title=" " alt="" coords="756,5,854,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="666,33,740,24,741,29,666,38"/>
+<area shape="rect" id="Node000005" href="$classFilePath.html#a989e098726c8387d4f4690bca3314ce8" title=" " alt="" coords="751,57,859,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="666,51,736,60,735,65,666,57"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="388,223,496,214,497,219,389,228"/>
+<area shape="rect" id="Node000011" href="$classFilePath.html#a59fa57dcd7d19d74aaee62f072f14b3d" title=" " alt="" coords="745,249,865,277"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="425,282,730,265,730,270,425,288"/>
+<area shape="rect" id="Node000013" href="$classFileSystem.html#a060e5472f248e8a1936e605a7cfe7fbb" title=" " alt="" coords="482,300,697,328"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="425,298,467,301,466,306,425,303"/>
+<area shape="rect" id="Node000012" href="$classFilePath.html#a544387c4aea50aec855062fd02e436ae" title=" " alt="" coords="913,275,1043,302"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="865,269,897,274,897,279,865,275"/>
+<area shape="poly" id="edge14_Node000013_Node000011" title=" " alt="" coords="651,297,730,278,731,283,652,302"/>
+<area shape="poly" id="edge15_Node000013_Node000012" title=" " alt="" coords="698,304,897,291,897,296,698,309"/>
 </map>

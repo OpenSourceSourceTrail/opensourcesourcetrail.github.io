@@ -1,10 +1,18 @@
 <map id="TaskGroupParallel" name="TaskGroupParallel">
-<area shape="rect" id="node1" title=" " alt="" coords="1052,126,1191,151"/>
-<area shape="rect" id="node2" href="$classTaskGroup.html" title=" " alt="" coords="690,62,781,87"/>
-<area shape="rect" id="node3" href="$classTask.html" title=" " alt="" coords="311,62,361,87"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,37,56,62"/>
-<area shape="rect" id="node5" title=" " alt="" coords="241,112,431,152"/>
-<area shape="rect" id="node6" title=" " alt="" coords="646,111,825,166"/>
-<area shape="rect" id="node7" title=" " alt="" coords="716,190,755,215"/>
-<area shape="rect" id="node8" title=" " alt="" coords="640,239,831,265"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1046,138,1185,165"/>
+<area shape="rect" id="Node000002" href="$classTaskGroup.html" title=" " alt="" coords="687,68,776,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="792,87,899,104,1023,126,1060,134,1058,140,1022,131,899,109,791,93"/>
+<area shape="rect" id="Node000003" href="$classTask.html" title=" " alt="" coords="309,68,359,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,79,686,79,686,85,375,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,43,55,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="69,39,78,37,117,32,147,32,216,37,522,36,655,39,827,54,927,64,970,73,1023,92,1064,112,1097,135,1094,139,1061,117,1021,96,969,78,926,69,826,59,655,45,522,41,216,42,147,38,117,37,79,42,70,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="59,78,80,88,142,100,206,100,264,94,308,85,309,91,265,99,207,105,142,105,78,93,57,82"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="240,120,428,164"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,123,686,86,686,91,444,128"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="642,121,820,182"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="836,149,1046,149,1046,154,836,154"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="712,207,750,235"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="765,213,879,196,1022,171,1057,163,1059,168,1023,176,880,202,766,219"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="636,259,826,287"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="841,266,931,252,977,240,1021,223,1066,194,1100,163,1103,167,1069,199,1024,228,979,245,932,257,842,271"/>
 </map>

@@ -1,14 +1,27 @@
 <map id="NodeTypeSet::all" name="NodeTypeSet::all">
-<area shape="rect" id="node1" title=" " alt="" coords="571,255,701,280"/>
-<area shape="rect" id="node2" href="$classTabsController.html#a41bda6f61980fcbcf21a7b69a8b7d2fe" title=" " alt="" coords="304,5,473,31"/>
-<area shape="rect" id="node3" href="$classCustomTrailController.html#a50e7b39b9042014ac4fe70424f4f7de8" title=" " alt="" coords="307,55,471,95"/>
-<area shape="rect" id="node5" href="$classPersistentStorage.html#a963c8258b44581a1a5c1960f1d3a575d" title=" " alt="" coords="255,119,523,159"/>
-<area shape="rect" id="node7" href="$classPersistentStorage.html#a28bb71eed6dbc2e857062c708afd95a3" title=" " alt="" coords="277,183,500,223"/>
-<area shape="rect" id="node8" href="$classPersistentStorage.html#a5faf31cae3975ec11040fc177f8ecc30" title=" " alt="" coords="263,247,514,287"/>
-<area shape="rect" id="node9" href="$classMessageActivateOverview.html#a84f8e7e938363f63cecd4e42db76217e" title=" " alt="" coords="291,311,487,351"/>
-<area shape="rect" id="node10" href="$classCodeController.html#a45ee1e83fa9d27767e041832532bf15f" title=" " alt="" coords="274,376,503,401"/>
-<area shape="rect" id="node11" href="$classGraphController.html#ad6d410cd1cf31de1e62d207f3195827c" title=" " alt="" coords="271,425,506,451"/>
-<area shape="rect" id="node12" href="$classPersistentStorage.html#a4199d28fa4f9a7d2d683161b728acd9c" title=" " alt="" coords="316,475,461,515"/>
-<area shape="rect" id="node4" href="$classQtCustomTrailView.html#aa2704fa930734ebf8b63a024388255a6" title=" " alt="" coords="29,55,183,95"/>
-<area shape="rect" id="node6" href="$classPersistentStorage.html#a6e9bf015702ab246b02e348a1ea6ae00" title=" " alt="" coords="5,183,207,223"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,273,699,301"/>
+<area shape="rect" id="Node000002" href="$classTabsController.html#a41bda6f61980fcbcf21a7b69a8b7d2fe" title=" " alt="" coords="303,5,472,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="626,259,615,211,595,153,563,95,543,69,519,47,497,33,471,25,473,20,499,29,523,42,547,65,568,92,599,151,620,210,631,257"/>
+<area shape="rect" id="Node000003" href="$classCustomTrailController.html#a50e7b39b9042014ac4fe70424f4f7de8" title=" " alt="" coords="306,57,469,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="620,260,605,226,583,187,554,149,519,116,495,102,469,93,470,88,497,97,523,112,558,145,587,184,609,224,625,258"/>
+<area shape="rect" id="Node000005" href="$classPersistentStorage.html#a963c8258b44581a1a5c1960f1d3a575d" title=" " alt="" coords="254,126,521,171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="610,263,571,223,546,203,520,186,494,174,496,169,522,181,549,198,574,219,614,260"/>
+<area shape="rect" id="Node000007" href="$classPersistentStorage.html#a28bb71eed6dbc2e857062c708afd95a3" title=" " alt="" coords="276,196,499,240"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="573,271,520,255,478,243,479,238,522,250,574,266"/>
+<area shape="rect" id="Node000008" href="$classPersistentStorage.html#a5faf31cae3975ec11040fc177f8ecc30" title=" " alt="" coords="263,265,512,310"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="554,290,512,290,512,285,554,285"/>
+<area shape="rect" id="Node000009" href="$classMessageActivateOverview.html#a84f8e7e938363f63cecd4e42db76217e" title=" " alt="" coords="290,334,485,379"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="574,309,522,324,479,336,478,331,520,319,573,304"/>
+<area shape="rect" id="Node000010" href="$classCodeController.html#a45ee1e83fa9d27767e041832532bf15f" title=" " alt="" coords="273,403,502,430"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="614,315,575,356,550,377,522,394,495,405,493,400,520,389,547,372,571,352,611,311"/>
+<area shape="rect" id="Node000011" href="$classGraphController.html#ad6d410cd1cf31de1e62d207f3195827c" title=" " alt="" coords="270,455,505,482"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="623,316,585,381,557,416,522,444,498,456,495,452,520,440,553,412,581,378,618,314"/>
+<area shape="rect" id="Node000012" href="$classPersistentStorage.html#a4199d28fa4f9a7d2d683161b728acd9c" title=" " alt="" coords="315,506,460,551"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="628,317,614,357,593,405,563,454,523,496,493,513,461,523,459,518,491,508,519,492,558,451,588,403,609,355,623,315"/>
+<area shape="rect" id="Node000004" href="$classQtCustomTrailView.html#aa2704fa930734ebf8b63a024388255a6" title=" " alt="" coords="28,57,183,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="290,82,183,82,183,77,290,77"/>
+<area shape="rect" id="Node000006" href="$classPersistentStorage.html#a6e9bf015702ab246b02e348a1ea6ae00" title=" " alt="" coords="5,196,206,240"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="279,178,200,197,199,192,278,173"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="260,221,206,221,206,215,260,215"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="278,263,199,243,200,238,279,258"/>
 </map>

@@ -1,20 +1,37 @@
 <map id="SourceGroupSettingsComponent" name="SourceGroupSettingsComponent">
-<area shape="rect" id="node1" title=" " alt="" coords="244,351,477,376"/>
-<area shape="rect" id="node3" href="$classSourceGroupSettingsWithCStandard.html" title=" " alt="" coords="525,5,780,31"/>
-<area shape="rect" id="node4" href="$classSourceGroupSettingsWithCppStandard.html" title=" " alt="" coords="546,55,759,95"/>
-<area shape="rect" id="node5" href="$classSourceGroupSettingsWithCustomCommand.html" title=" " alt="" coords="533,119,772,159"/>
-<area shape="rect" id="node6" href="$classSourceGroupSettingsWithCxxCdbPath.html" title=" " alt="" coords="546,183,759,223"/>
-<area shape="rect" id="node7" href="$classSourceGroupSettingsWithCxxCodeblocksPath.html" title=" " alt="" coords="546,247,759,287"/>
-<area shape="rect" id="node8" href="$classSourceGroupSettingsWithCxxCrossCompilationOptions.html" title=" " alt="" coords="546,311,759,351"/>
-<area shape="rect" id="node9" href="$classSourceGroupSettingsWithCxxPathsAndFlags.html" title=" " alt="" coords="546,375,759,415"/>
-<area shape="rect" id="node10" href="$classSourceGroupSettingsWithCxxPchOptions.html" title=" " alt="" coords="546,439,759,479"/>
-<area shape="rect" id="node11" href="$classSourceGroupSettingsWithExcludeFilters.html" title=" " alt="" coords="533,503,772,543"/>
-<area shape="rect" id="node12" href="$classSourceGroupSettingsWithIndexedHeaderPaths.html" title=" " alt="" coords="533,567,773,607"/>
-<area shape="rect" id="node13" href="$classSourceGroupSettingsWithSourceExtensions.html" title=" " alt="" coords="537,631,769,671"/>
-<area shape="rect" id="node18" href="$classSourceGroupSettingsWithSourcePaths.html" title=" " alt="" coords="537,695,769,735"/>
-<area shape="rect" id="node2" href="$classSourceGroupSettingsBase.html" title=" " alt="" coords="5,351,196,376"/>
-<area shape="rect" id="node14" href="$classSourceGroupSettingsWithSourceExtensionsC.html" title=" " alt="" coords="828,535,1060,575"/>
-<area shape="rect" id="node15" href="$classSourceGroupSettingsWithSourceExtensionsCpp.html" title=" " alt="" coords="828,599,1060,639"/>
-<area shape="rect" id="node16" href="$classSourceGroupSettingsWithSourceExtensionsCxx.html" title=" " alt="" coords="828,663,1060,703"/>
-<area shape="rect" id="node17" href="$classSourceGroupSettingsWithSourceExtensionsEmpty.html" title=" " alt="" coords="828,727,1060,767"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="243,377,475,405"/>
+<area shape="rect" id="Node000003" href="$classSourceGroupSettingsWithCStandard.html" title=" " alt="" coords="523,5,777,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,361,377,295,407,208,428,162,453,118,484,77,521,42,539,31,542,36,525,47,488,81,458,121,432,165,412,210,383,296,367,362"/>
+<area shape="rect" id="Node000004" href="$classSourceGroupSettingsWithCppStandard.html" title=" " alt="" coords="544,57,756,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,362,386,308,418,241,463,171,490,139,521,112,542,99,545,104,525,116,494,143,467,174,423,243,391,310,371,363"/>
+<area shape="rect" id="Node000005" href="$classSourceGroupSettingsWithCustomCommand.html" title=" " alt="" coords="532,126,769,171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="372,362,395,322,429,273,471,223,521,181,544,169,546,174,525,185,475,227,433,276,400,325,376,365"/>
+<area shape="rect" id="Node000006" href="$classSourceGroupSettingsWithCxxCdbPath.html" title=" " alt="" coords="544,196,756,240"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,364,441,307,480,276,522,250,549,238,551,243,524,255,483,281,445,311,385,368"/>
+<area shape="rect" id="Node000007" href="$classSourceGroupSettingsWithCxxCodeblocksPath.html" title=" " alt="" coords="544,265,756,310"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="403,368,522,319,559,308,561,313,524,324,405,373"/>
+<area shape="rect" id="Node000008" href="$classSourceGroupSettingsWithCxxCrossCompilationOptions.html" title=" " alt="" coords="544,334,756,379"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="490,373,543,367,544,372,491,378"/>
+<area shape="rect" id="Node000009" href="$classSourceGroupSettingsWithCxxPathsAndFlags.html" title=" " alt="" coords="544,404,756,448"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="491,404,544,411,543,416,490,409"/>
+<area shape="rect" id="Node000010" href="$classSourceGroupSettingsWithCxxPchOptions.html" title=" " alt="" coords="544,473,756,518"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="405,409,524,458,561,470,559,475,522,463,403,414"/>
+<area shape="rect" id="Node000011" href="$classSourceGroupSettingsWithExcludeFilters.html" title=" " alt="" coords="531,542,769,587"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="385,414,445,472,483,502,524,527,551,539,549,544,522,532,480,506,441,476,381,418"/>
+<area shape="rect" id="Node000012" href="$classSourceGroupSettingsWithIndexedHeaderPaths.html" title=" " alt="" coords="531,612,770,656"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="376,417,400,458,433,506,475,555,525,597,546,609,544,613,521,601,471,559,429,510,395,461,372,420"/>
+<area shape="rect" id="Node000013" href="$classSourceGroupSettingsWithSourceExtensions.html" title=" " alt="" coords="535,681,766,726"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="371,419,391,472,423,539,467,608,494,639,525,666,544,678,541,683,521,671,490,643,463,611,418,542,386,474,366,421"/>
+<area shape="rect" id="Node000018" href="$classSourceGroupSettingsWithSourcePaths.html" title=" " alt="" coords="535,750,766,795"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="368,420,384,485,413,571,434,616,459,660,489,700,525,736,542,748,539,752,521,740,485,704,455,663,429,618,408,573,379,487,363,421"/>
+<area shape="rect" id="Node000002" href="$classSourceGroupSettingsBase.html" title=" " alt="" coords="5,377,195,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,389,242,389,242,394,210,394"/>
+<area shape="rect" id="Node000014" href="$classSourceGroupSettingsWithSourceExtensionsC.html" title=" " alt="" coords="825,577,1057,622"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="762,673,776,666,800,649,824,632,852,620,854,625,827,636,803,653,779,671,764,677"/>
+<area shape="rect" id="Node000015" href="$classSourceGroupSettingsWithSourceExtensionsCpp.html" title=" " alt="" coords="825,646,1057,691"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="781,685,825,680,825,685,782,690"/>
+<area shape="rect" id="Node000016" href="$classSourceGroupSettingsWithSourceExtensionsCxx.html" title=" " alt="" coords="825,716,1057,760"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="782,716,825,721,825,727,781,721"/>
+<area shape="rect" id="Node000017" href="$classSourceGroupSettingsWithSourceExtensionsEmpty.html" title=" " alt="" coords="825,785,1057,830"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="764,729,779,736,803,753,827,770,854,782,852,787,824,775,800,757,776,740,762,734"/>
 </map>

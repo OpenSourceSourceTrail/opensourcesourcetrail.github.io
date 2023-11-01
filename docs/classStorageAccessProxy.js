@@ -3,7 +3,7 @@ var classStorageAccessProxy =
     [ "StorageAccessProxy", "classStorageAccessProxy.html#a6a7efbaafd5245fb2198c7f90bfef03a", null ],
     [ "addBookmarkCategory", "classStorageAccessProxy.html#aaf87377ecb85b9bb481eeea97f56b7f9", null ],
     [ "addEdgeBookmark", "classStorageAccessProxy.html#a5c50a3239daa6ef062c9f485782bc7a9", null ],
-    [ "addErrorsToCache", "classStorageAccessProxy.html#abbb15298b5f1a8bd4043af1c0d91d4ad", null ],
+    [ "addErrorsToCache", "classStorageAccessProxy.html#a02e204f42c5d02527603b20fc7a75af4", null ],
     [ "addNodeBookmark", "classStorageAccessProxy.html#a31f7cb5bfd857550e73211b8c46234c4", null ],
     [ "getActiveTokenIdsForId", "classStorageAccessProxy.html#a69eabbee6ed6f9f7a0e827fc3a111887", null ],
     [ "getAllBookmarkCategories", "classStorageAccessProxy.html#a6e41c77300e52ec63ad073c79d5c184f", null ],
@@ -47,7 +47,7 @@ var classStorageAccessProxy =
     [ "removeBookmark", "classStorageAccessProxy.html#a87e6424b56af8e488f3a4902e9e34670", null ],
     [ "removeBookmarkCategory", "classStorageAccessProxy.html#a235ed9edfc7cb6aeadbb90fe202889a4", null ],
     [ "setSubject", "classStorageAccessProxy.html#a883ed23d5085bee80787822db49b601f", null ],
-    [ "setUseErrorCache", "classStorageAccessProxy.html#a0e4f9ee041f64148b1497a5528ef43fa", null ],
+    [ "setUseErrorCache", "classStorageAccessProxy.html#ac9efd16225b7318e5cdf698eede78a6a", null ],
     [ "updateBookmark", "classStorageAccessProxy.html#af082c2e983b0f83f789116a2fb5d1052", null ],
     [ "m_subject", "classStorageAccessProxy.html#ae9e27fa27e0c6cf849ecdba125aaac3b", null ]
 ];

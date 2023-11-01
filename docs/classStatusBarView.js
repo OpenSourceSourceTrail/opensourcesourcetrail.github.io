@@ -1,13 +1,14 @@
 var classStatusBarView =
 [
     [ "StatusBarView", "classStatusBarView.html#af0793fc74a7c8f72c240fd5c4145b5cb", null ],
-    [ "~StatusBarView", "classStatusBarView.html#aff4578d957e47710d772ee4e27382fab", null ],
+    [ "~StatusBarView", "classStatusBarView.html#aeaad36df79f523cfbe0fa501176b213d", null ],
     [ "addToLayout", "classStatusBarView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "create", "classStatusBarView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
     [ "createAndAddToLayout", "classStatusBarView.html#a93a9174f4de6b909706465a61949bf83", null ],
     [ "createWidgetWrapper", "classStatusBarView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
-    [ "getController", "classStatusBarView.html#a14b3dfd8347b45101fb58e0639b3d9d0", null ],
-    [ "getName", "classStatusBarView.html#a71f2e02d2594b685b5f4f4395d1eb613", null ],
+    [ "getController", "classStatusBarView.html#aa4d988d307d70568545ad17f89dbe789", null ],
+    [ "getName", "classStatusBarView.html#aeb73e337b2bbe0981cb2c5729dfa084e", null ],
+    [ "getStatusBarController", "classStatusBarView.html#a3cef280e543a1c8128e049d713e9cb13", null ],
     [ "getViewLayout", "classStatusBarView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classStatusBarView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "hideIndexingProgress", "classStatusBarView.html#ae5510339a3c6b49d7c3354f89194bcf5", null ],

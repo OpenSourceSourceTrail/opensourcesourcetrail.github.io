@@ -1,12 +1,22 @@
 <map id="InterprocessIndexingStatusManager" name="InterprocessIndexingStatusManager">
-<area shape="rect" id="node1" title=" " alt="" coords="43,373,241,413"/>
-<area shape="rect" id="node2" href="$classBaseInterprocessDataManager.html" title=" " alt="" coords="308,299,531,324"/>
-<area shape="rect" id="node3" href="$classSharedMemory.html" title=" " alt="" coords="301,137,423,163"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,20,145,45"/>
-<area shape="rect" id="node5" title=" " alt="" coords="179,5,334,60"/>
-<area shape="rect" id="node6" title=" " alt="" coords="358,20,417,45"/>
-<area shape="rect" id="node7" title=" " alt="" coords="441,20,544,45"/>
-<area shape="rect" id="node8" title=" " alt="" coords="568,20,628,45"/>
-<area shape="rect" id="node9" title=" " alt="" coords="467,137,526,163"/>
-<area shape="rect" id="node10" title=" " alt="" coords="600,137,673,163"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,404,204,448"/>
+<area shape="rect" id="Node000002" href="$classBaseInterprocessDataManager.html" title=" " alt="" coords="271,327,493,354"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,362,178,406,176,400,323,357"/>
+<area shape="rect" id="Node000003" href="$classSharedMemory.html" title=" " alt="" coords="266,149,386,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,191,310,201,298,254,299,276,310,301,322,314,337,324,334,328,318,318,306,304,294,277,292,254,305,200,309,190"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="25,22,75,50"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="55,65,60,125,83,285,103,403,98,404,78,285,55,125,49,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="56,65,67,96,75,111,87,123,117,136,163,146,266,156,265,162,162,151,115,141,84,127,71,114,62,98,51,66"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="142,5,296,67"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="237,80,249,103,264,123,296,146,293,151,261,127,245,106,232,82"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="321,22,379,50"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="347,66,331,149,326,148,342,65"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="403,22,505,50"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="447,66,432,97,409,127,390,141,370,151,368,146,388,136,405,123,427,94,442,64"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="530,22,589,50"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="550,66,530,98,501,127,481,136,453,144,387,156,386,151,451,139,479,131,498,123,526,95,545,63"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="430,149,488,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="461,193,454,246,446,276,432,304,421,318,407,328,404,324,417,314,428,301,441,274,449,245,456,192"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="563,149,635,177"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="604,192,604,219,600,249,590,279,572,305,540,320,494,331,492,325,539,315,568,301,585,276,595,248,599,219,599,192"/>
 </map>

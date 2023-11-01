@@ -7,7 +7,7 @@ var classQtRefreshView =
     [ "createAndAddToLayout", "classQtRefreshView.html#a93a9174f4de6b909706465a61949bf83", null ],
     [ "createWidgetWrapper", "classQtRefreshView.html#aa7d05da7696ad3d188a446e48ea38b40", null ],
     [ "getController", "classQtRefreshView.html#ac751ee30d4da8a349059d54b53f75e85", null ],
-    [ "getName", "classQtRefreshView.html#a44c842f82bd2aaa44385e515df8f712f", null ],
+    [ "getName", "classQtRefreshView.html#a98cbf56de4a5b3cd133cb4b8512eaf63", null ],
     [ "getViewLayout", "classQtRefreshView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classQtRefreshView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "refreshView", "classQtRefreshView.html#ade661803f64cf5bcafc7d6c77f0d45ee", null ],

@@ -1,8 +1,16 @@
 <map id="GraphController::handleMessage" name="GraphController::handleMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,240,105"/>
-<area shape="rect" id="node2" href="$classGraphController.html#a05276142a52076049b084aad9ae290c7" title=" " alt="" coords="288,55,492,80"/>
-<area shape="rect" id="node6" href="$classMessageBase.html#a0d970a784f19e4f22216abcc18cda3f5" title=" " alt="" coords="289,104,491,129"/>
-<area shape="rect" id="node3" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="543,5,729,31"/>
-<area shape="rect" id="node4" href="$classMessageBase.html#a503147e0eb9af4a3edf5b2ffeed77270" title=" " alt="" coords="540,55,732,80"/>
-<area shape="rect" id="node5" href="$classGraphView.html#a7a884e2fe449a12e48efb1dbdd48418a" title=" " alt="" coords="543,104,729,129"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,240,84"/>
+<area shape="rect" id="Node000002" href="$classGraphController.html#a05276142a52076049b084aad9ae290c7" title=" " alt="" coords="288,56,491,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,67,272,67,272,73,240,73"/>
+<area shape="rect" id="Node000003" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="539,5,724,33"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="208,53,287,42,523,22,524,28,288,47,209,58"/>
+<area shape="rect" id="Node000007" href="$classMessageBase.html#a0d970a784f19e4f22216abcc18cda3f5" title=" " alt="" coords="289,108,490,136"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="198,82,300,102,299,107,197,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,53,547,34,548,39,459,58"/>
+<area shape="rect" id="Node000006" href="$classGraphView.html#a7a884e2fe449a12e48efb1dbdd48418a" title=" " alt="" coords="540,57,724,85"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="492,68,524,68,524,73,492,73"/>
+<area shape="rect" id="Node000004" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="772,5,919,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="724,17,756,17,756,22,724,22"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="967,5,1124,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="919,17,951,17,951,22,919,22"/>
 </map>

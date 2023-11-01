@@ -1,19 +1,45 @@
 <map id="GraphFocusHandler::findNextNode" name="GraphFocusHandler::findNextNode">
-<area shape="rect" id="node1" title=" " alt="" coords="5,353,163,393"/>
-<area shape="rect" id="node2" href="$classGraphFocusHandler.html#ac41a20a09c74b5335ef76cfb9628cb73" title=" " alt="" coords="211,29,389,69"/>
-<area shape="rect" id="node3" href="$classGraphFocusHandler.html#aa09198452c66e7a59619410dda4fdf69" title=" " alt="" coords="221,324,379,364"/>
-<area shape="rect" id="node5" href="$classQtGraphNode.html#a7062333378814d720310aa702200c420" title=" " alt="" coords="723,38,914,63"/>
-<area shape="rect" id="node11" href="$classQtGraphNode.html#aca688798fc05b28e3e168edbbdf8d92e" title=" " alt="" coords="728,390,909,415"/>
-<area shape="rect" id="node12" href="$classQtGraphNode.html#aafbeb8e3f56af6fcc6b46682b98187d1" title=" " alt="" coords="717,439,921,465"/>
-<area shape="rect" id="node16" href="$classQtGraphNode.html#add18fae6b04eb4a1a8a0563022394626" title=" " alt="" coords="455,490,649,515"/>
-<area shape="rect" id="node4" href="$classQtGraphNode.html#a2561beb7d9d674c0603d45820b61815a" title=" " alt="" coords="437,195,667,221"/>
-<area shape="rect" id="node7" href="$classGraphFocusHandler.html#ae964c70396bb3bbd7e7f1f5102f3f321" title=" " alt="" coords="441,324,663,364"/>
-<area shape="rect" id="node6" href="$classQtGraphNode.html#a3be8fc2cf178da6982c69a162c7a2a54" title=" " alt="" coords="735,87,902,113"/>
-<area shape="rect" id="node8" href="$classGraphFocusHandler.html#a0587ebe0a47539e3613ecd4197c1efc8" title=" " alt="" coords="738,161,899,201"/>
-<area shape="rect" id="node9" href="$namespaceutility.html#a20e313ed6af8386f5e95f86b77027904" title=" " alt="" coords="761,226,876,251"/>
-<area shape="rect" id="node10" href="$classGraphFocusClient.html#a32e0254c8bf582464b942a6830afb186" title=" " alt="" coords="717,276,921,316"/>
-<area shape="rect" id="node13" href="$classQtGraphNode.html#aedee20d1765b8b71485183ec80811484" title=" " alt="" coords="721,489,916,514"/>
-<area shape="rect" id="node14" href="$classQtGraphNode.html#a9bbea603843a4bd7827c64d1da41817a" title=" " alt="" coords="717,538,920,563"/>
-<area shape="rect" id="node15" href="$namespaceutility.html#aaf52f1ff3ca887705d82c1e674f434c0" title=" " alt="" coords="757,341,880,366"/>
-<area shape="rect" id="node17" href="$classQtGraphNode.html#a94383b3d4f6d1fbb247208dc9ddaae29" title=" " alt="" coords="715,587,923,613"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,367,162,411"/>
+<area shape="rect" id="Node000002" href="$classGraphFocusHandler.html#ac41a20a09c74b5335ef76cfb9628cb73" title=" " alt="" coords="210,29,387,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,366,98,312,121,239,157,161,180,124,208,91,220,81,223,85,212,95,185,128,162,164,126,241,103,313,91,367"/>
+<area shape="rect" id="Node000003" href="$classGraphFocusHandler.html#aa09198452c66e7a59619410dda4fdf69" title=" " alt="" coords="220,336,377,381"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="162,375,204,369,205,374,162,380"/>
+<area shape="rect" id="Node000005" href="$classQtGraphNode.html#a7062333378814d720310aa702200c420" title=" " alt="" coords="720,35,910,63"/>
+<area shape="poly" id="edge24_Node000001_Node000005" title=" " alt="" coords="108,364,163,317,241,256,334,193,434,139,502,112,572,90,704,62,705,67,574,96,504,117,436,143,336,197,244,261,166,321,111,368"/>
+<area shape="rect" id="Node000011" href="$classQtGraphNode.html#aca688798fc05b28e3e168edbbdf8d92e" title=" " alt="" coords="725,403,905,431"/>
+<area shape="poly" id="edge23_Node000001_Node000011" title=" " alt="" coords="162,389,710,410,709,416,162,395"/>
+<area shape="rect" id="Node000012" href="$classQtGraphNode.html#aafbeb8e3f56af6fcc6b46682b98187d1" title=" " alt="" coords="713,455,917,483"/>
+<area shape="poly" id="edge25_Node000001_Node000012" title=" " alt="" coords="162,397,210,404,698,456,698,461,209,409,162,403"/>
+<area shape="rect" id="Node000016" href="$classQtGraphNode.html#add18fae6b04eb4a1a8a0563022394626" title=" " alt="" coords="453,507,646,535"/>
+<area shape="poly" id="edge26_Node000001_Node000016" title=" " alt="" coords="108,410,152,450,180,470,211,485,267,503,325,515,383,521,437,523,437,528,383,526,324,520,265,508,209,490,178,474,149,454,104,414"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="257,29,256,19,263,10,277,5,298,3,322,5,336,12,333,17,320,10,298,8,278,10,266,15,261,21,262,28"/>
+<area shape="rect" id="Node000004" href="$classQtGraphNode.html#a2561beb7d9d674c0603d45820b61815a" title=" " alt="" coords="435,199,663,227"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="337,333,509,233,512,237,340,338"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="309,334,328,301,356,260,392,220,434,185,465,169,495,160,548,156,602,152,631,144,662,128,677,115,685,102,694,87,710,73,722,67,724,72,713,78,698,91,690,104,681,119,665,133,632,149,603,157,549,161,496,165,467,174,436,190,395,224,361,264,333,304,314,337"/>
+<area shape="rect" id="Node000007" href="$classGraphFocusHandler.html#ae964c70396bb3bbd7e7f1f5102f3f321" title=" " alt="" coords="439,336,659,381"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="377,356,423,356,423,361,377,361"/>
+<area shape="poly" id="edge19_Node000003_Node000016" title=" " alt="" coords="336,379,515,496,512,501,333,384"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="632,196,662,179,673,167,679,154,685,128,690,100,697,87,710,74,716,69,719,73,713,78,702,90,695,102,690,129,684,156,677,170,665,183,635,201"/>
+<area shape="rect" id="Node000006" href="$classQtGraphNode.html#a3be8fc2cf178da6982c69a162c7a2a54" title=" " alt="" coords="732,87,898,115"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="624,196,662,179,676,166,685,152,694,138,710,124,720,119,722,124,713,129,698,141,689,155,681,169,665,183,626,201"/>
+<area shape="poly" id="edge14_Node000007_Node000007" title=" " alt="" coords="501,336,500,326,508,317,525,311,549,309,576,312,592,318,590,323,575,317,549,315,526,317,511,321,505,327,507,335"/>
+<area shape="rect" id="Node000008" href="$classGraphFocusHandler.html#a0587ebe0a47539e3613ecd4197c1efc8" title=" " alt="" coords="735,163,895,207"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="569,334,629,276,668,245,710,217,721,212,723,216,713,222,671,249,633,280,573,338"/>
+<area shape="rect" id="Node000009" href="$namespaceutility.html#a20e313ed6af8386f5e95f86b77027904" title=" " alt="" coords="758,231,872,259"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="584,333,642,300,710,268,742,257,744,262,712,273,645,305,587,338"/>
+<area shape="rect" id="Node000010" href="$classGraphFocusClient.html#a32e0254c8bf582464b942a6830afb186" title=" " alt="" coords="713,283,917,327"/>
+<area shape="poly" id="edge12_Node000007_Node000010" title=" " alt="" coords="659,334,697,326,698,331,660,339"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="654,379,734,397,733,402,653,384"/>
+<area shape="poly" id="edge15_Node000007_Node000012" title=" " alt="" coords="590,379,647,410,712,440,736,448,734,453,710,445,644,415,587,384"/>
+<area shape="rect" id="Node000013" href="$classQtGraphNode.html#aedee20d1765b8b71485183ec80811484" title=" " alt="" coords="718,507,912,535"/>
+<area shape="poly" id="edge16_Node000007_Node000013" title=" " alt="" coords="573,379,632,436,671,466,713,492,729,499,726,504,710,497,668,471,629,440,569,383"/>
+<area shape="rect" id="Node000014" href="$classQtGraphNode.html#a9bbea603843a4bd7827c64d1da41817a" title=" " alt="" coords="714,559,916,587"/>
+<area shape="poly" id="edge17_Node000007_Node000014" title=" " alt="" coords="572,380,654,478,713,544,724,550,722,555,710,548,650,482,567,383"/>
+<area shape="rect" id="Node000015" href="$namespaceutility.html#aaf52f1ff3ca887705d82c1e674f434c0" title=" " alt="" coords="754,351,876,379"/>
+<area shape="poly" id="edge18_Node000007_Node000015" title=" " alt="" coords="660,358,739,360,739,366,660,364"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="765,163,763,152,772,144,789,138,815,136,844,138,861,145,859,150,842,144,815,141,790,143,774,148,768,154,770,162"/>
+<area shape="poly" id="edge21_Node000016_Node000013" title=" " alt="" coords="646,518,703,518,703,524,646,524"/>
+<area shape="poly" id="edge22_Node000016_Node000014" title=" " alt="" coords="624,533,726,553,725,558,623,538"/>
+<area shape="rect" id="Node000017" href="$classQtGraphNode.html#a94383b3d4f6d1fbb247208dc9ddaae29" title=" " alt="" coords="711,611,919,639"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="578,533,638,564,712,596,737,604,735,609,710,601,636,569,575,538"/>
 </map>

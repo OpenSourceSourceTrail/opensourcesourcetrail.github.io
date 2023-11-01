@@ -1,6 +1,9 @@
 <map id="PersistentStorage::getAvailableEdgeTypes" name="PersistentStorage::getAvailableEdgeTypes">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,179,75"/>
-<area shape="rect" id="node2" href="$classSqliteIndexStorage.html#a629c7b46e37a6db66a392e06b2c13e5d" title=" " alt="" coords="227,5,408,45"/>
-<area shape="rect" id="node4" href="$classEdge.html#a7ed693a82d45e351e90133c1142ea337" title=" " alt="" coords="256,70,379,95"/>
-<area shape="rect" id="node3" href="$classSqliteStorage.html#a6a89b1a3823a6ba065874769b09bf9cc" title=" " alt="" coords="456,13,664,38"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,178,81"/>
+<area shape="rect" id="Node000002" href="$classSqliteIndexStorage.html#a629c7b46e37a6db66a392e06b2c13e5d" title=" " alt="" coords="226,5,406,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,44,210,39,210,45,178,49"/>
+<area shape="rect" id="Node000004" href="$classEdge.html#a7ed693a82d45e351e90133c1142ea337" title=" " alt="" coords="255,74,377,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,67,240,75,239,80,178,72"/>
+<area shape="rect" id="Node000003" href="$classSqliteStorage.html#a6a89b1a3823a6ba065874769b09bf9cc" title=" " alt="" coords="454,14,661,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,25,438,25,438,30,407,30"/>
 </map>

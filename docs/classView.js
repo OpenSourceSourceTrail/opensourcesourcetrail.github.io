@@ -1,7 +1,7 @@
 var classView =
 [
-    [ "View", "classView.html#a3f879ffe568c9ad3f2cb121fa98e0c75", null ],
-    [ "~View", "classView.html#ad0f3ade04bca4e74b8868e63729bad86", null ],
+    [ "View", "classView.html#a5495e8aa8dea965977f7633e4d29b4c7", null ],
+    [ "~View", "classView.html#ad0dc854db9aabbea98a334dec89f785c", null ],
     [ "addToLayout", "classView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "create", "classView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
     [ "createAndAddToLayout", "classView.html#a93a9174f4de6b909706465a61949bf83", null ],

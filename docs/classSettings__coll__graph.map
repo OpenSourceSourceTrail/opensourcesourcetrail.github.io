@@ -1,8 +1,14 @@
 <map id="Settings" name="Settings">
-<area shape="rect" id="node1" title=" " alt="" coords="330,255,405,280"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,167,225,192"/>
-<area shape="rect" id="node3" href="$classFilePath.html" title=" " alt="" coords="249,167,323,192"/>
-<area shape="rect" id="node4" title=" " alt="" coords="108,5,259,45"/>
-<area shape="rect" id="node5" title=" " alt="" coords="345,13,395,38"/>
-<area shape="rect" id="node6" title=" " alt="" coords="541,167,601,192"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,276,403,303"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,183,225,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,214,251,249,329,275,328,280,249,254,159,219"/>
+<area shape="rect" id="Node000003" href="$classFilePath.html" title=" " alt="" coords="248,183,321,211"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,221,356,274,352,277,304,224"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,5,258,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="182,65,184,112,191,136,203,157,220,169,249,181,247,186,218,174,199,161,186,138,179,113,176,66"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="344,14,393,42"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="400,51,415,73,432,122,439,164,434,205,415,253,405,267,392,277,389,273,401,263,410,250,429,204,434,164,427,123,410,75,396,54"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="330,38,297,52,282,62,271,75,261,102,263,132,271,160,280,182,275,184,266,161,258,133,256,102,266,73,279,58,294,47,328,34"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="539,183,598,211"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="527,220,451,254,397,278,395,273,449,249,525,215"/>
 </map>

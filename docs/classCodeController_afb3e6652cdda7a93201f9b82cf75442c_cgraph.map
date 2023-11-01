@@ -1,10 +1,13 @@
 <map id="CodeController::buildMergerHierarchy" name="CodeController::buildMergerHierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,135,211,175"/>
-<area shape="rect" id="node2" href="$classSnippetMerger.html#a3d89857e8340d0f43dddcab37a301505" title=" " alt="" coords="276,5,459,31"/>
-<area shape="rect" id="node3" href="$classSourceLocation.html#a40374d38f5964d6f8f2da4556172b916" title=" " alt="" coords="524,56,753,81"/>
-<area shape="rect" id="node4" href="$classSourceLocation.html#a376e3d556cf0c701c8208b8c5cdec769" title=" " alt="" coords="524,171,753,196"/>
-<area shape="rect" id="node5" href="$classSourceLocation.html#ab16e2014fa2d9f128254a9c7972e9fb6" title=" " alt="" coords="259,221,476,247"/>
-<area shape="rect" id="node6" href="$classCodeController.html#a8cc98a82a6d8c04031c69482de8d9e28" title=" " alt="" coords="271,106,463,146"/>
-<area shape="rect" id="node8" href="$classSourceLocation.html#a28785e9e82c344caa534b5b2dbc617e6" title=" " alt="" coords="277,271,458,311"/>
-<area shape="rect" id="node7" href="$classSourceLocationFile.html#a81ffaa436d4d77350d098d906d038ccb" title=" " alt="" coords="534,106,743,146"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,210,81"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="61,36,59,26,67,17,83,11,108,9,134,12,150,18,148,23,133,17,107,15,84,17,70,21,64,27,66,35"/>
+<area shape="rect" id="Node000002" href="$classCodeController.html#a8cc98a82a6d8c04031c69482de8d9e28" title=" " alt="" coords="258,5,449,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="210,43,242,39,242,44,211,48"/>
+<area shape="rect" id="Node000003" href="$classCodeController.html#affaa2a65b109b9f7f6a9ff097069a636" title=" " alt="" coords="497,45,676,72"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="210,59,258,60,449,60,481,59,481,64,449,65,258,65,210,64"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="450,38,482,42,481,47,449,43"/>
+<area shape="rect" id="Node000004" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="724,45,871,72"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="677,56,709,56,709,61,677,61"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="919,45,1076,72"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="871,56,903,56,903,61,871,61"/>
 </map>

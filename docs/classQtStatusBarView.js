@@ -1,13 +1,14 @@
 var classQtStatusBarView =
 [
     [ "QtStatusBarView", "classQtStatusBarView.html#a2a9f1356da4c4ead9893357c96242c47", null ],
-    [ "~QtStatusBarView", "classQtStatusBarView.html#aeaed7815eda0681f664a74956ed12dce", null ],
+    [ "~QtStatusBarView", "classQtStatusBarView.html#a50c250fc0a7ef11b0f3669e5c6d00326", null ],
     [ "addToLayout", "classQtStatusBarView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
     [ "create", "classQtStatusBarView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
     [ "createAndAddToLayout", "classQtStatusBarView.html#a93a9174f4de6b909706465a61949bf83", null ],
     [ "createWidgetWrapper", "classQtStatusBarView.html#af7e77c6660534baee0fe92ba13177620", null ],
-    [ "getController", "classQtStatusBarView.html#a14b3dfd8347b45101fb58e0639b3d9d0", null ],
-    [ "getName", "classQtStatusBarView.html#a71f2e02d2594b685b5f4f4395d1eb613", null ],
+    [ "getController", "classQtStatusBarView.html#aa4d988d307d70568545ad17f89dbe789", null ],
+    [ "getName", "classQtStatusBarView.html#aeb73e337b2bbe0981cb2c5729dfa084e", null ],
+    [ "getStatusBarController", "classQtStatusBarView.html#a3cef280e543a1c8128e049d713e9cb13", null ],
     [ "getViewLayout", "classQtStatusBarView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classQtStatusBarView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "hideIndexingProgress", "classQtStatusBarView.html#ac0da47055f20490002d5a949ec497304", null ],

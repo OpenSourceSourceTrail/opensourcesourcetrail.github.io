@@ -1,17 +1,32 @@
 <map id="PersistentStorage::getNameHierarchiesForNodeIds" name="PersistentStorage::getNameHierarchiesForNodeIds">
-<area shape="rect" id="node1" title=" " alt="" coords="5,374,235,414"/>
-<area shape="rect" id="node2" href="$classNameHierarchy.html#aac9041eb78a248b2366f927bc7466b52" title=" " alt="" coords="283,259,485,284"/>
-<area shape="rect" id="node13" href="$classSqliteIndexStorage.html#a1c9bd502715f6853cfe32cab32dbca18" title=" " alt="" coords="311,473,457,513"/>
-<area shape="rect" id="node3" href="$classNameHierarchy.html#a61507571abe641fc9b6694793f5c01bf" title=" " alt="" coords="556,5,719,31"/>
-<area shape="rect" id="node4" href="$classNameElement.html#a9ede148b2de95daf192c0cd4ad15daa8" title=" " alt="" coords="546,55,729,80"/>
-<area shape="rect" id="node5" href="$classNameElement_1_1Signature.html#a4bb81f51eb96fb5546311bd60d959dcb" title=" " alt="" coords="545,105,730,145"/>
-<area shape="rect" id="node6" href="$classNameElement_1_1Signature.html#a42b4dce71a17904b4063c7357a9e8394" title=" " alt="" coords="545,169,730,209"/>
-<area shape="rect" id="node7" href="$classNameElement.html#abfc0870ba3a5311e45a2bff6f57c1a43" title=" " alt="" coords="534,233,741,259"/>
-<area shape="rect" id="node8" href="$classNameElement.html#a4cfad678ac33d80fc5bfbfd0f7300f8b" title=" " alt="" coords="533,283,741,308"/>
-<area shape="rect" id="node10" href="$classNameHierarchy.html#acd30e121b7056fecafccd2fb8ed40310" title=" " alt="" coords="560,332,715,357"/>
-<area shape="rect" id="node11" href="$classNameHierarchy.html#ab3e5cdccabb7ceed36c3cd11d1141eff" title=" " alt="" coords="556,381,719,407"/>
-<area shape="rect" id="node12" href="$classNameHierarchy.html#a760966798a0edd110618a6179d646810" title=" " alt="" coords="559,431,716,456"/>
-<area shape="rect" id="node9" href="$classNameElement_1_1Signature.html#a305f9a7a1262c033dd59d7fd63742ad6" title=" " alt="" coords="789,275,975,315"/>
-<area shape="rect" id="node14" href="$namespaceutility.html#a237f617b0b07dbb7215f63901217c7a4" title=" " alt="" coords="592,480,683,505"/>
-<area shape="rect" id="node15" href="$namespaceutility.html#aea0681f6afa2ac9505f8f5a988bd04f8" title=" " alt="" coords="575,529,700,555"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,406,234,451"/>
+<area shape="rect" id="Node000002" href="$classNameHierarchy.html#aac9041eb78a248b2366f927bc7466b52" title=" " alt="" coords="282,273,483,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,403,340,306,342,311,164,408"/>
+<area shape="rect" id="Node000013" href="$classSqliteIndexStorage.html#a1c9bd502715f6853cfe32cab32dbca18" title=" " alt="" coords="310,522,455,567"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="173,449,317,513,315,518,171,454"/>
+<area shape="rect" id="Node000003" href="$classNameHierarchy.html#a61507571abe641fc9b6694793f5c01bf" title=" " alt="" coords="554,5,715,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,272,402,228,431,166,473,100,500,70,529,44,538,38,541,42,533,48,503,74,478,103,436,168,407,230,391,274"/>
+<area shape="rect" id="Node000004" href="$classNameElement.html#a9ede148b2de95daf192c0cd4ad15daa8" title=" " alt="" coords="544,57,726,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="388,272,407,236,438,187,479,137,503,114,530,94,538,89,541,94,532,99,507,118,483,141,442,191,412,238,393,274"/>
+<area shape="rect" id="Node000005" href="$classNameElement_1_1Signature.html#a4bb81f51eb96fb5546311bd60d959dcb" title=" " alt="" coords="543,109,727,154"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="396,271,451,219,489,190,530,164,541,158,543,163,532,168,492,194,455,223,399,275"/>
+<area shape="rect" id="Node000006" href="$classNameElement_1_1Signature.html#a42b4dce71a17904b4063c7357a9e8394" title=" " alt="" coords="543,178,727,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="423,270,530,233,551,226,552,231,532,238,425,275"/>
+<area shape="rect" id="Node000007" href="$classNameElement.html#abfc0870ba3a5311e45a2bff6f57c1a43" title=" " alt="" coords="532,247,737,274"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="483,274,516,270,517,276,484,279"/>
+<area shape="rect" id="Node000008" href="$classNameElement.html#a4cfad678ac33d80fc5bfbfd0f7300f8b" title=" " alt="" coords="531,299,738,326"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="484,295,516,298,515,303,483,300"/>
+<area shape="rect" id="Node000010" href="$classNameHierarchy.html#acd30e121b7056fecafccd2fb8ed40310" title=" " alt="" coords="558,351,712,378"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="424,299,532,335,561,344,559,349,530,340,422,304"/>
+<area shape="rect" id="Node000011" href="$classNameHierarchy.html#ab3e5cdccabb7ceed36c3cd11d1141eff" title=" " alt="" coords="554,403,715,430"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="402,300,457,343,494,367,532,387,551,395,549,400,530,392,491,371,454,347,398,304"/>
+<area shape="rect" id="Node000012" href="$classNameHierarchy.html#a760966798a0edd110618a6179d646810" title=" " alt="" coords="557,479,713,506"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="397,300,451,365,490,404,533,440,584,469,581,474,529,444,486,408,447,368,392,303"/>
+<area shape="rect" id="Node000009" href="$classNameElement_1_1Signature.html#a305f9a7a1262c033dd59d7fd63742ad6" title=" " alt="" coords="786,290,971,335"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="739,310,771,310,771,315,739,315"/>
+<area shape="poly" id="edge12_Node000012_Node000012" title=" " alt="" coords="593,480,586,470,592,460,608,454,635,452,663,454,679,461,677,466,662,460,635,457,609,459,595,464,592,469,598,477"/>
+<area shape="rect" id="Node000014" href="$namespaceutility.html#a237f617b0b07dbb7215f63901217c7a4" title=" " alt="" coords="590,531,680,558"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="455,542,574,542,574,547,455,547"/>
+<area shape="rect" id="Node000015" href="$namespaceutility.html#aea0681f6afa2ac9505f8f5a988bd04f8" title=" " alt="" coords="573,583,697,610"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="455,557,558,578,557,583,454,562"/>
 </map>

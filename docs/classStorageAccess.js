@@ -3,7 +3,7 @@ var classStorageAccess =
     [ "~StorageAccess", "classStorageAccess.html#ae91c3a95b01e5c75ab8e85993a038b96", null ],
     [ "addBookmarkCategory", "classStorageAccess.html#a1f755350bf806a4f07fca5d60d4a2652", null ],
     [ "addEdgeBookmark", "classStorageAccess.html#a5ce048b80c1076467208fbb50dd54294", null ],
-    [ "addErrorsToCache", "classStorageAccess.html#abbb15298b5f1a8bd4043af1c0d91d4ad", null ],
+    [ "addErrorsToCache", "classStorageAccess.html#a02e204f42c5d02527603b20fc7a75af4", null ],
     [ "addNodeBookmark", "classStorageAccess.html#a5a5eba2259df74e4fa0054fb2fe5e3a0", null ],
     [ "getActiveTokenIdsForId", "classStorageAccess.html#a3ea3a6a64cda9f86a1c1609d276551e1", null ],
     [ "getAllBookmarkCategories", "classStorageAccess.html#a9a22b13d32d988b8350315d695e98d8a", null ],
@@ -46,6 +46,6 @@ var classStorageAccess =
     [ "getTooltipInfoForTokenIds", "classStorageAccess.html#a2a7658486c1c41762726a52548d4fdfb", null ],
     [ "removeBookmark", "classStorageAccess.html#a96547163e4f8ad8eadca7aa35c24dca7", null ],
     [ "removeBookmarkCategory", "classStorageAccess.html#a04fe6b01014ad206f383a96da8bb0631", null ],
-    [ "setUseErrorCache", "classStorageAccess.html#a0e4f9ee041f64148b1497a5528ef43fa", null ],
+    [ "setUseErrorCache", "classStorageAccess.html#ac9efd16225b7318e5cdf698eede78a6a", null ],
     [ "updateBookmark", "classStorageAccess.html#a0080bf66716f32ee3d74a9a06fb94377", null ]
 ];

@@ -1,4 +1,7 @@
 <map id="plugin::PluginManager::loadPlugin" name="plugin::PluginManager::loadPlugin">
-<area shape="rect" id="node1" title="Load a plugin." alt="" coords="5,5,172,45"/>
-<area shape="rect" id="node2" href="$classplugin_1_1PluginManager.html#affef95d6f537c359a6900f176ac7d777" title="Check the plugin is loaded." alt="" coords="220,5,387,45"/>
+<area shape="rect" id="Node000001" title="Load a plugin." alt="" coords="5,40,172,85"/>
+<area shape="rect" id="Node000002" href="$classplugin_1_1PluginManager.html#affef95d6f537c359a6900f176ac7d777" title="Check the plugin is loaded." alt="" coords="220,5,386,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,46,204,41,205,46,173,51"/>
+<area shape="rect" id="Node000003" href="$classplugin_1_1PluginManager.html#a0ddf713aa64857b2f1fdf316ef38ae98" title="a signal emitted when the plugin is loaded" alt="" coords="220,75,386,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,73,205,78,204,84,172,78"/>
 </map>

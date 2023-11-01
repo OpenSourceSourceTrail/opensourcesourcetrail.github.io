@@ -2,7 +2,7 @@ var classQtMainWindow =
 [
     [ "DockWidget", "structQtMainWindow_1_1DockWidget.html", "structQtMainWindow_1_1DockWidget" ],
     [ "QtMainWindow", "classQtMainWindow.html#ab526da2f9eb598fdbee15a62a4323ad0", null ],
-    [ "~QtMainWindow", "classQtMainWindow.html#a69322a901c1372b0e6010928af7234a8", null ],
+    [ "~QtMainWindow", "classQtMainWindow.html#a479828e94beafd893614ab178bbd9175", null ],
     [ "about", "classQtMainWindow.html#a37bd6469f1d56ba750e9e0a33ff38c9b", null ],
     [ "activateBookmarkAction", "classQtMainWindow.html#afa08067abcac67434cedf5a0b4177ffa", null ],
     [ "addView", "classQtMainWindow.html#a29bf7f811de46f5a3afd895558561407", null ],

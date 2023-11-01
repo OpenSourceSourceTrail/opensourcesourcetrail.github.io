@@ -40,7 +40,7 @@ var classQtGraphNodeExpandToggle =
     [ "isGroupNode", "classQtGraphNodeExpandToggle.html#a9bbea603843a4bd7827c64d1da41817a", null ],
     [ "isQualifierNode", "classQtGraphNodeExpandToggle.html#a43b5c8601911937cb5703d25709c9a4c", null ],
     [ "isTextNode", "classQtGraphNodeExpandToggle.html#ae28175fa1790342ef213cc0062b79560", null ],
-    [ "matchName", "classQtGraphNodeExpandToggle.html#a2d030b4ae7a1aaa88ca8b93b060ab058", null ],
+    [ "matchName", "classQtGraphNodeExpandToggle.html#a965fd7ef7375604afbbdb5f9d79d7ac7", null ],
     [ "matchNameRecursive", "classQtGraphNodeExpandToggle.html#a9554916b3c91d206e687b24cd1c693d4", null ],
     [ "mouseMoveEvent", "classQtGraphNodeExpandToggle.html#a91ec339ea56f17a082da02b421737bd0", null ],
     [ "mousePressEvent", "classQtGraphNodeExpandToggle.html#adb3a725e527ae3c69c39e9ef98d47059", null ],

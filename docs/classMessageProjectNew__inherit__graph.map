@@ -1,6 +1,10 @@
 <map id="MessageProjectNew" name="MessageProjectNew">
-<area shape="rect" id="node1" title=" " alt="" coords="49,243,204,268"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,168,248,193"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="65,5,177,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="143,80,342,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,252,203,280"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,175,247,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,218,129,252,123,252,123,218"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="65,5,176,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,49,128,174,123,175,119,49"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="142,82,339,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="156,39,221,80,218,84,153,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="214,122,144,176,141,172,211,118"/>
 </map>

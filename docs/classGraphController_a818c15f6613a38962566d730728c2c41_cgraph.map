@@ -1,9 +1,15 @@
 <map id="GraphController::bundleNodesAndEdgesMatching" name="GraphController::bundleNodesAndEdgesMatching">
-<area shape="rect" id="node1" title=" " alt="" coords="5,88,224,128"/>
-<area shape="rect" id="node2" href="$structDummyNode.html#addaaa996363bc7c990fca5047e00c358" title=" " alt="" coords="272,5,503,45"/>
-<area shape="rect" id="node4" href="$classToken.html#a7327713d89dab24b733a7ff9096deea0" title=" " alt="" coords="337,70,437,95"/>
-<area shape="rect" id="node5" href="$structDummyNode.html#aa3924d8b494b3cc9534db013d76746c0" title=" " alt="" coords="287,119,487,145"/>
-<area shape="rect" id="node6" href="$structDummyEdge.html#a77d4e3f28e63620d1820ebd1bea35f89" title=" " alt="" coords="278,169,497,194"/>
-<area shape="rect" id="node3" href="$namespaceutility.html#a20e313ed6af8386f5e95f86b77027904" title=" " alt="" coords="607,13,721,38"/>
-<area shape="rect" id="node7" href="$classTokenComponentBundledEdges.html#abc46c1116cd41dd47b18cec6d0740903" title=" " alt="" coords="551,161,777,201"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,65,223,110"/>
+<area shape="rect" id="Node000002" href="$structDummyNode.html#addaaa996363bc7c990fca5047e00c358" title=" " alt="" coords="271,5,500,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,62,266,51,267,56,219,67"/>
+<area shape="rect" id="Node000004" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="293,74,478,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,85,277,85,277,90,223,90"/>
+<area shape="rect" id="Node000007" href="$structDummyNode.html#aa3924d8b494b3cc9534db013d76746c0" title=" " alt="" coords="286,126,485,154"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="224,106,295,120,294,125,223,111"/>
+<area shape="rect" id="Node000003" href="$namespaceutility.html#a20e313ed6af8386f5e95f86b77027904" title=" " alt="" coords="564,14,678,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,25,548,25,548,30,501,30"/>
+<area shape="rect" id="Node000005" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="548,74,694,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="478,85,532,85,532,90,478,90"/>
+<area shape="rect" id="Node000006" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="742,74,900,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="695,85,727,85,727,90,695,90"/>
 </map>

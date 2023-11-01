@@ -1,7 +1,21 @@
 <map id="GraphController::bundleByType" name="GraphController::bundleByType">
-<area shape="rect" id="node1" title=" " alt="" coords="5,70,229,95"/>
-<area shape="rect" id="node2" href="$classGraphController.html#a5365752d1ff821713d29b5c5704f9e0d" title=" " alt="" coords="277,5,496,45"/>
-<area shape="rect" id="node4" href="$classNode.html#a8fad79f65f64fc6c150574e023eb043f" title=" " alt="" coords="329,70,444,95"/>
-<area shape="rect" id="node5" href="$structDummyNode.html#aa3924d8b494b3cc9534db013d76746c0" title=" " alt="" coords="287,119,487,145"/>
-<area shape="rect" id="node3" href="$classToken.html#a7327713d89dab24b733a7ff9096deea0" title=" " alt="" coords="544,13,644,38"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,229,152"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="72,126,64,116,70,106,88,100,117,98,148,100,165,107,163,112,147,106,117,103,89,105,73,110,69,115,76,122"/>
+<area shape="rect" id="Node000002" href="$classGraphController.html#a5365752d1ff821713d29b5c5704f9e0d" title=" " alt="" coords="277,5,494,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="149,122,276,67,308,54,310,59,278,71,151,127"/>
+<area shape="rect" id="Node000004" href="$classGraphController.html#ad37e3ae36fb143ed80aa552dea4d5bcf" title=" " alt="" coords="542,70,727,98"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="201,121,276,110,526,88,527,93,277,116,202,126"/>
+<area shape="rect" id="Node000007" href="$classGraphView.html#ab535607bb18c2dca2439efd068c74583" title=" " alt="" coords="319,125,452,152"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="229,136,303,136,303,141,229,141"/>
+<area shape="rect" id="Node000008" href="$classNode.html#a8fad79f65f64fc6c150574e023eb043f" title=" " alt="" coords="328,177,443,204"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="193,150,313,174,312,179,192,155"/>
+<area shape="rect" id="Node000009" href="$structDummyNode.html#aa3924d8b494b3cc9534db013d76746c0" title=" " alt="" coords="286,229,485,256"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="145,150,204,181,278,213,303,221,301,226,276,218,202,186,142,155"/>
+<area shape="rect" id="Node000003" href="$classToken.html#a7327713d89dab24b733a7ff9096deea0" title=" " alt="" coords="585,14,684,42"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="494,25,569,25,569,30,494,30"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="488,48,556,63,555,69,487,53"/>
+<area shape="rect" id="Node000005" href="$classController.html#a431a774ef12696f8bb22903cada1485c" title=" " alt="" coords="775,70,922,98"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="727,81,759,81,759,86,727,86"/>
+<area shape="rect" id="Node000006" href="$classComponent.html#a9f4dbd8f986abae9d6014b4a34d2b014" title=" " alt="" coords="970,70,1127,98"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="922,81,954,81,954,86,922,86"/>
 </map>

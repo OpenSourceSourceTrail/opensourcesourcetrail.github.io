@@ -1,14 +1,31 @@
 <map id="Component::getTabId" name="Component::getTabId">
-<area shape="rect" id="node1" title=" " alt="" coords="917,104,1077,129"/>
-<area shape="rect" id="node2" href="$classController.html#aaa516c0e13ed5cf871261e85c9a4401f" title=" " alt="" coords="720,104,869,129"/>
-<area shape="rect" id="node3" href="$classCodeController.html#a07f6c2e63fd31e0377443f970917d2da" title=" " alt="" coords="443,5,667,31"/>
-<area shape="rect" id="node4" href="$classGraphController.html#ad3f05e9125ffb6fc8f2b9ed81091cce7" title=" " alt="" coords="439,55,670,80"/>
-<area shape="rect" id="node5" href="$classSearchController.html#a7504241ba2b9bc20feb2fadf94feb5be" title=" " alt="" coords="437,104,672,129"/>
-<area shape="rect" id="node6" href="$classUndoRedoController.html#ada0ded0b740a45d7d43b856ae7018a85" title=" " alt="" coords="478,154,631,194"/>
-<area shape="rect" id="node10" href="$classSearchController.html#aa3402cff59b4318f6eaf6a0f927c71dc" title=" " alt="" coords="463,239,646,279"/>
-<area shape="rect" id="node7" href="$classUndoRedoController.html#a3c6cff83649935420a9382744cf441c4" title=" " alt="" coords="5,87,159,127"/>
-<area shape="rect" id="node8" href="$classUndoRedoController.html#a937249ecddce26560153126eda47ca33" title=" " alt="" coords="221,131,375,171"/>
-<area shape="rect" id="node9" href="$classUndoRedoController.html#a4997d10e786f9f9c30e0bec7f95d7464" title=" " alt="" coords="5,163,159,203"/>
-<area shape="rect" id="node11" href="$classSearchController.html#aaacef856f1385482ed1b31b554973b4d" title=" " alt="" coords="213,247,383,272"/>
-<area shape="rect" id="node12" href="$classSearchController.html#a4a48a60d1f8052f4fff603a7b4f76910" title=" " alt="" coords="207,297,389,337"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="914,136,1073,164"/>
+<area shape="rect" id="Node000002" href="$classController.html#aaa516c0e13ed5cf871261e85c9a4401f" title=" " alt="" coords="717,109,866,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="898,140,865,136,866,130,898,135"/>
+<area shape="rect" id="Node000014" href="$ComponentTestSuite_8cpp.html#a1e48d1803fc77e5446f6a905141388d2" title=" " alt="" coords="765,161,818,189"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="898,164,819,175,818,169,898,159"/>
+<area shape="rect" id="Node000003" href="$classCodeController.html#a07f6c2e63fd31e0377443f970917d2da" title=" " alt="" coords="441,5,664,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,102,717,74,668,48,632,36,633,31,670,43,720,69,762,98"/>
+<area shape="rect" id="Node000004" href="$classGraphController.html#ad3f05e9125ffb6fc8f2b9ed81091cce7" title=" " alt="" coords="438,57,667,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="709,108,619,88,620,83,710,103"/>
+<area shape="rect" id="Node000005" href="$classSearchController.html#a7504241ba2b9bc20feb2fadf94feb5be" title=" " alt="" coords="435,109,669,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="702,126,670,126,670,121,702,121"/>
+<area shape="rect" id="Node000006" href="$classUndoRedoController.html#ada0ded0b740a45d7d43b856ae7018a85" title=" " alt="" coords="476,161,628,206"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="719,144,630,167,628,161,718,139"/>
+<area shape="rect" id="Node000011" href="$classSearchController.html#aa3402cff59b4318f6eaf6a0f927c71dc" title=" " alt="" coords="461,272,643,316"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="726,147,719,152,703,168,695,184,686,201,671,220,635,249,598,273,595,269,632,245,667,216,682,198,690,181,699,165,716,148,723,143"/>
+<area shape="rect" id="Node000007" href="$classUndoRedoController.html#a3c6cff83649935420a9382744cf441c4" title=" " alt="" coords="5,77,158,122"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="460,166,433,151,417,132,410,113,402,96,386,81,357,70,327,62,263,59,202,66,148,79,147,74,201,61,263,53,327,57,359,64,388,77,406,93,415,111,422,129,437,146,463,161"/>
+<area shape="rect" id="Node000008" href="$classUndoRedoController.html#ad257b17c95bcf24bad97836b51935bf0" title=" " alt="" coords="220,92,373,136"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="460,161,372,137,374,132,462,156"/>
+<area shape="rect" id="Node000009" href="$classUndoRedoController.html#a937249ecddce26560153126eda47ca33" title=" " alt="" coords="220,161,373,206"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="460,186,373,186,373,181,460,181"/>
+<area shape="rect" id="Node000010" href="$classUndoRedoController.html#a4997d10e786f9f9c30e0bec7f95d7464" title=" " alt="" coords="5,192,158,236"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="461,208,387,220,296,224,206,220,158,219,158,214,206,215,296,219,387,215,460,203"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="221,157,205,151,139,125,141,120,207,146,223,152"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="205,199,158,206,158,200,204,194"/>
+<area shape="rect" id="Node000012" href="$classSearchController.html#aaacef856f1385482ed1b31b554973b4d" title=" " alt="" coords="212,280,381,308"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="445,297,382,297,382,291,445,291"/>
+<area shape="rect" id="Node000013" href="$classSearchController.html#a4a48a60d1f8052f4fff603a7b4f76910" title=" " alt="" coords="206,332,387,376"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="446,321,388,335,387,330,445,316"/>
 </map>

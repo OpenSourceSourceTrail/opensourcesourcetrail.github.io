@@ -1,6 +1,10 @@
 <map id="MessageFind" name="MessageFind">
-<area shape="rect" id="node1" title=" " alt="" coords="49,243,156,268"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,168,200,193"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="41,5,153,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="119,80,318,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,252,155,280"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,175,199,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,218,105,252,99,252,99,218"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="41,5,152,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,49,104,174,99,175,95,49"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="118,82,315,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="132,39,197,80,194,84,129,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,122,120,176,117,172,187,118"/>
 </map>

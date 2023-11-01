@@ -1,7 +1,7 @@
 var classQtViewFactory =
 [
-    [ "QtViewFactory", "classQtViewFactory.html#ae307daf253bd81109f8644cddd770069", null ],
-    [ "~QtViewFactory", "classQtViewFactory.html#a73620ed357fcaec4ba64565495aca14a", null ],
+    [ "QtViewFactory", "classQtViewFactory.html#a91ca7f8e30f347db67adab7d6422ccbf", null ],
+    [ "~QtViewFactory", "classQtViewFactory.html#a6b59fc0b3d838c3b787da3e8af98dc52", null ],
     [ "createBookmarkButtonsView", "classQtViewFactory.html#ad079ff505ff103867e508a3d29aca169", null ],
     [ "createBookmarkView", "classQtViewFactory.html#af2932c4c6cdb3efda662c52766581bda", null ],
     [ "createCodeView", "classQtViewFactory.html#ad6e333cb0740107131593adc96a1224d", null ],

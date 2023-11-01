@@ -1,8 +1,13 @@
 <map id="GraphFocusHandler::defocusNode" name="GraphFocusHandler::defocusNode">
-<area shape="rect" id="node1" title=" " alt="" coords="789,69,947,109"/>
-<area shape="rect" id="node2" href="$classQtGraphNode.html#a0f478eb6e3e908e82b8d1df909e02275" title=" " alt="" coords="565,77,741,102"/>
-<area shape="rect" id="node3" href="$classQtGraphNodeBundle.html#acce23e4e976bee96c82d0fe4bf4bce5b" title=" " alt="" coords="319,5,482,45"/>
-<area shape="rect" id="node4" href="$classQtGraphNodeData.html#adefe516d187f495e248f7396ca6857b2" title=" " alt="" coords="288,69,513,109"/>
-<area shape="rect" id="node5" href="$classQtGraphNodeGroup.html#aa0267d441ff8baa00c50db4fc044d7c0" title=" " alt="" coords="284,133,517,173"/>
-<area shape="rect" id="node6" href="$classQtGraphNodeGroup.html#a1686bcf376f64191ae312842e178dfa0" title=" " alt="" coords="5,133,236,173"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="786,75,943,119"/>
+<area shape="rect" id="Node000002" href="$classQtGraphNode.html#a0f478eb6e3e908e82b8d1df909e02275" title=" " alt="" coords="563,83,738,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="770,100,739,100,739,94,770,94"/>
+<area shape="rect" id="Node000003" href="$classQtGraphNodeBundle.html#acce23e4e976bee96c82d0fe4bf4bce5b" title=" " alt="" coords="318,5,480,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,81,479,53,481,47,584,76"/>
+<area shape="rect" id="Node000004" href="$classQtGraphNodeData.html#adefe516d187f495e248f7396ca6857b2" title=" " alt="" coords="287,75,511,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="547,100,512,100,512,94,547,94"/>
+<area shape="rect" id="Node000005" href="$classQtGraphNodeGroup.html#aa0267d441ff8baa00c50db4fc044d7c0" title=" " alt="" coords="283,144,515,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="584,118,483,146,482,141,582,113"/>
+<area shape="rect" id="Node000006" href="$classQtGraphNodeGroup.html#a1686bcf376f64191ae312842e178dfa0" title=" " alt="" coords="5,144,235,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="267,169,235,169,235,164,267,164"/>
 </map>

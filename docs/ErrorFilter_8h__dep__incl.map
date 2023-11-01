@@ -1,52 +1,119 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/ErrorFilter.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/ErrorFilter.h">
-<area shape="rect" id="node1" title=" " alt="" coords="1233,5,1436,60"/>
-<area shape="rect" id="node2" href="$ErrorView_8h.html" title=" " alt="" coords="543,225,745,295"/>
-<area shape="rect" id="node6" href="$QtErrorView_8h.html" title=" " alt="" coords="93,460,296,529"/>
-<area shape="rect" id="node10" href="$StorageAccess_8h.html" title=" " alt="" coords="4100,225,4303,295"/>
-<area shape="rect" id="node35" href="$MessageActivateErrors_8h.html" title=" " alt="" coords="1412,108,1703,177"/>
-<area shape="rect" id="node3" href="$ComponentFactory_8cpp.html" title=" " alt="" coords="1613,460,1857,529"/>
-<area shape="rect" id="node4" href="$ErrorController_8h.html" title=" " alt="" coords="682,343,913,412"/>
-<area shape="rect" id="node9" href="$ErrorView_8cpp.html" title=" " alt="" coords="97,343,300,412"/>
-<area shape="rect" id="node5" href="$ErrorController_8cpp.html" title=" " alt="" coords="2055,460,2286,529"/>
-<area shape="rect" id="node7" href="$QtErrorView_8cpp.html" title=" " alt="" coords="5,577,208,647"/>
-<area shape="rect" id="node8" href="$QtViewFactory_8cpp.html" title=" " alt="" coords="232,577,435,647"/>
-<area shape="rect" id="node11" href="$ComponentFactory_8h.html" title=" " alt="" coords="4397,343,4641,412"/>
-<area shape="rect" id="node13" href="$ActivationController_8cpp.html" title=" " alt="" coords="4665,343,4895,412"/>
-<area shape="rect" id="node14" href="$BookmarkController_8cpp.html" title=" " alt="" coords="2398,460,2629,529"/>
-<area shape="rect" id="node15" href="$CodeController_8cpp.html" title=" " alt="" coords="3302,343,3533,412"/>
-<area shape="rect" id="node16" href="$CustomTrailController_8cpp.html" title=" " alt="" coords="5198,343,5429,412"/>
-<area shape="rect" id="node17" href="$GraphController_8cpp.html" title=" " alt="" coords="2819,343,3050,412"/>
-<area shape="rect" id="node18" href="$IDECommunicationController_8cpp.html" title=" " alt="" coords="5453,343,5696,412"/>
-<area shape="rect" id="node19" href="$SearchController_8cpp.html" title=" " alt="" coords="2697,460,2927,529"/>
-<area shape="rect" id="node20" href="$StatusBarController_8cpp.html" title=" " alt="" coords="3609,343,3839,412"/>
-<area shape="rect" id="node21" href="$TooltipController_8cpp.html" title=" " alt="" coords="3863,343,4094,412"/>
-<area shape="rect" id="node22" href="$UndoRedoController_8cpp.html" title=" " alt="" coords="1470,343,1701,412"/>
-<area shape="rect" id="node23" href="$PersistentStorage_8h.html" title=" " alt="" coords="4971,343,5173,412"/>
-<area shape="rect" id="node31" href="$StorageAccessProxy_8h.html" title=" " alt="" coords="6031,343,6233,412"/>
-<area shape="rect" id="node34" href="$QtDialogView_8cpp.html" title=" " alt="" coords="4169,343,4372,412"/>
-<area shape="rect" id="node12" href="$ComponentManager_8h.html" title=" " alt="" coords="4151,460,4395,529"/>
-<area shape="rect" id="node24" href="$TaskCleanStorage_8cpp.html" title=" " alt="" coords="4938,467,5206,522"/>
-<area shape="rect" id="node25" href="$TaskFinishParsing_8cpp.html" title=" " alt="" coords="5231,467,5497,522"/>
-<area shape="rect" id="node26" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="5521,460,5780,529"/>
-<area shape="rect" id="node27" href="$TaskParseWrapper_8cpp.html" title=" " alt="" coords="5804,460,6007,529"/>
-<area shape="rect" id="node28" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="4420,460,4623,529"/>
-<area shape="rect" id="node29" href="$Project_8cpp.html" title=" " alt="" coords="5289,585,5503,639"/>
-<area shape="rect" id="node30" href="$RefreshInfoGenerator_8cpp.html" title=" " alt="" coords="4697,460,4913,529"/>
-<area shape="rect" id="node32" href="$StorageAccessProxy_8cpp.html" title=" " alt="" coords="6257,460,6460,529"/>
-<area shape="rect" id="node33" href="$StorageCache_8h.html" title=" " alt="" coords="6031,460,6233,529"/>
-<area shape="rect" id="node36" href="$CodeController_8h.html" title=" " alt="" coords="2578,225,2809,295"/>
-<area shape="rect" id="node39" href="$GraphController_8h.html" title=" " alt="" coords="2133,225,2363,295"/>
-<area shape="rect" id="node40" href="$TabsController_8h.html" title=" " alt="" coords="375,343,606,412"/>
-<area shape="rect" id="node44" href="$UndoRedoController_8h.html" title=" " alt="" coords="1067,225,1298,295"/>
-<area shape="rect" id="node46" href="$ActivationListener_8h.html" title=" " alt="" coords="1537,225,1767,295"/>
-<area shape="rect" id="node37" href="$CodeView_8cpp.html" title=" " alt="" coords="2592,343,2795,412"/>
-<area shape="rect" id="node38" href="$QtCodeView_8cpp.html" title=" " alt="" coords="3075,343,3277,412"/>
-<area shape="rect" id="node41" href="$TabsController_8cpp.html" title=" " alt="" coords="598,460,829,529"/>
-<area shape="rect" id="node42" href="$QtTabsView_8cpp.html" title=" " alt="" coords="459,577,661,647"/>
-<area shape="rect" id="node43" href="$QtTabsView_8h.html" title=" " alt="" coords="320,460,523,529"/>
-<area shape="rect" id="node45" href="$UndoRedoView_8cpp.html" title=" " alt="" coords="988,343,1191,412"/>
-<area shape="rect" id="node47" href="$BookmarkController_8h.html" title=" " alt="" coords="1979,343,2210,412"/>
-<area shape="rect" id="node48" href="$ScreenSearchController_8h.html" title=" " alt="" coords="1215,343,1446,412"/>
-<area shape="rect" id="node49" href="$SearchController_8h.html" title=" " alt="" coords="2337,343,2567,412"/>
-<area shape="rect" id="node50" href="$ActivationListener_8cpp.html" title=" " alt="" coords="1725,343,1955,412"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/ErrorFilter.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/ErrorFilter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="932,5,1214,67"/>
+<area shape="rect" id="Node000002" href="$ErrorView_8h.html" title=" " alt="" coords="600,242,882,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1021,79,796,243,793,239,1018,74"/>
+<area shape="rect" id="Node000006" href="$QtErrorView_8h.html" title=" " alt="" coords="133,495,416,574"/>
+<area shape="poly" id="edge67_Node000001_Node000006" title=" " alt="" coords="917,52,838,63,751,80,658,104,564,136,472,178,386,230,346,260,310,293,276,330,246,370,235,399,235,432,243,464,255,493,250,496,238,466,230,433,230,398,241,367,272,327,306,290,343,256,383,225,470,173,562,131,656,99,749,75,837,58,916,46"/>
+<area shape="rect" id="Node000010" href="$StorageAccess_8h.html" title=" " alt="" coords="4000,242,4282,320"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1230,47,4000,266,3999,271,1230,53"/>
+<area shape="rect" id="Node000059" href="$MessageActivateErrors_8h.html" title=" " alt="" coords="1107,115,1397,194"/>
+<area shape="poly" id="edge46_Node000001_Node000059" title=" " alt="" coords="1134,74,1194,112,1191,117,1131,78"/>
+<area shape="rect" id="Node000003" href="$ComponentFactory_8cpp.html" title=" " alt="" coords="1108,504,1473,565"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="851,326,882,344,910,366,926,388,935,408,943,427,960,445,988,460,1029,474,1131,500,1129,505,1028,479,986,465,957,449,938,430,930,410,922,390,906,370,879,349,849,330"/>
+<area shape="rect" id="Node000004" href="$ErrorController_8h.html" title=" " alt="" coords="971,368,1253,447"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="872,323,998,365,996,370,870,328"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="653,331,603,370,588,391,580,410,570,430,552,449,502,470,414,497,412,492,500,465,549,445,566,427,575,408,583,388,599,366,650,327"/>
+<area shape="rect" id="Node000009" href="$ErrorView_8cpp.html" title=" " alt="" coords="256,368,538,447"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="621,329,505,370,503,365,619,324"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="1181,454,1249,501,1246,505,1178,458"/>
+<area shape="rect" id="Node000005" href="$ErrorController_8cpp.html" title=" " alt="" coords="1997,495,2280,574"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1268,431,1367,444,1706,485,1997,516,1996,521,1706,490,1366,450,1268,436"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="956,442,908,450,773,465,668,471,562,479,428,498,416,500,415,495,427,492,562,474,667,466,773,459,907,444,955,437"/>
+<area shape="rect" id="Node000007" href="$QtErrorView_8cpp.html" title=" " alt="" coords="5,622,288,700"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="226,587,188,623,184,619,222,583"/>
+<area shape="rect" id="Node000008" href="$QtViewFactory_8cpp.html" title=" " alt="" coords="312,622,594,700"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="344,581,399,619,396,623,341,585"/>
+<area shape="poly" id="edge22_Node000010_Node000005" title=" " alt="" coords="3985,289,3719,299,3414,315,3272,326,3149,339,3056,354,3023,362,3003,371,2985,388,2978,408,2971,430,2952,449,2915,462,2853,474,2676,496,2469,514,2280,527,2280,522,2469,509,2676,491,2852,469,2914,457,2949,445,2966,427,2973,407,2981,385,3000,366,3022,357,3055,348,3148,333,3271,321,3414,310,3719,293,3985,284"/>
+<area shape="rect" id="Node000011" href="$ComponentFactory_8h.html" title=" " alt="" coords="3013,377,3363,439"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="3984,298,3700,328,3375,371,3329,379,3328,374,3374,366,3699,322,3984,293"/>
+<area shape="rect" id="Node000034" href="$ActivationController_8cpp.html" title=" " alt="" coords="3387,368,3669,447"/>
+<area shape="poly" id="edge18_Node000010_Node000034" title=" " alt="" coords="3986,312,3682,371,3670,374,3669,368,3681,366,3985,307"/>
+<area shape="rect" id="Node000035" href="$BookmarkController_8cpp.html" title=" " alt="" coords="3693,368,3976,447"/>
+<area shape="poly" id="edge19_Node000010_Node000035" title=" " alt="" coords="4033,329,3931,370,3929,365,4031,324"/>
+<area shape="rect" id="Node000036" href="$CodeController_8cpp.html" title=" " alt="" coords="2349,368,2632,447"/>
+<area shape="poly" id="edge20_Node000010_Node000036" title=" " alt="" coords="3984,284,3728,288,3393,301,3020,327,2830,346,2644,371,2633,373,2632,368,2643,366,2829,341,3019,321,3393,295,3727,283,3984,279"/>
+<area shape="rect" id="Node000037" href="$CustomTrailController_8cpp.html" title=" " alt="" coords="4000,368,4282,447"/>
+<area shape="poly" id="edge21_Node000010_Node000037" title=" " alt="" coords="4144,336,4144,368,4139,368,4139,336"/>
+<area shape="rect" id="Node000038" href="$GraphController_8cpp.html" title=" " alt="" coords="2656,368,2938,447"/>
+<area shape="poly" id="edge23_Node000010_Node000038" title=" " alt="" coords="3985,288,3780,296,3523,311,3240,335,2958,371,2939,374,2938,369,2957,366,3240,330,3522,306,3779,291,3984,283"/>
+<area shape="rect" id="Node000039" href="$IDECommunicationController_8cpp.html" title=" " alt="" coords="4307,368,4589,447"/>
+<area shape="poly" id="edge24_Node000010_Node000039" title=" " alt="" coords="4252,324,4354,365,4352,370,4250,329"/>
+<area shape="rect" id="Node000040" href="$SearchController_8cpp.html" title=" " alt="" coords="4613,368,4896,447"/>
+<area shape="poly" id="edge25_Node000010_Node000040" title=" " alt="" coords="4298,307,4602,366,4614,368,4612,374,4601,371,4297,312"/>
+<area shape="rect" id="Node000041" href="$StatusBarController_8cpp.html" title=" " alt="" coords="4920,368,5202,447"/>
+<area shape="poly" id="edge26_Node000010_Node000041" title=" " alt="" coords="4298,291,4583,319,4746,340,4908,366,4920,368,4919,373,4907,371,4746,345,4583,325,4298,297"/>
+<area shape="rect" id="Node000042" href="$TooltipController_8cpp.html" title=" " alt="" coords="5227,368,5509,447"/>
+<area shape="poly" id="edge27_Node000010_Node000042" title=" " alt="" coords="4298,284,4484,293,4714,308,4965,332,5215,366,5227,368,5226,373,5214,371,4964,337,4713,313,4484,298,4297,290"/>
+<area shape="rect" id="Node000043" href="$UndoRedoController_8cpp.html" title=" " alt="" coords="2043,368,2325,447"/>
+<area shape="poly" id="edge28_Node000010_Node000043" title=" " alt="" coords="3985,289,3612,299,3138,316,2675,340,2483,355,2338,371,2326,373,2325,368,2337,366,2483,349,2674,335,3138,311,3612,293,3985,283"/>
+<area shape="rect" id="Node000044" href="$PersistentStorage_8h.html" title=" " alt="" coords="5840,368,6122,447"/>
+<area shape="poly" id="edge29_Node000010_Node000044" title=" " alt="" coords="4298,284,4648,295,5088,312,5516,336,5693,350,5828,366,5840,368,5839,373,5827,371,5693,355,5516,341,5088,318,4647,300,4298,289"/>
+<area shape="rect" id="Node000052" href="$StorageAccessProxy_8h.html" title=" " alt="" coords="6811,368,7093,447"/>
+<area shape="poly" id="edge37_Node000010_Node000052" title=" " alt="" coords="4298,284,5207,311,5819,335,6441,366,6811,392,6810,397,6441,371,5819,341,5207,317,4298,289"/>
+<area shape="rect" id="Node000056" href="$MockedStorageAccess_8hpp.html" title=" " alt="" coords="5533,368,5816,447"/>
+<area shape="poly" id="edge41_Node000010_Node000056" title=" " alt="" coords="4298,280,4535,285,4841,299,5181,324,5353,343,5522,366,5534,368,5533,373,5521,371,5352,348,5180,330,4841,304,4535,291,4298,286"/>
+<area shape="rect" id="Node000058" href="$QtDialogView_8cpp.html" title=" " alt="" coords="6147,368,6429,447"/>
+<area shape="poly" id="edge45_Node000010_Node000058" title=" " alt="" coords="4298,282,4707,291,5236,308,5756,332,5971,348,6135,366,6146,367,6146,373,6134,371,5971,353,5755,338,5236,313,4707,297,4298,288"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="2999,444,2951,450,2680,473,2469,482,2257,487,1985,498,1474,525,1474,520,1985,492,2257,482,2468,477,2680,468,2950,444,2998,439"/>
+<area shape="rect" id="Node000012" href="$ComponentManager_8h.html" title=" " alt="" coords="3058,504,3419,565"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="3208,452,3229,502,3224,504,3203,454"/>
+<area shape="rect" id="Node000031" href="$ComponentFactoryTestSuite_8cpp.html" title=" " alt="" coords="3494,495,3794,574"/>
+<area shape="poly" id="edge15_Node000011_Node000031" title=" " alt="" coords="3314,440,3502,492,3501,497,3312,446"/>
+<area shape="rect" id="Node000032" href="$StatusBarControllerTestSuite_8cpp.html" title=" " alt="" coords="4020,495,4324,574"/>
+<area shape="poly" id="edge16_Node000011_Node000032" title=" " alt="" coords="3344,439,3375,444,4020,514,4019,520,3374,450,3343,444"/>
+<area shape="rect" id="Node000033" href="$StatusControllerTestSuite_8cpp.html" title=" " alt="" coords="2752,495,3034,574"/>
+<area shape="poly" id="edge17_Node000011_Node000033" title=" " alt="" coords="3104,447,2986,497,2984,492,3102,442"/>
+<area shape="rect" id="Node000045" href="$TaskCleanStorage_8cpp.html" title=" " alt="" coords="5160,504,5477,565"/>
+<area shape="poly" id="edge30_Node000044_Node000045" title=" " alt="" coords="5825,450,5730,466,5656,475,5582,483,5490,498,5449,506,5448,500,5489,492,5581,478,5655,469,5730,460,5824,445"/>
+<area shape="rect" id="Node000046" href="$TaskFinishParsing_8cpp.html" title=" " alt="" coords="5501,504,5816,565"/>
+<area shape="poly" id="edge31_Node000044_Node000046" title=" " alt="" coords="5868,455,5738,505,5736,500,5866,450"/>
+<area shape="rect" id="Node000047" href="$TaskExecuteCustomCommands_8cpp.html" title=" " alt="" coords="5840,495,6122,574"/>
+<area shape="poly" id="edge32_Node000044_Node000047" title=" " alt="" coords="5984,463,5984,494,5979,494,5979,463"/>
+<area shape="rect" id="Node000048" href="$TaskParseWrapper_8cpp.html" title=" " alt="" coords="6147,495,6429,574"/>
+<area shape="poly" id="edge33_Node000044_Node000048" title=" " alt="" coords="6092,451,6194,492,6192,497,6090,456"/>
+<area shape="rect" id="Node000049" href="$PersistentStorage_8cpp.html" title=" " alt="" coords="6453,495,6736,574"/>
+<area shape="poly" id="edge34_Node000044_Node000049" title=" " alt="" coords="6138,445,6224,460,6291,469,6358,478,6442,492,6454,495,6452,500,6441,498,6357,483,6291,474,6223,465,6137,450"/>
+<area shape="rect" id="Node000050" href="$Project_8cpp.html" title=" " alt="" coords="6721,630,7004,692"/>
+<area shape="poly" id="edge35_Node000044_Node000050" title=" " alt="" coords="6138,444,6204,449,6282,450,6458,450,6546,452,6627,459,6696,472,6749,493,6770,510,6780,528,6788,549,6801,572,6842,628,6837,631,6796,575,6783,551,6775,531,6765,513,6746,497,6695,477,6626,464,6546,458,6458,455,6282,456,6203,454,6137,450"/>
+<area shape="rect" id="Node000051" href="$RefreshInfoGenerator_8cpp.html" title=" " alt="" coords="4780,504,5137,565"/>
+<area shape="poly" id="edge36_Node000044_Node000051" title=" " alt="" coords="5825,450,5722,463,5635,471,5485,476,5336,480,5250,486,5148,498,5099,505,5098,500,5147,492,5249,481,5336,474,5485,471,5634,466,5722,458,5825,445"/>
+<area shape="rect" id="Node000053" href="$StorageAccessProxy_8cpp.html" title=" " alt="" coords="7117,495,7400,574"/>
+<area shape="poly" id="edge38_Node000052_Node000053" title=" " alt="" coords="7062,451,7164,492,7162,497,7060,456"/>
+<area shape="rect" id="Node000054" href="$StorageCache_8h.html" title=" " alt="" coords="6811,495,7093,574"/>
+<area shape="poly" id="edge39_Node000052_Node000054" title=" " alt="" coords="6955,463,6955,494,6949,494,6949,463"/>
+<area shape="poly" id="edge40_Node000054_Node000050" title=" " alt="" coords="6917,588,6886,631,6882,628,6913,585"/>
+<area shape="poly" id="edge43_Node000056_Node000031" title=" " alt="" coords="5518,450,5289,476,5095,489,4923,493,4763,491,4431,484,4237,486,4008,498,3794,517,3794,512,4008,492,4237,481,4431,478,4763,485,4923,488,5095,484,5289,471,5518,445"/>
+<area shape="poly" id="edge44_Node000056_Node000032" title=" " alt="" coords="5518,450,5354,470,5215,480,5092,483,4977,482,4740,481,4601,486,4437,498,4324,511,4324,506,4437,492,4600,480,4739,476,4977,477,5092,478,5215,474,5354,464,5517,445"/>
+<area shape="rect" id="Node000057" href="$ActivationControllerTestSuite_8cpp.html" title=" " alt="" coords="4449,495,4756,574"/>
+<area shape="poly" id="edge42_Node000056_Node000057" title=" " alt="" coords="5518,450,5404,464,5307,472,5141,474,4977,477,4881,484,4768,498,4756,499,4756,494,4767,492,4880,479,4976,472,5141,469,5307,466,5404,459,5518,445"/>
+<area shape="rect" id="Node000060" href="$CodeController_8h.html" title=" " alt="" coords="1571,242,1853,320"/>
+<area shape="poly" id="edge47_Node000059_Node000060" title=" " alt="" coords="1410,196,1571,239,1569,244,1409,201"/>
+<area shape="rect" id="Node000063" href="$GraphController_8h.html" title=" " alt="" coords="1877,242,2160,320"/>
+<area shape="poly" id="edge52_Node000059_Node000063" title=" " alt="" coords="1412,171,1628,199,1866,239,1878,241,1876,247,1865,244,1627,205,1411,176"/>
+<area shape="rect" id="Node000016" href="$TabsController_8h.html" title=" " alt="" coords="613,368,896,447"/>
+<area shape="poly" id="edge55_Node000059_Node000016" title=" " alt="" coords="1093,180,1017,205,980,222,947,244,930,262,921,280,913,301,896,322,866,348,832,370,829,366,862,344,893,319,908,298,916,278,925,259,943,240,978,218,1015,200,1091,175"/>
+<area shape="rect" id="Node000064" href="$UndoRedoController_8h.html" title=" " alt="" coords="1264,242,1546,320"/>
+<area shape="poly" id="edge62_Node000059_Node000064" title=" " alt="" coords="1313,201,1359,239,1356,243,1309,206"/>
+<area shape="rect" id="Node000066" href="$ActivationListener_8h.html" title=" " alt="" coords="957,242,1240,320"/>
+<area shape="poly" id="edge65_Node000059_Node000066" title=" " alt="" coords="1194,206,1148,243,1144,239,1191,201"/>
+<area shape="poly" id="edge48_Node000060_Node000003" title=" " alt="" coords="1556,324,1368,371,1357,388,1340,423,1305,504,1300,502,1335,421,1352,386,1365,366,1555,318"/>
+<area shape="poly" id="edge49_Node000060_Node000036" title=" " alt="" coords="1868,318,2000,335,2104,342,2208,348,2338,366,2350,368,2349,373,2337,371,2207,354,2104,347,2000,340,1867,323"/>
+<area shape="rect" id="Node000061" href="$CodeView_8cpp.html" title=" " alt="" coords="1379,368,1661,447"/>
+<area shape="poly" id="edge50_Node000060_Node000061" title=" " alt="" coords="1641,331,1581,370,1578,366,1638,327"/>
+<area shape="rect" id="Node000062" href="$QtCodeView_8cpp.html" title=" " alt="" coords="1685,368,1968,447"/>
+<area shape="poly" id="edge51_Node000060_Node000062" title=" " alt="" coords="1760,330,1793,366,1789,370,1756,334"/>
+<area shape="poly" id="edge53_Node000063_Node000003" title=" " alt="" coords="2023,336,2021,365,2014,396,2001,425,1982,449,1946,472,1896,490,1836,504,1767,516,1618,530,1474,536,1474,530,1618,525,1766,510,1834,499,1895,485,1943,467,1978,445,1997,422,2009,394,2015,364,2018,336"/>
+<area shape="poly" id="edge54_Node000063_Node000038" title=" " alt="" coords="2176,297,2398,325,2644,366,2656,368,2655,373,2643,371,2397,331,2175,302"/>
+<area shape="poly" id="edge56_Node000016_Node000003" title=" " alt="" coords="912,444,915,444,1158,500,1157,506,914,450,911,449"/>
+<area shape="rect" id="Node000017" href="$TabsController_8cpp.html" title=" " alt="" coords="797,495,1080,574"/>
+<area shape="poly" id="edge57_Node000016_Node000017" title=" " alt="" coords="825,454,883,492,880,497,822,458"/>
+<area shape="rect" id="Node000018" href="$QtTabsView_8cpp.html" title=" " alt="" coords="619,622,901,700"/>
+<area shape="poly" id="edge58_Node000016_Node000018" title=" " alt="" coords="758,463,762,621,756,621,753,463"/>
+<area shape="rect" id="Node000019" href="$QtTabsView_8h.html" title=" " alt="" coords="440,495,722,574"/>
+<area shape="poly" id="edge59_Node000016_Node000019" title=" " alt="" coords="690,458,637,497,633,492,687,454"/>
+<area shape="poly" id="edge61_Node000019_Node000008" title=" " alt="" coords="532,587,495,623,491,619,529,583"/>
+<area shape="poly" id="edge60_Node000019_Node000018" title=" " alt="" coords="651,581,706,619,703,623,648,585"/>
+<area shape="poly" id="edge63_Node000064_Node000003" title=" " alt="" coords="1351,333,1325,370,1311,404,1302,440,1294,504,1289,503,1297,439,1306,402,1320,367,1346,330"/>
+<area shape="poly" id="edge64_Node000064_Node000043" title=" " alt="" coords="1562,318,1680,335,1772,344,1864,351,1980,366,2043,376,2042,381,1979,371,1864,357,1772,349,1679,341,1561,323"/>
+<area shape="poly" id="edge66_Node000066_Node000004" title=" " alt="" coords="1107,336,1110,368,1105,368,1102,336"/>
 </map>

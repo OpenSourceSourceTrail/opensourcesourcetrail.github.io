@@ -1,27 +1,85 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/component/controller/helper/ScreenSearchInterfaces.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/component/controller/helper/ScreenSearchInterfaces.h">
-<area shape="rect" id="node1" title=" " alt="" coords="1770,5,2006,75"/>
-<area shape="rect" id="node2" href="$ScreenSearchController_8h.html" title=" " alt="" coords="1963,123,2194,192"/>
-<area shape="rect" id="node11" href="$TabsController_8cpp.html" title=" " alt="" coords="2218,123,2449,192"/>
-<area shape="rect" id="node12" href="$CodeView_8h.html" title=" " alt="" coords="704,123,907,192"/>
-<area shape="rect" id="node20" href="$GraphView_8h.html" title=" " alt="" coords="1597,123,1800,192"/>
-<area shape="rect" id="node3" href="$ComponentFactory_8cpp.html" title=" " alt="" coords="1155,357,1399,427"/>
-<area shape="rect" id="node4" href="$ComponentManager_8cpp.html" title=" " alt="" coords="1315,240,1559,309"/>
-<area shape="rect" id="node5" href="$ScreenSearchController_8cpp.html" title=" " alt="" coords="2858,240,3089,309"/>
-<area shape="rect" id="node6" href="$QtScreenSearchBox_8h.html" title=" " alt="" coords="2620,240,2833,309"/>
-<area shape="rect" id="node9" href="$QtScreenSearchView_8h.html" title=" " alt="" coords="2393,240,2596,309"/>
-<area shape="rect" id="node7" href="$QtScreenSearchBox_8cpp.html" title=" " alt="" coords="2621,357,2849,427"/>
-<area shape="rect" id="node8" href="$QtScreenSearchView_8cpp.html" title=" " alt="" coords="2393,357,2596,427"/>
-<area shape="rect" id="node10" href="$QtViewFactory_8cpp.html" title=" " alt="" coords="1940,357,2143,427"/>
-<area shape="rect" id="node13" href="$Tab_8cpp.html" title=" " alt="" coords="1021,247,1240,302"/>
-<area shape="rect" id="node14" href="$CodeController_8h.html" title=" " alt="" coords="233,240,463,309"/>
-<area shape="rect" id="node16" href="$CodeView_8cpp.html" title=" " alt="" coords="5,357,208,427"/>
-<area shape="rect" id="node18" href="$TooltipController_8cpp.html" title=" " alt="" coords="766,240,997,309"/>
-<area shape="rect" id="node19" href="$QtCodeView_8h.html" title=" " alt="" coords="488,240,691,309"/>
-<area shape="rect" id="node15" href="$CodeController_8cpp.html" title=" " alt="" coords="233,357,463,427"/>
-<area shape="rect" id="node17" href="$QtCodeView_8cpp.html" title=" " alt="" coords="488,357,691,427"/>
-<area shape="rect" id="node21" href="$GraphController_8cpp.html" title=" " alt="" coords="1634,357,1865,427"/>
-<area shape="rect" id="node22" href="$GraphController_8h.html" title=" " alt="" coords="1583,240,1814,309"/>
-<area shape="rect" id="node23" href="$GraphView_8cpp.html" title=" " alt="" coords="1839,240,2041,309"/>
-<area shape="rect" id="node24" href="$QtGraphView_8h.html" title=" " alt="" coords="2167,240,2369,309"/>
-<area shape="rect" id="node25" href="$QtGraphView_8cpp.html" title=" " alt="" coords="2167,357,2369,427"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/component/controller/helper/ScreenSearchInterfaces.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/component/controller/helper/ScreenSearchInterfaces.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1788,5,2070,84"/>
+<area shape="rect" id="Node000002" href="$ScreenSearchController_8h.html" title=" " alt="" coords="669,132,952,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1773,66,952,157,952,152,1772,61"/>
+<area shape="rect" id="Node000013" href="$TabsController_8cpp.html" title=" " alt="" coords="1481,132,1764,211"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1821,93,1719,134,1717,129,1819,88"/>
+<area shape="rect" id="Node000014" href="$CodeView_8h.html" title=" " alt="" coords="1788,132,2070,211"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="1932,100,1932,131,1927,131,1927,100"/>
+<area shape="rect" id="Node000025" href="$GraphView_8h.html" title=" " alt="" coords="2844,132,3126,211"/>
+<area shape="poly" id="edge33_Node000001_Node000025" title=" " alt="" coords="2086,62,2844,151,2843,156,2085,67"/>
+<area shape="rect" id="Node000032" href="$MockedScreenSearchSender_8hpp.html" title=" " alt="" coords="4389,259,4672,337"/>
+<area shape="poly" id="edge49_Node000001_Node000032" title=" " alt="" coords="2086,48,2488,65,2757,80,3057,101,3379,128,3713,162,4049,205,4378,256,4390,258,4389,263,4377,261,4048,210,3712,168,3378,133,3056,106,2756,85,2488,70,2086,53"/>
+<area shape="rect" id="Node000003" href="$ComponentFactory_8cpp.html" title=" " alt="" coords="2203,394,2568,456"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="967,174,1140,182,1332,198,1506,221,1576,237,1629,256,1655,275,1669,297,1684,317,1708,335,1775,362,1835,377,1889,382,1941,382,2052,375,2116,375,2191,383,2239,391,2238,396,2190,388,2116,381,2052,380,1942,387,1889,388,1834,382,1774,367,1705,340,1680,321,1665,300,1651,279,1627,261,1575,242,1505,227,1331,203,1140,188,967,179"/>
+<area shape="rect" id="Node000004" href="$ComponentManager_8cpp.html" title=" " alt="" coords="1741,267,2117,329"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="967,183,1292,214,1672,256,1741,265,1740,270,1672,261,1292,219,967,189"/>
+<area shape="rect" id="Node000005" href="$ScreenSearchController_8cpp.html" title=" " alt="" coords="5,259,288,337"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="654,199,487,227,307,261,289,265,288,260,306,256,486,222,653,194"/>
+<area shape="rect" id="Node000006" href="$QtScreenSearchBox_8h.html" title=" " alt="" coords="363,259,645,337"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="702,219,600,261,598,256,700,214"/>
+<area shape="rect" id="Node000010" href="$QtScreenSearchBoxTestSuite_8hpp.html" title=" " alt="" coords="5,385,288,464"/>
+<area shape="poly" id="edge14_Node000002_Node000010" title=" " alt="" coords="655,191,566,203,479,219,404,238,352,261,334,278,326,297,318,318,302,339,269,365,234,387,231,383,266,361,298,335,313,315,321,295,330,275,349,256,402,233,478,214,565,198,654,186"/>
+<area shape="rect" id="Node000011" href="$QtScreenSearchView_8h.html" title=" " alt="" coords="669,259,952,337"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="813,226,813,258,808,258,808,226"/>
+<area shape="rect" id="Node000007" href="$QtScreenSearchBox_8cpp.html" title=" " alt="" coords="363,385,645,464"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="507,353,507,385,501,385,501,353"/>
+<area shape="rect" id="Node000008" href="$QtScreenSearchView_8cpp.html" title=" " alt="" coords="669,385,952,464"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="614,341,716,382,714,387,612,346"/>
+<area shape="rect" id="Node000009" href="$QtScreenSearchBoxTestSuite_8cpp.html" title=" " alt="" coords="95,512,377,591"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="406,348,352,387,335,406,325,424,302,465,268,513,263,510,298,463,320,421,331,403,349,383,403,343"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="379,345,258,387,257,382,378,340"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="185,475,210,510,206,513,181,478"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="813,353,813,385,808,385,808,353"/>
+<area shape="rect" id="Node000012" href="$QtViewFactory_8cpp.html" title=" " alt="" coords="976,385,1258,464"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="921,341,1023,382,1021,387,919,346"/>
+<area shape="poly" id="edge17_Node000014_Node000003" title=" " alt="" coords="1776,218,1751,237,1731,260,1720,281,1716,299,1719,317,1731,336,1746,348,1766,358,1817,372,1879,379,1948,382,2085,380,2144,379,2191,383,2239,391,2238,396,2190,388,2144,385,2085,385,1947,387,1878,385,1816,378,1764,363,1743,353,1727,339,1714,319,1711,299,1715,279,1727,257,1747,233,1773,214"/>
+<area shape="poly" id="edge18_Node000014_Node000004" title=" " alt="" coords="1932,226,1932,267,1927,267,1927,226"/>
+<area shape="rect" id="Node000015" href="$Tab_8cpp.html" title=" " alt="" coords="2141,267,2424,329"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="2054,214,2198,264,2196,269,2052,219"/>
+<area shape="rect" id="Node000016" href="$CodeController_8h.html" title=" " alt="" coords="1333,259,1616,337"/>
+<area shape="poly" id="edge20_Node000014_Node000016" title=" " alt="" coords="1774,218,1617,261,1615,255,1773,213"/>
+<area shape="rect" id="Node000018" href="$CodeView_8cpp.html" title=" " alt="" coords="1589,385,1872,464"/>
+<area shape="poly" id="edge26_Node000014_Node000018" title=" " alt="" coords="1773,213,1660,217,1526,215,1461,218,1403,225,1355,239,1337,249,1323,260,1311,279,1307,298,1311,316,1323,336,1342,349,1369,359,1442,371,1519,376,1578,383,1590,385,1588,391,1577,388,1518,382,1442,376,1368,364,1339,354,1319,339,1306,318,1301,298,1306,277,1319,257,1334,244,1353,234,1402,220,1461,213,1526,210,1660,211,1773,208"/>
+<area shape="rect" id="Node000020" href="$TooltipController_8cpp.html" title=" " alt="" coords="2448,259,2730,337"/>
+<area shape="poly" id="edge25_Node000014_Node000020" title=" " alt="" coords="2086,193,2255,222,2436,256,2448,259,2447,264,2435,261,2254,227,2085,199"/>
+<area shape="rect" id="Node000021" href="$MockedCodeView_8hpp.html" title=" " alt="" coords="3419,259,3701,337"/>
+<area shape="poly" id="edge27_Node000014_Node000021" title=" " alt="" coords="2086,175,2775,206,3140,229,3291,242,3407,256,3418,258,3418,263,3406,261,3291,247,3140,234,2775,211,2086,181"/>
+<area shape="rect" id="Node000024" href="$QtCodeView_8h.html" title=" " alt="" coords="976,259,1258,337"/>
+<area shape="poly" id="edge30_Node000014_Node000024" title=" " alt="" coords="1773,214,1634,231,1524,238,1415,244,1278,261,1259,265,1258,259,1277,256,1414,239,1523,232,1633,226,1773,208"/>
+<area shape="poly" id="edge21_Node000016_Node000003" title=" " alt="" coords="1632,334,1635,335,1790,354,1912,361,2035,366,2191,383,2240,391,2239,396,2190,388,2034,371,1912,366,1790,359,1634,340,1631,339"/>
+<area shape="rect" id="Node000017" href="$CodeController_8cpp.html" title=" " alt="" coords="1896,385,2178,464"/>
+<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="1632,334,1635,335,1760,359,1884,383,1896,385,1895,391,1883,388,1759,364,1634,340,1631,339"/>
+<area shape="poly" id="edge23_Node000016_Node000018" title=" " alt="" coords="1569,342,1652,382,1650,387,1567,347"/>
+<area shape="rect" id="Node000019" href="$QtCodeView_8cpp.html" title=" " alt="" coords="1283,385,1565,464"/>
+<area shape="poly" id="edge24_Node000016_Node000019" title=" " alt="" coords="1455,353,1442,386,1437,384,1451,351"/>
+<area shape="rect" id="Node000022" href="$ComponentManagerTestSuite_8cpp.html" title=" " alt="" coords="3903,385,4211,464"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="3716,336,3903,382,3902,387,3715,341"/>
+<area shape="rect" id="Node000023" href="$TabTestSuite_8cpp.html" title=" " alt="" coords="4235,394,4519,456"/>
+<area shape="poly" id="edge29_Node000021_Node000023" title=" " alt="" coords="3717,335,3860,353,3972,359,4084,365,4224,383,4264,391,4263,396,4223,388,4083,370,3972,364,3859,358,3716,340"/>
+<area shape="poly" id="edge32_Node000024_Node000012" title=" " alt="" coords="1120,353,1120,385,1115,385,1115,353"/>
+<area shape="poly" id="edge31_Node000024_Node000019" title=" " alt="" coords="1228,341,1330,382,1328,387,1226,346"/>
+<area shape="poly" id="edge34_Node000025_Node000003" title=" " alt="" coords="3032,222,3050,250,3062,281,3064,311,3060,326,3051,340,2998,351,2879,368,2568,405,2568,400,2878,362,2997,346,3048,335,3055,323,3059,311,3057,282,3045,253,3028,225"/>
+<area shape="poly" id="edge35_Node000025_Node000004" title=" " alt="" coords="2828,187,2506,216,2317,237,2130,261,2081,269,2080,264,2129,256,2316,231,2505,211,2828,182"/>
+<area shape="poly" id="edge36_Node000025_Node000015" title=" " alt="" coords="2829,196,2641,225,2436,261,2400,269,2399,264,2435,256,2640,219,2828,191"/>
+<area shape="poly" id="edge41_Node000025_Node000020" title=" " alt="" coords="2849,218,2713,261,2712,255,2847,213"/>
+<area shape="rect" id="Node000026" href="$GraphController_8cpp.html" title=" " alt="" coords="3277,385,3560,464"/>
+<area shape="poly" id="edge37_Node000025_Node000026" title=" " alt="" coords="3142,172,3387,178,3662,192,3789,203,3897,217,3977,235,4005,245,4022,257,4035,277,4040,298,4035,319,4022,339,4000,352,3960,364,3842,385,3699,402,3561,415,3560,410,3699,397,3842,380,3959,359,3997,347,4018,335,4030,316,4035,298,4031,279,4018,261,4002,250,3976,240,3896,222,3789,208,3662,197,3387,183,3142,177"/>
+<area shape="rect" id="Node000027" href="$GraphController_8h.html" title=" " alt="" coords="3112,259,3394,337"/>
+<area shape="poly" id="edge38_Node000025_Node000027" title=" " alt="" coords="3083,215,3171,256,3169,261,3081,220"/>
+<area shape="rect" id="Node000028" href="$GraphView_8cpp.html" title=" " alt="" coords="3725,259,4008,337"/>
+<area shape="poly" id="edge42_Node000025_Node000028" title=" " alt="" coords="3142,183,3410,211,3563,231,3714,256,3726,258,3725,264,3713,261,3562,237,3409,216,3142,188"/>
+<area shape="rect" id="Node000029" href="$MockedGraphView_8hpp.html" title=" " alt="" coords="4083,259,4365,337"/>
+<area shape="poly" id="edge43_Node000025_Node000029" title=" " alt="" coords="3142,175,3329,184,3560,199,3812,223,4064,256,4083,259,4082,264,4063,261,3812,228,3560,205,3329,189,3142,180"/>
+<area shape="rect" id="Node000030" href="$QtGraphView_8h.html" title=" " alt="" coords="2755,259,3037,337"/>
+<area shape="poly" id="edge46_Node000025_Node000030" title=" " alt="" coords="2951,225,2926,260,2921,257,2946,222"/>
+<area shape="poly" id="edge39_Node000027_Node000003" title=" " alt="" coords="3097,339,3094,340,2860,372,2569,406,2568,401,2860,367,3093,335,3096,334"/>
+<area shape="poly" id="edge40_Node000027_Node000026" title=" " alt="" coords="3318,345,3369,383,3366,387,3315,349"/>
+<area shape="poly" id="edge44_Node000029_Node000022" title=" " alt="" coords="4162,349,4111,387,4107,383,4158,345"/>
+<area shape="poly" id="edge45_Node000029_Node000023" title=" " alt="" coords="4285,345,4342,391,4339,396,4282,349"/>
+<area shape="poly" id="edge48_Node000030_Node000012" title=" " alt="" coords="2739,340,2517,364,2327,372,2159,370,2003,364,1847,357,1680,355,1492,364,1271,388,1259,390,1259,384,1270,383,1492,359,1680,350,1847,351,2003,358,2160,365,2327,367,2516,359,2739,335"/>
+<area shape="rect" id="Node000031" href="$QtGraphView_8cpp.html" title=" " alt="" coords="2755,385,3037,464"/>
+<area shape="poly" id="edge47_Node000030_Node000031" title=" " alt="" coords="2899,353,2899,385,2893,385,2893,353"/>
+<area shape="poly" id="edge50_Node000032_Node000022" title=" " alt="" coords="4375,343,4205,387,4204,382,4374,338"/>
+<area shape="poly" id="edge51_Node000032_Node000023" title=" " alt="" coords="4473,349,4416,396,4412,391,4469,345"/>
 </map>

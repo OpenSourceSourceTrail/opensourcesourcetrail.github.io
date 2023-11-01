@@ -37,7 +37,7 @@ var classQtGraphView =
     [ "getGraphNodes", "classQtGraphView.html#a6405448148372abbdc1d32dbd6374b1d", null ],
     [ "getGrouping", "classQtGraphView.html#acad87c5d88b626eaff84980dec735f7d", null ],
     [ "getMessageActivateTrail", "classQtGraphView.html#a064b09e801ad5a6ec5a76c772bebc0ed", null ],
-    [ "getName", "classQtGraphView.html#afa69523cb01c7d24cd559f6af280deef", null ],
+    [ "getName", "classQtGraphView.html#ab4539879fc4ba4106dcba875c09c5595", null ],
     [ "getSceneRect", "classQtGraphView.html#a0a2f5d6696fee0a885b2e3ca7e203251", null ],
     [ "getView", "classQtGraphView.html#ab4a01fb0bbb6b3aa021024423c85689a", null ],
     [ "getViewLayout", "classQtGraphView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],

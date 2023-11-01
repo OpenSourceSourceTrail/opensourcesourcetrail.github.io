@@ -1,16 +1,39 @@
-<map id="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/storage/sqlite/SqliteBookmarkStorage.h" name="/home/ahussein/Documents/sourceCode/Sourcetrail/src/src/lib/data/storage/sqlite/SqliteBookmarkStorage.h">
-<area shape="rect" id="node1" title=" " alt="" coords="525,5,757,75"/>
-<area shape="rect" id="node2" href="$SqliteStorage_8h.html" title=" " alt="" coords="54,123,175,148"/>
-<area shape="rect" id="node9" href="$StorageBookmark_8h.html" title=" " alt="" coords="931,123,1082,148"/>
-<area shape="rect" id="node10" href="$types_8h.html" title=" " alt="" coords="721,196,791,221"/>
-<area shape="rect" id="node12" href="$StorageBookmarkCategory_8h.html" title=" " alt="" coords="424,123,632,148"/>
-<area shape="rect" id="node13" href="$StorageBookmarkedEdge_8h.html" title=" " alt="" coords="657,123,855,148"/>
-<area shape="rect" id="node14" href="$StorageBookmarkedNode_8h.html" title=" " alt="" coords="200,123,400,148"/>
-<area shape="rect" id="node3" title=" " alt="" coords="240,269,349,295"/>
-<area shape="rect" id="node4" href="$FilePath_8h.html" title=" " alt="" coords="72,196,157,221"/>
-<area shape="rect" id="node8" href="$SqliteDatabaseIndex_8h.html" title=" " alt="" coords="233,196,402,221"/>
-<area shape="rect" id="node5" title=" " alt="" coords="5,269,83,295"/>
-<area shape="rect" id="node6" title=" " alt="" coords="449,269,508,295"/>
-<area shape="rect" id="node7" title=" " alt="" coords="107,269,170,295"/>
-<area shape="rect" id="node11" title=" " alt="" coords="721,269,791,295"/>
+<map id="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/storage/sqlite/SqliteBookmarkStorage.h" name="/home/ahussein/Documents/archive/opensourcesourcetrail.github.io/.ignore/src/src/lib/data/storage/sqlite/SqliteBookmarkStorage.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,5,779,84"/>
+<area shape="rect" id="Node000002" href="$SqliteStorage_8h.html" title=" " alt="" coords="53,132,173,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,75,189,133,188,128,496,70"/>
+<area shape="rect" id="Node000009" href="$StorageBookmark_8h.html" title=" " alt="" coords="924,132,1075,160"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="781,82,937,125,936,130,779,87"/>
+<area shape="rect" id="Node000010" href="$types_8h.html" title=" " alt="" coords="717,208,786,235"/>
+<area shape="poly" id="edge23_Node000001_Node000010" title=" " alt="" coords="781,69,827,94,847,110,864,131,870,143,870,155,856,176,831,193,802,206,800,202,828,188,852,172,864,153,865,144,860,133,844,114,824,98,779,74"/>
+<area shape="rect" id="Node000012" href="$StorageBookmarkCategory_8h.html" title=" " alt="" coords="421,132,629,160"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="596,86,553,124,549,120,592,82"/>
+<area shape="rect" id="Node000013" href="$StorageBookmarkedEdge_8h.html" title=" " alt="" coords="653,132,850,160"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="684,82,727,120,723,124,681,86"/>
+<area shape="rect" id="Node000014" href="$StorageBookmarkedNode_8h.html" title=" " alt="" coords="197,132,397,160"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="505,87,357,130,356,125,504,82"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="237,283,346,311"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,158,220,233,266,271,262,275,216,237,126,162"/>
+<area shape="rect" id="Node000004" href="$FilePath_8h.html" title=" " alt="" coords="71,208,155,235"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="116,160,116,192,110,192,110,160"/>
+<area shape="rect" id="Node000008" href="$SqliteDatabaseIndex_8h.html" title=" " alt="" coords="230,208,398,235"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="150,158,265,199,263,205,148,163"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,283,82,311"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,238,68,274,64,270,99,234"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="446,283,505,311"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="156,229,432,284,431,290,155,234"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="106,283,168,311"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="120,235,130,268,125,269,115,237"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="313,237,303,269,297,268,308,235"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="344,233,434,274,432,279,342,238"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="976,163,898,200,799,238,723,258,647,274,521,293,520,288,646,269,722,253,797,233,896,195,974,158"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="956,163,802,208,800,203,954,158"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="717,283,786,311"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="754,236,754,268,749,268,749,236"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="523,161,487,269,482,267,518,159"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="566,158,703,202,701,207,565,163"/>
+<area shape="poly" id="edge18_Node000013_Node000006" title=" " alt="" coords="729,162,514,278,512,273,726,158"/>
+<area shape="poly" id="edge19_Node000013_Node000010" title=" " alt="" coords="754,160,754,192,749,192,749,160"/>
+<area shape="poly" id="edge21_Node000014_Node000006" title=" " alt="" coords="331,158,371,178,412,206,441,237,463,269,459,272,437,240,408,210,369,182,329,163"/>
+<area shape="poly" id="edge22_Node000014_Node000010" title=" " alt="" coords="379,158,702,209,701,215,378,163"/>
 </map>

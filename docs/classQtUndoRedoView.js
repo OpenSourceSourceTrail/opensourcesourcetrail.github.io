@@ -7,7 +7,7 @@ var classQtUndoRedoView =
     [ "createAndAddToLayout", "classQtUndoRedoView.html#a93a9174f4de6b909706465a61949bf83", null ],
     [ "createWidgetWrapper", "classQtUndoRedoView.html#a9118f1aad0eac844b9bff4db7116e89f", null ],
     [ "getController", "classQtUndoRedoView.html#a68ba9601f3980fd7f43fe8b5f58a1235", null ],
-    [ "getName", "classQtUndoRedoView.html#a3f39cae90059d5c8d31b922bc6aed8ea", null ],
+    [ "getName", "classQtUndoRedoView.html#a91674e0da61a21588a192b9300e9a36b", null ],
     [ "getViewLayout", "classQtUndoRedoView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
     [ "getWidgetWrapper", "classQtUndoRedoView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
     [ "refreshView", "classQtUndoRedoView.html#ada311a5856aa1d5a737090bee9b021e0", null ],

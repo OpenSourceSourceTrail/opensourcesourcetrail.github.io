@@ -1,7 +1,11 @@
 <map id="StorageFile" name="StorageFile">
-<area shape="rect" id="node1" title=" " alt="" coords="152,108,247,133"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,65,31"/>
-<area shape="rect" id="node3" title=" " alt="" coords="89,5,160,31"/>
-<area shape="rect" id="node4" title=" " alt="" coords="246,5,305,31"/>
-<area shape="rect" id="node5" title=" " alt="" coords="399,5,450,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,115,244,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,65,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,44,73,68,97,89,123,103,152,114,150,119,121,108,93,93,69,71,49,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,5,158,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,49,120,70,126,90,138,103,154,112,151,117,135,107,122,92,114,71,114,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="243,5,302,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,49,258,71,245,93,220,116,216,112,241,89,253,69,262,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="397,5,446,33"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="416,49,405,72,386,93,361,105,325,114,245,126,244,120,324,108,359,99,383,89,400,69,411,46"/>
 </map>

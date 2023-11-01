@@ -1,11 +1,21 @@
 <map id="StorageAccess::getEdgeById" name="StorageAccess::getEdgeById">
-<area shape="rect" id="node1" title=" " alt="" coords="988,95,1195,120"/>
-<area shape="rect" id="node2" href="$classBookmarkController.html#a66b7f20dd251f5d5d55339f481f459d7" title=" " alt="" coords="754,55,907,95"/>
-<area shape="rect" id="node6" href="$classBookmarkController.html#aef6ea624de2a76c6c3bb0ea3cda12f63" title=" " alt="" coords="721,119,940,159"/>
-<area shape="rect" id="node3" href="$classQtBookmark.html#ad4a5325c8352315e53d3649ffafcd373" title=" " alt="" coords="455,5,667,31"/>
-<area shape="rect" id="node5" href="$classBookmarkController.html#ae511373a6a9ed696b1a08e9311cef063" title=" " alt="" coords="485,55,638,95"/>
-<area shape="rect" id="node4" href="$classQtBookmark.html#a0a22068d0939f521f22675268a72cd6a" title=" " alt="" coords="207,5,401,31"/>
-<area shape="rect" id="node7" href="$classBookmarkController.html#af1d67d992778357aca817e0faa6d7b37" title=" " alt="" coords="449,119,673,159"/>
-<area shape="rect" id="node8" href="$classBookmarkController.html#a51f8fd11db7c656a7e2b4d6b6a1bc797" title=" " alt="" coords="215,119,393,159"/>
-<area shape="rect" id="node9" href="$classBookmarkController.html#a80eae6f9cc273c8593b4afc5483e9f44" title=" " alt="" coords="5,119,159,159"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="985,100,1191,128"/>
+<area shape="rect" id="Node000002" href="$classBookmarkController.html#a66b7f20dd251f5d5d55339f481f459d7" title=" " alt="" coords="751,57,904,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="969,101,904,92,905,87,969,95"/>
+<area shape="rect" id="Node000006" href="$classBookmarkController.html#aef6ea624de2a76c6c3bb0ea3cda12f63" title=" " alt="" coords="718,126,937,171"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="970,132,938,137,937,131,969,127"/>
+<area shape="rect" id="Node000003" href="$classQtBookmark.html#ad4a5325c8352315e53d3649ffafcd373" title=" " alt="" coords="453,5,664,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="736,61,624,36,625,31,737,56"/>
+<area shape="rect" id="Node000005" href="$classBookmarkController.html#ae511373a6a9ed696b1a08e9311cef063" title=" " alt="" coords="483,57,635,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="736,82,635,82,635,77,736,77"/>
+<area shape="rect" id="Node000004" href="$classQtBookmark.html#a0a22068d0939f521f22675268a72cd6a" title=" " alt="" coords="206,5,399,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,22,400,22,400,17,438,17"/>
+<area shape="rect" id="Node000007" href="$classBookmarkController.html#af1d67d992778357aca817e0faa6d7b37" title=" " alt="" coords="447,126,670,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="703,151,671,151,671,146,703,146"/>
+<area shape="rect" id="Node000008" href="$classBookmarkController.html#a51f8fd11db7c656a7e2b4d6b6a1bc797" title=" " alt="" coords="213,126,392,171"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="431,151,392,151,392,146,431,146"/>
+<area shape="rect" id="Node000009" href="$classBookmarkController.html#a80eae6f9cc273c8593b4afc5483e9f44" title=" " alt="" coords="5,92,158,136"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="197,135,158,128,159,123,198,129"/>
+<area shape="rect" id="Node000010" href="$classBookmarkController.html#ab4c28fa1eac8c57773dab4d2f1d32c65" title=" " alt="" coords="5,161,158,206"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="198,168,159,174,158,169,197,162"/>
 </map>

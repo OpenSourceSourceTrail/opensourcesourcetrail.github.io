@@ -1,7 +1,12 @@
 <map id="MessageActivateFullTextSearch" name="MessageActivateFullTextSearch">
-<area shape="rect" id="node1" title=" " alt="" coords="100,272,328,297"/>
-<area shape="rect" id="node2" href="$classMessage.html" title=" " alt="" coords="5,183,212,223"/>
-<area shape="rect" id="node3" href="$classMessageBase.html" title=" " alt="" coords="47,5,159,31"/>
-<area shape="rect" id="node4" href="$classMessage.html" title=" " alt="" coords="125,80,324,105"/>
-<area shape="rect" id="node5" href="$classMessageActivateBase.html" title=" " alt="" coords="236,190,403,215"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,286,378,314"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,192,212,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,242,241,283,238,288,161,247"/>
+<area shape="rect" id="Node000003" href="$classMessageBase.html" title=" " alt="" coords="48,5,159,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,48,111,191,105,192,101,48"/>
+<area shape="rect" id="Node000004" href="$classMessage.html" title=" " alt="" coords="125,82,322,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="138,39,204,80,201,84,136,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,123,132,193,128,190,198,119"/>
+<area shape="rect" id="Node000005" href="$classMessageActivateBase.html" title=" " alt="" coords="235,201,401,228"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="304,243,275,287,271,284,299,240"/>
 </map>

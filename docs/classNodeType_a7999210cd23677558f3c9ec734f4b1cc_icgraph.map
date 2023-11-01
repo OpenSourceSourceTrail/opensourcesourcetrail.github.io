@@ -1,7 +1,13 @@
 <map id="NodeType::getIconPath" name="NodeType::getIconPath">
-<area shape="rect" id="node1" title=" " alt="" coords="727,70,897,95"/>
-<area shape="rect" id="node2" href="$classGraphViewStyle.html#a45c45c56e40ae41d387db689bf2d301a" title=" " alt="" coords="491,63,679,103"/>
-<area shape="rect" id="node3" href="$classGraphViewStyle.html#a14390c97d29fc1bd7548c0595ffe9a90" title=" " alt="" coords="235,5,423,45"/>
-<area shape="rect" id="node4" href="$classQtGraphNodeBundle.html#a4723a70dc174cf914ad038a8590810b2" title=" " alt="" coords="5,35,168,75"/>
-<area shape="rect" id="node5" href="$classQtGraphNodeData.html#a4e925c551260e3798ba84d5d36eea20b" title=" " alt="" coords="216,121,443,146"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="725,74,896,102"/>
+<area shape="rect" id="Node000002" href="$classGraphViewStyle.html#a45c45c56e40ae41d387db689bf2d301a" title=" " alt="" coords="490,65,677,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,90,678,90,678,85,710,85"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="621,53,607,46,584,44,563,46,549,51,544,57,546,64,540,65,539,55,546,46,561,41,584,39,608,41,623,48"/>
+<area shape="rect" id="Node000003" href="$classGraphViewStyle.html#a14390c97d29fc1bd7548c0595ffe9a90" title=" " alt="" coords="235,5,423,50"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="474,65,422,52,423,47,476,60"/>
+<area shape="rect" id="Node000004" href="$classQtGraphNodeBundle.html#a4723a70dc174cf914ad038a8590810b2" title=" " alt="" coords="5,36,168,81"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="475,84,168,66,168,60,475,79"/>
+<area shape="rect" id="Node000005" href="$classQtGraphNodeData.html#a4e925c551260e3798ba84d5d36eea20b" title=" " alt="" coords="216,125,442,152"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="475,112,403,126,402,121,474,107"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="220,44,168,51,168,45,219,39"/>
 </map>

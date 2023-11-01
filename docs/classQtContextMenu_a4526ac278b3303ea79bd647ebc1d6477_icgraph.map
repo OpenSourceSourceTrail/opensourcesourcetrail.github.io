@@ -1,12 +1,30 @@
 <map id="QtContextMenu::addAction" name="QtContextMenu::addAction">
-<area shape="rect" id="node1" title=" " alt="" coords="571,174,768,200"/>
-<area shape="rect" id="node2" href="$classQtContextMenu.html#a34803c665af2c4a5ba8bda72d162bc20" title=" " alt="" coords="290,48,517,73"/>
-<area shape="rect" id="node3" href="$classQtCodeFileTitleButton.html#aa72f1be5644800ffac68ddcc0608c847" title=" " alt="" coords="39,20,202,60"/>
-<area shape="rect" id="node4" href="$classQtCodeArea.html#aba71fb8c4295bb0b554d6ce3203e932e" title=" " alt="" coords="5,85,236,110"/>
-<area shape="rect" id="node5" href="$classQtGraphicsView.html#ac8f68f1c170b042223ff255727dd28a0" title=" " alt="" coords="11,135,230,175"/>
-<area shape="rect" id="node6" href="$classQtContextMenu.html#a1d7f55ce218bdb48b5919a0da1e32170" title=" " alt="" coords="284,200,523,225"/>
-<area shape="rect" id="node7" href="$classQtCodeField.html#a50f083e8cc72be057c7032274d4d7aab" title=" " alt="" coords="24,263,217,303"/>
-<area shape="rect" id="node9" href="$classQtTabBar.html#a66c8e39c9aae4a8e0a0b10de886ad5a2" title=" " alt="" coords="298,301,509,326"/>
-<area shape="rect" id="node10" href="$classQtRecentProjectButton.html#ad0238fcedb06007d1f05112570bfdeb2" title="This is implemented to receive widget context menu events." alt="" coords="318,351,489,391"/>
-<area shape="rect" id="node8" href="$classQtMainWindow.html#a35e4dacfe43f977b5924627739711857" title=" " alt="" coords="13,199,228,239"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="568,180,764,207"/>
+<area shape="rect" id="Node000002" href="$classQtContextMenu.html#a34803c665af2c4a5ba8bda72d162bc20" title=" " alt="" coords="289,53,514,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="634,172,581,136,519,101,469,84,471,79,521,96,584,131,637,168"/>
+<area shape="rect" id="Node000003" href="$classQtCodeFileTitleButton.html#aa72f1be5644800ffac68ddcc0608c847" title=" " alt="" coords="39,7,201,52"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="646,168,625,137,596,102,560,69,519,44,480,29,438,19,354,9,272,10,202,17,201,12,272,5,354,4,439,14,481,24,521,39,563,65,600,98,629,134,651,165"/>
+<area shape="rect" id="Node000004" href="$classQtCodeArea.html#aba71fb8c4295bb0b554d6ce3203e932e" title=" " alt="" coords="5,76,235,103"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="600,178,519,157,366,128,227,107,228,101,367,123,521,152,602,172"/>
+<area shape="rect" id="Node000005" href="$classQtGraphicsView.html#ac8f68f1c170b042223ff255727dd28a0" title=" " alt="" coords="11,127,229,172"/>
+<area shape="poly" id="edge16_Node000001_Node000005" title=" " alt="" coords="553,187,230,161,230,156,553,182"/>
+<area shape="rect" id="Node000006" href="$classQtContextMenu.html#a1d7f55ce218bdb48b5919a0da1e32170" title=" " alt="" coords="283,205,520,233"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="553,207,521,210,520,205,552,202"/>
+<area shape="rect" id="Node000007" href="$classQtCodeField.html#a50f083e8cc72be057c7032274d4d7aab" title=" " alt="" coords="24,335,216,380"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="614,216,521,247,454,261,401,268,348,277,284,297,260,311,236,325,205,337,204,332,233,320,257,306,282,292,347,272,400,263,453,256,519,242,613,211"/>
+<area shape="rect" id="Node000010" href="$classQtTabBar.html#a66c8e39c9aae4a8e0a0b10de886ad5a2" title=" " alt="" coords="296,306,507,334"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="637,219,584,256,521,291,471,308,469,303,519,286,581,251,634,215"/>
+<area shape="rect" id="Node000011" href="$classQtRecentProjectButton.html#ad0238fcedb06007d1f05112570bfdeb2" title="This is implemented to receive widget context menu events." alt="" coords="317,358,486,402"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="649,221,596,285,561,319,521,348,488,364,485,359,519,343,558,314,593,281,645,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,53,201,43,202,38,277,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="274,80,235,83,235,78,273,74"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="338,88,200,129,198,124,336,83"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="377,195,316,131,277,96,233,66,200,51,202,46,236,62,280,92,320,127,381,191"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="368,198,308,156,234,117,201,106,202,101,236,112,311,152,371,193"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="327,203,213,175,214,170,328,198"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="305,241,284,253,269,270,261,288,253,306,236,325,216,337,213,332,233,321,249,304,256,286,264,267,281,249,303,236"/>
+<area shape="rect" id="Node000008" href="$classQtMainWindow.html#a35e4dacfe43f977b5924627739711857" title=" " alt="" coords="13,196,227,241"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="267,221,227,221,227,216,267,216"/>
+<area shape="rect" id="Node000009" href="$structQtContextMenuTest.html#a1a24a9e08e9dbaf2037987ede8e240a0" title=" " alt="" coords="33,266,207,310"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="328,239,207,269,206,264,327,234"/>
 </map>

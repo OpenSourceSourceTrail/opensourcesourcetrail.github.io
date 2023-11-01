@@ -1,0 +1,26 @@
+var structMockedStatusView =
+[
+    [ "MockedStatusView", "structMockedStatusView.html#af2320f50e60ae655a6b9a62994f79948", null ],
+    [ "addStatus", "structMockedStatusView.html#a474898891fce7706791e9125164586a3", null ],
+    [ "addToLayout", "structMockedStatusView.html#ae2ef5b9d87176d498c81368b64b810d9", null ],
+    [ "clear", "structMockedStatusView.html#a15ba5df9ffff454528920479ceae65b0", null ],
+    [ "create", "structMockedStatusView.html#a74af5d9d1e3a886e107a455e5028a101", null ],
+    [ "createAndAddToLayout", "structMockedStatusView.html#a93a9174f4de6b909706465a61949bf83", null ],
+    [ "createWidgetWrapper", "structMockedStatusView.html#a4c4b28080725d4cd54cd32cb06adcd3f", null ],
+    [ "getController", "structMockedStatusView.html#aa4d988d307d70568545ad17f89dbe789", null ],
+    [ "getName", "structMockedStatusView.html#adb032e802f73090c04b38c01759d12ee", null ],
+    [ "getViewLayout", "structMockedStatusView.html#a816b2d71d2ce85e5a1cac19ace11b53f", null ],
+    [ "getWidgetWrapper", "structMockedStatusView.html#a3cbf5820d5c11e82b48e3fabb7b0e640", null ],
+    [ "MOCK_METHOD", "structMockedStatusView.html#a716d32629fb2d92fc6d1bdadeece5f6e", null ],
+    [ "MOCK_METHOD", "structMockedStatusView.html#a0c57a6e1557c95d32ee8c514103e5eb1", null ],
+    [ "MOCK_METHOD", "structMockedStatusView.html#a19aa84c78f882fe8a82491b138ff5bb4", null ],
+    [ "MOCK_METHOD", "structMockedStatusView.html#a420b9911d0674ccb2326ed8771605e2c", null ],
+    [ "refreshView", "structMockedStatusView.html#a47d8e2f48a7e71a9a481df791826b0e6", null ],
+    [ "setComponent", "structMockedStatusView.html#a4148a46723f9be0dfdf36034d1b02cb4", null ],
+    [ "setEnabled", "structMockedStatusView.html#a9e9a72267df76d7a0206fbe4f2328e7d", null ],
+    [ "setWidgetWrapper", "structMockedStatusView.html#a6400c84b3738fee7a3066698171547fe", null ],
+    [ "showDockWidget", "structMockedStatusView.html#abce42d26620a80d229ed28f70b2dcd08", null ],
+    [ "m_component", "structMockedStatusView.html#aea146311bfc8ade50aea47dce4795bb6", null ],
+    [ "m_viewLayout", "structMockedStatusView.html#ab1a24bac93610fe8c726b14ce7f96e12", null ],
+    [ "m_widgetWrapper", "structMockedStatusView.html#a8fab697987cb82172050bc8e20f8c541", null ]
+];
