@@ -1,77 +1,68 @@
 <!DOCTYPE html>
-<html class="theme-green">
-
+<html class="theme-dark-blue" data-color-mode="dark" data-dark-theme="dark">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title>GCC Code Coverage Report</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" href="index.css"/>
   </head>
-
   <body>
-    <header>
-      <h1>GCC Code Coverage Report</h1>
+      <div class="Layout-main">
+          <div class="Layout-main-centered-lg" style="max-width: 1280px;">
+              <div class="d-flex flex-justify-center">
+                  <h1>GCC Code Coverage Report</h1>
+              </div>
 
-      <hr/>
+              <hr/>
 
-      <div class="summary">
+              <div class="summary">
 <div>
-  <table class="legend">
-    <tr>
-      <th scope="row">Directory:</th>
-      <td>./</td>
-    </tr>
-    <tr>
-      <th scope="row">File:</th>
-      <td>lib/settings/ApplicationSettings.h</td>
-    </tr>
-    <tr>
-      <th scope="row">Date:</th>
-      <td>2023-11-01 11:54:51</td>
-    </tr>
-  </table>
+    <div class="containter-xl clearfix">
+        <div class="col-sm-12 col-lg-9 float-left d-flex flex-column p-3">
+            <div class="d-flex">
+                <div class="mr-2 color-fg-accent transy-2">
+                    <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-directory-fill hx_color-icon-directory">
+                        <path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path>
+                    </svg>
+                </div>
+                <span>./</span>
+            </div>
+            <div>File: lib/settings/ApplicationSettings.h</div>
+            <div>Date: 2023-11-01 20:26:46</div>
+        </div>
+        <div class="col-sm-12 col-lg-3 float-left d-flex flex-column text-right flex-justify-end p-3">
+            <div class="d-flex">
+                <div class="mr-2">Lines:</div>
+                <div class="mr-2" style="margin: auto;">1/1</div>
+                <div class="Label--minw"><span class="coverage-high IssueLabel color-fg-on-emphasis mr-1">100.0%</span></div>
+            </div>
+            <div class="d-flex">
+                <div class="mr-2">Functions:</div>
+                <div class="mr-2" style="margin: auto;">1/1</div>
+                <div class="Label--minw"><span class="coverage-high IssueLabel color-fg-on-emphasis mr-1">100.0%</span></div>
+            </div>
+            <div class="d-flex">
+                <div class="mr-2">Branches:</div>
+                <div class="mr-2" style="margin: auto;">0/0</div>
+                <div class="Label--minw"><span class="coverage-unknown IssueLabel color-fg-on-emphasis mr-1">-%</span></div>
+            </div>
+        </div>
+    </div>
 </div>
-<div>
-  <table class="coverage">
-    <tr>
-      <th></th>
-      <th scope="col">Exec</th>
-      <th scope="col">Total</th>
-      <th scope="col">Coverage</th>
-    </tr>
-    <tr>
-      <th scope="row">Lines:</th>
-      <td>1</td>
-      <td>1</td>
-      <td class="coverage-high">100.0%</td>
-    </tr>
-    <tr>
-      <th scope="row">Functions:</th>
-      <td>1</td>
-      <td>1</td>
-      <td class="coverage-high">100.0%</td>
-    </tr>
-    <tr>
-      <th scope="row">Branches:</th>
-      <td>0</td>
-      <td>0</td>
-      <td class="coverage-unknown">-%</td>
-    </tr>
-  </table>
-</div>
-      </div>
+              </div>
 
-      <hr/>
-    </header>
+              <hr/>
 
-    <nav>
+              <nav>
+<div class="m-3">
 <details>
   <summary>List of functions</summary>
-  <table class="listOfFunctions">
-    <tr>
-      <th>Function</th>
+  <table class="functionslist text-mono text-small wb-break-word">
+    <tr class="text-left">
+      <th class="css-truncate css-truncate-target">Function</th>
       <th>Line</th>
       <th>Call count</th>
+      <th>Block coverage</th>
     </tr>
     <tr>
       <td>
@@ -81,1143 +72,1152 @@
         <a href="#l17">17</a>
       </td>
       <td>
-        <a href="#l17"> called 285 times</a>
+        <a href="#l17"> called 1145 times, returned 1145 times</a>
+      </td>
+      <td>
+        <a href="#l17">100.0%</a>
       </td>
     </tr>
   </table>
 </details>
-
-    </nav>
-
-    <main>
-<div class="file-source">
-  <table>
-    <tr>
-      <th align="right">Line</th>
-      <th align="right">Branch</th>
-      <th align="right">Exec</th>
-      <th align="left">Source</th>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l1" href="#l1">1</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#pragma once</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l2" href="#l2">2</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l3" href="#l3">3</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;memory&gt;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l4" href="#l4">4</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l5" href="#l5">5</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;GroupType.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l6" href="#l6">6</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Settings.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l7" href="#l7">7</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l8" href="#l8">8</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="n">class</span><span class="w"> </span><span class="n">TimeStamp</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l9" href="#l9">9</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="n">class</span><span class="w"> </span><span class="n">Version</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l10" href="#l10">10</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l11" href="#l11">11</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="n">class</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">public</span><span class="w"> </span><span class="n">Settings</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l12" href="#l12">12</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="n">public</span><span class="o">:</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l13" href="#l13">13</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="k">static</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">shared_ptr</span><span class="o">&lt;</span><span class="n">ApplicationSettings</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getInstance</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l14" href="#l14">14</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l15" href="#l15">15</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="k">static</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">size_t</span><span class="w"> </span><span class="n">VERSION</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l16" href="#l16">16</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l17" href="#l17">17</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount coveredLine">285</td>
-      <td class="src coveredLine"><span class="w">  </span><span class="n">ApplicationSettings</span><span class="p">()</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">default</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l18" href="#l18">18</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l19" href="#l19">19</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">load</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">FilePath</span><span class="o">&amp;</span><span class="w"> </span><span class="n">filePath</span><span class="p">,</span><span class="w"> </span><span class="kt">bool</span><span class="w"> </span><span class="n">readOnly</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">false</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l20" href="#l20">20</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l21" href="#l21">21</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="n">operator</span><span class="o">==</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">&amp;</span><span class="w"> </span><span class="n">other</span><span class="p">)</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l22" href="#l22">22</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l23" href="#l23">23</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">size_t</span><span class="w"> </span><span class="nf">getMaxRecentProjectsCount</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l24" href="#l24">24</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l25" href="#l25">25</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// application</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l26" href="#l26">26</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="w"> </span><span class="nf">getFontName</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l27" href="#l27">27</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontName</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="o">&amp;</span><span class="w"> </span><span class="n">fontName</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l28" href="#l28">28</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l29" href="#l29">29</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSize</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l30" href="#l30">30</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSize</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">fontSize</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l31" href="#l31">31</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l32" href="#l32">32</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="w"> </span><span class="nf">getTextEncoding</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l33" href="#l33">33</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setTextEncoding</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="o">&amp;</span><span class="w"> </span><span class="n">textEncoding</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l34" href="#l34">34</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l35" href="#l35">35</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">wstring</span><span class="w"> </span><span class="nf">getColorSchemeName</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l36" href="#l36">36</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">FilePath</span><span class="w"> </span><span class="nf">getColorSchemePath</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l37" href="#l37">37</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setColorSchemeName</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">wstring</span><span class="o">&amp;</span><span class="w"> </span><span class="n">colorSchemeName</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l38" href="#l38">38</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l39" href="#l39">39</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSizeMax</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l40" href="#l40">40</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSizeMax</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">fontSizeMax</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l41" href="#l41">41</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l42" href="#l42">42</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSizeMin</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l43" href="#l43">43</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSizeMin</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">fontSizeMin</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l44" href="#l44">44</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l45" href="#l45">45</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSizeStd</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l46" href="#l46">46</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSizeStd</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">fontSizeStd</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l47" href="#l47">47</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l48" href="#l48">48</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getUseAnimations</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l49" href="#l49">49</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setUseAnimations</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">useAnimations</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l50" href="#l50">50</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l51" href="#l51">51</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getShowBuiltinTypesInGraph</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l52" href="#l52">52</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setShowBuiltinTypesInGraph</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">showBuiltinTypes</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l53" href="#l53">53</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l54" href="#l54">54</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getShowDirectoryInCodeFileTitle</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l55" href="#l55">55</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setShowDirectoryInCodeFileTitle</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">showDirectory</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l56" href="#l56">56</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l57" href="#l57">57</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getWindowBaseWidth</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l58" href="#l58">58</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getWindowBaseHeight</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l59" href="#l59">59</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l60" href="#l60">60</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="nf">getScrollSpeed</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l61" href="#l61">61</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setScrollSpeed</span><span class="p">(</span><span class="kt">float</span><span class="w"> </span><span class="n">scrollSpeed</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l62" href="#l62">62</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l63" href="#l63">63</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getGraphControlsVisible</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l64" href="#l64">64</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setGraphControlsVisible</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">visible</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l65" href="#l65">65</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l66" href="#l66">66</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">GroupType</span><span class="w"> </span><span class="nf">getGraphGrouping</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l67" href="#l67">67</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setGraphGrouping</span><span class="p">(</span><span class="n">GroupType</span><span class="w"> </span><span class="n">type</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l68" href="#l68">68</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l69" href="#l69">69</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// screen</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l70" href="#l70">70</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getScreenAutoScaling</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l71" href="#l71">71</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setScreenAutoScaling</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">autoScaling</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l72" href="#l72">72</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l73" href="#l73">73</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="nf">getScreenScaleFactor</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l74" href="#l74">74</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setScreenScaleFactor</span><span class="p">(</span><span class="kt">float</span><span class="w"> </span><span class="n">scaleFactor</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l75" href="#l75">75</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l76" href="#l76">76</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// logging</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l77" href="#l77">77</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getLoggingEnabled</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l78" href="#l78">78</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLoggingEnabled</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">loggingEnabled</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l79" href="#l79">79</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l80" href="#l80">80</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getVerboseIndexerLoggingEnabled</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l81" href="#l81">81</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setVerboseIndexerLoggingEnabled</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">loggingEnabled</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l82" href="#l82">82</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l83" href="#l83">83</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">FilePath</span><span class="w"> </span><span class="nf">getLogDirectoryPath</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l84" href="#l84">84</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLogDirectoryPath</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">FilePath</span><span class="o">&amp;</span><span class="w"> </span><span class="n">path</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l85" href="#l85">85</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l86" href="#l86">86</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getLogFilter</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l87" href="#l87">87</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLogFilter</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">mask</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l88" href="#l88">88</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l89" href="#l89">89</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getStatusFilter</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l90" href="#l90">90</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setStatusFilter</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">mask</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l91" href="#l91">91</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l92" href="#l92">92</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// indexing</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l93" href="#l93">93</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getIndexerThreadCount</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l94" href="#l94">94</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setIndexerThreadCount</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">count</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l95" href="#l95">95</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l96" href="#l96">96</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getMultiProcessIndexingEnabled</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l97" href="#l97">97</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setMultiProcessIndexingEnabled</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">enabled</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l98" href="#l98">98</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l99" href="#l99">99</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getHeaderSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l100" href="#l100">100</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getHeaderSearchPathsExpanded</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l101" href="#l101">101</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">setHeaderSearchPaths</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;&amp;</span><span class="w"> </span><span class="n">headerSearchPaths</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l102" href="#l102">102</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l103" href="#l103">103</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getHasPrefilledHeaderSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l104" href="#l104">104</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setHasPrefilledHeaderSearchPaths</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">v</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l105" href="#l105">105</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l106" href="#l106">106</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getFrameworkSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l107" href="#l107">107</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getFrameworkSearchPathsExpanded</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l108" href="#l108">108</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">setFrameworkSearchPaths</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;&amp;</span><span class="w"> </span><span class="n">frameworkSearchPaths</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l109" href="#l109">109</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l110" href="#l110">110</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getHasPrefilledFrameworkSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l111" href="#l111">111</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setHasPrefilledFrameworkSearchPaths</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">v</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l112" href="#l112">112</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l113" href="#l113">113</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// code</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l114" href="#l114">114</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCodeTabWidth</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l115" href="#l115">115</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeTabWidth</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">codeTabWidth</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l116" href="#l116">116</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l117" href="#l117">117</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCodeSnippetSnapRange</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l118" href="#l118">118</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeSnippetSnapRange</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">range</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l119" href="#l119">119</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l120" href="#l120">120</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCodeSnippetExpandRange</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l121" href="#l121">121</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeSnippetExpandRange</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">range</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l122" href="#l122">122</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l123" href="#l123">123</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getCodeViewModeSingle</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l124" href="#l124">124</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeViewModeSingle</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">enabled</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l125" href="#l125">125</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l126" href="#l126">126</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// user</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l127" href="#l127">127</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getRecentProjects</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l128" href="#l128">128</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">setRecentProjects</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;&amp;</span><span class="w"> </span><span class="n">recentProjects</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l129" href="#l129">129</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l130" href="#l130">130</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getSeenErrorHelpMessage</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l131" href="#l131">131</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setSeenErrorHelpMessage</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">seen</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l132" href="#l132">132</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l133" href="#l133">133</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">FilePath</span><span class="w"> </span><span class="nf">getLastFilepickerLocation</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l134" href="#l134">134</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLastFilepickerLocation</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">FilePath</span><span class="o">&amp;</span><span class="w"> </span><span class="n">path</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l135" href="#l135">135</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l136" href="#l136">136</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="nf">getGraphZoomLevel</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l137" href="#l137">137</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setGraphZoomLevel</span><span class="p">(</span><span class="kt">float</span><span class="w"> </span><span class="n">zoomLevel</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l138" href="#l138">138</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l139" href="#l139">139</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// network</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l140" href="#l140">140</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getPluginPort</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l141" href="#l141">141</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setPluginPort</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">pluginPort</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l142" href="#l142">142</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l143" href="#l143">143</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getSourcetrailPort</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l144" href="#l144">144</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setSourcetrailPort</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">sourcetrailPort</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l145" href="#l145">145</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l146" href="#l146">146</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="c1">// controls</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l147" href="#l147">147</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getControlsMouseBackButton</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l148" href="#l148">148</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getControlsMouseForwardButton</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l149" href="#l149">149</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l150" href="#l150">150</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getControlsGraphZoomOnMouseWheel</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l151" href="#l151">151</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setControlsGraphZoomOnMouseWheel</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">zoomingDefault</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l152" href="#l152">152</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l153" href="#l153">153</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="n">private</span><span class="o">:</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l154" href="#l154">154</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="n">ApplicationSettings</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">&amp;</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l155" href="#l155">155</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="n">operator</span><span class="o">=</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">&amp;</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l156" href="#l156">156</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l157" href="#l157">157</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="k">static</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">shared_ptr</span><span class="o">&lt;</span><span class="n">ApplicationSettings</span><span class="o">&gt;</span><span class="w"> </span><span class="n">s_instance</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l158" href="#l158">158</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="p">};</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l159" href="#l159">159</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-  </table>
 </div>
-      <hr/>
-    </main>
 
-    <footer>
-      Generated by: <a href="http://gcovr.com/en/6.0">GCOVR (Version 6.0)</a>
-    </footer>
+              </nav>
+
+              <main>
+<div class="Box m-3">
+    <div class="Box-header d-flex flex-space-between">
+    </div>
+    <div style="overflow-x: auto;">
+        <table class="text-mono text-small" style="width:100%;">
+            <tr>
+                <th class="p-2">Line</th>
+                <th class="p-2">Branch</th>
+                <th class="p-2">Exec</th>
+                <th class="p-2 text-left" style="width: 100%;">Source</th>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l1" href="#l1">1</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#pragma once</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l2" href="#l2">2</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l3" href="#l3">3</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;memory&gt;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l4" href="#l4">4</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l5" href="#l5">5</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;GroupType.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l6" href="#l6">6</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Settings.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l7" href="#l7">7</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l8" href="#l8">8</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="n">class</span><span class="w"> </span><span class="n">TimeStamp</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l9" href="#l9">9</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="n">class</span><span class="w"> </span><span class="n">Version</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l10" href="#l10">10</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l11" href="#l11">11</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="n">class</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">public</span><span class="w"> </span><span class="n">Settings</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l12" href="#l12">12</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="n">public</span><span class="o">:</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l13" href="#l13">13</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="k">static</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">shared_ptr</span><span class="o">&lt;</span><span class="n">ApplicationSettings</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getInstance</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l14" href="#l14">14</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l15" href="#l15">15</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="k">static</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">size_t</span><span class="w"> </span><span class="n">VERSION</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l16" href="#l16">16</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l17" href="#l17">17</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src coveredLine pr-2 pl-2 color-fg-muted text-right">1145</td>
+                <td class="src coveredLine"><span class="w">  </span><span class="n">ApplicationSettings</span><span class="p">()</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">default</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l18" href="#l18">18</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l19" href="#l19">19</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">load</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">FilePath</span><span class="o">&amp;</span><span class="w"> </span><span class="n">filePath</span><span class="p">,</span><span class="w"> </span><span class="kt">bool</span><span class="w"> </span><span class="n">readOnly</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">false</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l20" href="#l20">20</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l21" href="#l21">21</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="n">operator</span><span class="o">==</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">&amp;</span><span class="w"> </span><span class="n">other</span><span class="p">)</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l22" href="#l22">22</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l23" href="#l23">23</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">size_t</span><span class="w"> </span><span class="nf">getMaxRecentProjectsCount</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l24" href="#l24">24</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l25" href="#l25">25</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// application</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l26" href="#l26">26</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="w"> </span><span class="nf">getFontName</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l27" href="#l27">27</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontName</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="o">&amp;</span><span class="w"> </span><span class="n">fontName</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l28" href="#l28">28</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l29" href="#l29">29</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSize</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l30" href="#l30">30</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSize</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">fontSize</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l31" href="#l31">31</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l32" href="#l32">32</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="w"> </span><span class="nf">getTextEncoding</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l33" href="#l33">33</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setTextEncoding</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">string</span><span class="o">&amp;</span><span class="w"> </span><span class="n">textEncoding</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l34" href="#l34">34</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l35" href="#l35">35</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">wstring</span><span class="w"> </span><span class="nf">getColorSchemeName</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l36" href="#l36">36</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">FilePath</span><span class="w"> </span><span class="nf">getColorSchemePath</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l37" href="#l37">37</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setColorSchemeName</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">wstring</span><span class="o">&amp;</span><span class="w"> </span><span class="n">colorSchemeName</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l38" href="#l38">38</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l39" href="#l39">39</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSizeMax</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l40" href="#l40">40</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSizeMax</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">fontSizeMax</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l41" href="#l41">41</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l42" href="#l42">42</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSizeMin</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l43" href="#l43">43</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSizeMin</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">fontSizeMin</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l44" href="#l44">44</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l45" href="#l45">45</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getFontSizeStd</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l46" href="#l46">46</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setFontSizeStd</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">fontSizeStd</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l47" href="#l47">47</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l48" href="#l48">48</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getUseAnimations</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l49" href="#l49">49</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setUseAnimations</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">useAnimations</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l50" href="#l50">50</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l51" href="#l51">51</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getShowBuiltinTypesInGraph</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l52" href="#l52">52</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setShowBuiltinTypesInGraph</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">showBuiltinTypes</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l53" href="#l53">53</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l54" href="#l54">54</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getShowDirectoryInCodeFileTitle</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l55" href="#l55">55</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setShowDirectoryInCodeFileTitle</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">showDirectory</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l56" href="#l56">56</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l57" href="#l57">57</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getWindowBaseWidth</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l58" href="#l58">58</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getWindowBaseHeight</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l59" href="#l59">59</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l60" href="#l60">60</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="nf">getScrollSpeed</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l61" href="#l61">61</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setScrollSpeed</span><span class="p">(</span><span class="kt">float</span><span class="w"> </span><span class="n">scrollSpeed</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l62" href="#l62">62</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l63" href="#l63">63</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getGraphControlsVisible</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l64" href="#l64">64</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setGraphControlsVisible</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">visible</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l65" href="#l65">65</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l66" href="#l66">66</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">GroupType</span><span class="w"> </span><span class="nf">getGraphGrouping</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l67" href="#l67">67</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setGraphGrouping</span><span class="p">(</span><span class="n">GroupType</span><span class="w"> </span><span class="n">type</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l68" href="#l68">68</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l69" href="#l69">69</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// screen</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l70" href="#l70">70</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getScreenAutoScaling</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l71" href="#l71">71</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setScreenAutoScaling</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">autoScaling</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l72" href="#l72">72</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l73" href="#l73">73</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="nf">getScreenScaleFactor</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l74" href="#l74">74</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setScreenScaleFactor</span><span class="p">(</span><span class="kt">float</span><span class="w"> </span><span class="n">scaleFactor</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l75" href="#l75">75</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l76" href="#l76">76</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// logging</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l77" href="#l77">77</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getLoggingEnabled</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l78" href="#l78">78</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLoggingEnabled</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">loggingEnabled</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l79" href="#l79">79</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l80" href="#l80">80</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getVerboseIndexerLoggingEnabled</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l81" href="#l81">81</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setVerboseIndexerLoggingEnabled</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">loggingEnabled</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l82" href="#l82">82</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l83" href="#l83">83</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">FilePath</span><span class="w"> </span><span class="nf">getLogDirectoryPath</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l84" href="#l84">84</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLogDirectoryPath</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">FilePath</span><span class="o">&amp;</span><span class="w"> </span><span class="n">path</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l85" href="#l85">85</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l86" href="#l86">86</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getLogFilter</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l87" href="#l87">87</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLogFilter</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">mask</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l88" href="#l88">88</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l89" href="#l89">89</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getStatusFilter</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l90" href="#l90">90</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setStatusFilter</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">mask</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l91" href="#l91">91</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l92" href="#l92">92</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// indexing</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l93" href="#l93">93</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getIndexerThreadCount</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l94" href="#l94">94</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setIndexerThreadCount</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">count</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l95" href="#l95">95</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l96" href="#l96">96</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getMultiProcessIndexingEnabled</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l97" href="#l97">97</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setMultiProcessIndexingEnabled</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">enabled</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l98" href="#l98">98</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l99" href="#l99">99</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getHeaderSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l100" href="#l100">100</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getHeaderSearchPathsExpanded</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l101" href="#l101">101</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">setHeaderSearchPaths</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;&amp;</span><span class="w"> </span><span class="n">headerSearchPaths</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l102" href="#l102">102</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l103" href="#l103">103</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getHasPrefilledHeaderSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l104" href="#l104">104</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setHasPrefilledHeaderSearchPaths</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">v</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l105" href="#l105">105</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l106" href="#l106">106</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getFrameworkSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l107" href="#l107">107</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getFrameworkSearchPathsExpanded</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l108" href="#l108">108</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">setFrameworkSearchPaths</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;&amp;</span><span class="w"> </span><span class="n">frameworkSearchPaths</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l109" href="#l109">109</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l110" href="#l110">110</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getHasPrefilledFrameworkSearchPaths</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l111" href="#l111">111</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setHasPrefilledFrameworkSearchPaths</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">v</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l112" href="#l112">112</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l113" href="#l113">113</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// code</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l114" href="#l114">114</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCodeTabWidth</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l115" href="#l115">115</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeTabWidth</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">codeTabWidth</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l116" href="#l116">116</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l117" href="#l117">117</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCodeSnippetSnapRange</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l118" href="#l118">118</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeSnippetSnapRange</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">range</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l119" href="#l119">119</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l120" href="#l120">120</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCodeSnippetExpandRange</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l121" href="#l121">121</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeSnippetExpandRange</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">range</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l122" href="#l122">122</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l123" href="#l123">123</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getCodeViewModeSingle</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l124" href="#l124">124</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setCodeViewModeSingle</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">enabled</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l125" href="#l125">125</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l126" href="#l126">126</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// user</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l127" href="#l127">127</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;</span><span class="w"> </span><span class="n">getRecentProjects</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l128" href="#l128">128</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">setRecentProjects</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">FilePath</span><span class="o">&gt;&amp;</span><span class="w"> </span><span class="n">recentProjects</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l129" href="#l129">129</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l130" href="#l130">130</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getSeenErrorHelpMessage</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l131" href="#l131">131</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setSeenErrorHelpMessage</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">seen</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l132" href="#l132">132</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l133" href="#l133">133</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">FilePath</span><span class="w"> </span><span class="nf">getLastFilepickerLocation</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l134" href="#l134">134</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setLastFilepickerLocation</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">FilePath</span><span class="o">&amp;</span><span class="w"> </span><span class="n">path</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l135" href="#l135">135</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l136" href="#l136">136</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="nf">getGraphZoomLevel</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l137" href="#l137">137</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setGraphZoomLevel</span><span class="p">(</span><span class="kt">float</span><span class="w"> </span><span class="n">zoomLevel</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l138" href="#l138">138</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l139" href="#l139">139</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// network</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l140" href="#l140">140</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getPluginPort</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l141" href="#l141">141</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setPluginPort</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">pluginPort</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l142" href="#l142">142</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l143" href="#l143">143</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getSourcetrailPort</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l144" href="#l144">144</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setSourcetrailPort</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">sourcetrailPort</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l145" href="#l145">145</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l146" href="#l146">146</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="c1">// controls</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l147" href="#l147">147</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getControlsMouseBackButton</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l148" href="#l148">148</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="nf">getControlsMouseForwardButton</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l149" href="#l149">149</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l150" href="#l150">150</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="nf">getControlsGraphZoomOnMouseWheel</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l151" href="#l151">151</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="nf">setControlsGraphZoomOnMouseWheel</span><span class="p">(</span><span class="kt">bool</span><span class="w"> </span><span class="n">zoomingDefault</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l152" href="#l152">152</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l153" href="#l153">153</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="n">private</span><span class="o">:</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l154" href="#l154">154</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="n">ApplicationSettings</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">&amp;</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l155" href="#l155">155</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="kt">void</span><span class="w"> </span><span class="n">operator</span><span class="o">=</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">&amp;</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l156" href="#l156">156</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l157" href="#l157">157</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="k">static</span><span class="w"> </span><span class="n">std</span><span class="o">::</span><span class="n">shared_ptr</span><span class="o">&lt;</span><span class="n">ApplicationSettings</span><span class="o">&gt;</span><span class="w"> </span><span class="n">s_instance</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l158" href="#l158">158</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="p">};</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l159" href="#l159">159</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+
+        </table>
+    </div>
+</div>
+                  <hr/>
+              </main>
+              <footer class="text-center">
+                  Generated by: <a href="http://gcovr.com/en/master">GCOVR (Version 6.0+master)</a>
+              </footer>
+          </div>
   </body>
 </html>

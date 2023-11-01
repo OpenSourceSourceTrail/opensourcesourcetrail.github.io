@@ -1,77 +1,68 @@
 <!DOCTYPE html>
-<html class="theme-green">
-
+<html class="theme-dark-blue" data-color-mode="dark" data-dark-theme="dark">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title>GCC Code Coverage Report</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" href="index.css"/>
   </head>
-
   <body>
-    <header>
-      <h1>GCC Code Coverage Report</h1>
+      <div class="Layout-main">
+          <div class="Layout-main-centered-lg" style="max-width: 1280px;">
+              <div class="d-flex flex-justify-center">
+                  <h1>GCC Code Coverage Report</h1>
+              </div>
 
-      <hr/>
+              <hr/>
 
-      <div class="summary">
+              <div class="summary">
 <div>
-  <table class="legend">
-    <tr>
-      <th scope="row">Directory:</th>
-      <td>./</td>
-    </tr>
-    <tr>
-      <th scope="row">File:</th>
-      <td>lib/component/controller/ErrorController.cpp</td>
-    </tr>
-    <tr>
-      <th scope="row">Date:</th>
-      <td>2023-11-01 11:54:51</td>
-    </tr>
-  </table>
+    <div class="containter-xl clearfix">
+        <div class="col-sm-12 col-lg-9 float-left d-flex flex-column p-3">
+            <div class="d-flex">
+                <div class="mr-2 color-fg-accent transy-2">
+                    <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-directory-fill hx_color-icon-directory">
+                        <path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path>
+                    </svg>
+                </div>
+                <span>./</span>
+            </div>
+            <div>File: lib/component/controller/ErrorController.cpp</div>
+            <div>Date: 2023-11-01 20:26:46</div>
+        </div>
+        <div class="col-sm-12 col-lg-3 float-left d-flex flex-column text-right flex-justify-end p-3">
+            <div class="d-flex">
+                <div class="mr-2">Lines:</div>
+                <div class="mr-2" style="margin: auto;">2/106</div>
+                <div class="Label--minw"><span class="coverage-low IssueLabel color-fg-on-emphasis mr-1">1.9%</span></div>
+            </div>
+            <div class="d-flex">
+                <div class="mr-2">Functions:</div>
+                <div class="mr-2" style="margin: auto;">2/18</div>
+                <div class="Label--minw"><span class="coverage-low IssueLabel color-fg-on-emphasis mr-1">11.1%</span></div>
+            </div>
+            <div class="d-flex">
+                <div class="mr-2">Branches:</div>
+                <div class="mr-2" style="margin: auto;">10/204</div>
+                <div class="Label--minw"><span class="coverage-low IssueLabel color-fg-on-emphasis mr-1">4.9%</span></div>
+            </div>
+        </div>
+    </div>
 </div>
-<div>
-  <table class="coverage">
-    <tr>
-      <th></th>
-      <th scope="col">Exec</th>
-      <th scope="col">Total</th>
-      <th scope="col">Coverage</th>
-    </tr>
-    <tr>
-      <th scope="row">Lines:</th>
-      <td>2</td>
-      <td>106</td>
-      <td class="coverage-low">1.9%</td>
-    </tr>
-    <tr>
-      <th scope="row">Functions:</th>
-      <td>2</td>
-      <td>18</td>
-      <td class="coverage-low">11.1%</td>
-    </tr>
-    <tr>
-      <th scope="row">Branches:</th>
-      <td>10</td>
-      <td>204</td>
-      <td class="coverage-low">4.9%</td>
-    </tr>
-  </table>
-</div>
-      </div>
+              </div>
 
-      <hr/>
-    </header>
+              <hr/>
 
-    <nav>
+              <nav>
+<div class="m-3">
 <details>
   <summary>List of functions</summary>
-  <table class="listOfFunctions">
-    <tr>
-      <th>Function</th>
+  <table class="functionslist text-mono text-small wb-break-word">
+    <tr class="text-left">
+      <th class="css-truncate css-truncate-target">Function</th>
       <th>Line</th>
       <th>Call count</th>
+      <th>Block coverage</th>
     </tr>
     <tr>
       <td>
@@ -81,7 +72,10 @@
         <a href="#l13">13</a>
       </td>
       <td>
-        <a href="#l13"> called 2 times</a>
+        <a href="#l13"> called 10 times, returned 10 times</a>
+      </td>
+      <td>
+        <a href="#l13">39.0%</a>
       </td>
     </tr>
     <tr>
@@ -94,6 +88,9 @@
       <td>
         <a href="#l146"> not called</a>
       </td>
+      <td>
+        <a href="#l146">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -104,6 +101,9 @@
       </td>
       <td>
         <a href="#l17"> not called</a>
+      </td>
+      <td>
+        <a href="#l17">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -116,6 +116,9 @@
       <td>
         <a href="#l142"> not called</a>
       </td>
+      <td>
+        <a href="#l142">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -126,6 +129,9 @@
       </td>
       <td>
         <a href="#l33"> not called</a>
+      </td>
+      <td>
+        <a href="#l33">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -138,6 +144,9 @@
       <td>
         <a href="#l37"> not called</a>
       </td>
+      <td>
+        <a href="#l37">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -148,6 +157,9 @@
       </td>
       <td>
         <a href="#l51"> not called</a>
+      </td>
+      <td>
+        <a href="#l51">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -160,6 +172,9 @@
       <td>
         <a href="#l61"> not called</a>
       </td>
+      <td>
+        <a href="#l61">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -170,6 +185,9 @@
       </td>
       <td>
         <a href="#l92"> not called</a>
+      </td>
+      <td>
+        <a href="#l92">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -182,6 +200,9 @@
       <td>
         <a href="#l96"> not called</a>
       </td>
+      <td>
+        <a href="#l96">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -192,6 +213,9 @@
       </td>
       <td>
         <a href="#l107"> not called</a>
+      </td>
+      <td>
+        <a href="#l107">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -204,6 +228,9 @@
       <td>
         <a href="#l123"> not called</a>
       </td>
+      <td>
+        <a href="#l123">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -214,6 +241,9 @@
       </td>
       <td>
         <a href="#l126"> not called</a>
+      </td>
+      <td>
+        <a href="#l126">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -226,6 +256,9 @@
       <td>
         <a href="#l134"> not called</a>
       </td>
+      <td>
+        <a href="#l134">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -236,6 +269,9 @@
       </td>
       <td>
         <a href="#l138"> not called</a>
+      </td>
+      <td>
+        <a href="#l138">0.0%</a>
       </td>
     </tr>
     <tr>
@@ -248,6 +284,9 @@
       <td>
         <a href="#l25"> not called</a>
       </td>
+      <td>
+        <a href="#l25">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -259,6 +298,9 @@
       <td>
         <a href="#l155"> not called</a>
       </td>
+      <td>
+        <a href="#l155">0.0%</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -268,1301 +310,1310 @@
         <a href="#l15">15</a>
       </td>
       <td>
-        <a href="#l15"> called 2 times</a>
+        <a href="#l15"> called 10 times, returned 10 times</a>
+      </td>
+      <td>
+        <a href="#l15">100.0%</a>
       </td>
     </tr>
   </table>
 </details>
-
-    </nav>
-
-    <main>
-<div class="file-source">
-  <table>
-    <tr>
-      <th align="right">Line</th>
-      <th align="right">Branch</th>
-      <th align="right">Exec</th>
-      <th align="left">Source</th>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l1" href="#l1">1</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;ErrorController.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l2" href="#l2">2</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="c1">// STL</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l3" href="#l3">3</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;vector&gt;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l4" href="#l4">4</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="c1">// internal</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l5" href="#l5">5</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Application.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l6" href="#l6">6</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;ApplicationSettings.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l7" href="#l7">7</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;DialogView.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l8" href="#l8">8</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Project.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l9" href="#l9">9</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;QtHelpButtonInfo.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l10" href="#l10">10</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;StorageAccess.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l11" href="#l11">11</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;TabId.h&quot;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l12" href="#l12">12</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l13" href="#l13">13</a></td>
-      <td class="linebranch">
-        <details class="linebranchDetails">
-        <summary class="linebranchSummary">10/20</summary>
-        <div class="linebranchContents">
-          <div class="takenBranch">&check; Branch 2 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 3 not taken.</div>
-          <div class="takenBranch">&check; Branch 5 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 6 not taken.</div>
-          <div class="takenBranch">&check; Branch 8 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 9 not taken.</div>
-          <div class="takenBranch">&check; Branch 11 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 12 not taken.</div>
-          <div class="takenBranch">&check; Branch 14 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 15 not taken.</div>
-          <div class="takenBranch">&check; Branch 17 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 18 not taken.</div>
-          <div class="takenBranch">&check; Branch 20 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 21 not taken.</div>
-          <div class="takenBranch">&check; Branch 23 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 24 not taken.</div>
-          <div class="takenBranch">&check; Branch 26 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 27 not taken.</div>
-          <div class="takenBranch">&check; Branch 31 taken 2 times.</div>
-          <div class="notTakenBranch">&cross; Branch 32 not taken.</div>
-        </div>
-        </details>
-      </td>
-      <td class="linecount coveredLine">2</td>
-      <td class="src coveredLine"><span class="n">ErrorController</span><span class="o">::</span><span class="n">ErrorController</span><span class="p">(</span><span class="n">StorageAccess</span><span class="o">*</span><span class="w"> </span><span class="n">pStorageAccess</span><span class="p">)</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="p">(</span><span class="n">pStorageAccess</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l14" href="#l14">14</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l15" href="#l15">15</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount coveredLine">4</td>
-      <td class="src coveredLine"><span class="n">ErrorController</span><span class="o">::~</span><span class="n">ErrorController</span><span class="p">()</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">default</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l16" href="#l16">16</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l17" href="#l17">17</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::errorFilterChanged</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ErrorFilter</span><span class="o">&amp;</span><span class="w"> </span><span class="n">filter</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l18" href="#l18">18</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()].</span><span class="n">empty</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l19" href="#l19">19</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">filter</span><span class="p">).</span><span class="n">dispatch</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l20" href="#l20">20</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">return</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l21" href="#l21">21</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l22" href="#l22">22</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()]).</span><span class="n">dispatch</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l23" href="#l23">23</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l24" href="#l24">24</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l25" href="#l25">25</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::showError</span><span class="p">(</span><span class="n">Id</span><span class="w"> </span><span class="n">errorId</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l26" href="#l26">26</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">m_tabShowsErrors</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()]</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">m_newErrorsAdded</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l27" href="#l27">27</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">errorFilterChanged</span><span class="p">(</span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">());</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l28" href="#l28">28</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l29" href="#l29">29</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l30" href="#l30">30</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageShowError</span><span class="p">(</span><span class="n">errorId</span><span class="p">).</span><span class="n">dispatch</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l31" href="#l31">31</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l32" href="#l32">32</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l33" href="#l33">33</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleActivation</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">MessageActivateBase</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l34" href="#l34">34</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabShowsErrors</span><span class="p">[</span><span class="k">dynamic_cast</span><span class="o">&lt;</span><span class="k">const</span><span class="w"> </span><span class="n">MessageBase</span><span class="o">*&gt;</span><span class="p">(</span><span class="n">pMessage</span><span class="p">)</span><span class="o">-&gt;</span><span class="n">getSchedulerId</span><span class="p">()]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">false</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l35" href="#l35">35</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l36" href="#l36">36</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l37" href="#l37">37</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageActivateErrors</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l38" href="#l38">38</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">clear</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l39" href="#l39">39</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l40" href="#l40">40</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabShowsErrors</span><span class="p">[</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">getSchedulerId</span><span class="p">()]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">true</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l41" href="#l41">41</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">getSchedulerId</span><span class="p">()]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">file</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l42" href="#l42">42</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l43" href="#l43">43</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorView</span><span class="o">*</span><span class="w"> </span><span class="n">view</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l44" href="#l44">44</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">setErrorFilter</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">filter</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l45" href="#l45">45</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l46" href="#l46">46</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">showErrors</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="nb">true</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l47" href="#l47">47</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">showDockWidget</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l48" href="#l48">48</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l49" href="#l49">49</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l50" href="#l50">50</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l51" href="#l51">51</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorCountClear</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l52" href="#l52">52</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">clear</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l53" href="#l53">53</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l54" href="#l54">54</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorView</span><span class="o">*</span><span class="w"> </span><span class="n">view</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l55" href="#l55">55</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l56" href="#l56">56</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorFilter</span><span class="w"> </span><span class="n">filter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l57" href="#l57">57</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ErrorFilter</span><span class="p">().</span><span class="n">limit</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l58" href="#l58">58</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">setErrorFilter</span><span class="p">(</span><span class="n">filter</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l59" href="#l59">59</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l60" href="#l60">60</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l61" href="#l61">61</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorCountUpdate</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l62" href="#l62">62</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">addErrorsToCache</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">newErrors</span><span class="p">,</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">errorCount</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l63" href="#l63">63</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_newErrorsAdded</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">true</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l64" href="#l64">64</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l65" href="#l65">65</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorFilter</span><span class="w"> </span><span class="n">filter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l66" href="#l66">66</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l67" href="#l67">67</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="n">room</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="n">m_errorCount</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l68" href="#l68">68</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">room</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l69" href="#l69">69</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l70" href="#l70">70</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">ErrorInfo</span><span class="o">&gt;</span><span class="w"> </span><span class="n">errors</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l71" href="#l71">71</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l72" href="#l72">72</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">for</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ErrorInfo</span><span class="o">&amp;</span><span class="w"> </span><span class="n">error</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">newErrors</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l73" href="#l73">73</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="k">if</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">filter</span><span class="p">(</span><span class="n">error</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l74" href="#l74">74</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">        </span><span class="n">errors</span><span class="p">.</span><span class="n">push_back</span><span class="p">(</span><span class="n">error</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l75" href="#l75">75</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l76" href="#l76">76</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">room</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">errors</span><span class="p">.</span><span class="n">size</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="kt">size_t</span><span class="p">(</span><span class="n">room</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l77" href="#l77">77</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">          </span><span class="k">break</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l78" href="#l78">78</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">        </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l79" href="#l79">79</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">      </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l80" href="#l80">80</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">    </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l81" href="#l81">81</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l82" href="#l82">82</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">addErrors</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">errorCount</span><span class="p">,</span><span class="w"> </span><span class="nb">true</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l83" href="#l83">83</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l84" href="#l84">84</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">Application</span><span class="o">::</span><span class="n">getInstance</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getDialogView</span><span class="p">(</span><span class="n">DialogView</span><span class="o">::</span><span class="n">UseCase</span><span class="o">::</span><span class="n">INDEXING</span><span class="p">)</span><span class="o">-&gt;</span><span class="n">dialogsHidden</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l85" href="#l85">85</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">showDockWidget</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l86" href="#l86">86</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">    </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l87" href="#l87">87</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l88" href="#l88">88</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">m_errorCount</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">errors</span><span class="p">.</span><span class="n">size</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l89" href="#l89">89</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l90" href="#l90">90</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l91" href="#l91">91</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l92" href="#l92">92</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorsAll</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l93" href="#l93">93</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">()).</span><span class="n">dispatch</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l94" href="#l94">94</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l95" href="#l95">95</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l96" href="#l96">96</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorsForFile</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l97" href="#l97">97</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">shared_ptr</span><span class="o">&lt;</span><span class="k">const</span><span class="w"> </span><span class="n">Project</span><span class="o">&gt;</span><span class="w"> </span><span class="n">project</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Application</span><span class="o">::</span><span class="n">getInstance</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getCurrentProject</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l98" href="#l98">98</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">project</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">project</span><span class="o">-&gt;</span><span class="n">isIndexing</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l99" href="#l99">99</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">Application</span><span class="o">::</span><span class="n">getInstance</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">handleDialog</span><span class="p">(</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l100" href="#l100">100</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">        </span><span class="sa">L</span><span class="s">&quot;Showing errors for a file is not possible while indexing.&quot;</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l101" href="#l101">101</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">return</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l102" href="#l102">102</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l103" href="#l103">103</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l104" href="#l104">104</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">ErrorFilter</span><span class="p">(),</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">file</span><span class="p">).</span><span class="n">dispatch</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l105" href="#l105">105</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l106" href="#l106">106</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l107" href="#l107">107</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorsHelpMessage</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l108" href="#l108">108</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ApplicationSettings</span><span class="o">*</span><span class="w"> </span><span class="n">appSettings</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">::</span><span class="n">getInstance</span><span class="p">().</span><span class="n">get</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l109" href="#l109">109</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">force</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l110" href="#l110">110</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">appSettings</span><span class="o">-&gt;</span><span class="n">getSeenErrorHelpMessage</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l111" href="#l111">111</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l112" href="#l112">112</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">    </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l113" href="#l113">113</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l114" href="#l114">114</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">ErrorCountInfo</span><span class="w"> </span><span class="n">info</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">getErrorCount</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l115" href="#l115">115</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">info</span><span class="p">.</span><span class="n">total</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l116" href="#l116">116</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l117" href="#l117">117</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">    </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l118" href="#l118">118</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l119" href="#l119">119</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l120" href="#l120">120</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">appSettings</span><span class="o">-&gt;</span><span class="n">setSeenErrorHelpMessage</span><span class="p">(</span><span class="nb">true</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l121" href="#l121">121</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">appSettings</span><span class="o">-&gt;</span><span class="n">save</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l122" href="#l122">122</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l123" href="#l123">123</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_onQtThread</span><span class="p">([</span><span class="o">=</span><span class="p">]()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="n">createErrorHelpButtonInfo</span><span class="p">().</span><span class="n">displayMessage</span><span class="p">(</span><span class="k">nullptr</span><span class="p">);</span><span class="w"> </span><span class="p">});</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l124" href="#l124">124</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l125" href="#l125">125</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l126" href="#l126">126</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageIndexingFinished</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l127" href="#l127">127</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">setUseErrorCache</span><span class="p">(</span><span class="nb">false</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l128" href="#l128">128</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l129" href="#l129">129</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">clear</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l130" href="#l130">130</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l131" href="#l131">131</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">showErrors</span><span class="p">(</span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">(),</span><span class="w"> </span><span class="nb">false</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l132" href="#l132">132</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l133" href="#l133">133</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l134" href="#l134">134</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageIndexingStarted</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l135" href="#l135">135</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">setUseErrorCache</span><span class="p">(</span><span class="nb">true</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l136" href="#l136">136</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l137" href="#l137">137</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l138" href="#l138">138</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageShowError</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l139" href="#l139">139</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">setErrorId</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">errorId</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l140" href="#l140">140</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l141" href="#l141">141</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l142" href="#l142">142</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="n">ErrorView</span><span class="o">*</span><span class="w"> </span><span class="nf">ErrorController::getView</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l143" href="#l143">143</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">Controller</span><span class="o">::</span><span class="n">getView</span><span class="o">&lt;</span><span class="n">ErrorView</span><span class="o">&gt;</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l144" href="#l144">144</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l145" href="#l145">145</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l146" href="#l146">146</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::clear</span><span class="p">()</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l147" href="#l147">147</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_errorCount</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l148" href="#l148">148</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabShowsErrors</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l149" href="#l149">149</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabActiveFilePath</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l150" href="#l150">150</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_newErrorsAdded</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">false</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l151" href="#l151">151</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l152" href="#l152">152</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">clear</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l153" href="#l153">153</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l154" href="#l154">154</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l155" href="#l155">155</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="kt">bool</span><span class="w"> </span><span class="nf">ErrorController::showErrors</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ErrorFilter</span><span class="o">&amp;</span><span class="w"> </span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="kt">bool</span><span class="w"> </span><span class="n">scrollTo</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l156" href="#l156">156</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">auto</span><span class="o">*</span><span class="w"> </span><span class="n">pView</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l157" href="#l157">157</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l158" href="#l158">158</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorFilter</span><span class="w"> </span><span class="n">filterUnlimited</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">filter</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l159" href="#l159">159</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">filterUnlimited</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l160" href="#l160">160</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l161" href="#l161">161</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">ErrorInfo</span><span class="o">&gt;</span><span class="w"> </span><span class="n">errors</span><span class="p">;</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l162" href="#l162">162</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()].</span><span class="n">empty</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l163" href="#l163">163</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">errors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">getErrorsLimited</span><span class="p">(</span><span class="n">filterUnlimited</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l164" href="#l164">164</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l165" href="#l165">165</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">errors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">getErrorsForFileLimited</span><span class="p">(</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l166" href="#l166">166</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">        </span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()]);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l167" href="#l167">167</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l168" href="#l168">168</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l169" href="#l169">169</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorCountInfo</span><span class="w"> </span><span class="n">errorCount</span><span class="p">(</span><span class="n">errors</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l170" href="#l170">170</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">errors</span><span class="p">.</span><span class="n">size</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l171" href="#l171">171</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">    </span><span class="n">errors</span><span class="p">.</span><span class="n">resize</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l172" href="#l172">172</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "><span class="w">  </span><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l173" href="#l173">173</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l174" href="#l174">174</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="n">pView</span><span class="o">-&gt;</span><span class="n">addErrors</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span><span class="w"> </span><span class="n">errorCount</span><span class="p">,</span><span class="w"> </span><span class="n">scrollTo</span><span class="p">);</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l175" href="#l175">175</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l176" href="#l176">176</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="o">!</span><span class="n">errors</span><span class="p">.</span><span class="n">empty</span><span class="p">();</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l177" href="#l177">177</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount uncoveredLine">&cross;</td>
-      <td class="src uncoveredLine"><span class="p">}</span></td>
-    </tr>
-    <tr class="source-line">
-      <td class="lineno"><a id="l178" href="#l178">178</a></td>
-      <td class="linebranch">
-      </td>
-      <td class="linecount "></td>
-      <td class="src "></td>
-    </tr>
-  </table>
 </div>
-      <hr/>
-    </main>
 
-    <footer>
-      Generated by: <a href="http://gcovr.com/en/6.0">GCOVR (Version 6.0)</a>
-    </footer>
+              </nav>
+
+              <main>
+<div class="Box m-3">
+    <div class="Box-header d-flex flex-space-between">
+    </div>
+    <div style="overflow-x: auto;">
+        <table class="text-mono text-small" style="width:100%;">
+            <tr>
+                <th class="p-2">Line</th>
+                <th class="p-2">Branch</th>
+                <th class="p-2">Exec</th>
+                <th class="p-2 text-left" style="width: 100%;">Source</th>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l1" href="#l1">1</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;ErrorController.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l2" href="#l2">2</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="c1">// STL</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l3" href="#l3">3</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;vector&gt;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l4" href="#l4">4</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="c1">// internal</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l5" href="#l5">5</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Application.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l6" href="#l6">6</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;ApplicationSettings.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l7" href="#l7">7</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;DialogView.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l8" href="#l8">8</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Project.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l9" href="#l9">9</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;QtHelpButtonInfo.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l10" href="#l10">10</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;StorageAccess.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l11" href="#l11">11</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;TabId.h&quot;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l12" href="#l12">12</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l13" href="#l13">13</a></td>
+                <td class="text-right src linenos ws-unset">
+                    <details class="normal details-overlay">
+                        <summary>10/20</summary>
+                        <div class="text-left position-absolute color-bg-subtle p-3 mt-2" style="z-index: 1;">
+                            <div class="color-taken-branch">&check; Branch 2 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 3 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 5 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 6 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 8 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 9 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 11 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 12 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 14 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 15 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 17 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 18 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 20 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 21 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 23 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 24 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 26 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 27 not taken.</div>
+                            <div class="color-taken-branch">&check; Branch 31 taken 10 times.</div>
+                            <div class="color-fg-danger">&cross; Branch 32 not taken.</div>
+                        </div>
+                    </details>
+                </td>
+                <td class="src partialCoveredLine pr-2 pl-2 color-fg-muted text-right">10</td>
+                <td class="src partialCoveredLine"><span class="n">ErrorController</span><span class="o">::</span><span class="n">ErrorController</span><span class="p">(</span><span class="n">StorageAccess</span><span class="o">*</span><span class="w"> </span><span class="n">pStorageAccess</span><span class="p">)</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="p">(</span><span class="n">pStorageAccess</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l14" href="#l14">14</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l15" href="#l15">15</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src coveredLine pr-2 pl-2 color-fg-muted text-right">20</td>
+                <td class="src coveredLine"><span class="n">ErrorController</span><span class="o">::~</span><span class="n">ErrorController</span><span class="p">()</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">default</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l16" href="#l16">16</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l17" href="#l17">17</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::errorFilterChanged</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ErrorFilter</span><span class="o">&amp;</span><span class="w"> </span><span class="n">filter</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l18" href="#l18">18</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()].</span><span class="n">empty</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l19" href="#l19">19</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">filter</span><span class="p">).</span><span class="n">dispatch</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l20" href="#l20">20</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="k">return</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l21" href="#l21">21</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l22" href="#l22">22</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()]).</span><span class="n">dispatch</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l23" href="#l23">23</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l24" href="#l24">24</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l25" href="#l25">25</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::showError</span><span class="p">(</span><span class="n">Id</span><span class="w"> </span><span class="n">errorId</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l26" href="#l26">26</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">m_tabShowsErrors</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()]</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">m_newErrorsAdded</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l27" href="#l27">27</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">errorFilterChanged</span><span class="p">(</span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">());</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l28" href="#l28">28</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l29" href="#l29">29</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l30" href="#l30">30</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageShowError</span><span class="p">(</span><span class="n">errorId</span><span class="p">).</span><span class="n">dispatch</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l31" href="#l31">31</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l32" href="#l32">32</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l33" href="#l33">33</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleActivation</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">MessageActivateBase</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l34" href="#l34">34</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabShowsErrors</span><span class="p">[</span><span class="k">dynamic_cast</span><span class="o">&lt;</span><span class="k">const</span><span class="w"> </span><span class="n">MessageBase</span><span class="o">*&gt;</span><span class="p">(</span><span class="n">pMessage</span><span class="p">)</span><span class="o">-&gt;</span><span class="n">getSchedulerId</span><span class="p">()]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">false</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l35" href="#l35">35</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l36" href="#l36">36</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l37" href="#l37">37</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageActivateErrors</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l38" href="#l38">38</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">clear</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l39" href="#l39">39</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l40" href="#l40">40</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabShowsErrors</span><span class="p">[</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">getSchedulerId</span><span class="p">()]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">true</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l41" href="#l41">41</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">getSchedulerId</span><span class="p">()]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">file</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l42" href="#l42">42</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l43" href="#l43">43</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorView</span><span class="o">*</span><span class="w"> </span><span class="n">view</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l44" href="#l44">44</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">setErrorFilter</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">filter</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l45" href="#l45">45</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l46" href="#l46">46</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">showErrors</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="nb">true</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l47" href="#l47">47</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">showDockWidget</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l48" href="#l48">48</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l49" href="#l49">49</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l50" href="#l50">50</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l51" href="#l51">51</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorCountClear</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l52" href="#l52">52</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">clear</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l53" href="#l53">53</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l54" href="#l54">54</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorView</span><span class="o">*</span><span class="w"> </span><span class="n">view</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l55" href="#l55">55</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l56" href="#l56">56</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorFilter</span><span class="w"> </span><span class="n">filter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l57" href="#l57">57</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ErrorFilter</span><span class="p">().</span><span class="n">limit</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l58" href="#l58">58</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">view</span><span class="o">-&gt;</span><span class="n">setErrorFilter</span><span class="p">(</span><span class="n">filter</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l59" href="#l59">59</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l60" href="#l60">60</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l61" href="#l61">61</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorCountUpdate</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l62" href="#l62">62</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">addErrorsToCache</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">newErrors</span><span class="p">,</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">errorCount</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l63" href="#l63">63</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_newErrorsAdded</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">true</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l64" href="#l64">64</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l65" href="#l65">65</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorFilter</span><span class="w"> </span><span class="n">filter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l66" href="#l66">66</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l67" href="#l67">67</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="n">room</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="n">m_errorCount</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l68" href="#l68">68</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">room</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l69" href="#l69">69</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l70" href="#l70">70</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">ErrorInfo</span><span class="o">&gt;</span><span class="w"> </span><span class="n">errors</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l71" href="#l71">71</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l72" href="#l72">72</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="k">for</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ErrorInfo</span><span class="o">&amp;</span><span class="w"> </span><span class="n">error</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">newErrors</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l73" href="#l73">73</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">      </span><span class="k">if</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">filter</span><span class="p">(</span><span class="n">error</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l74" href="#l74">74</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">        </span><span class="n">errors</span><span class="p">.</span><span class="n">push_back</span><span class="p">(</span><span class="n">error</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l75" href="#l75">75</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l76" href="#l76">76</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">room</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">errors</span><span class="p">.</span><span class="n">size</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="kt">size_t</span><span class="p">(</span><span class="n">room</span><span class="p">))</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l77" href="#l77">77</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">          </span><span class="k">break</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l78" href="#l78">78</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">        </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l79" href="#l79">79</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">      </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l80" href="#l80">80</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">    </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l81" href="#l81">81</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l82" href="#l82">82</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">addErrors</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">errorCount</span><span class="p">,</span><span class="w"> </span><span class="nb">true</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l83" href="#l83">83</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l84" href="#l84">84</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">Application</span><span class="o">::</span><span class="n">getInstance</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getDialogView</span><span class="p">(</span><span class="n">DialogView</span><span class="o">::</span><span class="n">UseCase</span><span class="o">::</span><span class="n">INDEXING</span><span class="p">)</span><span class="o">-&gt;</span><span class="n">dialogsHidden</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l85" href="#l85">85</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">      </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">showDockWidget</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l86" href="#l86">86</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">    </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l87" href="#l87">87</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l88" href="#l88">88</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">m_errorCount</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">errors</span><span class="p">.</span><span class="n">size</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l89" href="#l89">89</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l90" href="#l90">90</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l91" href="#l91">91</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l92" href="#l92">92</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorsAll</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l93" href="#l93">93</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">()).</span><span class="n">dispatch</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l94" href="#l94">94</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l95" href="#l95">95</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l96" href="#l96">96</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorsForFile</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l97" href="#l97">97</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">shared_ptr</span><span class="o">&lt;</span><span class="k">const</span><span class="w"> </span><span class="n">Project</span><span class="o">&gt;</span><span class="w"> </span><span class="n">project</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Application</span><span class="o">::</span><span class="n">getInstance</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getCurrentProject</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l98" href="#l98">98</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">project</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">project</span><span class="o">-&gt;</span><span class="n">isIndexing</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l99" href="#l99">99</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">Application</span><span class="o">::</span><span class="n">getInstance</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">handleDialog</span><span class="p">(</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l100" href="#l100">100</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">        </span><span class="sa">L</span><span class="s">&quot;Showing errors for a file is not possible while indexing.&quot;</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l101" href="#l101">101</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="k">return</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l102" href="#l102">102</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l103" href="#l103">103</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l104" href="#l104">104</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">MessageActivateErrors</span><span class="p">(</span><span class="n">ErrorFilter</span><span class="p">(),</span><span class="w"> </span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">file</span><span class="p">).</span><span class="n">dispatch</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l105" href="#l105">105</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l106" href="#l106">106</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l107" href="#l107">107</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageErrorsHelpMessage</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l108" href="#l108">108</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ApplicationSettings</span><span class="o">*</span><span class="w"> </span><span class="n">appSettings</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ApplicationSettings</span><span class="o">::</span><span class="n">getInstance</span><span class="p">().</span><span class="n">get</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l109" href="#l109">109</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">force</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l110" href="#l110">110</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">appSettings</span><span class="o">-&gt;</span><span class="n">getSeenErrorHelpMessage</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l111" href="#l111">111</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l112" href="#l112">112</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">    </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l113" href="#l113">113</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l114" href="#l114">114</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">ErrorCountInfo</span><span class="w"> </span><span class="n">info</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">getErrorCount</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l115" href="#l115">115</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">info</span><span class="p">.</span><span class="n">total</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l116" href="#l116">116</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">      </span><span class="k">return</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l117" href="#l117">117</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">    </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l118" href="#l118">118</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l119" href="#l119">119</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l120" href="#l120">120</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">appSettings</span><span class="o">-&gt;</span><span class="n">setSeenErrorHelpMessage</span><span class="p">(</span><span class="nb">true</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l121" href="#l121">121</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">appSettings</span><span class="o">-&gt;</span><span class="n">save</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l122" href="#l122">122</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l123" href="#l123">123</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_onQtThread</span><span class="p">([</span><span class="o">=</span><span class="p">]()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="n">createErrorHelpButtonInfo</span><span class="p">().</span><span class="n">displayMessage</span><span class="p">(</span><span class="k">nullptr</span><span class="p">);</span><span class="w"> </span><span class="p">});</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l124" href="#l124">124</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l125" href="#l125">125</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l126" href="#l126">126</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageIndexingFinished</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l127" href="#l127">127</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">setUseErrorCache</span><span class="p">(</span><span class="nb">false</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l128" href="#l128">128</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l129" href="#l129">129</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">clear</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l130" href="#l130">130</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l131" href="#l131">131</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">showErrors</span><span class="p">(</span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">getErrorFilter</span><span class="p">(),</span><span class="w"> </span><span class="nb">false</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l132" href="#l132">132</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l133" href="#l133">133</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l134" href="#l134">134</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageIndexingStarted</span><span class="o">*</span><span class="w"> </span><span class="cm">/*pMessage*/</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l135" href="#l135">135</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">setUseErrorCache</span><span class="p">(</span><span class="nb">true</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l136" href="#l136">136</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l137" href="#l137">137</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l138" href="#l138">138</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::handleMessage</span><span class="p">(</span><span class="n">MessageShowError</span><span class="o">*</span><span class="w"> </span><span class="n">pMessage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l139" href="#l139">139</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">setErrorId</span><span class="p">(</span><span class="n">pMessage</span><span class="o">-&gt;</span><span class="n">errorId</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l140" href="#l140">140</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l141" href="#l141">141</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l142" href="#l142">142</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="n">ErrorView</span><span class="o">*</span><span class="w"> </span><span class="nf">ErrorController::getView</span><span class="p">()</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l143" href="#l143">143</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">Controller</span><span class="o">::</span><span class="n">getView</span><span class="o">&lt;</span><span class="n">ErrorView</span><span class="o">&gt;</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l144" href="#l144">144</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l145" href="#l145">145</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l146" href="#l146">146</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">void</span><span class="w"> </span><span class="nf">ErrorController::clear</span><span class="p">()</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l147" href="#l147">147</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_errorCount</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l148" href="#l148">148</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabShowsErrors</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l149" href="#l149">149</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_tabActiveFilePath</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l150" href="#l150">150</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">m_newErrorsAdded</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">false</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l151" href="#l151">151</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l152" href="#l152">152</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">getView</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">clear</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l153" href="#l153">153</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l154" href="#l154">154</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l155" href="#l155">155</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="kt">bool</span><span class="w"> </span><span class="nf">ErrorController::showErrors</span><span class="p">(</span><span class="k">const</span><span class="w"> </span><span class="n">ErrorFilter</span><span class="o">&amp;</span><span class="w"> </span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="kt">bool</span><span class="w"> </span><span class="n">scrollTo</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l156" href="#l156">156</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">auto</span><span class="o">*</span><span class="w"> </span><span class="n">pView</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getView</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l157" href="#l157">157</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l158" href="#l158">158</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorFilter</span><span class="w"> </span><span class="n">filterUnlimited</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">filter</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l159" href="#l159">159</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">filterUnlimited</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l160" href="#l160">160</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l161" href="#l161">161</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="n">ErrorInfo</span><span class="o">&gt;</span><span class="w"> </span><span class="n">errors</span><span class="p">;</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l162" href="#l162">162</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()].</span><span class="n">empty</span><span class="p">())</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l163" href="#l163">163</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">errors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">getErrorsLimited</span><span class="p">(</span><span class="n">filterUnlimited</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l164" href="#l164">164</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l165" href="#l165">165</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">errors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_storageAccess</span><span class="o">-&gt;</span><span class="n">getErrorsForFileLimited</span><span class="p">(</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l166" href="#l166">166</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">        </span><span class="n">filter</span><span class="p">,</span><span class="w"> </span><span class="n">m_tabActiveFilePath</span><span class="p">[</span><span class="n">TabId</span><span class="o">::</span><span class="n">currentTab</span><span class="p">()]);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l167" href="#l167">167</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l168" href="#l168">168</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l169" href="#l169">169</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">ErrorCountInfo</span><span class="w"> </span><span class="n">errorCount</span><span class="p">(</span><span class="n">errors</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l170" href="#l170">170</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">if</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">errors</span><span class="p">.</span><span class="n">size</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="p">)</span><span class="w"> </span><span class="p">{</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l171" href="#l171">171</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">    </span><span class="n">errors</span><span class="p">.</span><span class="n">resize</span><span class="p">(</span><span class="n">filter</span><span class="p">.</span><span class="n">limit</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l172" href="#l172">172</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "><span class="w">  </span><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l173" href="#l173">173</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l174" href="#l174">174</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="n">pView</span><span class="o">-&gt;</span><span class="n">addErrors</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span><span class="w"> </span><span class="n">errorCount</span><span class="p">,</span><span class="w"> </span><span class="n">scrollTo</span><span class="p">);</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l175" href="#l175">175</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l176" href="#l176">176</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="o">!</span><span class="n">errors</span><span class="p">.</span><span class="n">empty</span><span class="p">();</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l177" href="#l177">177</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src uncoveredLine pr-2 pl-2 color-fg-muted text-right">&cross;</td>
+                <td class="src uncoveredLine"><span class="p">}</span></td>
+            </tr>
+            <tr>
+                <td class="text-right src linenos"><a class="normal" id="l178" href="#l178">178</a></td>
+                <td class="text-right src linenos ws-unset">
+                </td>
+                <td class="src  pr-2 pl-2 color-fg-muted text-right"></td>
+                <td class="src "></td>
+            </tr>
+
+        </table>
+    </div>
+</div>
+                  <hr/>
+              </main>
+              <footer class="text-center">
+                  Generated by: <a href="http://gcovr.com/en/master">GCOVR (Version 6.0+master)</a>
+              </footer>
+          </div>
   </body>
 </html>
